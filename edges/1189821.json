@@ -1,0 +1,1 @@
+{"name": "Agricultural_machinery", "id": 1189821, "predecessors": [{"name": "Intensive_farming", "id": 14593990}, {"name": "Machines", "id": 7810459}, {"name": "Agriculture", "id": 694871}], "successors": [{"name": "Tractors", "id": 883796}]}

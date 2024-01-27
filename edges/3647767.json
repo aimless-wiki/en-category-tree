@@ -1,0 +1,1 @@
+{"name": "Structural_system", "id": 3647767, "predecessors": [{"name": "Building_engineering", "id": 3642629}, {"name": "Structural_engineering", "id": 1600827}, {"name": "Systems_engineering", "id": 4873906}], "successors": [{"name": "Roofs", "id": 1741906}, {"name": "Columns_and_entablature", "id": 8145145}, {"name": "Timber_framing", "id": 28967047}]}

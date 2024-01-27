@@ -1,0 +1,1 @@
+{"name": "Deaths_from_edema", "id": 19782204, "predecessors": [{"name": "Pathology", "id": 1311481}, {"name": "Cardiovascular_diseases", "id": 1339883}], "successors": [{"name": "Deaths_from_pulmonary_edema", "id": 68592401}]}

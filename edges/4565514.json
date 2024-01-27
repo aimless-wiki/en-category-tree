@@ -1,0 +1,1 @@
+{"name": "Air_pollution", "id": 4565514, "predecessors": [{"name": "Pollution", "id": 871522}, {"name": "Atmosphere", "id": 1136015}], "successors": [{"name": "Greenhouse_gases", "id": 788513}, {"name": "Atmospheric_dispersion_modeling", "id": 34761030}, {"name": "Smoking", "id": 12335454}, {"name": "Air_pollution_in_the_United_Kingdom", "id": 28529722}]}

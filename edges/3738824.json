@@ -1,0 +1,1 @@
+{"name": "Medical_signs", "id": 3738824, "predecessors": [{"name": "Symptoms_and_signs", "id": 40767698}], "successors": [{"name": "Medical_sign_stubs", "id": 3740605}, {"name": "Radiologic_signs", "id": 8542401}, {"name": "Biomarkers", "id": 34431537}]}

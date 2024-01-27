@@ -1,0 +1,1 @@
+{"name": "Energy_conservation", "id": 3344022, "predecessors": [{"name": "Energy_policy", "id": 6078900}, {"name": "Sustainable_energy", "id": 14290410}, {"name": "Consumer_behaviour", "id": 1232620}], "successors": [{"name": "Low-energy_building", "id": 5224936}, {"name": "Sustainable_transport", "id": 14664782}]}

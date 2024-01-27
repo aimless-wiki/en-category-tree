@@ -1,0 +1,1 @@
+{"name": "Remote_desktop", "id": 1857980, "predecessors": [{"name": "Application_layer_protocols", "id": 7941457}, {"name": "Computer_systems", "id": 1940227}], "successors": [{"name": "X_Window_System", "id": 766932}]}

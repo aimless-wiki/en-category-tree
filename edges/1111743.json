@@ -1,0 +1,1 @@
+{"name": "Marine_propulsion", "id": 1111743, "predecessors": [{"name": "Shipbuilding", "id": 38000490}, {"name": "Watercraft_components", "id": 37739639}, {"name": "Engineering_disciplines", "id": 9930194}, {"name": "Freight_transport", "id": 710066}, {"name": "Energy", "id": 865456}], "successors": []}

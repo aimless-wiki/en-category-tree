@@ -1,0 +1,1 @@
+{"name": "Dairy_products", "id": 776875, "predecessors": [{"name": "Culture", "id": 694861}, {"name": "Cattle", "id": 972888}], "successors": [{"name": "Ice_cream", "id": 887267}, {"name": "Milk", "id": 1000294}, {"name": "Butter", "id": 5278799}, {"name": "Brand_name_dairy_products", "id": 19639975}, {"name": "Fermented_dairy_products", "id": 48518508}]}

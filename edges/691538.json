@@ -1,0 +1,1 @@
+{"name": "Waste", "id": 691538, "predecessors": [{"name": "Materials", "id": 722279}, {"name": "Pollution", "id": 871522}], "successors": [{"name": "Waste_management", "id": 1233052}, {"name": "Biodegradable_waste_management", "id": 6154526}, {"name": "Waste_stubs", "id": 6367138}, {"name": "Unemployment", "id": 17766587}, {"name": "Employment_discrimination", "id": 36658726}]}

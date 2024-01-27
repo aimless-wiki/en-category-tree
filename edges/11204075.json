@@ -1,0 +1,1 @@
+{"name": "Video_compression", "id": 11204075, "predecessors": [{"name": "Applications_of_artificial_intelligence", "id": 1532663}, {"name": "Data_compression", "id": 973795}, {"name": "Video", "id": 7513737}, {"name": "Digital_signal_processing", "id": 707453}], "successors": [{"name": "Video_codecs", "id": 734257}]}

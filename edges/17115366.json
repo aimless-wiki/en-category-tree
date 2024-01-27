@@ -1,0 +1,1 @@
+{"name": "Berries", "id": 17115366, "predecessors": [{"name": "Edible_fruits", "id": 39951547}, {"name": "Plant_morphology", "id": 2774262}], "successors": [{"name": "Banana_diseases", "id": 9500643}, {"name": "Banana_dishes", "id": 42548241}, {"name": "Viticulture", "id": 1669628}]}

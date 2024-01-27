@@ -1,0 +1,1 @@
+{"name": "Transport_Layer_Security", "id": 46271292, "predecessors": [{"name": "Application_layer_protocols", "id": 7941457}, {"name": "Cryptographic_protocols", "id": 769027}, {"name": "Internet_protocols", "id": 1034331}, {"name": "Computer_security", "id": 765969}], "successors": []}

@@ -1,0 +1,1 @@
+{"name": "Analgesics", "id": 718589, "predecessors": [{"name": "Pain_management", "id": 46628123}, {"name": "Neuroscience", "id": 714648}], "successors": [{"name": "Nonsteroidal_anti-inflammatory_drugs", "id": 718601}, {"name": "Opioids", "id": 719361}, {"name": "Antimigraine_drugs", "id": 12336880}, {"name": "Analgesic_stubs", "id": 13895380}]}

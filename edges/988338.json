@@ -1,0 +1,1 @@
+{"name": "Population", "id": 988338, "predecessors": [{"name": "Demography", "id": 3265614}], "successors": [{"name": "Population_genetics", "id": 703506}, {"name": "Population_ecology", "id": 11128507}, {"name": "Ageing", "id": 39157130}, {"name": "Demographics", "id": 1012175}, {"name": "Natalism", "id": 22497740}]}

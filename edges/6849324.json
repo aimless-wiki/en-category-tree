@@ -1,0 +1,1 @@
+{"name": "Hydrogen_production", "id": 6849324, "predecessors": [{"name": "Energy_development", "id": 1059057}, {"name": "Hydrogen_technologies", "id": 6850141}, {"name": "Energy", "id": 865456}, {"name": "Standards", "id": 724561}], "successors": [{"name": "Anaerobic_digestion", "id": 6141390}]}

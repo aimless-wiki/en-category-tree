@@ -1,0 +1,1 @@
+{"name": "Construction_equipment", "id": 24719865, "predecessors": [{"name": "Construction", "id": 755979}, {"name": "Industrial_equipment", "id": 13616594}, {"name": "Academic_disciplines", "id": 693763}], "successors": [{"name": "Engineering_vehicles", "id": 727285}, {"name": "Tractors", "id": 883796}]}

@@ -1,0 +1,1 @@
+{"name": "Medical_books", "id": 13000376, "predecessors": [{"name": "Science_books", "id": 47064376}, {"name": "Academic_publishing", "id": 2239162}, {"name": "Health_promotion", "id": 4344045}, {"name": "Health_care", "id": 35880954}, {"name": "Copyright_law", "id": 702268}], "successors": [{"name": "Medical_book_stubs", "id": 43295087}]}

@@ -1,0 +1,1 @@
+{"name": "Routing", "id": 1882006, "predecessors": [{"name": "Network_management", "id": 1644925}, {"name": "Internet_protocols", "id": 1034331}], "successors": [{"name": "Routing_protocols", "id": 1775055}, {"name": "Routing_algorithms", "id": 1882018}]}

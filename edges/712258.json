@@ -1,0 +1,1 @@
+{"name": "Ship_types", "id": 712258, "predecessors": [{"name": "Freight_transport", "id": 710066}], "successors": [{"name": "Boat_types", "id": 886322}, {"name": "Ship_type_stubs", "id": 6847584}, {"name": "Victory_ships", "id": 21381220}]}

@@ -1,0 +1,1 @@
+{"name": "Ferries", "id": 886552, "predecessors": [{"name": "Boats", "id": 765931}, {"name": "Water_transport", "id": 907307}], "successors": [{"name": "Cruiseferries", "id": 3822701}, {"name": "Ferry_classes", "id": 5353519}, {"name": "Ferry_stubs", "id": 8054939}, {"name": "Ferries_of_France", "id": 4510795}]}

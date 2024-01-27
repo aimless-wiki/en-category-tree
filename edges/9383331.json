@@ -1,0 +1,1 @@
+{"name": "Toxins", "id": 9383331, "predecessors": [{"name": "Drugs", "id": 1325883}, {"name": "Poisons", "id": 7628523}, {"name": "Toxicology", "id": 1043816}, {"name": "Manufacturing", "id": 867519}], "successors": [{"name": "Mycotoxins", "id": 4645470}, {"name": "Plant_toxins", "id": 9507849}, {"name": "Bacterial_toxins", "id": 32756222}]}

@@ -1,0 +1,1 @@
+{"name": "Credit", "id": 2171374, "predecessors": [{"name": "Finance", "id": 718764}], "successors": [{"name": "Credit_cards", "id": 919200}, {"name": "Interest_rates", "id": 2021176}, {"name": "Microfinance", "id": 3467160}, {"name": "Loans", "id": 26925763}, {"name": "Credit_risk", "id": 52546814}, {"name": "Credit_rating_agencies", "id": 2890046}]}
