@@ -34,12 +34,17 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r ./category-tree-utils/requirements.txt
 
-      - name: Run data collection, saving
+      - name: Run data collection, saving (force if workflow_dispatch)
+        if: ${{ github.event_name == 'workflow_dispatch' }}
+        run: |
+          python ./category-tree-utils/main.py $WIKI_LANGUAGE --dir . --force
+
+      - name: Run data collection, saving (do not force)
         run: |
           python ./category-tree-utils/main.py $WIKI_LANGUAGE --dir .
-
+          
       - name: Push changes
         run: |
-          git add category_index.txt meta.json edges
+          git add category_index.txt meta.json edges category_index.txt.gz
           git commit -m "Automated data deployment"
           git push
