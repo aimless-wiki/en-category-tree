@@ -1,1 +1,1 @@
-{"name": "Hybrid_vehicles", "id": 934650, "predecessors": [{"name": "Partial_zero-emissions_vehicles", "id": 15785120}, {"name": "Green_vehicles", "id": 1380896}, {"name": "Climate_change_policy", "id": 18646171}], "successors": [{"name": "Hybrid_electric_vehicles", "id": 9483010}]}
+{"name": "Hybrid_vehicles", "id": 934650, "predecessors": [{"name": "Partial_zero-emissions_vehicles", "id": 15785120}, {"name": "Green_vehicles", "id": 1380896}], "successors": [{"name": "Hybrid_electric_vehicles", "id": 9483010}]}

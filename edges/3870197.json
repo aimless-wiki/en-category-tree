@@ -1,1 +1,1 @@
-{"name": "Medieval_currencies", "id": 3870197, "predecessors": [{"name": "Medieval_economics", "id": 24244269}, {"name": "Numismatics", "id": 692363}, {"name": "Currency", "id": 1626296}], "successors": [{"name": "Coins_of_the_Holy_Roman_Empire", "id": 32839600}]}
+{"name": "Medieval_currencies", "id": 3870197, "predecessors": [{"name": "Medieval_economic_history", "id": 24244269}, {"name": "Numismatics", "id": 692363}, {"name": "Currency", "id": 1626296}], "successors": [{"name": "Coins_of_the_Holy_Roman_Empire", "id": 32839600}]}

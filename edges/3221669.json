@@ -1,1 +1,1 @@
-{"name": "Foot", "id": 3221669, "predecessors": [{"name": "Lower_limb_anatomy", "id": 20267078}], "successors": [{"name": "Footwear", "id": 711905}]}
+{"name": "Foot", "id": 3221669, "predecessors": [{"name": "Lower_limb_anatomy", "id": 20267078}], "successors": [{"name": "Footwear", "id": 711905}, {"name": "Fossil_trackways", "id": 14793417}]}

@@ -1,1 +1,1 @@
-{"name": "Latin_music_groups", "id": 9417048, "predecessors": [{"name": "Music_genres", "id": 4826123}], "successors": [{"name": "Latin_pop_music_groups", "id": 51397033}, {"name": "Rock_en_Español_music_groups", "id": 51397349}]}
+{"name": "Latin_music_groups", "id": 9417048, "predecessors": [{"name": "Music_genres", "id": 4826123}, {"name": "Cultural_regions", "id": 23857786}], "successors": [{"name": "Latin_pop_music_groups", "id": 51397033}, {"name": "Rock_en_Español_music_groups", "id": 51397349}]}

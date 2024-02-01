@@ -1,1 +1,1 @@
-{"name": "Indian_horror_films", "id": 20334857, "predecessors": [{"name": "Film_genres", "id": 3008852}, {"name": "Fiction", "id": 692981}, {"name": "19th-century_inventions", "id": 60404974}], "successors": []}
+{"name": "Indian_horror_films", "id": 20334857, "predecessors": [{"name": "Film_genres", "id": 3008852}, {"name": "Fiction", "id": 692981}], "successors": [{"name": "Indian_comedy_horror_films", "id": 40861465}, {"name": "Indian_horror_thriller_films", "id": 56412779}, {"name": "Indian_supernatural_horror_films", "id": 57533084}]}

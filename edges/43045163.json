@@ -1,1 +1,1 @@
-{"name": "Italian_epic_films", "id": 43045163, "predecessors": [{"name": "Film_genres", "id": 3008852}], "successors": []}
+{"name": "Italian_epic_films", "id": 43045163, "predecessors": [{"name": "Film_genres", "id": 3008852}], "successors": [{"name": "Peplum_films", "id": 13492032}]}

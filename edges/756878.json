@@ -1,1 +1,1 @@
-{"name": "Steamships", "id": 756878, "predecessors": [{"name": "Steam_power", "id": 15894282}, {"name": "Energy", "id": 865456}, {"name": "Culture", "id": 694861}], "successors": [{"name": "Steamship_captains", "id": 10427705}]}
+{"name": "Steamships", "id": 756878, "predecessors": [{"name": "Steam_power", "id": 15894282}, {"name": "Culture", "id": 694861}, {"name": "Academic_disciplines", "id": 693763}], "successors": [{"name": "Steamship_captains", "id": 10427705}]}

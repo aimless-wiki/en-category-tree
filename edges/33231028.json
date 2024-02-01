@@ -1,1 +1,1 @@
-{"name": "TBS_Television_(Japan)_original_programming", "id": 33231028, "predecessors": [{"name": "Mitsui", "id": 27748126}, {"name": "Streaming_television", "id": 2642274}], "successors": [{"name": "TBS_Television_(Japan)_dramas", "id": 49577676}]}
+{"name": "TBS_Television_(Japan)_original_programming", "id": 33231028, "predecessors": [{"name": "Mitsui", "id": 27748126}, {"name": "Broadcasting", "id": 765733}], "successors": [{"name": "TBS_Television_(Japan)_dramas", "id": 49577676}]}

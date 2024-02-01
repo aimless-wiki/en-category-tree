@@ -1,1 +1,1 @@
-{"name": "French_adventure_films", "id": 31959588, "predecessors": [{"name": "Outdoor_recreation", "id": 1451342}, {"name": "Film_genres", "id": 3008852}], "successors": []}
+{"name": "French_adventure_films", "id": 31959588, "predecessors": [{"name": "Film_genres", "id": 3008852}], "successors": [{"name": "French_historical_adventure_films", "id": 63247582}]}
