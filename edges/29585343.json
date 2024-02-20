@@ -1,1 +1,1 @@
-{"name": "Ferry_transport_in_Sydney", "id": 29585343, "predecessors": [{"name": "Geography", "id": 693800}], "successors": [{"name": "Ferry_wharves_in_Sydney", "id": 8343353}]}
+{"name": "Ferry_transport_in_Sydney", "id": 29585343, "predecessors": [{"name": "Economic_geography", "id": 2021084}, {"name": "Landforms", "id": 705424}], "successors": [{"name": "Ferry_wharves_in_Sydney", "id": 8343353}]}

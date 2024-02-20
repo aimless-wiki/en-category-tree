@@ -1,1 +1,1 @@
-{"name": "Neurological_disease_deaths_in_California", "id": 68649271, "predecessors": [{"name": "1_(number)", "id": 44538185}, {"name": "Death", "id": 921954}], "successors": [{"name": "Deaths_from_dementia_in_California", "id": 70731699}]}
+{"name": "Neurological_disease_deaths_in_California", "id": 68649271, "predecessors": [{"name": "Causes_of_death", "id": 5271061}], "successors": [{"name": "Deaths_from_dementia_in_California", "id": 70731699}]}

@@ -1,1 +1,1 @@
-{"name": "Thyroid", "id": 37920871, "predecessors": [{"name": "Endocrine_system", "id": 692422}, {"name": "Glands", "id": 2487650}, {"name": "Human_head_and_neck", "id": 36703875}], "successors": []}
+{"name": "Thyroid", "id": 37920871, "predecessors": [{"name": "Endocrine_system", "id": 692422}, {"name": "Glands", "id": 2487650}, {"name": "Human_head_and_neck", "id": 36703875}], "successors": [{"name": "Thyroid_disease", "id": 5253687}]}

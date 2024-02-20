@@ -1,1 +1,1 @@
-{"name": "Deaths_from_pancreatic_cancer", "id": 18669605, "predecessors": [{"name": "Abdomen", "id": 1703539}, {"name": "Causes_of_death", "id": 5271061}], "successors": []}
+{"name": "Deaths_from_pancreatic_cancer", "id": 18669605, "predecessors": [{"name": "Endocrine_diseases", "id": 19895778}, {"name": "Causes_of_death", "id": 5271061}, {"name": "Deaths_from_cancer", "id": 18669378}], "successors": []}

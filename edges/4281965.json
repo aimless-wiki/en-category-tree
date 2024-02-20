@@ -1,1 +1,1 @@
-{"name": "Mexican_murder_victims", "id": 4281965, "predecessors": [{"name": "Latin_America", "id": 1327770}, {"name": "Justice", "id": 2388327}, {"name": "Death", "id": 921954}], "successors": [{"name": "Assassinated_Mexican_journalists", "id": 19194321}]}
+{"name": "Mexican_murder_victims", "id": 4281965, "predecessors": [{"name": "Justice", "id": 2388327}, {"name": "Crime", "id": 1183180}, {"name": "American_studies", "id": 11134134}], "successors": [{"name": "Assassinated_Mexican_journalists", "id": 19194321}]}

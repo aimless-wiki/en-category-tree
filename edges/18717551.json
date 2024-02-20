@@ -1,1 +1,1 @@
-{"name": "Deaths_from_bronchitis", "id": 18717551, "predecessors": [{"name": "Respiratory_diseases", "id": 19827264}, {"name": "Respiration", "id": 1320459}, {"name": "Causes_of_death", "id": 5271061}], "successors": []}
+{"name": "Deaths_from_bronchitis", "id": 18717551, "predecessors": [{"name": "Respiration", "id": 1320459}, {"name": "Infectious_diseases", "id": 707355}], "successors": []}

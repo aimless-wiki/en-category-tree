@@ -1,1 +1,1 @@
-{"name": "Italian_adventure_films", "id": 38038141, "predecessors": [{"name": "Film_genres", "id": 3008852}], "successors": [{"name": "Italian_historical_adventure_films", "id": 63250246}]}
+{"name": "Italian_adventure_films", "id": 38038141, "predecessors": [{"name": "Outdoor_recreation", "id": 1451342}, {"name": "Film_genres", "id": 3008852}], "successors": [{"name": "Macaroni_Combat_films", "id": 34622461}, {"name": "Italian_fantasy_adventure_films", "id": 62561310}, {"name": "Italian_historical_adventure_films", "id": 63250246}]}

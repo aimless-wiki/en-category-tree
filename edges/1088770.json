@@ -1,1 +1,1 @@
-{"name": "Silicates", "id": 1088770, "predecessors": [{"name": "Chemical_compounds_by_element", "id": 1674961}, {"name": "Anions", "id": 697668}], "successors": [{"name": "Silicate_minerals", "id": 1092691}]}
+{"name": "Silicates", "id": 1088770, "predecessors": [{"name": "Chemical_compounds_by_element", "id": 1674961}, {"name": "Periodic_table", "id": 727142}], "successors": [{"name": "Silicate_minerals", "id": 1092691}]}

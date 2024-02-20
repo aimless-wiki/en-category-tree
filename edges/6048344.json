@@ -1,1 +1,1 @@
-{"name": "Canadian_world_music_groups", "id": 6048344, "predecessors": [{"name": "Canadian_world_music_musicians", "id": 22353010}, {"name": "World_music_groups", "id": 1274647}, {"name": "Music_genres", "id": 4826123}], "successors": []}
+{"name": "Canadian_world_music_groups", "id": 6048344, "predecessors": [{"name": "Canadian_world_music_musicians", "id": 22353010}, {"name": "World_music_musicians", "id": 11969685}, {"name": "Music_genres", "id": 4826123}], "successors": []}

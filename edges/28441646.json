@@ -1,1 +1,1 @@
-{"name": "FK_Bregalnica_Štip_players", "id": 28441646, "predecessors": [{"name": "Football_clubs_in_North_Macedonia", "id": 34431534}, {"name": "Countries_in_Europe", "id": 37691805}], "successors": []}
+{"name": "FK_Bregalnica_Štip_players", "id": 28441646, "predecessors": [{"name": "Football_clubs_in_North_Macedonia", "id": 34431534}, {"name": "Wikipedia_categorization", "id": 1036222}], "successors": []}

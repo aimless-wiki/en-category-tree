@@ -1,1 +1,1 @@
-{"name": "Fruit_dishes", "id": 27089363, "predecessors": [{"name": "Edible_fruits", "id": 39951547}, {"name": "Food_ingredients", "id": 1077080}], "successors": [{"name": "Banana_dishes", "id": 42548241}, {"name": "Apple_dishes", "id": 64748118}]}
+{"name": "Fruit_dishes", "id": 27089363, "predecessors": [{"name": "Edible_fruits", "id": 39951547}, {"name": "Food_ingredients", "id": 1077080}], "successors": [{"name": "Banana_dishes", "id": 42548241}]}

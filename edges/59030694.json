@@ -1,1 +1,1 @@
-{"name": "Beat_musicians", "id": 59030694, "predecessors": [{"name": "Music_genres", "id": 4826123}], "successors": []}
+{"name": "Beat_musicians", "id": 59030694, "predecessors": [{"name": "Music_genres", "id": 4826123}, {"name": "Pop_music_genres", "id": 2567688}], "successors": []}

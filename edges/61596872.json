@@ -1,1 +1,1 @@
-{"name": "Comedy_film_franchises", "id": 61596872, "predecessors": [{"name": "Comedy_franchises", "id": 60705697}, {"name": "Comedy", "id": 696823}, {"name": "Mass_media_franchises", "id": 1170420}], "successors": []}
+{"name": "Comedy_film_franchises", "id": 61596872, "predecessors": [{"name": "Comedy_franchises", "id": 60705697}, {"name": "Comedy", "id": 696823}, {"name": "Mass_media_franchises", "id": 1170420}], "successors": [{"name": "Comedy_film_series", "id": 61596851}]}

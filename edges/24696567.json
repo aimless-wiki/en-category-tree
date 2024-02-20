@@ -1,1 +1,1 @@
-{"name": "Serving_and_dining", "id": 24696567, "predecessors": [{"name": "Domestic_implements", "id": 30314144}, {"name": "Eating_behaviors", "id": 1476452}, {"name": "Food_technology", "id": 7320176}], "successors": [{"name": "Drinkware", "id": 1424894}, {"name": "Teaware", "id": 3902354}]}
+{"name": "Serving_and_dining", "id": 24696567, "predecessors": [{"name": "Domestic_implements", "id": 30314144}, {"name": "Food_technology", "id": 7320176}], "successors": [{"name": "Drinkware", "id": 1424894}, {"name": "Teaware", "id": 3902354}]}

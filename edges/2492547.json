@@ -1,1 +1,1 @@
-{"name": "Jidaigeki_films", "id": 2492547, "predecessors": [{"name": "Film_genres", "id": 3008852}, {"name": "Japan_in_fiction", "id": 4785416}], "successors": [{"name": "Samurai_films", "id": 1304355}]}
+{"name": "Jidaigeki_films", "id": 2492547, "predecessors": [{"name": "Film_genres", "id": 3008852}, {"name": "Films_set_in_Japan", "id": 14562779}, {"name": "Japan_in_fiction", "id": 4785416}], "successors": [{"name": "Samurai_films", "id": 1304355}]}

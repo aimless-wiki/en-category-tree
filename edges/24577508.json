@@ -1,1 +1,1 @@
-{"name": "Student_quiz_television_series", "id": 24577508, "predecessors": [{"name": "Student_quiz_competitions", "id": 20242332}, {"name": "Mass_media", "id": 696790}], "successors": []}
+{"name": "Student_quiz_television_series", "id": 24577508, "predecessors": [{"name": "Student_quiz_competitions", "id": 20242332}, {"name": "Television_genres", "id": 1259802}, {"name": "American_studies", "id": 11134134}, {"name": "Wikipedia_categorization", "id": 1036222}], "successors": []}

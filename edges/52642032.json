@@ -1,1 +1,1 @@
-{"name": "Heterokont_genera", "id": 52642032, "predecessors": [{"name": "Biology", "id": 692675}], "successors": [{"name": "Diatom_genera", "id": 48324963}]}
+{"name": "Heterokont_genera", "id": 52642032, "predecessors": [{"name": "Biology", "id": 692675}, {"name": "Biological_classification", "id": 41221871}], "successors": [{"name": "Diatom_genera", "id": 48324963}]}

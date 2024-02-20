@@ -1,1 +1,1 @@
-{"name": "Windows_trojans", "id": 11283882, "predecessors": [{"name": "Computing_platforms", "id": 973745}], "successors": []}
+{"name": "Windows_trojans", "id": 11283882, "predecessors": [{"name": "Trojan_horses", "id": 3606553}, {"name": "Computing_platforms", "id": 973745}], "successors": []}

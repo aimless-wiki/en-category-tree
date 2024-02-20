@@ -1,1 +1,1 @@
-{"name": "Guitar_makers", "id": 7951425, "predecessors": [{"name": "Guitars", "id": 1018151}, {"name": "Musical_instruments", "id": 691595}, {"name": "String_instruments", "id": 691673}], "successors": [{"name": "Guitar_manufacturing_companies", "id": 9359025}]}
+{"name": "Guitar_makers", "id": 7951425, "predecessors": [{"name": "Guitars", "id": 1018151}, {"name": "Musical_instruments", "id": 691595}, {"name": "String_instruments", "id": 691673}], "successors": []}

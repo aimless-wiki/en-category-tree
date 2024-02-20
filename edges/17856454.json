@@ -1,1 +1,1 @@
-{"name": "Railway_safety", "id": 17856454, "predecessors": [{"name": "Safety", "id": 902977}, {"name": "Land_tenure", "id": 49153374}], "successors": [{"name": "Suicides_by_train", "id": 39341249}]}
+{"name": "Railway_safety", "id": 17856454, "predecessors": [{"name": "Safety", "id": 902977}], "successors": [{"name": "Suicides_by_train", "id": 39341249}]}

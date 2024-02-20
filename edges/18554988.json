@@ -1,1 +1,1 @@
-{"name": "Deaths_from_typhoid_fever", "id": 18554988, "predecessors": [{"name": "Causes_of_death", "id": 5271061}], "successors": []}
+{"name": "Deaths_from_typhoid_fever", "id": 18554988, "predecessors": [{"name": "Vaccine-preventable_diseases", "id": 56263158}, {"name": "Infectious_diseases", "id": 707355}], "successors": []}

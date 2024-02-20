@@ -1,1 +1,1 @@
-{"name": "Art_museums_and_galleries_in_Pennsylvania", "id": 15137298, "predecessors": [{"name": "American_art", "id": 3773671}, {"name": "American_culture", "id": 715315}, {"name": "Pennsylvania_culture", "id": 1235430}], "successors": []}
+{"name": "Art_museums_and_galleries_in_Pennsylvania", "id": 15137298, "predecessors": [{"name": "Pennsylvania_culture", "id": 1235430}, {"name": "American_culture", "id": 715315}], "successors": [{"name": "Paintings_in_the_Philadelphia_Museum_of_Art", "id": 23701613}]}

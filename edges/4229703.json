@@ -1,1 +1,1 @@
-{"name": "Graphics_cards", "id": 4229703, "predecessors": [{"name": "Computer_peripherals", "id": 3547205}, {"name": "Graphics_hardware", "id": 1931221}, {"name": "IBM_PC_compatibles", "id": 1094042}], "successors": []}
+{"name": "Graphics_cards", "id": 4229703, "predecessors": [{"name": "Computer_peripherals", "id": 3547205}, {"name": "Graphics_hardware", "id": 1931221}, {"name": "IBM_PC_compatibles", "id": 1094042}], "successors": [{"name": "Computer_display_standards", "id": 6608152}]}

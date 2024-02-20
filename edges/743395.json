@@ -1,1 +1,1 @@
-{"name": "Herbs", "id": 743395, "predecessors": [{"name": "Edible_plants", "id": 1318013}], "successors": [{"name": "Herbal_tea", "id": 3902127}, {"name": "Garlic", "id": 21995380}, {"name": "Herbal_liqueurs", "id": 23207417}]}
+{"name": "Herbs", "id": 743395, "predecessors": [{"name": "Edible_plants", "id": 1318013}], "successors": [{"name": "Garlic", "id": 21995380}, {"name": "Herbal_liqueurs", "id": 23207417}]}

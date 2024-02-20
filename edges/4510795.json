@@ -1,1 +1,1 @@
-{"name": "Ferries_of_France", "id": 4510795, "predecessors": [{"name": "Merchant_ships_of_France", "id": 5192835}, {"name": "Ferries", "id": 886552}, {"name": "Water_transport", "id": 907307}], "successors": []}
+{"name": "Ferries_of_France", "id": 4510795, "predecessors": [{"name": "Merchant_ships_of_France", "id": 5192835}, {"name": "Passenger_ships_of_France", "id": 5192828}, {"name": "Ferries", "id": 886552}, {"name": "Water_transport", "id": 907307}], "successors": []}

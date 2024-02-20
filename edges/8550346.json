@@ -1,1 +1,1 @@
-{"name": "Mixed_drinks", "id": 8550346, "predecessors": [{"name": "Alcoholic_drinks", "id": 13294809}, {"name": "Bartending", "id": 9419866}, {"name": "Phases_of_matter", "id": 1914140}], "successors": [{"name": "Cocktails", "id": 866828}, {"name": "Mixed_drink_stubs", "id": 8878495}]}
+{"name": "Mixed_drinks", "id": 8550346, "predecessors": [{"name": "Alcoholic_drinks", "id": 13294809}, {"name": "Drinking_culture", "id": 1241315}], "successors": [{"name": "Cocktails", "id": 866828}, {"name": "Mixed_drink_stubs", "id": 8878495}]}

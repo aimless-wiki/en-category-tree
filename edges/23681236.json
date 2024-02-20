@@ -1,1 +1,1 @@
-{"name": "Ski-orienteers", "id": 23681236, "predecessors": [{"name": "Hiking", "id": 965797}, {"name": "Endurance_games", "id": 1072401}, {"name": "Individual_sports", "id": 862248}], "successors": []}
+{"name": "Ski-orienteers", "id": 23681236, "predecessors": [{"name": "Geopositioning", "id": 65171883}, {"name": "Endurance_games", "id": 1072401}, {"name": "Individual_sports", "id": 862248}], "successors": []}

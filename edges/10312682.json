@@ -1,1 +1,1 @@
-{"name": "Giallo_films", "id": 10312682, "predecessors": [{"name": "Italian_thriller_films", "id": 37446511}, {"name": "Films_about_stalking", "id": 42173471}, {"name": "Film_genres", "id": 3008852}], "successors": []}
+{"name": "Giallo_films", "id": 10312682, "predecessors": [{"name": "Italian_thriller_films", "id": 37446511}, {"name": "Films_about_stalking", "id": 42173471}, {"name": "Film_genres", "id": 3008852}], "successors": [{"name": "Giallo_film_directors", "id": 48571193}]}

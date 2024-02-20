@@ -1,1 +1,1 @@
-{"name": "Deaths_from_pneumonia_in_Germany", "id": 68845957, "predecessors": [{"name": "Infectious_disease_deaths_in_Germany", "id": 19409348}, {"name": "Respiratory_diseases", "id": 19827264}, {"name": "Death", "id": 921954}], "successors": []}
+{"name": "Deaths_from_pneumonia_in_Germany", "id": 68845957, "predecessors": [{"name": "Infectious_disease_deaths_in_Germany", "id": 19409348}, {"name": "Death", "id": 921954}], "successors": []}

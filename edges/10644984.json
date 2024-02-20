@@ -1,1 +1,1 @@
-{"name": "Political_drama_films", "id": 10644984, "predecessors": [{"name": "Drama", "id": 709071}], "successors": []}
+{"name": "Political_drama_films", "id": 10644984, "predecessors": [{"name": "Film_genres", "id": 3008852}, {"name": "Drama", "id": 709071}], "successors": [{"name": "2010s_political_drama_films", "id": 62627820}, {"name": "2000s_political_drama_films", "id": 62632044}, {"name": "American_political_drama_films", "id": 25130526}, {"name": "Indian_political_drama_films", "id": 57464507}]}

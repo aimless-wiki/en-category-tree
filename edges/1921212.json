@@ -1,1 +1,1 @@
-{"name": "Solvents", "id": 1921212, "predecessors": [{"name": "Solutions", "id": 3022025}, {"name": "Manufacturing", "id": 867519}], "successors": [{"name": "Water", "id": 977553}, {"name": "Halogenated_solvents", "id": 12520050}]}
+{"name": "Solvents", "id": 1921212, "predecessors": [{"name": "Manufacturing", "id": 867519}], "successors": [{"name": "Water", "id": 977553}, {"name": "Halogenated_solvents", "id": 12520050}]}

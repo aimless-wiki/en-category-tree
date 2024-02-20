@@ -1,1 +1,1 @@
-{"name": "Local_Group", "id": 953906, "predecessors": [{"name": "Galaxy_clusters", "id": 953703}, {"name": "Large-scale_structure_of_the_cosmos", "id": 902074}], "successors": []}
+{"name": "Local_Group", "id": 953906, "predecessors": [{"name": "Galaxy_clusters", "id": 953703}, {"name": "Large-scale_structure_of_the_cosmos", "id": 902074}], "successors": [{"name": "Milky_Way_Subgroup", "id": 1240768}]}

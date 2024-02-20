@@ -1,1 +1,1 @@
-{"name": "Nepalese_books", "id": 53703380, "predecessors": [{"name": "Culture", "id": 694861}, {"name": "Wikipedia_categorization", "id": 1036222}], "successors": [{"name": "Nepalese_novels", "id": 40811402}]}
+{"name": "Nepalese_books", "id": 53703380, "predecessors": [{"name": "Nepalese_culture", "id": 729430}, {"name": "Copyright_law", "id": 702268}, {"name": "Wikipedia_categorization", "id": 1036222}], "successors": [{"name": "Nepalese_novels", "id": 40811402}]}

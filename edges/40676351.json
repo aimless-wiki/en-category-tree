@@ -1,1 +1,1 @@
-{"name": "Ant_genera", "id": 40676351, "predecessors": [{"name": "Hymenoptera_genera", "id": 44243046}, {"name": "Ants", "id": 1058022}], "successors": []}
+{"name": "Ant_genera", "id": 40676351, "predecessors": [{"name": "Hymenoptera_genera", "id": 44243046}], "successors": [{"name": "Monotypic_ant_genera", "id": 40783830}]}

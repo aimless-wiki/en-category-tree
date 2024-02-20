@@ -1,1 +1,1 @@
-{"name": "Parking", "id": 3627417, "predecessors": [{"name": "Road_transport", "id": 700964}, {"name": "Public_services", "id": 5678592}], "successors": [{"name": "Charging_stations", "id": 14083481}]}
+{"name": "Parking", "id": 3627417, "predecessors": [{"name": "Public_services", "id": 5678592}], "successors": [{"name": "Charging_stations", "id": 14083481}]}

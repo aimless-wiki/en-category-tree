@@ -1,1 +1,1 @@
-{"name": "Spintronics", "id": 5345784, "predecessors": [{"name": "Condensed_matter_physics", "id": 692176}, {"name": "Non-volatile_memory", "id": 2024393}, {"name": "Quantum_electronics", "id": 1823826}, {"name": "Electricity", "id": 959298}, {"name": "Computer_storage_devices", "id": 895945}], "successors": []}
+{"name": "Spintronics", "id": 5345784, "predecessors": [{"name": "Condensed_matter_physics", "id": 692176}, {"name": "Quantum_electronics", "id": 1823826}, {"name": "Electricity", "id": 959298}], "successors": []}

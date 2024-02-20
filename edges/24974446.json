@@ -1,1 +1,1 @@
-{"name": "Horse_races_in_Maryland", "id": 24974446, "predecessors": [{"name": "Horse_races_in_the_United_States", "id": 17476578}], "successors": []}
+{"name": "Horse_races_in_Maryland", "id": 24974446, "predecessors": [{"name": "Horse_races_in_the_United_States", "id": 17476578}, {"name": "American_culture", "id": 715315}], "successors": [{"name": "Preakness_Stakes_winners", "id": 5525282}, {"name": "Owners_of_Preakness_Stakes_winners", "id": 33888455}, {"name": "Preakness_Stakes_races", "id": 71066961}]}

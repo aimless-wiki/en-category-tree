@@ -1,1 +1,1 @@
-{"name": "Student_quiz_competitions", "id": 20242332, "predecessors": [{"name": "Quiz_games", "id": 1038600}, {"name": "Applied_psychology", "id": 1061365}, {"name": "Competitions", "id": 737119}], "successors": []}
+{"name": "Student_quiz_competitions", "id": 20242332, "predecessors": [{"name": "Quiz_games", "id": 1038600}, {"name": "Applied_psychology", "id": 1061365}, {"name": "Competitions", "id": 737119}], "successors": [{"name": "Student_quiz_television_series", "id": 24577508}]}

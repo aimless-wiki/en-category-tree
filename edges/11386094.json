@@ -1,1 +1,1 @@
-{"name": "Artist_families", "id": 11386094, "predecessors": [{"name": "Classification_systems", "id": 3615452}, {"name": "The_arts", "id": 4892515}], "successors": [{"name": "Sibling_artists", "id": 59201351}, {"name": "George_Gilbert_Scott_buildings", "id": 25901955}, {"name": "Paintings_by_Pierre-Auguste_Renoir", "id": 35325022}]}
+{"name": "Artist_families", "id": 11386094, "predecessors": [{"name": "Family", "id": 706788}, {"name": "Employment_classifications", "id": 15387066}], "successors": [{"name": "Sibling_artists", "id": 59201351}]}

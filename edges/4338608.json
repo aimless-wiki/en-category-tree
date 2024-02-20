@@ -1,1 +1,1 @@
-{"name": "University_of_Chicago_faculty", "id": 4338608, "predecessors": [{"name": "Educators_from_Illinois", "id": 42760844}], "successors": [{"name": "University_of_Chicago_Law_School_faculty", "id": 23590213}]}
+{"name": "University_of_Chicago_faculty", "id": 4338608, "predecessors": [{"name": "University_of_Chicago_people", "id": 20176285}, {"name": "Educators_from_Illinois", "id": 42760844}], "successors": [{"name": "University_of_Chicago_Law_School_faculty", "id": 23590213}]}

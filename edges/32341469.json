@@ -1,1 +1,1 @@
-{"name": "Heavyweight_boxers", "id": 32341469, "predecessors": [{"name": "Classification_systems", "id": 3615452}], "successors": [{"name": "World_heavyweight_boxing_champions", "id": 32340385}]}
+{"name": "Heavyweight_boxers", "id": 32341469, "predecessors": [{"name": "Classification_systems", "id": 3615452}, {"name": "Sports_rules_and_regulations", "id": 14543951}], "successors": [{"name": "World_heavyweight_boxing_champions", "id": 32340385}]}

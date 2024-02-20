@@ -1,1 +1,1 @@
-{"name": "Carbonates", "id": 697682, "predecessors": [{"name": "Carbon", "id": 3459278}, {"name": "Anions", "id": 697668}, {"name": "Salts", "id": 695960}], "successors": [{"name": "Carbonate_minerals", "id": 1089617}, {"name": "Carbonate_esters", "id": 25701183}]}
+{"name": "Carbonates", "id": 697682, "predecessors": [{"name": "Carbon", "id": 3459278}, {"name": "Salts", "id": 695960}, {"name": "Periodic_table", "id": 727142}], "successors": [{"name": "Carbonate_minerals", "id": 1089617}, {"name": "Carbonate_esters", "id": 25701183}]}

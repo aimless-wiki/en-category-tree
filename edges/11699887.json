@@ -1,1 +1,1 @@
-{"name": "Deaths_from_yellow_fever", "id": 11699887, "predecessors": [{"name": "Causes_of_death", "id": 5271061}], "successors": []}
+{"name": "Deaths_from_yellow_fever", "id": 11699887, "predecessors": [{"name": "Insect-borne_diseases", "id": 6844246}, {"name": "Infectious_diseases", "id": 707355}], "successors": []}

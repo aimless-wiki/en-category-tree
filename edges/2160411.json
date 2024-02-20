@@ -1,1 +1,1 @@
-{"name": "Vegetable_stubs", "id": 2160411, "predecessors": [{"name": "Food_stubs", "id": 23231223}, {"name": "Contents", "id": 14105005}], "successors": [{"name": "Potato_stubs", "id": 42587712}]}
+{"name": "Vegetable_stubs", "id": 2160411, "predecessors": [{"name": "Food_stubs", "id": 23231223}, {"name": "Crops", "id": 694870}, {"name": "Contents", "id": 14105005}], "successors": [{"name": "Potato_stubs", "id": 42587712}]}

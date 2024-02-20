@@ -1,1 +1,1 @@
-{"name": "Coumarins", "id": 25897219, "predecessors": [{"name": "Phenol_esters", "id": 55085852}, {"name": "Benzene_derivatives", "id": 54461920}, {"name": "Heterocyclic_compounds_with_2_rings", "id": 4488801}, {"name": "Conjugated_dienes", "id": 60929067}], "successors": []}
+{"name": "Coumarins", "id": 25897219, "predecessors": [{"name": "Phenol_esters", "id": 55085852}, {"name": "Benzene_derivatives", "id": 54461920}, {"name": "Phenol_ethers", "id": 749631}, {"name": "Conjugated_dienes", "id": 60929067}], "successors": []}

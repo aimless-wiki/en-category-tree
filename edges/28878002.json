@@ -1,1 +1,1 @@
-{"name": "Catechols", "id": 28878002, "predecessors": [{"name": "Phenols", "id": 725874}, {"name": "Enols", "id": 28878608}], "successors": [{"name": "Catechol_ethers", "id": 61339146}]}
+{"name": "Catechols", "id": 28878002, "predecessors": [{"name": "Phenols", "id": 725874}, {"name": "Vicinal_diols", "id": 55201566}], "successors": [{"name": "Catechol_ethers", "id": 61339146}]}

@@ -1,1 +1,1 @@
-{"name": "Bipedal_humanoid_robots", "id": 32198966, "predecessors": [{"name": "Humanoid_robots", "id": 17612904}, {"name": "Land_tenure", "id": 49153374}], "successors": []}
+{"name": "Bipedal_humanoid_robots", "id": 32198966, "predecessors": [{"name": "Humanoid_robots", "id": 17612904}, {"name": "Applications_of_computer_vision", "id": 4826208}], "successors": []}

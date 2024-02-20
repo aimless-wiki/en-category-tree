@@ -1,1 +1,1 @@
-{"name": "Bordeaux_wine_producers", "id": 15315724, "predecessors": [{"name": "Wineries_of_France", "id": 3725148}, {"name": "Countries_in_Europe", "id": 37691805}, {"name": "Human_geography", "id": 1111700}], "successors": []}
+{"name": "Bordeaux_wine_producers", "id": 15315724, "predecessors": [{"name": "Wineries_of_France", "id": 3725148}, {"name": "French_wine", "id": 6042284}, {"name": "Economic_geography", "id": 2021084}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Rock_Christmas_albums", "id": 51421323, "predecessors": [{"name": "Concept_albums", "id": 715475}], "successors": []}
+{"name": "Rock_Christmas_albums", "id": 51421323, "predecessors": [{"name": "Music_genres", "id": 4826123}, {"name": "Concept_albums", "id": 715475}], "successors": [{"name": "Pop_rock_Christmas_albums", "id": 51635413}]}

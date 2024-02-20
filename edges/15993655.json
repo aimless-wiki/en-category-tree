@@ -1,1 +1,1 @@
-{"name": "Mental_disorders_screening_and_assessment_tools", "id": 15993655, "predecessors": [{"name": "Psychological_tests_and_scales", "id": 8378411}, {"name": "Evaluation_methods", "id": 4003390}, {"name": "Causes_of_death", "id": 5271061}], "successors": []}
+{"name": "Mental_disorders_screening_and_assessment_tools", "id": 15993655, "predecessors": [{"name": "Psychological_tests_and_scales", "id": 8378411}, {"name": "Medical_diagnosis", "id": 16705234}, {"name": "Evaluation_methods", "id": 4003390}, {"name": "Causes_of_death", "id": 5271061}], "successors": []}
