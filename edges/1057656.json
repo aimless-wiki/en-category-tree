@@ -1,1 +1,1 @@
-{"name": "French_literary_critics", "id": 1057656, "predecessors": [{"name": "French_non-fiction_writers", "id": 4465146}, {"name": "Literary_criticism", "id": 733855}, {"name": "Logic", "id": 693678}], "successors": []}
+{"name": "French_literary_critics", "id": 1057656, "predecessors": [{"name": "French_literature", "id": 894747}, {"name": "French_non-fiction_writers", "id": 4465146}, {"name": "Logic", "id": 693678}], "successors": []}

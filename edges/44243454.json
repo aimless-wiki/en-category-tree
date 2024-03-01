@@ -1,1 +1,1 @@
-{"name": "DC_Books_books", "id": 44243454, "predecessors": [{"name": "Documents", "id": 694072}, {"name": "Book_publishing_companies_of_India", "id": 12886990}], "successors": []}
+{"name": "DC_Books_books", "id": 44243454, "predecessors": [{"name": "Publishing", "id": 1001911}, {"name": "Book_publishing_companies_of_India", "id": 12886990}], "successors": []}

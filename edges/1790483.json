@@ -1,1 +1,1 @@
-{"name": "Meat_substitutes", "id": 1790483, "predecessors": [{"name": "Meat", "id": 757474}, {"name": "Vegetarian_cuisine", "id": 1171878}, {"name": "Competition_(economics)", "id": 33123427}, {"name": "Vegan_cuisine", "id": 958646}], "successors": []}
+{"name": "Meat_substitutes", "id": 1790483, "predecessors": [{"name": "Meat", "id": 757474}, {"name": "Vegetarian_cuisine", "id": 1171878}, {"name": "Culture", "id": 694861}, {"name": "Competition_(economics)", "id": 33123427}, {"name": "Vegan_cuisine", "id": 958646}], "successors": []}

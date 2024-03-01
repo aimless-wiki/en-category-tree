@@ -1,1 +1,1 @@
-{"name": "Twin-engined_pusher_aircraft", "id": 38895645, "predecessors": [{"name": "Aircraft_configurations", "id": 1024208}, {"name": "Aerodynamics", "id": 1303037}], "successors": []}
+{"name": "Twin-engined_pusher_aircraft", "id": 38895645, "predecessors": [{"name": "Aircraft_configurations", "id": 1024208}, {"name": "Atmosphere", "id": 1136015}], "successors": []}

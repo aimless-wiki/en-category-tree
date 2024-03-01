@@ -1,1 +1,1 @@
-{"name": "Submarines_sunk_in_collisions", "id": 72664044, "predecessors": [{"name": "Ships_sunk_in_collisions", "id": 22555990}, {"name": "Shipwrecks", "id": 739221}], "successors": []}
+{"name": "Submarines_sunk_in_collisions", "id": 72664044, "predecessors": [{"name": "Ships_sunk_in_collisions", "id": 22555990}, {"name": "Shipwrecks", "id": 739221}], "successors": [{"name": "U-boats_sunk_in_collisions", "id": 44543912}]}

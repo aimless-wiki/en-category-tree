@@ -1,1 +1,1 @@
-{"name": "Swiss_brands", "id": 5833585, "predecessors": [{"name": "Culture_of_Switzerland", "id": 727018}, {"name": "Brand_management", "id": 31052109}, {"name": "Economies_of_Europe_by_country", "id": 62161788}], "successors": [{"name": "Swiss_watch_brands", "id": 45711606}]}
+{"name": "Swiss_brands", "id": 5833585, "predecessors": [{"name": "Culture_of_Switzerland", "id": 727018}, {"name": "Culture", "id": 694861}, {"name": "Economies_of_Europe_by_country", "id": 62161788}], "successors": [{"name": "Swiss_watch_brands", "id": 45711606}]}

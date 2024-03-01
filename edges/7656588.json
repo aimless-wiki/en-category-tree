@@ -1,1 +1,1 @@
-{"name": "English_blues_musicians", "id": 7656588, "predecessors": [{"name": "English_culture", "id": 2210082}, {"name": "Music_genres", "id": 4826123}], "successors": [{"name": "English_blues_guitarists", "id": 7656578}, {"name": "English_blues_singers", "id": 7656597}]}
+{"name": "English_blues_musicians", "id": 7656588, "predecessors": [{"name": "Anthropology", "id": 694863}, {"name": "Music_genres", "id": 4826123}], "successors": [{"name": "English_blues_guitarists", "id": 7656578}, {"name": "English_blues_singers", "id": 7656597}]}

@@ -1,1 +1,1 @@
-{"name": "Web_accessibility", "id": 5385733, "predecessors": [{"name": "Web_development", "id": 7829307}, {"name": "Assistive_technology", "id": 945499}], "successors": []}
+{"name": "Web_accessibility", "id": 5385733, "predecessors": [{"name": "Web_development", "id": 7829307}, {"name": "Accessibility", "id": 1294381}], "successors": []}

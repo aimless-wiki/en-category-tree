@@ -1,1 +1,1 @@
-{"name": "Rodent-carried_diseases", "id": 32447584, "predecessors": [{"name": "Zoonoses", "id": 2776372}, {"name": "Integers", "id": 736448}], "successors": []}
+{"name": "Rodent-carried_diseases", "id": 32447584, "predecessors": [{"name": "Zoonoses", "id": 2776372}, {"name": "Biology", "id": 692675}], "successors": []}

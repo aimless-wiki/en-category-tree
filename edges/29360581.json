@@ -1,1 +1,1 @@
-{"name": "Mythological_canines", "id": 29360581, "predecessors": [{"name": "Legendary_mammals", "id": 10433225}, {"name": "Integers", "id": 736448}], "successors": [{"name": "Mythological_dogs", "id": 2460103}]}
+{"name": "Mythological_canines", "id": 29360581, "predecessors": [{"name": "Animals_and_humans", "id": 52196069}], "successors": [{"name": "Mythological_dogs", "id": 2460103}, {"name": "Odin", "id": 43691485}]}

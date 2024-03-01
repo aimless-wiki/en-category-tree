@@ -1,1 +1,1 @@
-{"name": "Eggs_(food)", "id": 21885189, "predecessors": [{"name": "Animals_and_humans", "id": 52196069}, {"name": "Aviculture", "id": 1097161}, {"name": "Reproduction_in_animals", "id": 36658670}], "successors": [{"name": "Egg_dishes", "id": 18292499}]}
+{"name": "Eggs_(food)", "id": 21885189, "predecessors": [{"name": "Culture", "id": 694861}, {"name": "Animals_and_humans", "id": 52196069}, {"name": "Aviculture", "id": 1097161}, {"name": "Reproduction_in_animals", "id": 36658670}], "successors": [{"name": "Egg_dishes", "id": 18292499}]}

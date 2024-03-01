@@ -1,1 +1,1 @@
-{"name": "Skyscraper_office_buildings_in_Manhattan", "id": 53323102, "predecessors": [{"name": "Buildings_and_structures_in_Manhattan", "id": 2943208}], "successors": [{"name": "World_Trade_Center", "id": 708298}, {"name": "Rockefeller_Center", "id": 7652248}]}
+{"name": "Skyscraper_office_buildings_in_Manhattan", "id": 53323102, "predecessors": [{"name": "Buildings_and_structures_in_Manhattan", "id": 2943208}, {"name": "Architecture", "id": 708984}], "successors": [{"name": "World_Trade_Center", "id": 708298}, {"name": "Rockefeller_Center", "id": 7652248}]}

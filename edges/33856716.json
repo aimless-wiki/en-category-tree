@@ -1,1 +1,1 @@
-{"name": "Companies_based_in_Emeryville,_California", "id": 33856716, "predecessors": [{"name": "Companies_based_in_California", "id": 1429690}, {"name": "Cities_in_the_San_Francisco_Bay_Area", "id": 9046602}], "successors": []}
+{"name": "Companies_based_in_Emeryville,_California", "id": 33856716, "predecessors": [{"name": "Cities_in_the_San_Francisco_Bay_Area", "id": 9046602}, {"name": "California_counties", "id": 707266}], "successors": []}

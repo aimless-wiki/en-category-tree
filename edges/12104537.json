@@ -1,1 +1,1 @@
-{"name": "Bus_transportation_in_Pennsylvania", "id": 12104537, "predecessors": [{"name": "Public_transport", "id": 700497}, {"name": "Academic_disciplines", "id": 693763}], "successors": [{"name": "Port_Authority_of_Allegheny_County_stations", "id": 8828318}]}
+{"name": "Bus_transportation_in_Pennsylvania", "id": 12104537, "predecessors": [{"name": "Wikipedia_categorization", "id": 1036222}, {"name": "Public_transport", "id": 700497}], "successors": [{"name": "Port_Authority_of_Allegheny_County_stations", "id": 8828318}]}

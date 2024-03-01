@@ -1,1 +1,1 @@
-{"name": "Hepatology", "id": 4948614, "predecessors": [{"name": "Abdomen", "id": 1703539}, {"name": "Branches_of_biology", "id": 37535091}], "successors": [{"name": "Diseases_of_liver", "id": 27145197}, {"name": "Hepatotoxins", "id": 55210999}]}
+{"name": "Hepatology", "id": 4948614, "predecessors": [{"name": "Abdomen", "id": 1703539}], "successors": [{"name": "Diseases_of_liver", "id": 27145197}, {"name": "Hepatotoxins", "id": 55210999}]}

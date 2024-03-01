@@ -1,1 +1,1 @@
-{"name": "Canadian_rock_guitarists", "id": 4737415, "predecessors": [{"name": "Canadian_guitarists", "id": 1882009}], "successors": [{"name": "Canadian_rock_bass_guitarists", "id": 6574251}]}
+{"name": "Canadian_rock_guitarists", "id": 4737415, "predecessors": [{"name": "Canadian_guitarists", "id": 1882009}, {"name": "Guitars", "id": 1018151}, {"name": "Musical_instruments", "id": 691595}], "successors": [{"name": "Canadian_rock_bass_guitarists", "id": 6574251}]}

@@ -1,1 +1,1 @@
-{"name": "Educational_programs", "id": 4179396, "predecessors": [{"name": "Government", "id": 697609}, {"name": "Human_behavior", "id": 2524202}], "successors": [{"name": "Study_abroad_programs", "id": 8094175}]}
+{"name": "Educational_programs", "id": 4179396, "predecessors": [{"name": "Learning", "id": 1055691}, {"name": "Government", "id": 697609}, {"name": "Human_behavior", "id": 2524202}], "successors": [{"name": "Study_abroad_programs", "id": 8094175}, {"name": "United_States_educational_programs", "id": 36843472}]}

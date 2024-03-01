@@ -1,1 +1,1 @@
-{"name": "Wikipedia_pending_changes_reviewers", "id": 27724483, "predecessors": [{"name": "Wikipedians", "id": 872572}], "successors": []}
+{"name": "Wikipedia_pending_changes_reviewers", "id": 27724483, "predecessors": [{"name": "Wikipedia_flagged_revisions", "id": 21318996}, {"name": "Wikipedians", "id": 872572}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Antiparasitic_agents", "id": 803588, "predecessors": [{"name": "Infectious_diseases", "id": 707355}, {"name": "Biology", "id": 692675}, {"name": "Manufacturing", "id": 867519}], "successors": [{"name": "Antiprotozoal_agents", "id": 3328221}, {"name": "Anthelmintics", "id": 5508670}]}
+{"name": "Antiparasitic_agents", "id": 803588, "predecessors": [{"name": "Infectious_diseases", "id": 707355}, {"name": "Biology", "id": 692675}, {"name": "Manufacturing", "id": 867519}], "successors": [{"name": "Antiprotozoal_agents", "id": 3328221}]}

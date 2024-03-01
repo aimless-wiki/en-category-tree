@@ -1,1 +1,1 @@
-{"name": "Japanese_brands", "id": 8712051, "predecessors": [{"name": "Japanese_culture", "id": 692609}, {"name": "Brand_management", "id": 31052109}, {"name": "Contents", "id": 14105005}], "successors": [{"name": "Sony", "id": 768460}, {"name": "Japanese_record_labels", "id": 3740999}]}
+{"name": "Japanese_brands", "id": 8712051, "predecessors": [{"name": "Japanese_culture", "id": 692609}, {"name": "Culture", "id": 694861}, {"name": "Distribution_(marketing)", "id": 1232228}], "successors": [{"name": "Sony", "id": 768460}, {"name": "Japanese_record_labels", "id": 3740999}]}

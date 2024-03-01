@@ -1,1 +1,1 @@
-{"name": "Indian_brands", "id": 8973236, "predecessors": [{"name": "Indian_culture", "id": 33349475}, {"name": "Brand_management", "id": 31052109}, {"name": "Marketing", "id": 784409}], "successors": [{"name": "Cars_of_India", "id": 28359322}]}
+{"name": "Indian_brands", "id": 8973236, "predecessors": [{"name": "Indian_culture", "id": 33349475}, {"name": "Culture", "id": 694861}, {"name": "Marketing", "id": 784409}], "successors": [{"name": "Cars_of_India", "id": 28359322}]}

@@ -1,1 +1,1 @@
-{"name": "Mexican_prisoners_and_detainees", "id": 13616064, "predecessors": [{"name": "Crime", "id": 1183180}, {"name": "American_studies", "id": 11134134}], "successors": [{"name": "Mexican_people_convicted_of_murder", "id": 20253345}]}
+{"name": "Mexican_prisoners_and_detainees", "id": 13616064, "predecessors": [{"name": "Latin_America", "id": 1327770}, {"name": "Crime", "id": 1183180}], "successors": [{"name": "Mexican_people_convicted_of_murder", "id": 20253345}]}

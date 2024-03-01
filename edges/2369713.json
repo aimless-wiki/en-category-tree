@@ -1,1 +1,1 @@
-{"name": "Bus_stations_in_Singapore", "id": 2369713, "predecessors": [{"name": "Public_transport", "id": 700497}, {"name": "Road_infrastructure", "id": 2963113}, {"name": "Buildings_and_structures_in_Singapore", "id": 2682641}], "successors": []}
+{"name": "Bus_stations_in_Singapore", "id": 2369713, "predecessors": [{"name": "Public_transport", "id": 700497}, {"name": "Road_infrastructure", "id": 2963113}, {"name": "Buildings_and_structures_in_Singapore", "id": 2682641}, {"name": "Cartography", "id": 716309}], "successors": []}

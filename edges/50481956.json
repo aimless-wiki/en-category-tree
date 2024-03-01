@@ -1,1 +1,1 @@
-{"name": "Manufacturing_companies_based_in_Paris", "id": 50481956, "predecessors": [{"name": "Companies_based_in_Paris", "id": 19474716}, {"name": "Manufacturing_companies_of_France", "id": 4756470}], "successors": [{"name": "Sanofi", "id": 32721906}]}
+{"name": "Manufacturing_companies_based_in_Paris", "id": 50481956, "predecessors": [{"name": "Companies_based_in_Paris", "id": 19474716}, {"name": "Manufacturing_companies_of_France", "id": 4756470}, {"name": "Wikipedia_categorization", "id": 1036222}], "successors": [{"name": "Sanofi", "id": 32721906}]}

@@ -1,1 +1,1 @@
-{"name": "EPBC_Act_vulnerable_biota", "id": 19271947, "predecessors": [{"name": "Biodiversity", "id": 3568972}], "successors": []}
+{"name": "EPBC_Act_vulnerable_biota", "id": 19271947, "predecessors": [{"name": "Biodiversity", "id": 3568972}, {"name": "Biology", "id": 692675}], "successors": []}

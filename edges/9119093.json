@@ -1,1 +1,1 @@
-{"name": "Mammals_of_Brazil", "id": 9119093, "predecessors": [{"name": "Biology", "id": 692675}], "successors": [{"name": "Bats_of_Brazil", "id": 50467522}, {"name": "Endemic_mammals_of_Brazil", "id": 75650499}]}
+{"name": "Mammals_of_Brazil", "id": 9119093, "predecessors": [{"name": "Biology", "id": 692675}, {"name": "Fauna_of_Brazil", "id": 4033207}], "successors": [{"name": "Bats_of_Brazil", "id": 50467522}, {"name": "Endemic_mammals_of_Brazil", "id": 75650499}]}

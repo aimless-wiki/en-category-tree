@@ -1,1 +1,1 @@
-{"name": "British_desserts", "id": 6547144, "predecessors": [{"name": "British_cuisine", "id": 694858}, {"name": "Nutrition", "id": 9936002}], "successors": [{"name": "British_confectionery", "id": 8518594}]}
+{"name": "British_desserts", "id": 6547144, "predecessors": [{"name": "Nutrition", "id": 9936002}], "successors": [{"name": "British_confectionery", "id": 8518594}]}

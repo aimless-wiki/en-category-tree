@@ -1,1 +1,1 @@
-{"name": "Dog_breeds_originating_in_Germany", "id": 10488483, "predecessors": [{"name": "Animal_breeding", "id": 36659941}, {"name": "Mammals_of_Europe", "id": 6874101}, {"name": "Wikipedia_categorization", "id": 1036222}], "successors": []}
+{"name": "Dog_breeds_originating_in_Germany", "id": 10488483, "predecessors": [{"name": "Animal_breeding", "id": 36659941}, {"name": "Mammals_of_Europe", "id": 6874101}, {"name": "European_culture", "id": 709679}], "successors": [{"name": "German_shepherds", "id": 40099298}]}

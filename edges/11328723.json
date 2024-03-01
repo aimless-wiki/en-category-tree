@@ -1,1 +1,1 @@
-{"name": "Start-Class_Wikipedia_articles", "id": 11328723, "predecessors": [{"name": "WikiProject_Wikipedia_articles", "id": 11326732}, {"name": "Contents", "id": 14105005}], "successors": []}
+{"name": "Start-Class_Wikipedia_articles", "id": 11328723, "predecessors": [{"name": "Start-Class_articles", "id": 5543222}, {"name": "WikiProject_Wikipedia_articles", "id": 11326732}], "successors": []}

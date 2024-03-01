@@ -1,1 +1,1 @@
-{"name": "Consumer_fraud", "id": 7428216, "predecessors": [{"name": "Fraud", "id": 737192}, {"name": "Human_rights_by_issue", "id": 27568094}], "successors": [{"name": "Fake_news", "id": 52331877}]}
+{"name": "Consumer_fraud", "id": 7428216, "predecessors": [{"name": "Fraud", "id": 737192}, {"name": "Contents", "id": 14105005}], "successors": [{"name": "Fake_news", "id": 52331877}]}

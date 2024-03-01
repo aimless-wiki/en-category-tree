@@ -1,1 +1,1 @@
-{"name": "Married_couples", "id": 3650190, "predecessors": [{"name": "Couples", "id": 54796256}, {"name": "Marriage", "id": 744826}, {"name": "Family", "id": 706788}, {"name": "Classification_systems", "id": 3615452}], "successors": [{"name": "Fictional_married_couples", "id": 54796201}]}
+{"name": "Married_couples", "id": 3650190, "predecessors": [{"name": "Couples", "id": 54796256}, {"name": "Marriage", "id": 744826}, {"name": "Family", "id": 706788}, {"name": "Knowledge_representation", "id": 796635}], "successors": [{"name": "Fictional_married_couples", "id": 54796201}]}

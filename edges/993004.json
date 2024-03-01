@@ -1,1 +1,1 @@
-{"name": "Glycoproteins", "id": 993004, "predecessors": [{"name": "Biochemistry", "id": 695996}, {"name": "Protein_structure", "id": 740536}], "successors": [{"name": "Antibodies", "id": 12520046}]}
+{"name": "Glycoproteins", "id": 993004, "predecessors": [{"name": "Biochemistry", "id": 695996}], "successors": [{"name": "Antibodies", "id": 12520046}]}

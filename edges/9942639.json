@@ -1,1 +1,1 @@
-{"name": "Religious_artists", "id": 9942639, "predecessors": [{"name": "Belief", "id": 956054}, {"name": "Wikipedia_categorization", "id": 1036222}], "successors": [{"name": "Jewish_artists", "id": 6696755}, {"name": "Buddhist_artists", "id": 59007257}]}
+{"name": "Religious_artists", "id": 9942639, "predecessors": [{"name": "Belief", "id": 956054}, {"name": "Wikipedia_categorization", "id": 1036222}, {"name": "Culture", "id": 694861}], "successors": [{"name": "Jewish_artists", "id": 6696755}, {"name": "Buddhist_artists", "id": 59007257}]}

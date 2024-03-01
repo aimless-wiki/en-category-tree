@@ -1,1 +1,1 @@
-{"name": "Mexican_Secretaries_of_Foreign_Affairs", "id": 3019513, "predecessors": [{"name": "Mexican_diplomats", "id": 2336696}, {"name": "American_studies", "id": 11134134}, {"name": "Diplomacy", "id": 911551}], "successors": []}
+{"name": "Mexican_Secretaries_of_Foreign_Affairs", "id": 3019513, "predecessors": [{"name": "Mexican_diplomats", "id": 2336696}, {"name": "Government", "id": 697609}, {"name": "American_studies", "id": 11134134}], "successors": []}

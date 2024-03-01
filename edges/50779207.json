@@ -1,1 +1,1 @@
-{"name": "Devonian_bony_fish", "id": 50779207, "predecessors": [{"name": "Devonian_animals", "id": 7842650}, {"name": "Earth", "id": 754965}], "successors": []}
+{"name": "Devonian_bony_fish", "id": 50779207, "predecessors": [{"name": "Biology", "id": 692675}], "successors": [{"name": "Late_Devonian_sarcopterygians", "id": 76163129}]}

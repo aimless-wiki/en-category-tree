@@ -1,1 +1,1 @@
-{"name": "Horse_race_stubs", "id": 8135639, "predecessors": [{"name": "Horse_racing_stubs", "id": 2338200}, {"name": "Sports_event_stubs", "id": 8491885}, {"name": "Contents", "id": 14105005}], "successors": [{"name": "Kentucky_Derby_stubs", "id": 45305393}]}
+{"name": "Horse_race_stubs", "id": 8135639, "predecessors": [{"name": "Horse_racing_stubs", "id": 2338200}, {"name": "Sports_event_stubs", "id": 8491885}, {"name": "Equestrian_sports", "id": 1086256}, {"name": "Contents", "id": 14105005}], "successors": [{"name": "Kentucky_Derby_stubs", "id": 45305393}]}

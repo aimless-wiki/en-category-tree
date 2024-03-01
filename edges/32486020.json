@@ -1,1 +1,1 @@
-{"name": "Diageo", "id": 32486020, "predecessors": [{"name": "Manufacturing_companies_based_in_London", "id": 26219527}, {"name": "Multinational_companies", "id": 3543113}, {"name": "Distilleries", "id": 28348320}, {"name": "Alkanols", "id": 46536540}], "successors": [{"name": "Diageo_brands", "id": 4297930}]}
+{"name": "Diageo", "id": 32486020, "predecessors": [{"name": "Brewing", "id": 14893672}, {"name": "Distilleries", "id": 28348320}, {"name": "Alkanols", "id": 46536540}], "successors": [{"name": "Diageo_brands", "id": 4297930}]}

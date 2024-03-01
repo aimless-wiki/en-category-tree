@@ -1,1 +1,1 @@
-{"name": "Imagination", "id": 3368800, "predecessors": [{"name": "Cognition", "id": 1055995}, {"name": "Problem_solving", "id": 1855180}], "successors": [{"name": "Tall_tales", "id": 28654349}, {"name": "Dream", "id": 38277172}]}
+{"name": "Imagination", "id": 3368800, "predecessors": [{"name": "Cognition", "id": 1055995}, {"name": "Logic", "id": 693678}], "successors": [{"name": "Tall_tales", "id": 28654349}, {"name": "Dream", "id": 38277172}]}

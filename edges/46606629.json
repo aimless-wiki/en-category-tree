@@ -1,1 +1,1 @@
-{"name": "Ransomware", "id": 46606629, "predecessors": [{"name": "Abuse", "id": 691808}, {"name": "Wikipedia_categorization", "id": 1036222}], "successors": []}
+{"name": "Ransomware", "id": 46606629, "predecessors": [{"name": "Cryptography", "id": 692160}, {"name": "Abuse", "id": 691808}, {"name": "Wikipedia_categorization", "id": 1036222}], "successors": []}

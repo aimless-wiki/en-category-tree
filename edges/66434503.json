@@ -1,1 +1,1 @@
-{"name": "Youth_suicides", "id": 66434503, "predecessors": [{"name": "Causes_of_death", "id": 5271061}], "successors": []}
+{"name": "Youth_suicides", "id": 66434503, "predecessors": [{"name": "Youth", "id": 6913424}, {"name": "Causes_of_death", "id": 5271061}], "successors": []}

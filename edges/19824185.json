@@ -1,1 +1,1 @@
-{"name": "Tropical_fruit", "id": 19824185, "predecessors": [{"name": "Edible_fruits", "id": 39951547}, {"name": "Tropical_agriculture", "id": 3414259}, {"name": "Habitats", "id": 12244798}], "successors": []}
+{"name": "Tropical_fruit", "id": 19824185, "predecessors": [{"name": "Edible_fruits", "id": 39951547}, {"name": "Tropical_agriculture", "id": 3414259}, {"name": "Habitats", "id": 12244798}], "successors": [{"name": "Citrus", "id": 1505085}]}

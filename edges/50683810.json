@@ -1,1 +1,1 @@
-{"name": "Monotypic_Diptera_genera", "id": 50683810, "predecessors": [{"name": "Monotypic_insect_genera", "id": 42171802}, {"name": "Insect_genera", "id": 42171808}], "successors": [{"name": "Monotypic_Brachycera_genera", "id": 57397925}]}
+{"name": "Monotypic_Diptera_genera", "id": 50683810, "predecessors": [{"name": "Monotypic_insect_genera", "id": 42171802}, {"name": "Biology", "id": 692675}], "successors": [{"name": "Monotypic_Brachycera_genera", "id": 57397925}]}

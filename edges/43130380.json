@@ -1,1 +1,1 @@
-{"name": "Fifty-cent_coins", "id": 43130380, "predecessors": [{"name": "Coins", "id": 904510}, {"name": "Integers", "id": 736448}], "successors": []}
+{"name": "Fifty-cent_coins", "id": 43130380, "predecessors": [{"name": "Coins", "id": 904510}, {"name": "Denominations_(currency)", "id": 43148267}, {"name": "Integers", "id": 736448}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Sports_sedans", "id": 13437671, "predecessors": [{"name": "Sedans", "id": 3388736}, {"name": "Classification_systems", "id": 3615452}], "successors": []}
+{"name": "Sports_sedans", "id": 13437671, "predecessors": [{"name": "Sedans", "id": 3388736}, {"name": "Sports_cars", "id": 695196}, {"name": "Comparisons", "id": 984353}], "successors": []}

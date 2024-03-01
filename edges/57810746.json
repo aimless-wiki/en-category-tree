@@ -1,1 +1,1 @@
-{"name": "FK_Riteriai_players", "id": 57810746, "predecessors": [{"name": "Cultural_lists", "id": 9592135}, {"name": "Wikipedia_categorization", "id": 1036222}], "successors": []}
+{"name": "FK_Riteriai_players", "id": 57810746, "predecessors": [{"name": "Wikipedia_categorization", "id": 1036222}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Horse_anatomy", "id": 3540343, "predecessors": [{"name": "Mammal_anatomy", "id": 9963290}, {"name": "Integers", "id": 736448}], "successors": []}
+{"name": "Horse_anatomy", "id": 3540343, "predecessors": [{"name": "Mammal_anatomy", "id": 9963290}, {"name": "Biology", "id": 692675}], "successors": []}

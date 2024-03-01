@@ -1,1 +1,1 @@
-{"name": "Metal_bridges_in_the_United_States", "id": 55532922, "predecessors": [{"name": "Buildings_and_structures_by_type", "id": 6884364}, {"name": "Metalworking", "id": 1069682}], "successors": []}
+{"name": "Metal_bridges_in_the_United_States", "id": 55532922, "predecessors": [{"name": "Bridges", "id": 706304}, {"name": "Metalworking", "id": 1069682}], "successors": [{"name": "Steel_bridges_in_the_United_States", "id": 48411196}, {"name": "Iron_bridges_in_the_United_States", "id": 55467168}, {"name": "Wrought_iron_bridges_in_the_United_States", "id": 55467429}]}

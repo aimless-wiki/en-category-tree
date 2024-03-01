@@ -1,1 +1,1 @@
-{"name": "Medical_scales", "id": 5993801, "predecessors": [{"name": "Medical_tests", "id": 1075994}, {"name": "Classification_systems", "id": 3615452}], "successors": [{"name": "Medical_scoring_system", "id": 11867211}]}
+{"name": "Medical_scales", "id": 5993801, "predecessors": [{"name": "Medical_tests", "id": 1075994}, {"name": "Comparisons", "id": 984353}], "successors": [{"name": "Medical_scoring_system", "id": 11867211}]}

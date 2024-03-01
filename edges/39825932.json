@@ -1,1 +1,1 @@
-{"name": "Bus_transport_in_Sydney", "id": 39825932, "predecessors": [{"name": "Public_transport", "id": 700497}, {"name": "Economic_geography", "id": 2021084}, {"name": "Landforms", "id": 705424}], "successors": []}
+{"name": "Bus_transport_in_Sydney", "id": 39825932, "predecessors": [{"name": "Public_transport", "id": 700497}, {"name": "Road_transport", "id": 700964}, {"name": "Wikipedia_categorization", "id": 1036222}], "successors": []}

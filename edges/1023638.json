@@ -1,1 +1,1 @@
-{"name": "Anti-tank_weapons", "id": 1023638, "predecessors": [{"name": "Causes_of_death", "id": 5271061}], "successors": [{"name": "Anti-tank_rockets", "id": 1935053}, {"name": "Anti-tank_mines", "id": 15248996}, {"name": "World_War_II_anti-tank_guns", "id": 1940645}, {"name": "Anti-tank_regiments_of_the_Royal_Artillery", "id": 43505599}]}
+{"name": "Anti-tank_weapons", "id": 1023638, "predecessors": [{"name": "Causes_of_death", "id": 5271061}], "successors": [{"name": "Anti-tank_rockets", "id": 1935053}, {"name": "Anti-tank_mines", "id": 15248996}]}

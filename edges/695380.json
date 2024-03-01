@@ -1,1 +1,1 @@
-{"name": "Fluoroquinolone_antibiotics", "id": 695380, "predecessors": [{"name": "Enzyme_inhibitors", "id": 19642097}, {"name": "Aromatic_ketones", "id": 23271655}, {"name": "Fluoroarenes", "id": 46615367}], "successors": []}
+{"name": "Fluoroquinolone_antibiotics", "id": 695380, "predecessors": [{"name": "Aromatic_ketones", "id": 23271655}, {"name": "Fluoroarenes", "id": 46615367}], "successors": []}

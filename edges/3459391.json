@@ -1,1 +1,1 @@
-{"name": "Hydrogen", "id": 3459391, "predecessors": [{"name": "Chemical_elements", "id": 691255}, {"name": "Fuels", "id": 770810}, {"name": "Industrial_gases", "id": 27086455}], "successors": [{"name": "Hydrogen_compounds", "id": 1675024}, {"name": "Hydrogen_technologies", "id": 6850141}]}
+{"name": "Hydrogen", "id": 3459391, "predecessors": [{"name": "Chemical_elements", "id": 691255}, {"name": "Fuels", "id": 770810}, {"name": "Atomic_physics", "id": 697256}], "successors": [{"name": "Hydrogen_compounds", "id": 1675024}, {"name": "Hydrogen_technologies", "id": 6850141}]}

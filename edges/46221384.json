@@ -1,1 +1,1 @@
-{"name": "Fictional_impostors", "id": 46221384, "predecessors": [{"name": "Fraud", "id": 737192}, {"name": "Fiction", "id": 692981}, {"name": "Crime", "id": 1183180}], "successors": []}
+{"name": "Fictional_impostors", "id": 46221384, "predecessors": [{"name": "Impostors", "id": 740877}, {"name": "Fiction", "id": 692981}, {"name": "Crime", "id": 1183180}, {"name": "Fictional_criminals", "id": 3939114}], "successors": []}

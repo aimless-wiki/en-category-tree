@@ -1,1 +1,1 @@
-{"name": "Field_regiments_of_the_Royal_Artillery", "id": 43478828, "predecessors": [{"name": "Royal_Artillery_regiments", "id": 6987116}, {"name": "Field_artillery", "id": 1691149}], "successors": []}
+{"name": "Field_regiments_of_the_Royal_Artillery", "id": 43478828, "predecessors": [{"name": "Ballistics", "id": 981903}, {"name": "Field_artillery", "id": 1691149}], "successors": []}

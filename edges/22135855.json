@@ -1,1 +1,1 @@
-{"name": "Munich_S-Bahn_stations", "id": 22135855, "predecessors": [{"name": "Railway_stations_in_Munich", "id": 27577870}, {"name": "Economic_geography", "id": 2021084}, {"name": "Passenger_rail_transport", "id": 5356605}], "successors": []}
+{"name": "Munich_S-Bahn_stations", "id": 22135855, "predecessors": [{"name": "Railway_stations_in_Munich", "id": 27577870}, {"name": "Passenger_rail_transport", "id": 5356605}, {"name": "Infrastructure", "id": 2962329}], "successors": []}

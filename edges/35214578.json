@@ -1,1 +1,1 @@
-{"name": "Art_gallery_districts", "id": 35214578, "predecessors": [{"name": "Buildings_and_structures_by_type", "id": 6884364}, {"name": "Design", "id": 999651}], "successors": [{"name": "Museum_Planning_Area", "id": 8331249}]}
+{"name": "Art_gallery_districts", "id": 35214578, "predecessors": [{"name": "Arts_districts", "id": 22746207}, {"name": "Design", "id": 999651}], "successors": [{"name": "Museum_Planning_Area", "id": 8331249}]}

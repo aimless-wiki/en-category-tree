@@ -1,1 +1,1 @@
-{"name": "Antiques", "id": 967321, "predecessors": [{"name": "Collecting", "id": 1053587}, {"name": "Art_history", "id": 707612}], "successors": [{"name": "Replica_ships", "id": 5284480}]}
+{"name": "Antiques", "id": 967321, "predecessors": [{"name": "Collecting", "id": 1053587}, {"name": "Art_history", "id": 707612}], "successors": [{"name": "Replica_ships", "id": 5284480}, {"name": "Replica_aircraft", "id": 19013374}]}

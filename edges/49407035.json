@@ -1,1 +1,1 @@
-{"name": "Knife_attacks", "id": 49407035, "predecessors": [{"name": "Knives", "id": 895457}, {"name": "Violence", "id": 692173}, {"name": "Human_behavior", "id": 2524202}], "successors": [{"name": "Terrorist_incidents_involving_knife_attacks", "id": 44455773}]}
+{"name": "Knife_attacks", "id": 49407035, "predecessors": [{"name": "Knives", "id": 895457}, {"name": "Conflict_(process)", "id": 4168920}], "successors": [{"name": "Terrorist_incidents_involving_knife_attacks", "id": 44455773}]}

@@ -1,1 +1,1 @@
-{"name": "Fast-food_poultry_restaurants", "id": 2352424, "predecessors": [{"name": "Fast_food", "id": 730141}, {"name": "Restaurants_by_type", "id": 15748273}], "successors": []}
+{"name": "Fast-food_poultry_restaurants", "id": 2352424, "predecessors": [{"name": "Fast_food", "id": 730141}, {"name": "Poultry_companies", "id": 43335624}], "successors": []}

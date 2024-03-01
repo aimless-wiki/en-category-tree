@@ -1,1 +1,1 @@
-{"name": "Action-adventure_comics", "id": 18716239, "predecessors": [{"name": "Adventure_comics", "id": 41679111}, {"name": "Entertainment", "id": 693016}, {"name": "Outdoor_recreation", "id": 1451342}], "successors": [{"name": "Transformers_comics", "id": 7867491}]}
+{"name": "Action-adventure_comics", "id": 18716239, "predecessors": [{"name": "Adventure_comics", "id": 41679111}, {"name": "Entertainment", "id": 693016}, {"name": "Fiction_by_genre", "id": 5740366}], "successors": [{"name": "Transformers_comics", "id": 7867491}]}

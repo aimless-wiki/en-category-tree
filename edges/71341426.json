@@ -1,1 +1,1 @@
-{"name": "Start-Class_Lichen_task_force_articles", "id": 71341426, "predecessors": [{"name": "Contents", "id": 14105005}, {"name": "Lichen_task_force_articles", "id": 71339758}], "successors": []}
+{"name": "Start-Class_Lichen_task_force_articles", "id": 71341426, "predecessors": [{"name": "Start-Class_articles", "id": 5543222}, {"name": "Lichen_task_force_articles", "id": 71339758}], "successors": []}

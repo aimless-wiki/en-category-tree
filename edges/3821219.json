@@ -1,1 +1,1 @@
-{"name": "Blog_hosting_services", "id": 3821219, "predecessors": [{"name": "Social_software", "id": 30242083}, {"name": "Politics_and_technology", "id": 990890}], "successors": [{"name": "Twitter", "id": 13467477}]}
+{"name": "Blog_hosting_services", "id": 3821219, "predecessors": [{"name": "Social_software", "id": 30242083}, {"name": "Web_hosting", "id": 1084677}, {"name": "Politics_and_technology", "id": 990890}], "successors": [{"name": "Twitter", "id": 13467477}]}

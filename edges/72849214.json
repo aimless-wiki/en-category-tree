@@ -1,1 +1,1 @@
-{"name": "Highways_in_Costa_Rica", "id": 72849214, "predecessors": [{"name": "Land_tenure", "id": 49153374}], "successors": []}
+{"name": "Highways_in_Costa_Rica", "id": 72849214, "predecessors": [{"name": "Road_infrastructure", "id": 2963113}, {"name": "Land_tenure", "id": 49153374}], "successors": []}

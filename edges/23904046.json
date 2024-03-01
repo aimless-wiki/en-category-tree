@@ -1,1 +1,1 @@
-{"name": "Sibling_musical_duos", "id": 23904046, "predecessors": [{"name": "Duos", "id": 3815961}], "successors": [{"name": "Twin_musical_duos", "id": 62565831}]}
+{"name": "Sibling_musical_duos", "id": 23904046, "predecessors": [{"name": "Family_musical_groups", "id": 4487529}, {"name": "Sibling_musical_groups", "id": 45021053}, {"name": "Duos", "id": 3815961}], "successors": [{"name": "Twin_musical_duos", "id": 62565831}]}

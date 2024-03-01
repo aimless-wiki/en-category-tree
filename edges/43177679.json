@@ -1,1 +1,1 @@
-{"name": "Twenty-base-unit_banknotes", "id": 43177679, "predecessors": [{"name": "Currency", "id": 1626296}, {"name": "Integers", "id": 736448}], "successors": []}
+{"name": "Twenty-base-unit_banknotes", "id": 43177679, "predecessors": [{"name": "Denominations_(currency)", "id": 43148267}, {"name": "Integers", "id": 736448}], "successors": []}

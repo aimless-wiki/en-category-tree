@@ -1,1 +1,1 @@
-{"name": "Japanese_stage_actresses", "id": 38643581, "predecessors": [{"name": "Entertainment", "id": 693016}], "successors": [{"name": "Japanese_musical_theatre_actresses", "id": 38797149}]}
+{"name": "Japanese_stage_actresses", "id": 38643581, "predecessors": [{"name": "Culture", "id": 694861}, {"name": "Japanese_actresses", "id": 38449639}], "successors": [{"name": "Japanese_musical_theatre_actresses", "id": 38797149}]}
