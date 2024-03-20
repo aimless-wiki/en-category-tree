@@ -1,1 +1,1 @@
-{"name": "Oxygen", "id": 8128346, "predecessors": [{"name": "Chemical_elements", "id": 691255}, {"name": "Industrial_gases", "id": 27086455}, {"name": "Periodic_table", "id": 727142}, {"name": "Atomic_physics", "id": 697256}], "successors": [{"name": "Combustion", "id": 3022121}]}
+{"name": "Oxygen", "id": 8128346, "predecessors": [{"name": "Breathing_gases", "id": 7256780}, {"name": "Chemical_elements", "id": 691255}, {"name": "Periodic_table", "id": 727142}, {"name": "Atomic_physics", "id": 697256}], "successors": [{"name": "Combustion", "id": 3022121}]}

@@ -1,1 +1,1 @@
-{"name": "FK_Metalurg_Skopje_players", "id": 30455274, "predecessors": [{"name": "Football_clubs_in_North_Macedonia", "id": 34431534}, {"name": "European_culture", "id": 709679}], "successors": []}
+{"name": "FK_Metalurg_Skopje_players", "id": 30455274, "predecessors": [{"name": "Football_clubs_in_North_Macedonia", "id": 34431534}, {"name": "Countries_in_Europe", "id": 37691805}], "successors": []}

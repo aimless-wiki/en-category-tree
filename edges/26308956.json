@@ -1,1 +1,1 @@
-{"name": "FK_Chmel_Blšany_players", "id": 26308956, "predecessors": [{"name": "Districts_of_the_Czech_Republic", "id": 2114570}, {"name": "Wikipedia_categorization", "id": 1036222}], "successors": []}
+{"name": "FK_Chmel_Blšany_players", "id": 26308956, "predecessors": [{"name": "Districts_of_the_Czech_Republic", "id": 2114570}, {"name": "Culture", "id": 694861}], "successors": []}

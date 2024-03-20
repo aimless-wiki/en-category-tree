@@ -1,1 +1,1 @@
-{"name": "Scottish_films", "id": 8088730, "predecessors": [{"name": "Scottish_culture", "id": 724317}, {"name": "Culture", "id": 694861}], "successors": [{"name": "Films_set_in_Scotland", "id": 16361647}]}
+{"name": "Scottish_films", "id": 8088730, "predecessors": [{"name": "Culture_of_Scotland", "id": 724317}, {"name": "Culture", "id": 694861}], "successors": [{"name": "Films_set_in_Scotland", "id": 16361647}, {"name": "English-language_Scottish_films", "id": 70546416}]}

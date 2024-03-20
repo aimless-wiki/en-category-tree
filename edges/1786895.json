@@ -1,1 +1,1 @@
-{"name": "Cakes", "id": 1786895, "predecessors": [{"name": "Desserts", "id": 691015}, {"name": "Baked_foods", "id": 65696059}], "successors": [{"name": "Kue", "id": 46949870}, {"name": "Rice_cakes", "id": 63035502}, {"name": "Sponge_cakes", "id": 65166169}, {"name": "Layer_cakes", "id": 65166223}]}
+{"name": "Cakes", "id": 1786895, "predecessors": [{"name": "Baked_foods", "id": 65696059}], "successors": [{"name": "Kue", "id": 46949870}, {"name": "Rice_cakes", "id": 63035502}, {"name": "Sponge_cakes", "id": 65166169}, {"name": "Layer_cakes", "id": 65166223}]}

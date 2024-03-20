@@ -1,1 +1,1 @@
-{"name": "Prehistoric_cynodont_genera", "id": 68763602, "predecessors": [{"name": "Prehistoric_therapsid_genera", "id": 55672730}, {"name": "Integers", "id": 736448}], "successors": [{"name": "Prehistoric_mammal_genera", "id": 49556002}]}
+{"name": "Prehistoric_cynodont_genera", "id": 68763602, "predecessors": [{"name": "Prehistoric_therapsid_genera", "id": 55672730}, {"name": "Biology", "id": 692675}], "successors": [{"name": "Prehistoric_mammal_genera", "id": 49556002}]}

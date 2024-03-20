@@ -1,1 +1,1 @@
-{"name": "Roll-and-move_board_games", "id": 7407622, "predecessors": [{"name": "Dice_games", "id": 784347}], "successors": [{"name": "Monopoly_(game)", "id": 6054499}]}
+{"name": "Roll-and-move_board_games", "id": 7407622, "predecessors": [{"name": "Dice_games", "id": 784347}, {"name": "Board_games", "id": 9205892}], "successors": [{"name": "Monopoly_(game)", "id": 6054499}]}

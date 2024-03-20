@@ -1,1 +1,1 @@
-{"name": "Beta_blockers", "id": 703196, "predecessors": [{"name": "Antihypertensive_agents", "id": 718652}, {"name": "Angiology", "id": 1482803}, {"name": "Neuroscience", "id": 714648}], "successors": []}
+{"name": "Beta_blockers", "id": 703196, "predecessors": [{"name": "Antiarrhythmic_agents", "id": 699517}, {"name": "Antihypertensive_agents", "id": 718652}, {"name": "G_protein-coupled_receptors", "id": 719555}, {"name": "Angiology", "id": 1482803}, {"name": "Drugs", "id": 1325883}, {"name": "Neuroscience", "id": 714648}], "successors": []}

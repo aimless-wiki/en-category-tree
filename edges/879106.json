@@ -1,1 +1,1 @@
-{"name": "Antifungals", "id": 879106, "predecessors": [{"name": "Fungicides", "id": 1099904}, {"name": "Manufacturing", "id": 867519}, {"name": "Infectious_diseases", "id": 707355}], "successors": []}
+{"name": "Antifungals", "id": 879106, "predecessors": [{"name": "Fungicides", "id": 1099904}, {"name": "Medicinal_chemistry", "id": 2161858}, {"name": "Infectious_diseases", "id": 707355}], "successors": []}

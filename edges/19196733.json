@@ -1,1 +1,1 @@
-{"name": "Economics_and_climate_change", "id": 19196733, "predecessors": [{"name": "Climate_change_and_society", "id": 34332259}, {"name": "Environmental_economics", "id": 2364548}], "successors": [{"name": "Emissions_trading", "id": 24330375}]}
+{"name": "Economics_and_climate_change", "id": 19196733, "predecessors": [{"name": "Climate_change_and_society", "id": 34332259}, {"name": "Resource_economics", "id": 6544062}, {"name": "Environmental_economics", "id": 2364548}], "successors": [{"name": "Emissions_trading", "id": 24330375}]}

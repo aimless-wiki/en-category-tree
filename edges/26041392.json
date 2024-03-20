@@ -1,1 +1,1 @@
-{"name": "Deaths_from_appendicitis", "id": 26041392, "predecessors": [{"name": "Gastrointestinal_tract_disorders", "id": 32609584}], "successors": []}
+{"name": "Deaths_from_appendicitis", "id": 26041392, "predecessors": [{"name": "Gastrointestinal_tract_disorders", "id": 32609584}, {"name": "Causes_of_death", "id": 5271061}], "successors": []}

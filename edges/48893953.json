@@ -1,1 +1,1 @@
-{"name": "Cave_arachnids", "id": 48893953, "predecessors": [{"name": "Zoology", "id": 694590}, {"name": "Biological_classification", "id": 41221871}], "successors": [{"name": "Cave_spiders", "id": 17076302}]}
+{"name": "Cave_arachnids", "id": 48893953, "predecessors": [{"name": "Zoology", "id": 694590}], "successors": [{"name": "Cave_spiders", "id": 17076302}]}

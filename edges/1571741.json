@@ -1,1 +1,1 @@
-{"name": "Traumatology", "id": 1571741, "predecessors": [{"name": "Biomechanics", "id": 5103374}, {"name": "Emergency_medicine", "id": 846798}], "successors": [{"name": "Injuries", "id": 10158091}, {"name": "Neurotrauma", "id": 2979809}]}
+{"name": "Traumatology", "id": 1571741, "predecessors": [{"name": "Biomechanics", "id": 5103374}, {"name": "Emergency_medicine", "id": 846798}, {"name": "Surgery", "id": 804789}], "successors": [{"name": "Injuries", "id": 10158091}, {"name": "Neurotrauma", "id": 2979809}]}

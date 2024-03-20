@@ -1,1 +1,1 @@
-{"name": "Indoor_arenas_in_Spain", "id": 4706509, "predecessors": [{"name": "Performing_arts", "id": 991222}, {"name": "Architecture_in_Spain", "id": 3005350}], "successors": [{"name": "Basketball_venues_in_Spain", "id": 4706412}]}
+{"name": "Indoor_arenas_in_Spain", "id": 4706509, "predecessors": [{"name": "Performing_arts", "id": 991222}, {"name": "Architecture", "id": 708984}], "successors": [{"name": "Basketball_venues_in_Spain", "id": 4706412}]}

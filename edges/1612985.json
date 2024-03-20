@@ -1,1 +1,1 @@
-{"name": "H_II_regions", "id": 1612985, "predecessors": [{"name": "Emission_nebulae", "id": 948336}, {"name": "Meteorological_phenomena", "id": 38779805}], "successors": []}
+{"name": "H_II_regions", "id": 1612985, "predecessors": [{"name": "Emission_nebulae", "id": 948336}, {"name": "Astronomy", "id": 692915}], "successors": []}

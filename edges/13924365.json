@@ -1,1 +1,1 @@
-{"name": "Start-Class_Comics_creators_articles", "id": 13924365, "predecessors": [{"name": "Start-Class_articles", "id": 5543222}, {"name": "Start-Class_Comics_articles", "id": 7606765}, {"name": "Comics_creators_work_group_articles", "id": 13924349}], "successors": []}
+{"name": "Start-Class_Comics_creators_articles", "id": 13924365, "predecessors": [{"name": "Start-Class_Comics_articles", "id": 7606765}, {"name": "Comics_creators_work_group_articles", "id": 13924349}, {"name": "Contents", "id": 14105005}], "successors": []}

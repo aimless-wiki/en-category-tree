@@ -1,1 +1,1 @@
-{"name": "Start-Class_dermatology_articles", "id": 19730571, "predecessors": [{"name": "Start-Class_articles", "id": 5543222}, {"name": "Dermatology_task_force_articles", "id": 19730921}], "successors": []}
+{"name": "Start-Class_dermatology_articles", "id": 19730571, "predecessors": [{"name": "Dermatology_task_force_articles", "id": 19730921}, {"name": "Contents", "id": 14105005}], "successors": []}

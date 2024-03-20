@@ -1,1 +1,1 @@
-{"name": "Belgian_chess_players", "id": 1201477, "predecessors": [{"name": "Board_games", "id": 9205892}, {"name": "European_culture", "id": 709679}, {"name": "Culture", "id": 694861}], "successors": []}
+{"name": "Belgian_chess_players", "id": 1201477, "predecessors": [{"name": "Board_games", "id": 9205892}, {"name": "Culture_of_Europe", "id": 709679}, {"name": "Culture", "id": 694861}], "successors": []}

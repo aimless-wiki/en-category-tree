@@ -1,1 +1,1 @@
-{"name": "Start-Class_Animation_people_articles", "id": 31967535, "predecessors": [{"name": "Start-Class_articles", "id": 5543222}, {"name": "Start-Class_Animation_articles", "id": 16373821}, {"name": "Animation_people_work_group_articles", "id": 30808297}], "successors": []}
+{"name": "Start-Class_Animation_people_articles", "id": 31967535, "predecessors": [{"name": "Start-Class_Animation_articles", "id": 16373821}, {"name": "Animation_people_work_group_articles", "id": 30808297}, {"name": "Contents", "id": 14105005}], "successors": []}

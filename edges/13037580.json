@@ -1,1 +1,1 @@
-{"name": "Start-Class_philosopher_articles", "id": 13037580, "predecessors": [{"name": "Start-Class_articles", "id": 5543222}, {"name": "Philosophers_task_force_articles", "id": 12878109}], "successors": []}
+{"name": "Start-Class_philosopher_articles", "id": 13037580, "predecessors": [{"name": "Philosophers_task_force_articles", "id": 12878109}, {"name": "Contents", "id": 14105005}], "successors": []}

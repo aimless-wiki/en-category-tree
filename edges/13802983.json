@@ -1,1 +1,1 @@
-{"name": "Start-Class_history_articles", "id": 13802983, "predecessors": [{"name": "Start-Class_articles", "id": 5543222}, {"name": "WikiProject_History_articles", "id": 9774894}], "successors": [{"name": "Start-Class_European_history_articles", "id": 10016528}]}
+{"name": "Start-Class_history_articles", "id": 13802983, "predecessors": [{"name": "WikiProject_History_articles", "id": 9774894}, {"name": "Contents", "id": 14105005}], "successors": [{"name": "Start-Class_European_history_articles", "id": 10016528}]}

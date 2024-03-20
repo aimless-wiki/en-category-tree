@@ -1,1 +1,1 @@
-{"name": "Antiquarian_booksellers", "id": 11900440, "predecessors": [{"name": "Sales", "id": 4536131}, {"name": "Mass_media", "id": 696790}], "successors": []}
+{"name": "Antiquarian_booksellers", "id": 11900440, "predecessors": [{"name": "Bookselling", "id": 13123053}], "successors": []}

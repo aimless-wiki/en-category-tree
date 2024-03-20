@@ -1,1 +1,1 @@
-{"name": "Chemical_bonding", "id": 1922892, "predecessors": [{"name": "Condensed_matter_physics", "id": 692176}, {"name": "Academic_disciplines", "id": 693763}], "successors": [{"name": "Intermolecular_forces", "id": 13785138}]}
+{"name": "Chemical_bonding", "id": 1922892, "predecessors": [{"name": "Condensed_matter_physics", "id": 692176}, {"name": "Chemistry", "id": 691185}], "successors": [{"name": "Intermolecular_forces", "id": 13785138}]}

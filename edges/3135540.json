@@ -1,1 +1,1 @@
-{"name": "Photometry", "id": 3135540, "predecessors": [{"name": "Lighting", "id": 927824}, {"name": "Optics", "id": 692743}, {"name": "Applied_and_interdisciplinary_physics", "id": 1913676}], "successors": [{"name": "Color_space", "id": 916744}, {"name": "Color", "id": 979606}]}
+{"name": "Photometry", "id": 3135540, "predecessors": [{"name": "Lighting", "id": 927824}, {"name": "Metrology", "id": 7497600}, {"name": "Applied_and_interdisciplinary_physics", "id": 1913676}], "successors": [{"name": "Color_space", "id": 916744}, {"name": "Color", "id": 979606}]}

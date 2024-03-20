@@ -1,1 +1,1 @@
-{"name": "Start-Class_nephrology_articles", "id": 21038584, "predecessors": [{"name": "Start-Class_articles", "id": 5543222}, {"name": "Nephrology_task_force_articles", "id": 21038436}], "successors": []}
+{"name": "Start-Class_nephrology_articles", "id": 21038584, "predecessors": [{"name": "Nephrology_task_force_articles", "id": 21038436}, {"name": "Contents", "id": 14105005}], "successors": []}

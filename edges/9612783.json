@@ -1,1 +1,1 @@
-{"name": "Economy_ministries", "id": 9612783, "predecessors": [{"name": "Contents", "id": 14105005}, {"name": "Legal_entities", "id": 1125732}], "successors": [{"name": "Trade_ministries", "id": 20569084}, {"name": "Commerce_and_Industry_Ministers_of_India", "id": 64959440}]}
+{"name": "Economy_ministries", "id": 9612783, "predecessors": [{"name": "Legal_entities", "id": 1125732}, {"name": "Contents", "id": 14105005}], "successors": [{"name": "Trade_ministries", "id": 20569084}, {"name": "Commerce_and_Industry_Ministers_of_India", "id": 64959440}]}

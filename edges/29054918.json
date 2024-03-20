@@ -1,1 +1,1 @@
-{"name": "Vulnerable_animals", "id": 29054918, "predecessors": [{"name": "Biodiversity", "id": 3568972}, {"name": "Ecology", "id": 691262}], "successors": [{"name": "Vulnerable_fauna_of_Asia", "id": 53188066}, {"name": "Vulnerable_fauna_of_Oceania", "id": 53465520}]}
+{"name": "Vulnerable_animals", "id": 29054918, "predecessors": [{"name": "Biodiversity", "id": 3568972}, {"name": "Environmental_protection", "id": 24946646}], "successors": [{"name": "Vulnerable_fauna_of_Asia", "id": 53188066}, {"name": "Vulnerable_fauna_of_Oceania", "id": 53465520}]}

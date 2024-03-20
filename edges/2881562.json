@@ -1,1 +1,1 @@
-{"name": "Motorcycle_technology", "id": 2881562, "predecessors": [{"name": "Vehicle_technology", "id": 8345984}, {"name": "Land_tenure", "id": 49153374}], "successors": [{"name": "Motorcycle_engines", "id": 1913296}]}
+{"name": "Motorcycle_technology", "id": 2881562, "predecessors": [{"name": "Vehicle_technology", "id": 8345984}, {"name": "Land_tenure", "id": 49153374}], "successors": [{"name": "Motorcycle_engines", "id": 1913296}, {"name": "Shaft_drive_motorcycles", "id": 54730890}]}

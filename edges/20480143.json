@@ -1,1 +1,1 @@
-{"name": "FK_Zemun_players", "id": 20480143, "predecessors": [{"name": "Football_clubs_in_Belgrade", "id": 39408858}, {"name": "Wikipedia_categorization", "id": 1036222}], "successors": []}
+{"name": "FK_Zemun_players", "id": 20480143, "predecessors": [{"name": "Football_clubs_in_Belgrade", "id": 39408858}, {"name": "Culture", "id": 694861}], "successors": []}

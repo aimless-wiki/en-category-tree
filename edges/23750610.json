@@ -1,1 +1,1 @@
-{"name": "Crisis_hotlines", "id": 23750610, "predecessors": [{"name": "Emergency_communication", "id": 7289148}, {"name": "Entertainment", "id": 693016}, {"name": "Decision-making", "id": 51600594}], "successors": []}
+{"name": "Crisis_hotlines", "id": 23750610, "predecessors": [{"name": "Emergency_communication", "id": 7289148}, {"name": "Entertainment", "id": 693016}, {"name": "Social_concepts", "id": 34119332}], "successors": []}

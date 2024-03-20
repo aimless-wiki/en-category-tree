@@ -1,1 +1,1 @@
-{"name": "Biological_stations", "id": 31477360, "predecessors": [{"name": "Research", "id": 1395115}], "successors": []}
+{"name": "Biological_stations", "id": 31477360, "predecessors": [{"name": "Biological_research_institutes", "id": 11496589}, {"name": "Research", "id": 1395115}], "successors": []}

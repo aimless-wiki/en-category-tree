@@ -1,1 +1,1 @@
-{"name": "Start-Class_Sherlock_Holmes_articles", "id": 16640541, "predecessors": [{"name": "Start-Class_articles", "id": 5543222}, {"name": "Sherlock_Holmes_articles", "id": 16640825}], "successors": []}
+{"name": "Start-Class_Sherlock_Holmes_articles", "id": 16640541, "predecessors": [{"name": "Sherlock_Holmes_articles", "id": 16640825}, {"name": "Contents", "id": 14105005}], "successors": []}

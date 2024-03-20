@@ -1,1 +1,1 @@
-{"name": "FK_Sloboda_Užice_players", "id": 27962518, "predecessors": [{"name": "Football_clubs_in_Serbia", "id": 34432988}, {"name": "Wikipedia_categorization", "id": 1036222}], "successors": []}
+{"name": "FK_Sloboda_Užice_players", "id": 27962518, "predecessors": [{"name": "Football_clubs_in_Serbia", "id": 34432988}, {"name": "Culture", "id": 694861}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Sports_car_races", "id": 21763842, "predecessors": [{"name": "Sports_car_racing", "id": 4887708}, {"name": "Individual_sports", "id": 862248}], "successors": [{"name": "12_Hours_of_Sebring", "id": 10064018}, {"name": "24_Hours_of_Daytona", "id": 25172549}]}
+{"name": "Sports_car_races", "id": 21763842, "predecessors": [{"name": "Sports_car_racing", "id": 4887708}, {"name": "Competitions", "id": 737119}], "successors": [{"name": "12_Hours_of_Sebring", "id": 10064018}, {"name": "24_Hours_of_Daytona", "id": 25172549}]}

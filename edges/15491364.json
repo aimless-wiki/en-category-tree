@@ -1,1 +1,1 @@
-{"name": "Start-Class_Aruba_articles", "id": 15491364, "predecessors": [{"name": "Start-Class_articles", "id": 5543222}, {"name": "Aruba_articles", "id": 15491197}], "successors": []}
+{"name": "Start-Class_Aruba_articles", "id": 15491364, "predecessors": [{"name": "Aruba_articles", "id": 15491197}, {"name": "Contents", "id": 14105005}], "successors": []}

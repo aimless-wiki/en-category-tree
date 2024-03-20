@@ -1,1 +1,1 @@
-{"name": "African_slave_traders", "id": 39730854, "predecessors": [{"name": "African_slave_trade", "id": 12733027}, {"name": "African_studies", "id": 5841323}, {"name": "Crimes", "id": 694944}], "successors": []}
+{"name": "African_slave_traders", "id": 39730854, "predecessors": [{"name": "African_slave_trade", "id": 12733027}, {"name": "Occupations", "id": 787658}, {"name": "Human_rights_abuses", "id": 716087}, {"name": "Commodity_markets", "id": 42311854}], "successors": []}

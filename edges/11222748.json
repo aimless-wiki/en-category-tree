@@ -1,1 +1,1 @@
-{"name": "Digital_card_games", "id": 11222748, "predecessors": [{"name": "Game_artificial_intelligence", "id": 5765514}, {"name": "Strategy_video_games", "id": 10249117}, {"name": "Entertainment", "id": 693016}], "successors": [{"name": "Digital_collectible_card_games", "id": 55476740}]}
+{"name": "Digital_card_games", "id": 11222748, "predecessors": [{"name": "Game_artificial_intelligence", "id": 5765514}, {"name": "Board_games", "id": 9205892}, {"name": "Strategy_video_games", "id": 10249117}], "successors": [{"name": "Digital_collectible_card_games", "id": 55476740}]}

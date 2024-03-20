@@ -1,1 +1,1 @@
-{"name": "Normal_distribution", "id": 31024872, "predecessors": [{"name": "Exponential_family_distributions", "id": 35718126}, {"name": "Exponentials", "id": 1158544}], "successors": []}
+{"name": "Normal_distribution", "id": 31024872, "predecessors": [{"name": "Exponentials", "id": 1158544}], "successors": []}

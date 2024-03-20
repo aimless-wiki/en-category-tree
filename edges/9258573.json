@@ -1,1 +1,1 @@
-{"name": "Macrocycles", "id": 9258573, "predecessors": [{"name": "Hydrogen_compounds", "id": 1675024}, {"name": "Manufacturing", "id": 867519}], "successors": [{"name": "Tetrapyrroles", "id": 4452300}, {"name": "Cyclic_peptides", "id": 39353130}]}
+{"name": "Macrocycles", "id": 9258573, "predecessors": [{"name": "Hydrogen_compounds", "id": 1675024}], "successors": [{"name": "Tetrapyrroles", "id": 4452300}, {"name": "Cyclic_peptides", "id": 39353130}]}

@@ -1,1 +1,1 @@
-{"name": "Trojan_horses", "id": 3606553, "predecessors": [{"name": "Wikipedia_categorization", "id": 1036222}], "successors": [{"name": "Windows_trojans", "id": 11283882}]}
+{"name": "Trojan_horses", "id": 3606553, "predecessors": [{"name": "Malware", "id": 802145}], "successors": [{"name": "Windows_trojans", "id": 11283882}]}

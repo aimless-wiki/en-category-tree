@@ -1,1 +1,1 @@
-{"name": "MSX2_games", "id": 49208708, "predecessors": [{"name": "Computer_architecture", "id": 869984}, {"name": "Microsoft", "id": 695113}, {"name": "Personal_computers", "id": 707673}, {"name": "Computing_platforms", "id": 973745}], "successors": []}
+{"name": "MSX2_games", "id": 49208708, "predecessors": [{"name": "Home_computers", "id": 707669}, {"name": "Microsoft", "id": 695113}, {"name": "Personal_computers", "id": 707673}, {"name": "Computing_platforms", "id": 973745}], "successors": []}

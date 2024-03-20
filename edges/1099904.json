@@ -1,1 +1,1 @@
-{"name": "Fungicides", "id": 1099904, "predecessors": [{"name": "Pesticides", "id": 1891566}, {"name": "Biology", "id": 692675}, {"name": "Anthropology", "id": 694863}], "successors": [{"name": "Antifungals", "id": 879106}]}
+{"name": "Fungicides", "id": 1099904, "predecessors": [{"name": "Pesticides", "id": 1891566}, {"name": "Cultural_anthropology", "id": 715355}, {"name": "Toxicology", "id": 1043816}], "successors": [{"name": "Antifungals", "id": 879106}]}

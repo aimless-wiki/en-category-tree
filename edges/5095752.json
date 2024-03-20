@@ -1,1 +1,1 @@
-{"name": "Protective_gear", "id": 5095752, "predecessors": [{"name": "Safety_equipment", "id": 1206445}, {"name": "Contents", "id": 14105005}], "successors": [{"name": "Helmets", "id": 750903}, {"name": "Safety_clothing", "id": 1041377}, {"name": "Body_armor", "id": 11665620}]}
+{"name": "Protective_gear", "id": 5095752, "predecessors": [{"name": "Safety_equipment", "id": 1206445}, {"name": "Contents", "id": 14105005}], "successors": [{"name": "Safety_clothing", "id": 1041377}, {"name": "Body_armor", "id": 11665620}]}

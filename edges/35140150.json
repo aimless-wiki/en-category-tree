@@ -1,1 +1,1 @@
-{"name": "Analytical_chemists", "id": 35140150, "predecessors": [{"name": "Analytical_chemistry", "id": 695001}, {"name": "Academic_disciplines", "id": 693763}], "successors": [{"name": "Spectroscopists", "id": 11450969}]}
+{"name": "Analytical_chemists", "id": 35140150, "predecessors": [{"name": "Analytical_chemistry", "id": 695001}, {"name": "Chemistry", "id": 691185}], "successors": [{"name": "Spectroscopists", "id": 11450969}]}

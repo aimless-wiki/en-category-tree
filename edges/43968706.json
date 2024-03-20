@@ -1,1 +1,1 @@
-{"name": "Manual_therapy", "id": 43968706, "predecessors": [{"name": "Alternative_medical_treatments", "id": 20085242}], "successors": [{"name": "Massage_therapy", "id": 27063498}]}
+{"name": "Manual_therapy", "id": 43968706, "predecessors": [{"name": "Alternative_medical_treatments", "id": 20085242}, {"name": "Physical_therapy", "id": 7973397}], "successors": [{"name": "Massage_therapy", "id": 27063498}, {"name": "Osteopathic_medical_schools_in_the_United_States", "id": 12122917}, {"name": "Exercise_physiology", "id": 3836350}]}

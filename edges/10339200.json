@@ -1,1 +1,1 @@
-{"name": "Serotonin_receptor_agonists", "id": 10339200, "predecessors": [{"name": "Neurochemistry", "id": 4351941}, {"name": "G_protein-coupled_receptors", "id": 719555}], "successors": [{"name": "5-HT1A_agonists", "id": 24631766}]}
+{"name": "Serotonin_receptor_agonists", "id": 10339200, "predecessors": [{"name": "Neurochemistry", "id": 4351941}, {"name": "Drugs", "id": 1325883}], "successors": [{"name": "5-HT1A_agonists", "id": 24631766}]}

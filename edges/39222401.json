@@ -1,1 +1,1 @@
-{"name": "Teen_adventure_films", "id": 39222401, "predecessors": [{"name": "Fiction_by_genre", "id": 5740366}, {"name": "Human_development", "id": 981229}], "successors": []}
+{"name": "Teen_adventure_films", "id": 39222401, "predecessors": [{"name": "Film_genres", "id": 3008852}, {"name": "Human_development", "id": 981229}], "successors": []}

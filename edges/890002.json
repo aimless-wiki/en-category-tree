@@ -1,1 +1,1 @@
-{"name": "Nicotinic_agonists", "id": 890002, "predecessors": [{"name": "Neuroscience", "id": 714648}], "successors": []}
+{"name": "Nicotinic_agonists", "id": 890002, "predecessors": [{"name": "Cell_signaling", "id": 5754178}, {"name": "Neuroscience", "id": 714648}, {"name": "Drugs", "id": 1325883}], "successors": []}

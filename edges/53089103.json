@@ -1,1 +1,1 @@
-{"name": "Capital_requirement", "id": 53089103, "predecessors": [{"name": "Bank_regulation", "id": 27607225}, {"name": "Business_law", "id": 1203387}, {"name": "Capital_(economics)", "id": 41030206}], "successors": []}
+{"name": "Capital_requirement", "id": 53089103, "predecessors": [{"name": "Bank_regulation", "id": 27607225}, {"name": "Insurance", "id": 873395}, {"name": "Capital_(economics)", "id": 41030206}], "successors": []}

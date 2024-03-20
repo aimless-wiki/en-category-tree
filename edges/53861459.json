@@ -1,1 +1,1 @@
-{"name": "Scientists_from_Michigan", "id": 53861459, "predecessors": [{"name": "American_scientists", "id": 1086176}], "successors": [{"name": "Scientists_from_Detroit", "id": 51345116}]}
+{"name": "Scientists_from_Michigan", "id": 53861459, "predecessors": [{"name": "American_scientists", "id": 1086176}, {"name": "Contiguous_United_States", "id": 69260338}, {"name": "First-level_administrative_divisions_by_country", "id": 8420344}], "successors": [{"name": "Scientists_from_Detroit", "id": 51345116}]}

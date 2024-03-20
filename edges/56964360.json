@@ -1,1 +1,1 @@
-{"name": "FK_RFS_players", "id": 56964360, "predecessors": [{"name": "Legal_entities", "id": 1125732}, {"name": "Wikipedia_categorization", "id": 1036222}], "successors": []}
+{"name": "FK_RFS_players", "id": 56964360, "predecessors": [{"name": "Legal_entities", "id": 1125732}, {"name": "Culture", "id": 694861}], "successors": []}

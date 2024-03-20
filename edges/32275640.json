@@ -1,1 +1,1 @@
-{"name": "People_executed_at_Tyburn", "id": 32275640, "predecessors": [{"name": "London_crime_history", "id": 39527114}, {"name": "English_law", "id": 805703}], "successors": []}
+{"name": "People_executed_at_Tyburn", "id": 32275640, "predecessors": [{"name": "London_crime_history", "id": 39527114}, {"name": "English_criminal_law", "id": 4900914}, {"name": "Capital_punishment", "id": 3519519}], "successors": []}

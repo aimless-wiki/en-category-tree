@@ -1,1 +1,1 @@
-{"name": "Jidaigeki_films", "id": 2492547, "predecessors": [{"name": "Film_genres", "id": 3008852}, {"name": "Culture", "id": 694861}], "successors": [{"name": "Samurai_films", "id": 1304355}]}
+{"name": "Jidaigeki_films", "id": 2492547, "predecessors": [{"name": "Culture_of_Japan", "id": 692609}, {"name": "Film_genres", "id": 3008852}, {"name": "Films_set_in_Japan", "id": 14562779}, {"name": "19th-century_inventions", "id": 60404974}], "successors": [{"name": "Samurai_films", "id": 1304355}]}

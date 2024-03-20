@@ -1,1 +1,1 @@
-{"name": "Chemistry-related_lists", "id": 37358209, "predecessors": [{"name": "Science-related_lists", "id": 4677661}], "successors": [{"name": "Drug-related_lists", "id": 4024971}]}
+{"name": "Chemistry-related_lists", "id": 37358209, "predecessors": [{"name": "Chemistry", "id": 691185}, {"name": "Science-related_lists", "id": 4677661}], "successors": [{"name": "Chemical_data_pages", "id": 2604070}, {"name": "Drug-related_lists", "id": 4024971}]}

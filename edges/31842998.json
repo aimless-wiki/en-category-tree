@@ -1,1 +1,1 @@
-{"name": "World_Surf_League", "id": 31842998, "predecessors": [{"name": "Sports_competition_series", "id": 42860193}], "successors": [{"name": "World_Surf_League_surfers", "id": 4681962}]}
+{"name": "World_Surf_League", "id": 31842998, "predecessors": [{"name": "Sports_competition_series", "id": 42860193}, {"name": "Competitions", "id": 737119}], "successors": [{"name": "World_Surf_League_surfers", "id": 4681962}]}

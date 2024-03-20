@@ -1,1 +1,1 @@
-{"name": "Flyweight_boxers", "id": 32341338, "predecessors": [{"name": "Comparisons", "id": 984353}], "successors": [{"name": "World_flyweight_boxing_champions", "id": 32340316}]}
+{"name": "Flyweight_boxers", "id": 32341338, "predecessors": [{"name": "Mammal_orders", "id": 43534992}], "successors": [{"name": "World_flyweight_boxing_champions", "id": 32340316}]}

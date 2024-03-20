@@ -1,1 +1,1 @@
-{"name": "Robotics_organizations", "id": 17612470, "predecessors": [{"name": "Robotics", "id": 853492}, {"name": "Legal_entities", "id": 1125732}, {"name": "Control_engineering", "id": 9935559}], "successors": []}
+{"name": "Robotics_organizations", "id": 17612470, "predecessors": [{"name": "Legal_entities", "id": 1125732}, {"name": "Control_engineering", "id": 9935559}], "successors": [{"name": "3D_printer_companies", "id": 43314346}, {"name": "Robotics_companies_of_the_United_States", "id": 40417530}]}

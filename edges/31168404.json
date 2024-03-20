@@ -1,1 +1,1 @@
-{"name": "FK_Bokelj_players", "id": 31168404, "predecessors": [{"name": "Football_clubs_in_Montenegro", "id": 34431720}, {"name": "Wikipedia_categorization", "id": 1036222}], "successors": []}
+{"name": "FK_Bokelj_players", "id": 31168404, "predecessors": [{"name": "Football_clubs_in_Montenegro", "id": 34431720}, {"name": "Culture", "id": 694861}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Argentine_cuisine", "id": 740252, "predecessors": [{"name": "Argentine_culture", "id": 719449}, {"name": "Latin_American_cuisine", "id": 1074563}, {"name": "Culture", "id": 694861}, {"name": "Nutrition", "id": 9936002}], "successors": []}
+{"name": "Argentine_cuisine", "id": 740252, "predecessors": [{"name": "Culture_of_Argentina", "id": 719449}, {"name": "Latin_American_cuisine", "id": 1074563}, {"name": "Culture", "id": 694861}, {"name": "Nutrition", "id": 9936002}], "successors": []}

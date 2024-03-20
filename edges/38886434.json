@@ -1,1 +1,1 @@
-{"name": "FK_Čáslav_players", "id": 38886434, "predecessors": [{"name": "Football_clubs_in_the_Czech_Republic", "id": 34429210}, {"name": "Wikipedia_categorization", "id": 1036222}], "successors": []}
+{"name": "FK_Čáslav_players", "id": 38886434, "predecessors": [{"name": "Football_clubs_in_the_Czech_Republic", "id": 34429210}, {"name": "Culture", "id": 694861}], "successors": []}

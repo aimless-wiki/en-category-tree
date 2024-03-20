@@ -1,1 +1,1 @@
-{"name": "Triple_stars", "id": 5284004, "predecessors": [{"name": "Integers", "id": 736448}, {"name": "Cartography", "id": 716309}], "successors": [{"name": "Triple_star_systems", "id": 1040136}]}
+{"name": "Triple_stars", "id": 5284004, "predecessors": [{"name": "Integers", "id": 736448}, {"name": "Astronomy", "id": 692915}], "successors": [{"name": "Triple_star_systems", "id": 1040136}]}
