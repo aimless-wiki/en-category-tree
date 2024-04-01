@@ -1,1 +1,1 @@
-{"name": "Bicyclic_compounds", "id": 52796624, "predecessors": [{"name": "Hydrogen_compounds", "id": 1675024}], "successors": [{"name": "Naphthalenes", "id": 4480117}, {"name": "Heterocyclic_compounds_with_2_rings", "id": 4488801}]}
+{"name": "Bicyclic_compounds", "id": 52796624, "predecessors": [{"name": "Manufacturing", "id": 867519}], "successors": [{"name": "Naphthalenes", "id": 4480117}, {"name": "Heterocyclic_compounds_with_2_rings", "id": 4488801}]}

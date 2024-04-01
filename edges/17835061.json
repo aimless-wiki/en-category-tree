@@ -1,1 +1,1 @@
-{"name": "X86_operating_systems", "id": 17835061, "predecessors": [{"name": "X86_architecture", "id": 2299258}, {"name": "Wikipedia_categorization", "id": 1036222}], "successors": [{"name": "Microsoft_Windows", "id": 1930130}, {"name": "X86-64_operating_systems", "id": 14172099}]}
+{"name": "X86_operating_systems", "id": 17835061, "predecessors": [{"name": "X86_architecture", "id": 2299258}, {"name": "Computer_architecture", "id": 869984}], "successors": [{"name": "Microsoft_Windows", "id": 1930130}, {"name": "X86-64_operating_systems", "id": 14172099}]}

@@ -1,1 +1,1 @@
-{"name": "Trimotors", "id": 27090620, "predecessors": [{"name": "Aircraft_configurations", "id": 1024208}, {"name": "Atmosphere", "id": 1136015}], "successors": []}
+{"name": "Trimotors", "id": 27090620, "predecessors": [{"name": "Aircraft_configurations", "id": 1024208}, {"name": "Atmospheric_thermodynamics", "id": 5135753}], "successors": []}

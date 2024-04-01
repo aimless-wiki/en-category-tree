@@ -1,1 +1,1 @@
-{"name": "Combinatorial_game_theory", "id": 979392, "predecessors": [{"name": "Game_theory", "id": 774008}, {"name": "Recreational_mathematics", "id": 969007}], "successors": []}
+{"name": "Combinatorial_game_theory", "id": 979392, "predecessors": [{"name": "Combinatorics", "id": 691896}, {"name": "Game_theory", "id": 774008}, {"name": "Recreational_mathematics", "id": 969007}], "successors": []}

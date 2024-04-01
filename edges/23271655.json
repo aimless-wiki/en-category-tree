@@ -1,1 +1,1 @@
-{"name": "Aromatic_ketones", "id": 23271655, "predecessors": [{"name": "Aromatic_compounds", "id": 1369194}, {"name": "Ketones", "id": 695885}], "successors": [{"name": "Cathinones", "id": 20776510}]}
+{"name": "Aromatic_ketones", "id": 23271655, "predecessors": [{"name": "Aromatic_compounds", "id": 1369194}, {"name": "Ketones", "id": 695885}], "successors": [{"name": "Cathinones", "id": 20776510}, {"name": "Benzaldehydes", "id": 41546706}]}

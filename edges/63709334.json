@@ -1,1 +1,1 @@
-{"name": "Chefs_from_New_York_City", "id": 63709334, "predecessors": [{"name": "Cuisine_of_New_York_City", "id": 22222434}, {"name": "Mammal_orders", "id": 43534992}, {"name": "American_chefs", "id": 1049858}], "successors": []}
+{"name": "Chefs_from_New_York_City", "id": 63709334, "predecessors": [{"name": "Cuisine_of_New_York_City", "id": 22222434}, {"name": "American_chefs", "id": 1049858}, {"name": "Occupations", "id": 787658}], "successors": []}

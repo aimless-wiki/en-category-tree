@@ -1,1 +1,1 @@
-{"name": "IBM_mainframe_software", "id": 53519385, "predecessors": [{"name": "IBM_software", "id": 859157}, {"name": "Computer_systems", "id": 1940227}, {"name": "Computer_hardware_companies", "id": 699547}], "successors": [{"name": "IBM_mainframe_operating_systems", "id": 34629079}]}
+{"name": "IBM_mainframe_software", "id": 53519385, "predecessors": [{"name": "IBM_software", "id": 859157}, {"name": "Classes_of_computers", "id": 2071681}, {"name": "Computer_hardware_companies", "id": 699547}], "successors": [{"name": "IBM_mainframe_operating_systems", "id": 34629079}]}

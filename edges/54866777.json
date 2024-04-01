@@ -1,1 +1,1 @@
-{"name": "FK_Zlatibor_Čajetina_players", "id": 54866777, "predecessors": [{"name": "Culture", "id": 694861}], "successors": []}
+{"name": "FK_Zlatibor_Čajetina_players", "id": 54866777, "predecessors": [{"name": "Academic_disciplines", "id": 693763}], "successors": []}

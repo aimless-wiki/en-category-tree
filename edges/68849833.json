@@ -1,1 +1,1 @@
-{"name": "Foreclosure", "id": 68849833, "predecessors": [{"name": "Mortgage", "id": 4370788}, {"name": "Contents", "id": 14105005}, {"name": "Government", "id": 697609}], "successors": []}
+{"name": "Foreclosure", "id": 68849833, "predecessors": [{"name": "Mortgage", "id": 4370788}, {"name": "Real_property_law", "id": 1371216}, {"name": "Contents", "id": 14105005}, {"name": "Government", "id": 697609}], "successors": []}

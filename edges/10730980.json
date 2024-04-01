@@ -1,1 +1,1 @@
-{"name": "Microkernels", "id": 10730980, "predecessors": [{"name": "Operating_system_technology", "id": 1956884}], "successors": [{"name": "Microkernel-based_operating_systems", "id": 20290726}]}
+{"name": "Microkernels", "id": 10730980, "predecessors": [{"name": "Computer_architecture", "id": 869984}], "successors": [{"name": "Microkernel-based_operating_systems", "id": 20290726}]}

@@ -1,1 +1,1 @@
-{"name": "Blog_software", "id": 3700928, "predecessors": [{"name": "Content_management_systems", "id": 691651}, {"name": "Social_software", "id": 30242083}, {"name": "Politics_and_technology", "id": 990890}, {"name": "Computing_platforms", "id": 973745}], "successors": [{"name": "WordPress", "id": 3947920}]}
+{"name": "Blog_software", "id": 3700928, "predecessors": [{"name": "Content_management_systems", "id": 691651}, {"name": "Social_software", "id": 30242083}, {"name": "Politics_and_technology", "id": 990890}], "successors": [{"name": "WordPress", "id": 3947920}]}

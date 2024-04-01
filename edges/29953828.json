@@ -1,1 +1,1 @@
-{"name": "Italian_fantasy_films", "id": 29953828, "predecessors": [{"name": "Fiction", "id": 692981}, {"name": "Italian_literature", "id": 1262895}, {"name": "Culture", "id": 694861}], "successors": [{"name": "Italian_fantasy_adventure_films", "id": 62561310}]}
+{"name": "Italian_fantasy_films", "id": 29953828, "predecessors": [{"name": "Speculative_fiction", "id": 1072285}, {"name": "Italian_literature", "id": 1262895}, {"name": "Film_genres", "id": 3008852}], "successors": [{"name": "Italian_fantasy_adventure_films", "id": 62561310}]}

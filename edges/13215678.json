@@ -1,1 +1,1 @@
-{"name": "Linux_kernel", "id": 13215678, "predecessors": [{"name": "Linux", "id": 694804}, {"name": "Operating_system_technology", "id": 1956884}], "successors": [{"name": "Linux_kernel_features", "id": 13215220}, {"name": "Linux_distributions", "id": 700239}]}
+{"name": "Linux_kernel", "id": 13215678, "predecessors": [{"name": "Linux", "id": 694804}, {"name": "Computer_architecture", "id": 869984}], "successors": [{"name": "Linux_kernel_features", "id": 13215220}, {"name": "Linux_distributions", "id": 700239}]}

@@ -1,1 +1,1 @@
-{"name": "FK_Radnički_Beograd_players", "id": 31759426, "predecessors": [{"name": "Culture", "id": 694861}], "successors": []}
+{"name": "FK_Radnički_Beograd_players", "id": 31759426, "predecessors": [{"name": "Academic_disciplines", "id": 693763}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Mir", "id": 2194354, "predecessors": [{"name": "Crewed_spacecraft", "id": 786264}, {"name": "Human_habitats", "id": 4404631}], "successors": [{"name": "Mir_crew_members", "id": 68337530}]}
+{"name": "Mir", "id": 2194354, "predecessors": [{"name": "Human_habitats", "id": 4404631}, {"name": "Science_and_technology_in_Russia", "id": 2939931}, {"name": "20th_century_in_science", "id": 17453026}], "successors": [{"name": "Mir_crew_members", "id": 68337530}]}

@@ -1,1 +1,1 @@
-{"name": "FK_Banat_Zrenjanin_players", "id": 28742882, "predecessors": [{"name": "Football_clubs_in_Serbia", "id": 34432988}, {"name": "Culture", "id": 694861}], "successors": []}
+{"name": "FK_Banat_Zrenjanin_players", "id": 28742882, "predecessors": [{"name": "Football_clubs_in_Serbia", "id": 34432988}, {"name": "Academic_disciplines", "id": 693763}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Video_on_demand_services", "id": 4087322, "predecessors": [{"name": "Video_on_demand", "id": 3510611}, {"name": "Distribution_(marketing)", "id": 1232228}, {"name": "Streaming", "id": 7073231}], "successors": [{"name": "Subscription_video_on_demand_services", "id": 57597593}, {"name": "Defunct_video_on_demand_services", "id": 62617203}]}
+{"name": "Video_on_demand_services", "id": 4087322, "predecessors": [{"name": "Video_on_demand", "id": 3510611}, {"name": "E-commerce", "id": 38191116}, {"name": "Streaming", "id": 7073231}], "successors": []}

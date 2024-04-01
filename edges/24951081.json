@@ -1,1 +1,1 @@
-{"name": "Software_that_uses_Qt", "id": 24951081, "predecessors": [{"name": "Linux_software", "id": 9519323}, {"name": "Computer_libraries", "id": 7482978}, {"name": "Application_programming_interfaces", "id": 2085813}], "successors": []}
+{"name": "Software_that_uses_Qt", "id": 24951081, "predecessors": [{"name": "Linux_software", "id": 9519323}, {"name": "Computer_libraries", "id": 7482978}, {"name": "C++_libraries", "id": 3623575}], "successors": []}

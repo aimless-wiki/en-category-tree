@@ -1,1 +1,1 @@
-{"name": "German_adventure_films", "id": 35010949, "predecessors": [{"name": "Fiction_by_genre", "id": 5740366}], "successors": []}
+{"name": "German_adventure_films", "id": 35010949, "predecessors": [{"name": "Adventure_fiction", "id": 5741107}, {"name": "Film_genres", "id": 3008852}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Tensors", "id": 1012758, "predecessors": [{"name": "Differential_geometry", "id": 693878}, {"name": "Engineering_concepts", "id": 11655183}, {"name": "Mathematical_physics", "id": 2382182}], "successors": []}
+{"name": "Tensors", "id": 1012758, "predecessors": [{"name": "Differential_geometry", "id": 693878}, {"name": "Engineering_concepts", "id": 11655183}, {"name": "Mathematical_physics", "id": 2382182}, {"name": "Multilinear_algebra", "id": 772566}], "successors": []}

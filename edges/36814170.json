@@ -1,1 +1,1 @@
-{"name": "FK_Donji_Srem_players", "id": 36814170, "predecessors": [{"name": "Culture", "id": 694861}], "successors": []}
+{"name": "FK_Donji_Srem_players", "id": 36814170, "predecessors": [{"name": "Academic_disciplines", "id": 693763}], "successors": []}

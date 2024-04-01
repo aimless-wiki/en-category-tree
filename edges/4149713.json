@@ -1,1 +1,1 @@
-{"name": "Carbonated_drinks", "id": 4149713, "predecessors": [{"name": "Soft_drinks", "id": 803741}], "successors": []}
+{"name": "Carbonated_drinks", "id": 4149713, "predecessors": [{"name": "Soft_drinks", "id": 803741}, {"name": "Carbon_dioxide", "id": 4535947}], "successors": []}

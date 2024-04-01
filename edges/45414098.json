@@ -1,1 +1,1 @@
-{"name": "Windows-only_games", "id": 45414098, "predecessors": [{"name": "Windows_games", "id": 1013251}, {"name": "Academic_disciplines", "id": 693763}, {"name": "Computing_platforms", "id": 973745}], "successors": []}
+{"name": "Windows-only_games", "id": 45414098, "predecessors": [{"name": "Windows_games", "id": 1013251}, {"name": "Windows_software", "id": 978482}, {"name": "Computing_platforms", "id": 973745}], "successors": []}

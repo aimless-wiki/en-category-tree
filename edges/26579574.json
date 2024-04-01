@@ -1,1 +1,1 @@
-{"name": "FK_Hajduk_Beograd_players", "id": 26579574, "predecessors": [{"name": "Culture", "id": 694861}], "successors": []}
+{"name": "FK_Hajduk_Beograd_players", "id": 26579574, "predecessors": [{"name": "Academic_disciplines", "id": 693763}], "successors": []}

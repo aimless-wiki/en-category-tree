@@ -1,1 +1,1 @@
-{"name": "Broadcast_law", "id": 5553237, "predecessors": [{"name": "Broadcasting", "id": 765733}, {"name": "Entertainment", "id": 693016}, {"name": "Politics", "id": 695027}], "successors": [{"name": "Bandplans", "id": 1145790}, {"name": "Net_neutrality", "id": 38375886}]}
+{"name": "Broadcast_law", "id": 5553237, "predecessors": [{"name": "Entertainment", "id": 693016}, {"name": "Politics", "id": 695027}], "successors": [{"name": "Bandplans", "id": 1145790}, {"name": "Net_neutrality", "id": 38375886}]}

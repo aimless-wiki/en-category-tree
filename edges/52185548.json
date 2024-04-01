@@ -1,1 +1,1 @@
-{"name": "FK_Mash'al_Mubarek_players", "id": 52185548, "predecessors": [{"name": "Culture", "id": 694861}], "successors": []}
+{"name": "FK_Mash'al_Mubarek_players", "id": 52185548, "predecessors": [{"name": "Academic_disciplines", "id": 693763}], "successors": []}

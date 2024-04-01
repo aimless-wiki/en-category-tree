@@ -1,1 +1,1 @@
-{"name": "X-ray_telescopes", "id": 1529025, "predecessors": [{"name": "Telescopes", "id": 1025823}, {"name": "Measuring_instruments", "id": 889248}, {"name": "X-rays", "id": 1297860}], "successors": []}
+{"name": "X-ray_telescopes", "id": 1529025, "predecessors": [{"name": "Telescopes", "id": 1025823}, {"name": "Astronomy", "id": 692915}], "successors": []}

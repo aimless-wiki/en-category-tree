@@ -1,1 +1,1 @@
-{"name": "FIA_World_Endurance_Championship_teams", "id": 40134427, "predecessors": [{"name": "Sports_car_racing", "id": 4887708}, {"name": "Fédération_Internationale_de_l'Automobile", "id": 35774573}, {"name": "Competitions", "id": 737119}], "successors": []}
+{"name": "FIA_World_Endurance_Championship_teams", "id": 40134427, "predecessors": [{"name": "Sports_car_racing", "id": 4887708}, {"name": "Sports_car_racing_series", "id": 14690950}], "successors": []}

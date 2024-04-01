@@ -1,1 +1,1 @@
-{"name": "Automation_software", "id": 42864368, "predecessors": [{"name": "Control_engineering", "id": 9935559}, {"name": "Wikipedia_categorization", "id": 1036222}], "successors": [{"name": "Build_automation", "id": 7896281}]}
+{"name": "Automation_software", "id": 42864368, "predecessors": [{"name": "Control_engineering", "id": 9935559}], "successors": [{"name": "Build_automation", "id": 7896281}]}

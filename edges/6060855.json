@@ -1,1 +1,1 @@
-{"name": "Drinking_establishments_in_Manhattan", "id": 6060855, "predecessors": [{"name": "Culture", "id": 694861}, {"name": "Buildings_and_structures_in_Manhattan", "id": 2943208}], "successors": [{"name": "Nightclubs_in_Manhattan", "id": 55139222}]}
+{"name": "Drinking_establishments_in_Manhattan", "id": 6060855, "predecessors": [{"name": "Buildings_and_structures_in_Manhattan", "id": 2943208}, {"name": "Justice", "id": 2388327}], "successors": [{"name": "Nightclubs_in_Manhattan", "id": 55139222}]}

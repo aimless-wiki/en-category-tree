@@ -1,1 +1,1 @@
-{"name": "Kitchen", "id": 9712245, "predecessors": [{"name": "Domestic_implements", "id": 30314144}, {"name": "Rooms", "id": 965836}, {"name": "Food_technology", "id": 7320176}, {"name": "Academic_disciplines", "id": 693763}], "successors": [{"name": "Kitchenware", "id": 1424804}]}
+{"name": "Kitchen", "id": 9712245, "predecessors": [{"name": "Domestic_implements", "id": 30314144}, {"name": "Food_technology", "id": 7320176}, {"name": "Academic_disciplines", "id": 693763}], "successors": [{"name": "Kitchenware", "id": 1424804}]}

@@ -1,1 +1,1 @@
-{"name": "Property_management_companies", "id": 32155437, "predecessors": [{"name": "Corporate_finance", "id": 1654984}, {"name": "Standards", "id": 724561}], "successors": [{"name": "Airport_operators", "id": 3800059}, {"name": "Shopping_center_management_firms", "id": 8674136}]}
+{"name": "Property_management_companies", "id": 32155437, "predecessors": [{"name": "Corporate_finance", "id": 1654984}, {"name": "Standards", "id": 724561}, {"name": "Management", "id": 787284}], "successors": []}

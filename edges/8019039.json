@@ -1,1 +1,1 @@
-{"name": "Torch_singers", "id": 8019039, "predecessors": [{"name": "Music_genres", "id": 4826123}], "successors": []}
+{"name": "Torch_singers", "id": 8019039, "predecessors": [{"name": "Singing", "id": 940526}], "successors": []}

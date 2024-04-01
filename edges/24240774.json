@@ -1,1 +1,1 @@
-{"name": "Loudspeakers", "id": 24240774, "predecessors": [{"name": "Electrical_components", "id": 709571}, {"name": "Electrical_engineering", "id": 706415}], "successors": [{"name": "Loudspeaker_manufacturers", "id": 1859556}]}
+{"name": "Loudspeakers", "id": 24240774, "predecessors": [{"name": "Electrical_components", "id": 709571}, {"name": "Wikipedia_categorization", "id": 1036222}], "successors": [{"name": "Loudspeaker_manufacturers", "id": 1859556}]}

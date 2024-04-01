@@ -1,1 +1,1 @@
-{"name": "FK_Sopot_players", "id": 51617427, "predecessors": [{"name": "Culture", "id": 694861}], "successors": []}
+{"name": "FK_Sopot_players", "id": 51617427, "predecessors": [{"name": "Academic_disciplines", "id": 693763}], "successors": []}

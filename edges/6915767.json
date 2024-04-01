@@ -1,1 +1,1 @@
-{"name": "Space_adventure_films", "id": 6915767, "predecessors": [{"name": "Film_genres", "id": 3008852}, {"name": "Science_fiction_themes", "id": 786868}], "successors": [{"name": "American_space_adventure_films", "id": 49699511}]}
+{"name": "Space_adventure_films", "id": 6915767, "predecessors": [{"name": "Adventure_fiction", "id": 5741107}, {"name": "Film_genres", "id": 3008852}, {"name": "Copyright_law", "id": 702268}], "successors": [{"name": "American_space_adventure_films", "id": 49699511}]}

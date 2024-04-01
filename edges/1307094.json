@@ -1,1 +1,1 @@
-{"name": "Law_enforcement_equipment", "id": 1307094, "predecessors": [{"name": "Law_enforcement", "id": 718211}, {"name": "Emergency_services", "id": 1318794}], "successors": [{"name": "Police_vehicles", "id": 8365296}]}
+{"name": "Law_enforcement_equipment", "id": 1307094, "predecessors": [{"name": "Law_enforcement", "id": 718211}, {"name": "Emergency_services", "id": 1318794}], "successors": [{"name": "Police_vehicles", "id": 8365296}, {"name": "Access_control", "id": 7590810}]}

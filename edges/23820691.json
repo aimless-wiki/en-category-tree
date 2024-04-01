@@ -1,1 +1,1 @@
-{"name": "Organizations_based_in_Detroit", "id": 23820691, "predecessors": [{"name": "Cultural_heritage", "id": 3218670}, {"name": "Legal_entities", "id": 1125732}], "successors": [{"name": "Companies_based_in_Detroit", "id": 17424471}]}
+{"name": "Organizations_based_in_Detroit", "id": 23820691, "predecessors": [{"name": "Metro_Detroit", "id": 2121037}, {"name": "Contiguous_United_States", "id": 69260338}], "successors": [{"name": "Companies_based_in_Detroit", "id": 17424471}]}

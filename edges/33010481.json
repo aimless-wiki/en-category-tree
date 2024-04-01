@@ -1,1 +1,1 @@
-{"name": "Spokespersons", "id": 33010481, "predecessors": [{"name": "Public_relations_people", "id": 11549653}], "successors": [{"name": "Press_secretaries", "id": 46819069}]}
+{"name": "Spokespersons", "id": 33010481, "predecessors": [{"name": "Public_relations_people", "id": 11549653}], "successors": [{"name": "Press_secretaries", "id": 46819069}, {"name": "Leaders_of_the_Opposition", "id": 21358077}, {"name": "Official_Opposition_(United_Kingdom)", "id": 24290655}]}

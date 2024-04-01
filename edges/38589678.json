@@ -1,1 +1,1 @@
-{"name": "Film_serial_actresses", "id": 38589678, "predecessors": [{"name": "Entertainment", "id": 693016}], "successors": []}
+{"name": "Film_serial_actresses", "id": 38589678, "predecessors": [{"name": "Film_serials", "id": 2140753}, {"name": "Mass_media", "id": 696790}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Ambient_music_groups", "id": 3135599, "predecessors": [{"name": "Ambient_musicians", "id": 1618567}, {"name": "Music_genres", "id": 4826123}], "successors": [{"name": "British_ambient_music_groups", "id": 52299192}, {"name": "American_ambient_music_groups", "id": 65216092}]}
+{"name": "Ambient_music_groups", "id": 3135599, "predecessors": [{"name": "Entertainment", "id": 693016}], "successors": [{"name": "British_ambient_music_groups", "id": 52299192}, {"name": "American_ambient_music_groups", "id": 65216092}]}

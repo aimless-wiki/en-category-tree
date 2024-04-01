@@ -1,1 +1,1 @@
-{"name": "Six-wheeled_vehicles", "id": 50352662, "predecessors": [{"name": "Land_tenure", "id": 49153374}], "successors": []}
+{"name": "Six-wheeled_vehicles", "id": 50352662, "predecessors": [{"name": "Wheels", "id": 8982003}], "successors": []}

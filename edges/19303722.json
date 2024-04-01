@@ -1,1 +1,1 @@
-{"name": "Algebras", "id": 19303722, "predecessors": [{"name": "Algebraic_structures", "id": 20103544}], "successors": [{"name": "Spectral_theory", "id": 1213177}, {"name": "C*-algebras", "id": 2361433}, {"name": "Lie_algebras", "id": 1149415}]}
+{"name": "Algebras", "id": 19303722, "predecessors": [{"name": "Algebraic_structures", "id": 20103544}, {"name": "Representation_theory", "id": 888073}], "successors": [{"name": "Spectral_theory", "id": 1213177}, {"name": "C*-algebras", "id": 2361433}, {"name": "Lie_algebras", "id": 1149415}]}

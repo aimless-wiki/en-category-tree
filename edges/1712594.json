@@ -1,1 +1,1 @@
-{"name": "Lists_of_words", "id": 1712594, "predecessors": [{"name": "Linguistics_lists", "id": 2345713}, {"name": "Semantics", "id": 776364}, {"name": "Language", "id": 8017451}], "successors": []}
+{"name": "Lists_of_words", "id": 1712594, "predecessors": [{"name": "Linguistics_lists", "id": 2345713}, {"name": "Semantics", "id": 776364}, {"name": "Language", "id": 8017451}], "successors": [{"name": "Lists_of_English_words", "id": 1045404}, {"name": "Lists_of_place_names", "id": 839981}, {"name": "Lists_of_eponyms", "id": 2254974}]}

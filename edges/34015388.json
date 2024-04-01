@@ -1,1 +1,1 @@
-{"name": "Gas_turbine_manufacturers", "id": 34015388, "predecessors": [{"name": "Gas_turbines", "id": 2077993}, {"name": "Engines", "id": 743017}], "successors": []}
+{"name": "Gas_turbine_manufacturers", "id": 34015388, "predecessors": [{"name": "Gas_turbines", "id": 2077993}, {"name": "Energy_conversion", "id": 1947340}], "successors": []}

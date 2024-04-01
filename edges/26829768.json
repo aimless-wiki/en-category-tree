@@ -1,1 +1,1 @@
-{"name": "Antarctic_expeditions", "id": 26829768, "predecessors": [{"name": "Water_transport", "id": 907307}, {"name": "Innovation", "id": 1150753}], "successors": [{"name": "Imperial_Trans-Antarctic_Expedition", "id": 8391609}, {"name": "Terra_Nova_expedition", "id": 60682174}]}
+{"name": "Antarctic_expeditions", "id": 26829768, "predecessors": [{"name": "Earth_sciences", "id": 716903}, {"name": "Water_transport", "id": 907307}], "successors": [{"name": "Imperial_Trans-Antarctic_Expedition", "id": 8391609}, {"name": "Terra_Nova_expedition", "id": 60682174}]}

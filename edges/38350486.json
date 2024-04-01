@@ -1,1 +1,1 @@
-{"name": "Jungle_adventure_films", "id": 38350486, "predecessors": [{"name": "Films_set_in_jungles", "id": 42542899}, {"name": "Film_genres", "id": 3008852}], "successors": [{"name": "Tarzan_films", "id": 11908800}]}
+{"name": "Jungle_adventure_films", "id": 38350486, "predecessors": [{"name": "Films_set_in_jungles", "id": 42542899}, {"name": "Adventure_fiction", "id": 5741107}], "successors": [{"name": "Tarzan_films", "id": 11908800}]}

@@ -1,1 +1,1 @@
-{"name": "PowerPC_Macintosh_computers", "id": 8421810, "predecessors": [{"name": "Central_processing_unit", "id": 5834555}], "successors": []}
+{"name": "PowerPC_Macintosh_computers", "id": 8421810, "predecessors": [{"name": "Central_processing_unit", "id": 5834555}, {"name": "Computer_architecture", "id": 869984}], "successors": []}

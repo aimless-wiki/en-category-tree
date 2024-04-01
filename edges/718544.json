@@ -1,1 +1,1 @@
-{"name": "Antipsychotics", "id": 718544, "predecessors": [{"name": "Bipolar_disorder", "id": 22047485}], "successors": [{"name": "Typical_antipsychotics", "id": 718549}, {"name": "Atypical_antipsychotics", "id": 718550}]}
+{"name": "Antipsychotics", "id": 718544, "predecessors": [{"name": "Bipolar_disorder", "id": 22047485}, {"name": "Pharmacology", "id": 717788}, {"name": "Neuroscience", "id": 714648}], "successors": [{"name": "Typical_antipsychotics", "id": 718549}, {"name": "Atypical_antipsychotics", "id": 718550}]}

@@ -1,1 +1,1 @@
-{"name": "Unix_variants", "id": 10429397, "predecessors": [{"name": "Unix", "id": 880814}, {"name": "Wikipedia_categorization", "id": 1036222}], "successors": [{"name": "Linux", "id": 694804}, {"name": "Berkeley_Software_Distribution", "id": 35018480}]}
+{"name": "Unix_variants", "id": 10429397, "predecessors": [{"name": "Unix", "id": 880814}, {"name": "Computer_architecture", "id": 869984}], "successors": [{"name": "Linux", "id": 694804}, {"name": "Berkeley_Software_Distribution", "id": 35018480}]}

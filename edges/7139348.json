@@ -1,1 +1,1 @@
-{"name": "Collectors_of_fairy_tales", "id": 7139348, "predecessors": [{"name": "Fiction_by_genre", "id": 5740366}, {"name": "Hobbies", "id": 698271}, {"name": "Childhood", "id": 1517600}], "successors": []}
+{"name": "Collectors_of_fairy_tales", "id": 7139348, "predecessors": [{"name": "Fiction_by_genre", "id": 5740366}, {"name": "Collecting", "id": 1053587}, {"name": "Childhood", "id": 1517600}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Drugs_developed_by_GSK_plc", "id": 31148931, "predecessors": [{"name": "Brand_management", "id": 31052109}, {"name": "Manufacturing_companies_based_in_London", "id": 26219527}, {"name": "Names", "id": 776901}, {"name": "Health_care", "id": 35880954}], "successors": []}
+{"name": "Drugs_developed_by_GSK_plc", "id": 31148931, "predecessors": [{"name": "Names", "id": 776901}, {"name": "Companies_based_in_London", "id": 5891736}, {"name": "Health_care", "id": 35880954}, {"name": "Capital_(economics)", "id": 41030206}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Typical_antipsychotics", "id": 718549, "predecessors": [{"name": "Drugs", "id": 1325883}], "successors": []}
+{"name": "Typical_antipsychotics", "id": 718549, "predecessors": [{"name": "Antipsychotics", "id": 718544}, {"name": "Drugs", "id": 1325883}], "successors": []}

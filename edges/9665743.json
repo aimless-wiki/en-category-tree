@@ -1,1 +1,1 @@
-{"name": "Management_education", "id": 9665743, "predecessors": [{"name": "Academic_disciplines", "id": 693763}], "successors": []}
+{"name": "Management_education", "id": 9665743, "predecessors": [{"name": "Management", "id": 787284}, {"name": "Academic_disciplines", "id": 693763}, {"name": "Leadership", "id": 21059873}], "successors": []}

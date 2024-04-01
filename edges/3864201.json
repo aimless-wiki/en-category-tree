@@ -1,1 +1,1 @@
-{"name": "Permutations", "id": 3864201, "predecessors": [{"name": "Functions_and_mappings", "id": 8111581}], "successors": [{"name": "Serial_compositions", "id": 1066231}, {"name": "Twelve-tone_and_serial_composers", "id": 37636304}]}
+{"name": "Permutations", "id": 3864201, "predecessors": [{"name": "Combinatorics", "id": 691896}, {"name": "Functions_and_mappings", "id": 8111581}, {"name": "Group_theory", "id": 23087655}], "successors": [{"name": "Serial_compositions", "id": 1066231}, {"name": "Twelve-tone_and_serial_composers", "id": 37636304}]}

@@ -1,1 +1,1 @@
-{"name": "Tricyclic_antidepressants", "id": 717854, "predecessors": [{"name": "Manufacturing", "id": 867519}, {"name": "Hydrogen_compounds", "id": 1675024}], "successors": []}
+{"name": "Tricyclic_antidepressants", "id": 717854, "predecessors": [{"name": "Antidepressants", "id": 717801}, {"name": "Manufacturing", "id": 867519}], "successors": []}

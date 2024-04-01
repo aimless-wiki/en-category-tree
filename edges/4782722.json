@@ -1,1 +1,1 @@
-{"name": "Automotive_factory_stubs", "id": 4782722, "predecessors": [{"name": "Automobile_stubs", "id": 841205}, {"name": "Manufacturing_company_stubs", "id": 4169681}, {"name": "Automotive_industry", "id": 1338498}, {"name": "Contents", "id": 14105005}], "successors": []}
+{"name": "Automotive_factory_stubs", "id": 4782722, "predecessors": [{"name": "Automobile_stubs", "id": 841205}, {"name": "Manufacturing_company_stubs", "id": 4169681}, {"name": "Manufacturing", "id": 867519}, {"name": "Contents", "id": 14105005}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "FK_Mladá_Boleslav_players", "id": 15102484, "predecessors": [{"name": "Football_clubs_in_the_Czech_Republic", "id": 34429210}, {"name": "Culture", "id": 694861}], "successors": []}
+{"name": "FK_Mladá_Boleslav_players", "id": 15102484, "predecessors": [{"name": "Football_clubs_in_the_Czech_Republic", "id": 34429210}, {"name": "Academic_disciplines", "id": 693763}], "successors": []}

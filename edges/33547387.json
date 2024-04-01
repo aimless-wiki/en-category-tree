@@ -1,1 +1,1 @@
-{"name": "Applied_machine_learning", "id": 33547387, "predecessors": [{"name": "Applications_of_artificial_intelligence", "id": 1532663}, {"name": "Machine_learning", "id": 706543}], "successors": []}
+{"name": "Applied_machine_learning", "id": 33547387, "predecessors": [{"name": "Applications_of_artificial_intelligence", "id": 1532663}, {"name": "Machine_learning", "id": 706543}], "successors": [{"name": "Large_language_models", "id": 73281105}]}

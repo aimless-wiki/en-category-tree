@@ -1,1 +1,1 @@
-{"name": "FK_Železnik_players", "id": 26044914, "predecessors": [{"name": "Culture", "id": 694861}], "successors": []}
+{"name": "FK_Železnik_players", "id": 26044914, "predecessors": [{"name": "Academic_disciplines", "id": 693763}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Diodes", "id": 1244175, "predecessors": [{"name": "Semiconductor_devices", "id": 3375921}], "successors": [{"name": "Light-emitting_diodes", "id": 21606199}]}
+{"name": "Diodes", "id": 1244175, "predecessors": [{"name": "Semiconductor_devices", "id": 3375921}, {"name": "Electric_power_conversion", "id": 16305206}], "successors": [{"name": "Light-emitting_diodes", "id": 21606199}]}

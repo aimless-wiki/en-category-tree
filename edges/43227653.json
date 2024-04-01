@@ -1,1 +1,1 @@
-{"name": "MLS_All-Star_Game", "id": 43227653, "predecessors": [{"name": "Competitions", "id": 737119}, {"name": "Culture", "id": 694861}, {"name": "Meetings", "id": 1261738}], "successors": [{"name": "Major_League_Soccer_All-Stars", "id": 35044707}]}
+{"name": "MLS_All-Star_Game", "id": 43227653, "predecessors": [{"name": "Culture", "id": 694861}], "successors": [{"name": "Major_League_Soccer_All-Stars", "id": 35044707}]}

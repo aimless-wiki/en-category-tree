@@ -1,1 +1,1 @@
-{"name": "Cancer_fundraisers", "id": 23763927, "predecessors": [{"name": "Activism_by_type", "id": 39631262}, {"name": "Giving", "id": 3345816}, {"name": "Health_care", "id": 35880954}], "successors": []}
+{"name": "Cancer_fundraisers", "id": 23763927, "predecessors": [{"name": "Cancer", "id": 999635}, {"name": "Charity_fundraisers", "id": 5743331}, {"name": "Health_care", "id": 35880954}], "successors": []}

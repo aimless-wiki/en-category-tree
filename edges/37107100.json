@@ -1,1 +1,1 @@
-{"name": "Online_food_ordering", "id": 37107100, "predecessors": [{"name": "E-commerce", "id": 38191116}, {"name": "Logistics", "id": 1865158}, {"name": "Culture", "id": 694861}], "successors": []}
+{"name": "Online_food_ordering", "id": 37107100, "predecessors": [{"name": "E-commerce", "id": 38191116}, {"name": "Culture", "id": 694861}], "successors": []}

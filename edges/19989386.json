@@ -1,1 +1,1 @@
-{"name": "Connective_tissue_diseases", "id": 19989386, "predecessors": [{"name": "Cutaneous_conditions", "id": 19985319}, {"name": "Rheumatology", "id": 714252}, {"name": "Causes_of_death", "id": 5271061}], "successors": []}
+{"name": "Connective_tissue_diseases", "id": 19989386, "predecessors": [{"name": "Cutaneous_conditions", "id": 19985319}, {"name": "Rheumatology", "id": 714252}, {"name": "Tissues_(biology)", "id": 44532230}, {"name": "Causes_of_death", "id": 5271061}], "successors": []}

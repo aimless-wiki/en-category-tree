@@ -1,1 +1,1 @@
-{"name": "Pollsters", "id": 41818882, "predecessors": [{"name": "Academic_disciplines", "id": 693763}, {"name": "Occupations", "id": 787658}], "successors": []}
+{"name": "Pollsters", "id": 41818882, "predecessors": [{"name": "Public_opinion", "id": 11277715}, {"name": "Academic_disciplines", "id": 693763}, {"name": "Occupations", "id": 787658}], "successors": []}

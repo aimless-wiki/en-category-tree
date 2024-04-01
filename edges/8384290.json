@@ -1,1 +1,1 @@
-{"name": "FK_Liepājas_Metalurgs_players", "id": 8384290, "predecessors": [{"name": "Time", "id": 744728}, {"name": "Culture", "id": 694861}], "successors": []}
+{"name": "FK_Liepājas_Metalurgs_players", "id": 8384290, "predecessors": [{"name": "Post-Soviet_states", "id": 5775764}, {"name": "Academic_disciplines", "id": 693763}], "successors": []}

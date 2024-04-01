@@ -1,1 +1,1 @@
-{"name": "Irish_newspaper_editors", "id": 3105734, "predecessors": [{"name": "Irish_journalists", "id": 953251}, {"name": "Newspaper_editors", "id": 1322387}, {"name": "Culture", "id": 694861}, {"name": "Journalism", "id": 698307}], "successors": []}
+{"name": "Irish_newspaper_editors", "id": 3105734, "predecessors": [{"name": "Irish_journalists", "id": 953251}, {"name": "Newspaper_editors", "id": 1322387}, {"name": "Culture_of_Ireland", "id": 713796}, {"name": "Journalism", "id": 698307}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Petroleum_engineering", "id": 11986503, "predecessors": [{"name": "Engineering_disciplines", "id": 9930194}], "successors": [{"name": "Petroleum_technology", "id": 14311725}]}
+{"name": "Petroleum_engineering", "id": 11986503, "predecessors": [{"name": "Engineering_disciplines", "id": 9930194}, {"name": "Petroleum_production", "id": 1243675}], "successors": [{"name": "Petroleum_technology", "id": 14311725}]}

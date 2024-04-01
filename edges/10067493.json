@@ -1,1 +1,1 @@
-{"name": "Basketball_video_games", "id": 10067493, "predecessors": [{"name": "Sports_video_games", "id": 9716925}, {"name": "Demographics", "id": 1012175}], "successors": [{"name": "National_Basketball_Association_video_games", "id": 10532109}, {"name": "Basketball_video_game_stubs", "id": 27007295}]}
+{"name": "Basketball_video_games", "id": 10067493, "predecessors": [{"name": "Sports_video_games", "id": 9716925}, {"name": "Ball_games", "id": 996038}], "successors": [{"name": "NBA_video_games", "id": 10532109}, {"name": "Basketball_video_game_stubs", "id": 27007295}]}

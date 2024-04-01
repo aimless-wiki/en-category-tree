@@ -1,1 +1,1 @@
-{"name": "Yugoslav_musicians", "id": 5978737, "predecessors": [{"name": "Culture", "id": 694861}, {"name": "Occupations", "id": 787658}], "successors": []}
+{"name": "Yugoslav_musicians", "id": 5978737, "predecessors": [{"name": "Occupations", "id": 787658}, {"name": "Culture", "id": 694861}], "successors": [{"name": "Yugoslav_composers", "id": 42417243}]}

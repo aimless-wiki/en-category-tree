@@ -1,1 +1,1 @@
-{"name": "Vaccines", "id": 1064664, "predecessors": [{"name": "Drugs", "id": 1325883}, {"name": "Vaccination", "id": 3898959}], "successors": [{"name": "Vaccine_stubs", "id": 27977033}]}
+{"name": "Vaccines", "id": 1064664, "predecessors": [{"name": "Drugs", "id": 1325883}, {"name": "Vaccination", "id": 3898959}], "successors": [{"name": "Vaccine_stubs", "id": 27977033}, {"name": "COVID-19_vaccine_stubs", "id": 68493041}, {"name": "COVID-19_vaccine_producers", "id": 69438641}, {"name": "COVID-19_vaccination_by_country", "id": 66434134}]}

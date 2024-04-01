@@ -1,1 +1,1 @@
-{"name": "FA_Cup_finals", "id": 5177339, "predecessors": [{"name": "FA_Cup_seasons", "id": 13010083}, {"name": "National_association_football_cups", "id": 29030566}, {"name": "Meetings", "id": 1261738}], "successors": [{"name": "FA_Cup_final_referees", "id": 9344070}]}
+{"name": "FA_Cup_finals", "id": 5177339, "predecessors": [{"name": "FA_Cup_seasons", "id": 13010083}, {"name": "National_association_football_cups", "id": 29030566}, {"name": "Time", "id": 744728}, {"name": "Culture", "id": 694861}], "successors": [{"name": "FA_Cup_final_referees", "id": 9344070}]}

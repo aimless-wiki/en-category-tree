@@ -1,1 +1,1 @@
-{"name": "Tractors", "id": 883796, "predecessors": [{"name": "Agricultural_machinery", "id": 1189821}, {"name": "Engineering_vehicles", "id": 727285}, {"name": "Construction_equipment", "id": 24719865}, {"name": "Land_tenure", "id": 49153374}], "successors": [{"name": "Artillery_tractors", "id": 3877103}]}
+{"name": "Tractors", "id": 883796, "predecessors": [{"name": "Agricultural_machinery", "id": 1189821}, {"name": "Engineering_vehicles", "id": 727285}, {"name": "Academic_disciplines", "id": 693763}], "successors": [{"name": "Artillery_tractors", "id": 3877103}]}

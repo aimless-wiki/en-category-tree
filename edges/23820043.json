@@ -1,1 +1,1 @@
-{"name": "FK_Voždovac_players", "id": 23820043, "predecessors": [{"name": "Football_clubs_in_Belgrade", "id": 39408858}, {"name": "Culture", "id": 694861}], "successors": []}
+{"name": "FK_Voždovac_players", "id": 23820043, "predecessors": [{"name": "Football_clubs_in_Belgrade", "id": 39408858}, {"name": "Academic_disciplines", "id": 693763}], "successors": []}

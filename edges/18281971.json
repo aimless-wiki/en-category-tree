@@ -1,1 +1,1 @@
-{"name": "North_Sea_energy", "id": 18281971, "predecessors": [{"name": "North_Sea", "id": 2460853}, {"name": "Contents", "id": 14105005}], "successors": [{"name": "Offshore_wind_farms_in_the_North_Sea", "id": 20880817}, {"name": "North_Sea_oil_fields", "id": 69783932}]}
+{"name": "North_Sea_energy", "id": 18281971, "predecessors": [{"name": "North_Sea", "id": 2460853}], "successors": [{"name": "Offshore_wind_farms_in_the_North_Sea", "id": 20880817}, {"name": "North_Sea_oil_fields", "id": 69783932}]}

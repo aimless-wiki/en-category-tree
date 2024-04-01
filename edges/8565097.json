@@ -1,1 +1,1 @@
-{"name": "FK_Pobeda_players", "id": 8565097, "predecessors": [{"name": "Culture", "id": 694861}, {"name": "Countries_in_Europe", "id": 37691805}], "successors": []}
+{"name": "FK_Pobeda_players", "id": 8565097, "predecessors": [{"name": "Culture", "id": 694861}, {"name": "Academic_disciplines", "id": 693763}], "successors": []}

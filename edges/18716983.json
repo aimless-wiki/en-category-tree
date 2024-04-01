@@ -1,1 +1,1 @@
-{"name": "Seaplane_bases_in_the_United_States", "id": 18716983, "predecessors": [{"name": "Infrastructure", "id": 2962329}, {"name": "Buildings_and_structures_by_type", "id": 6884364}], "successors": [{"name": "Seaplane_bases_in_Alaska", "id": 31307762}]}
+{"name": "Seaplane_bases_in_the_United_States", "id": 18716983, "predecessors": [{"name": "Aircraft_configurations", "id": 1024208}, {"name": "Infrastructure", "id": 2962329}], "successors": [{"name": "Seaplane_bases_in_Alaska", "id": 31307762}]}

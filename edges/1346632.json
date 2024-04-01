@@ -1,1 +1,1 @@
-{"name": "Czech_cuisine", "id": 1346632, "predecessors": [{"name": "Culture_of_Europe", "id": 709679}, {"name": "European_cuisine", "id": 1259768}, {"name": "Food_technology", "id": 7320176}, {"name": "Nutrition", "id": 9936002}], "successors": []}
+{"name": "Czech_cuisine", "id": 1346632, "predecessors": [{"name": "Culture", "id": 694861}, {"name": "Countries_in_Europe", "id": 37691805}, {"name": "Food_technology", "id": 7320176}], "successors": []}
