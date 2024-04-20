@@ -1,1 +1,1 @@
-{"name": "Dutch_cuisine", "id": 706424, "predecessors": [{"name": "Culture_of_the_Netherlands", "id": 715465}], "successors": [{"name": "Restaurants_in_the_Netherlands", "id": 8281309}]}
+{"name": "Dutch_cuisine", "id": 706424, "predecessors": [{"name": "Culture_of_the_Netherlands", "id": 715465}, {"name": "European_cuisine", "id": 1259768}, {"name": "Nutrition", "id": 9936002}], "successors": [{"name": "Restaurants_in_the_Netherlands", "id": 8281309}]}

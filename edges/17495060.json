@@ -1,1 +1,1 @@
-{"name": "Proprietary_operating_systems", "id": 17495060, "predecessors": [{"name": "Computer_architecture", "id": 869984}], "successors": [{"name": "AmigaOS", "id": 4905727}, {"name": "Digital_Research_operating_systems", "id": 33064014}]}
+{"name": "Proprietary_operating_systems", "id": 17495060, "predecessors": [{"name": "Computer_architecture", "id": 869984}, {"name": "Proprietary_software", "id": 8401067}], "successors": [{"name": "AmigaOS", "id": 4905727}, {"name": "Digital_Research_operating_systems", "id": 33064014}]}

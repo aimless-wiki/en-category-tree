@@ -1,1 +1,1 @@
-{"name": "Stews", "id": 873099, "predecessors": [{"name": "Food_technology", "id": 7320176}], "successors": [{"name": "Korean_soups_and_stews", "id": 17464538}]}
+{"name": "Stews", "id": 873099, "predecessors": [{"name": "Types_of_food", "id": 58080273}, {"name": "Food_technology", "id": 7320176}], "successors": [{"name": "Korean_soups_and_stews", "id": 17464538}]}

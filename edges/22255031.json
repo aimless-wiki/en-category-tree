@@ -1,1 +1,1 @@
-{"name": "Edible_fungi", "id": 22255031, "predecessors": [{"name": "Non-timber_forest_products", "id": 39492544}], "successors": [{"name": "Fungi_in_cultivation", "id": 9480069}, {"name": "Truffles_(fungi)", "id": 32476942}]}
+{"name": "Edible_fungi", "id": 22255031, "predecessors": [{"name": "Food_ingredients", "id": 1077080}, {"name": "Non-timber_forest_products", "id": 39492544}, {"name": "Cultural_anthropology", "id": 715355}], "successors": [{"name": "Fungi_in_cultivation", "id": 9480069}, {"name": "Truffles_(fungi)", "id": 32476942}]}

@@ -1,1 +1,1 @@
-{"name": "Perennial_vegetables", "id": 36165327, "predecessors": [{"name": "Perennial_plants", "id": 38405346}], "successors": []}
+{"name": "Perennial_vegetables", "id": 36165327, "predecessors": [{"name": "Perennial_plants", "id": 38405346}, {"name": "Crops", "id": 694870}], "successors": []}

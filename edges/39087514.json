@@ -1,1 +1,1 @@
-{"name": "MacOS_graphics_software", "id": 39087514, "predecessors": [{"name": "MacOS_software", "id": 39076490}, {"name": "Microcomputer_software", "id": 1756674}], "successors": [{"name": "Adobe_Flash", "id": 7880628}]}
+{"name": "MacOS_graphics_software", "id": 39087514, "predecessors": [{"name": "Graphics_software", "id": 796994}], "successors": [{"name": "Adobe_Flash", "id": 7880628}]}

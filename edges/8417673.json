@@ -1,1 +1,1 @@
-{"name": "Run_and_gun_games", "id": 8417673, "predecessors": [{"name": "Shoot_'em_ups", "id": 1551932}], "successors": []}
+{"name": "Run_and_gun_games", "id": 8417673, "predecessors": [{"name": "Platformers", "id": 723642}, {"name": "Shoot_'em_ups", "id": 1551932}], "successors": []}

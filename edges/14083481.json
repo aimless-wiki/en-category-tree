@@ -1,1 +1,1 @@
-{"name": "Charging_stations", "id": 14083481, "predecessors": [{"name": "Electric_vehicle_industry", "id": 42810122}, {"name": "Electric_power", "id": 959286}, {"name": "Rechargeable_batteries", "id": 4518680}], "successors": []}
+{"name": "Charging_stations", "id": 14083481, "predecessors": [{"name": "Electric_vehicle_industry", "id": 42810122}, {"name": "Parking", "id": 3627417}, {"name": "Electric_power", "id": 959286}, {"name": "Automotive_technologies", "id": 859604}, {"name": "Rechargeable_batteries", "id": 4518680}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Rocket-powered_aircraft", "id": 765625, "predecessors": [{"name": "Rocketry", "id": 1421160}, {"name": "Atmospheric_thermodynamics", "id": 5135753}], "successors": []}
+{"name": "Rocket-powered_aircraft", "id": 765625, "predecessors": [{"name": "Rocketry", "id": 1421160}, {"name": "Atmosphere", "id": 1136015}], "successors": []}

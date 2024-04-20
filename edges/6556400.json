@@ -1,1 +1,1 @@
-{"name": "French_desserts", "id": 6556400, "predecessors": [{"name": "French_cuisine", "id": 707216}], "successors": [{"name": "French_pastries", "id": 41673264}]}
+{"name": "French_desserts", "id": 6556400, "predecessors": [{"name": "French_cuisine", "id": 707216}, {"name": "Nutrition", "id": 9936002}], "successors": [{"name": "French_pastries", "id": 41673264}]}

@@ -1,1 +1,1 @@
-{"name": "Rock_songwriters", "id": 3622516, "predecessors": [{"name": "Vocal_music", "id": 1037152}], "successors": [{"name": "American_rock_songwriters", "id": 3622297}]}
+{"name": "Rock_songwriters", "id": 3622516, "predecessors": [{"name": "Music_genres", "id": 4826123}, {"name": "Entertainment", "id": 693016}], "successors": [{"name": "American_rock_songwriters", "id": 3622297}]}

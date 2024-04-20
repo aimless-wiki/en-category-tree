@@ -1,1 +1,1 @@
-{"name": "AB_InBev_brands", "id": 31118292, "predecessors": [{"name": "Beer_brands", "id": 13979965}, {"name": "Multinational_companies", "id": 3543113}, {"name": "Capital_(economics)", "id": 41030206}, {"name": "Drink_brands", "id": 4115722}], "successors": []}
+{"name": "AB_InBev_brands", "id": 31118292, "predecessors": [{"name": "Beer_brands", "id": 13979965}, {"name": "Brand_management", "id": 31052109}, {"name": "Multinational_companies", "id": 3543113}, {"name": "Drink_brands", "id": 4115722}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Fauna_of_the_Red_Sea", "id": 37060659, "predecessors": [{"name": "Fauna_of_the_Indian_Ocean", "id": 24829041}, {"name": "Red_Sea", "id": 9394413}, {"name": "Marine_fauna_of_Asia", "id": 37061817}, {"name": "Water", "id": 977553}], "successors": [{"name": "Fish_of_the_Red_Sea", "id": 11258278}]}
+{"name": "Fauna_of_the_Red_Sea", "id": 37060659, "predecessors": [{"name": "Red_Sea", "id": 9394413}, {"name": "Biology", "id": 692675}], "successors": [{"name": "Fish_of_the_Red_Sea", "id": 11258278}]}

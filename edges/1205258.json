@@ -1,1 +1,1 @@
-{"name": "Brass_bands", "id": 1205258, "predecessors": [{"name": "Wind_bands", "id": 2483366}], "successors": [{"name": "Brass_band_composers", "id": 11237068}, {"name": "British_brass_bands", "id": 26079875}]}
+{"name": "Brass_bands", "id": 1205258, "predecessors": [{"name": "Brass_instruments", "id": 691650}, {"name": "Wind_bands", "id": 2483366}], "successors": [{"name": "Brass_band_composers", "id": 11237068}, {"name": "British_brass_bands", "id": 26079875}]}

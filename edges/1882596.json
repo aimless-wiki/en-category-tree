@@ -1,1 +1,1 @@
-{"name": "Ford_factories", "id": 1882596, "predecessors": [{"name": "Manufacturing", "id": 867519}, {"name": "Ford_Motor_Company", "id": 24744557}], "successors": []}
+{"name": "Ford_factories", "id": 1882596, "predecessors": [{"name": "Automotive_industry", "id": 1338498}, {"name": "Ford_Motor_Company", "id": 24744557}], "successors": []}

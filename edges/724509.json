@@ -1,1 +1,1 @@
-{"name": "Salsa_musicians", "id": 724509, "predecessors": [{"name": "Caribbean_culture", "id": 2462905}, {"name": "Culture", "id": 694861}, {"name": "Plate_tectonics", "id": 717341}], "successors": [{"name": "Salsa_music_groups", "id": 2132214}]}
+{"name": "Salsa_musicians", "id": 724509, "predecessors": [{"name": "Entertainment", "id": 693016}, {"name": "Music_genres", "id": 4826123}], "successors": [{"name": "Salsa_music_groups", "id": 2132214}]}

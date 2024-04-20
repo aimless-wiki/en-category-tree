@@ -1,1 +1,1 @@
-{"name": "Wind_turbine_manufacturers", "id": 13452510, "predecessors": [{"name": "Wind_turbines", "id": 10927054}, {"name": "Energy_conversion", "id": 1947340}, {"name": "Standards", "id": 724561}], "successors": []}
+{"name": "Wind_turbine_manufacturers", "id": 13452510, "predecessors": [{"name": "Wind_turbines", "id": 10927054}, {"name": "Wind_power", "id": 7689273}, {"name": "Energy_conversion", "id": 1947340}, {"name": "Standards", "id": 724561}], "successors": []}

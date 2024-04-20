@@ -1,1 +1,1 @@
-{"name": "Comparison_shopping_websites", "id": 41853709, "predecessors": [{"name": "E-commerce", "id": 38191116}, {"name": "Comparisons", "id": 984353}, {"name": "Internet_search_engines", "id": 699876}], "successors": [{"name": "Travel_ticket_search_engines", "id": 28834186}]}
+{"name": "Comparison_shopping_websites", "id": 41853709, "predecessors": [{"name": "E-commerce", "id": 38191116}, {"name": "Comparisons", "id": 984353}], "successors": [{"name": "Travel_ticket_search_engines", "id": 28834186}]}

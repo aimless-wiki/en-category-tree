@@ -1,1 +1,1 @@
-{"name": "Livestock_guardian_dogs", "id": 14902477, "predecessors": [{"name": "Dog_types", "id": 704388}, {"name": "Animal_rights", "id": 3481133}, {"name": "Dogs", "id": 704389}], "successors": []}
+{"name": "Livestock_guardian_dogs", "id": 14902477, "predecessors": [{"name": "Dog_types", "id": 704388}, {"name": "Livestock", "id": 917009}, {"name": "Dogs", "id": 704389}], "successors": []}

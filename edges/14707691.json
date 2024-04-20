@@ -1,1 +1,1 @@
-{"name": "Road_incident_deaths_in_Germany", "id": 14707691, "predecessors": [{"name": "Human_behavior", "id": 2524202}, {"name": "Causes_of_death", "id": 5271061}], "successors": [{"name": "Road_incident_deaths_in_West_Germany", "id": 74399387}]}
+{"name": "Road_incident_deaths_in_Germany", "id": 14707691, "predecessors": [{"name": "Causes_of_death", "id": 5271061}, {"name": "Human_behavior", "id": 2524202}, {"name": "Death", "id": 921954}], "successors": [{"name": "Road_incident_deaths_in_West_Germany", "id": 74399387}]}

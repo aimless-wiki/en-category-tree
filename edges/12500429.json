@@ -1,1 +1,1 @@
-{"name": "Marathi-language_singers", "id": 12500429, "predecessors": [{"name": "Languages_of_India", "id": 934333}, {"name": "Singing", "id": 940526}, {"name": "Culture", "id": 694861}], "successors": [{"name": "Marathi_playback_singers", "id": 25509242}]}
+{"name": "Marathi-language_singers", "id": 12500429, "predecessors": [{"name": "Culture_of_Maharashtra", "id": 9319123}, {"name": "Singing", "id": 940526}], "successors": [{"name": "Marathi_playback_singers", "id": 25509242}]}

@@ -1,1 +1,1 @@
-{"name": "British_psychotherapists", "id": 34064185, "predecessors": [{"name": "Psychotherapists", "id": 2084138}, {"name": "Psychotherapy", "id": 964972}, {"name": "Contents", "id": 14105005}], "successors": [{"name": "British_psychoanalysts", "id": 27204957}]}
+{"name": "British_psychotherapists", "id": 34064185, "predecessors": [{"name": "Psychotherapists", "id": 2084138}, {"name": "Health_care", "id": 35880954}, {"name": "Occupations", "id": 787658}], "successors": [{"name": "British_psychoanalysts", "id": 27204957}]}

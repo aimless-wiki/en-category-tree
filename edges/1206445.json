@@ -1,1 +1,1 @@
-{"name": "Safety_equipment", "id": 1206445, "predecessors": [{"name": "Safety", "id": 902977}, {"name": "Academic_disciplines", "id": 693763}], "successors": [{"name": "Protective_gear", "id": 5095752}, {"name": "Train_protection_systems", "id": 14849175}]}
+{"name": "Safety_equipment", "id": 1206445, "predecessors": [{"name": "Safety", "id": 902977}, {"name": "Academic_disciplines", "id": 693763}], "successors": [{"name": "Rescue_equipment", "id": 2277951}, {"name": "Train_protection_systems", "id": 14849175}]}

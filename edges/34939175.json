@@ -1,1 +1,1 @@
-{"name": "Observation_towers", "id": 34939175, "predecessors": [{"name": "Cognition", "id": 1055995}], "successors": []}
+{"name": "Observation_towers", "id": 34939175, "predecessors": [{"name": "Towers", "id": 791935}, {"name": "Cognition", "id": 1055995}], "successors": []}

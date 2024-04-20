@@ -1,1 +1,1 @@
-{"name": "Pay-per-view_boxing_matches", "id": 65473808, "predecessors": [{"name": "Copyright_law", "id": 702268}], "successors": []}
+{"name": "Pay-per-view_boxing_matches", "id": 65473808, "predecessors": [{"name": "Competitions", "id": 737119}, {"name": "Broadcasting", "id": 765733}], "successors": []}

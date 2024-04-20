@@ -1,1 +1,1 @@
-{"name": "Start-Class_public_art_articles", "id": 36693324, "predecessors": [{"name": "Public_art_articles", "id": 36667694}, {"name": "Contents", "id": 14105005}], "successors": []}
+{"name": "Start-Class_public_art_articles", "id": 36693324, "predecessors": [{"name": "Start-Class_articles", "id": 5543222}, {"name": "Public_art_articles", "id": 36667694}], "successors": []}

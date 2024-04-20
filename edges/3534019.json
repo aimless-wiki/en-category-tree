@@ -1,1 +1,1 @@
-{"name": "Device_drivers", "id": 3534019, "predecessors": [{"name": "Computer_peripherals", "id": 3547205}, {"name": "Operating_system_technology", "id": 1956884}], "successors": [{"name": "DOS_device_names", "id": 39063337}]}
+{"name": "Device_drivers", "id": 3534019, "predecessors": [{"name": "Computer_peripherals", "id": 3547205}, {"name": "Operating_system_technology", "id": 1956884}, {"name": "Wikipedia_categorization", "id": 1036222}], "successors": [{"name": "DOS_device_names", "id": 39063337}]}

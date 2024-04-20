@@ -1,1 +1,1 @@
-{"name": "Internet_service_providers", "id": 887423, "predecessors": [{"name": "Internet_access", "id": 3534405}, {"name": "Standards", "id": 724561}], "successors": []}
+{"name": "Internet_service_providers", "id": 887423, "predecessors": [{"name": "Internet_access", "id": 3534405}, {"name": "Cognition", "id": 1055995}, {"name": "Standards", "id": 724561}], "successors": [{"name": "Internet_services_shut_down_by_a_legal_challenge", "id": 15857671}, {"name": "National_research_and_education_networks", "id": 59676216}]}

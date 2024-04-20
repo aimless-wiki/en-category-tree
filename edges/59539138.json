@@ -1,1 +1,1 @@
-{"name": "Films_about_nightmares", "id": 59539138, "predecessors": [{"name": "Films_about_dreams", "id": 45279016}, {"name": "Film_genres", "id": 3008852}, {"name": "Horror_fiction", "id": 31995985}, {"name": "Fear", "id": 17781674}], "successors": []}
+{"name": "Films_about_nightmares", "id": 59539138, "predecessors": [{"name": "Film_genres", "id": 3008852}, {"name": "Horror_genres", "id": 12301023}, {"name": "Fear", "id": 17781674}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Rubber", "id": 6513357, "predecessors": [{"name": "Elastomers", "id": 5307861}, {"name": "Natural_materials", "id": 2959852}], "successors": [{"name": "Tires", "id": 2341191}]}
+{"name": "Rubber", "id": 6513357, "predecessors": [{"name": "Natural_materials", "id": 2959852}], "successors": [{"name": "Tires", "id": 2341191}]}

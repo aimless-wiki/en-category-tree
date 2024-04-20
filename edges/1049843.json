@@ -1,1 +1,1 @@
-{"name": "Italian_fashion_designers", "id": 1049843, "predecessors": [{"name": "Design", "id": 999651}, {"name": "Culture_of_Italy", "id": 715520}], "successors": [{"name": "Italian_women_fashion_designers", "id": 72292340}]}
+{"name": "Italian_fashion_designers", "id": 1049843, "predecessors": [{"name": "Italian_designers", "id": 3066259}, {"name": "Design", "id": 999651}, {"name": "Culture_of_Italy", "id": 715520}], "successors": [{"name": "Italian_women_fashion_designers", "id": 72292340}]}

@@ -1,1 +1,1 @@
-{"name": "Soviet_Army_officers", "id": 37316855, "predecessors": [{"name": "Soviet_military_personnel", "id": 6676972}, {"name": "Occupations", "id": 787658}], "successors": [{"name": "Marshals_of_the_Soviet_Union", "id": 1019000}]}
+{"name": "Soviet_Army_officers", "id": 37316855, "predecessors": [{"name": "Soviet_military_personnel", "id": 6676972}, {"name": "Government_occupations", "id": 1006059}], "successors": [{"name": "Marshals_of_the_Soviet_Union", "id": 1019000}]}

@@ -1,1 +1,1 @@
-{"name": "Lighthouse_builders", "id": 6528267, "predecessors": [{"name": "Coastal_construction", "id": 2274672}], "successors": []}
+{"name": "Lighthouse_builders", "id": 6528267, "predecessors": [{"name": "Construction_trades_workers", "id": 1053217}, {"name": "Coastal_construction", "id": 2274672}], "successors": []}

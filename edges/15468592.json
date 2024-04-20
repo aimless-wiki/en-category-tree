@@ -1,1 +1,1 @@
-{"name": "Ski_equipment_manufacturers", "id": 15468592, "predecessors": [{"name": "Sporting_goods_brands", "id": 5306901}, {"name": "Individual_sports", "id": 862248}, {"name": "Natural_resources", "id": 1103405}], "successors": []}
+{"name": "Ski_equipment_manufacturers", "id": 15468592, "predecessors": [{"name": "Sporting_goods_brands", "id": 5306901}, {"name": "Natural_resources", "id": 1103405}, {"name": "Sports_equipment", "id": 8619631}], "successors": []}

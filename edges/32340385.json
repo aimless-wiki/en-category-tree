@@ -1,1 +1,1 @@
-{"name": "World_heavyweight_boxing_champions", "id": 32340385, "predecessors": [{"name": "World_boxing_champions", "id": 1076776}], "successors": []}
+{"name": "World_heavyweight_boxing_champions", "id": 32340385, "predecessors": [{"name": "Heavyweight_boxers", "id": 32341469}, {"name": "World_boxing_champions", "id": 1076776}], "successors": []}

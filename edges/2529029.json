@@ -1,1 +1,1 @@
-{"name": "Atari_ST_software", "id": 2529029, "predecessors": [{"name": "Software_development", "id": 1470317}, {"name": "Computer_architecture", "id": 869984}, {"name": "Home_computers", "id": 707669}, {"name": "32-bit_computers", "id": 61596791}], "successors": [{"name": "Atari_ST_games", "id": 826055}]}
+{"name": "Atari_ST_software", "id": 2529029, "predecessors": [{"name": "Software_development", "id": 1470317}, {"name": "Computer_architecture", "id": 869984}, {"name": "Home_computers", "id": 707669}], "successors": [{"name": "Atari_ST_games", "id": 826055}]}

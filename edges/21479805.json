@@ -1,1 +1,1 @@
-{"name": "Pasta_dishes", "id": 21479805, "predecessors": [{"name": "Italian_cuisine", "id": 742859}, {"name": "Ancient_dishes", "id": 43994809}, {"name": "Culture", "id": 694861}], "successors": []}
+{"name": "Pasta_dishes", "id": 21479805, "predecessors": [{"name": "Italian_cuisine", "id": 742859}, {"name": "Food_ingredients", "id": 1077080}, {"name": "Ancient_dishes", "id": 43994809}], "successors": []}

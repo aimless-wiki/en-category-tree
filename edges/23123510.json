@@ -1,1 +1,1 @@
-{"name": "Intermodal_containers", "id": 23123510, "predecessors": [{"name": "Water_transport", "id": 907307}, {"name": "Holism", "id": 2665130}, {"name": "Human_behavior", "id": 2524202}], "successors": [{"name": "Container_shipping_companies", "id": 13165913}]}
+{"name": "Intermodal_containers", "id": 23123510, "predecessors": [{"name": "Containers", "id": 1047091}, {"name": "Freight_transport", "id": 710066}, {"name": "Holism", "id": 2665130}], "successors": [{"name": "Container_shipping_companies", "id": 13165913}]}

@@ -1,1 +1,1 @@
-{"name": "Songs_about_teenagers", "id": 56739621, "predecessors": [{"name": "Adolescence", "id": 9054629}], "successors": [{"name": "Songs_about_rock_music", "id": 67464090}]}
+{"name": "Songs_about_teenagers", "id": 56739621, "predecessors": [{"name": "Songs_about_children", "id": 54221409}, {"name": "Adolescence", "id": 9054629}, {"name": "Youth_culture", "id": 3336767}], "successors": [{"name": "Songs_about_rock_music", "id": 67464090}]}

@@ -1,1 +1,1 @@
-{"name": "Tanker_shipping_companies", "id": 13153243, "predecessors": [{"name": "Tankers", "id": 802097}, {"name": "Maritime_transport", "id": 56494593}], "successors": []}
+{"name": "Tanker_shipping_companies", "id": 13153243, "predecessors": [{"name": "Tankers", "id": 802097}, {"name": "Freight_transport", "id": 710066}], "successors": []}

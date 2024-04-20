@@ -1,1 +1,1 @@
-{"name": "Animal_trainers", "id": 13948060, "predecessors": [{"name": "Behavior_modification", "id": 9430658}, {"name": "Occupations", "id": 787658}], "successors": [{"name": "Dog_trainers", "id": 11606621}]}
+{"name": "Animal_trainers", "id": 13948060, "predecessors": [{"name": "Animals_and_humans", "id": 52196069}, {"name": "Occupations", "id": 787658}], "successors": [{"name": "Dog_trainers", "id": 11606621}]}

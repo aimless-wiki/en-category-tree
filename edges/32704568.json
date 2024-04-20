@@ -1,1 +1,1 @@
-{"name": "Miramax_films", "id": 32704568, "predecessors": [{"name": "American_films_by_studio", "id": 47295060}, {"name": "Contents", "id": 14105005}], "successors": [{"name": "Dimension_Films_films", "id": 25025995}]}
+{"name": "Miramax_films", "id": 32704568, "predecessors": [{"name": "American_films_by_studio", "id": 47295060}, {"name": "Films_distributed_by_Disney", "id": 55848809}, {"name": "Contents", "id": 14105005}], "successors": [{"name": "Dimension_Films_films", "id": 25025995}]}

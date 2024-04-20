@@ -1,1 +1,1 @@
-{"name": "World_Wrestling_Championships_medalists", "id": 48432657, "predecessors": [{"name": "Competitions", "id": 737119}], "successors": [{"name": "World_Wrestling_Champions", "id": 54576766}]}
+{"name": "World_Wrestling_Championships_medalists", "id": 48432657, "predecessors": [{"name": "World_Wrestling_Championships", "id": 15222746}, {"name": "Games_of_physical_skill", "id": 8429269}, {"name": "Competitions", "id": 737119}], "successors": [{"name": "World_Wrestling_Champions", "id": 54576766}]}

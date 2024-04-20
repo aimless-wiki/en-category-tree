@@ -1,1 +1,1 @@
-{"name": "Mechanical_power_transmission", "id": 22781840, "predecessors": [{"name": "Mechanics", "id": 1028577}, {"name": "Goods_(economics)", "id": 1625839}], "successors": [{"name": "Gears", "id": 2346217}, {"name": "Shaft_drive_motorcycles", "id": 54730890}, {"name": "Automotive_transmission_technologies", "id": 1154958}]}
+{"name": "Mechanical_power_transmission", "id": 22781840, "predecessors": [{"name": "Mechanics", "id": 1028577}, {"name": "Goods_(economics)", "id": 1625839}], "successors": [{"name": "Gears", "id": 2346217}]}

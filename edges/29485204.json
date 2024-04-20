@@ -1,1 +1,1 @@
-{"name": "Car_manufacturers_of_China", "id": 29485204, "predecessors": [{"name": "Academic_disciplines", "id": 693763}, {"name": "Standards", "id": 724561}], "successors": [{"name": "Dongfeng_vehicles", "id": 18488218}, {"name": "Chery_vehicles", "id": 5393511}, {"name": "BYD_vehicles", "id": 24302287}]}
+{"name": "Car_manufacturers_of_China", "id": 29485204, "predecessors": [{"name": "Automotive_industry", "id": 1338498}, {"name": "Standards", "id": 724561}], "successors": [{"name": "Dongfeng_vehicles", "id": 18488218}, {"name": "Chery_vehicles", "id": 5393511}]}

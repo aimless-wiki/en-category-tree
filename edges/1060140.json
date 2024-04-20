@@ -1,1 +1,1 @@
-{"name": "Cryptographic_hash_functions", "id": 1060140, "predecessors": [{"name": "Error_detection_and_correction", "id": 1061200}], "successors": []}
+{"name": "Cryptographic_hash_functions", "id": 1060140, "predecessors": [{"name": "Cryptographic_algorithms", "id": 704483}], "successors": []}

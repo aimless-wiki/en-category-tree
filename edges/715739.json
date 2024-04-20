@@ -1,1 +1,1 @@
-{"name": "Wisdom_goddesses", "id": 715739, "predecessors": [{"name": "Knowledge", "id": 700914}], "successors": [{"name": "Greek_Muses", "id": 5666154}, {"name": "Magic_goddesses", "id": 10572311}]}
+{"name": "Wisdom_goddesses", "id": 715739, "predecessors": [{"name": "Knowledge", "id": 700914}, {"name": "Mythological_characters", "id": 4650460}], "successors": [{"name": "Greek_Muses", "id": 5666154}, {"name": "Magic_goddesses", "id": 10572311}]}

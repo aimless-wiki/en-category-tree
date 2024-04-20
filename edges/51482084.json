@@ -1,1 +1,1 @@
-{"name": "Xbox_One_software", "id": 51482084, "predecessors": [{"name": "Computer_architecture", "id": 869984}, {"name": "Microsoft_hardware", "id": 13659567}, {"name": "Computing_platforms", "id": 973745}], "successors": [{"name": "Xbox_One_games", "id": 39448592}]}
+{"name": "Xbox_One_software", "id": 51482084, "predecessors": [{"name": "Computer_architecture", "id": 869984}, {"name": "Home_video_game_consoles", "id": 44315020}, {"name": "Computing_platforms", "id": 973745}], "successors": [{"name": "Xbox_One_games", "id": 39448592}]}

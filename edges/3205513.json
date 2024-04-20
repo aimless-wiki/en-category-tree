@@ -1,1 +1,1 @@
-{"name": "Multinational_food_companies", "id": 3205513, "predecessors": [{"name": "Multinational_companies", "id": 3543113}], "successors": [{"name": "McDonald's", "id": 769537}]}
+{"name": "Multinational_food_companies", "id": 3205513, "predecessors": [{"name": "Multinational_companies", "id": 3543113}, {"name": "Food_industry", "id": 3540193}], "successors": [{"name": "McDonald's", "id": 769537}]}

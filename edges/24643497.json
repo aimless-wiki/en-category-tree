@@ -1,1 +1,1 @@
-{"name": "Start-Class_Seattle_Sounders_FC_articles", "id": 24643497, "predecessors": [{"name": "Seattle_Sounders_FC_task_force_articles", "id": 24644852}, {"name": "Contents", "id": 14105005}], "successors": []}
+{"name": "Start-Class_Seattle_Sounders_FC_articles", "id": 24643497, "predecessors": [{"name": "Start-Class_articles", "id": 5543222}, {"name": "Seattle_Sounders_FC_task_force_articles", "id": 24644852}], "successors": []}

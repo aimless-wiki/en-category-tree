@@ -1,1 +1,1 @@
-{"name": "Animal_husbandry_occupations", "id": 15047851, "predecessors": [{"name": "Agriculture", "id": 694871}], "successors": []}
+{"name": "Animal_husbandry_occupations", "id": 15047851, "predecessors": [{"name": "Agriculture", "id": 694871}, {"name": "Animals_and_humans", "id": 52196069}], "successors": []}

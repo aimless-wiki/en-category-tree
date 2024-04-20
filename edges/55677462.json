@@ -1,1 +1,1 @@
-{"name": "Prehistoric_synapsid_genera", "id": 55677462, "predecessors": [{"name": "Biology", "id": 692675}], "successors": [{"name": "Prehistoric_therapsid_genera", "id": 55672730}]}
+{"name": "Prehistoric_synapsid_genera", "id": 55677462, "predecessors": [{"name": "Integers", "id": 736448}, {"name": "Biology", "id": 692675}], "successors": [{"name": "Prehistoric_therapsid_genera", "id": 55672730}]}

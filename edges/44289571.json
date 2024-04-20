@@ -1,1 +1,1 @@
-{"name": "Tragicomedy_films", "id": 44289571, "predecessors": [{"name": "Film_genres", "id": 3008852}, {"name": "Ancient_Greek_theatre", "id": 1770279}], "successors": []}
+{"name": "Tragicomedy_films", "id": 44289571, "predecessors": [{"name": "Comedy_genres", "id": 14988940}, {"name": "Film_genres", "id": 3008852}, {"name": "Ancient_Greek_theatre", "id": 1770279}], "successors": []}

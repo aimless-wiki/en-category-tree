@@ -1,1 +1,1 @@
-{"name": "Windows_graphics-related_software", "id": 41456455, "predecessors": [{"name": "Windows_software", "id": 978482}], "successors": [{"name": "Computer-aided_design_software_for_Windows", "id": 41511562}, {"name": "Microsoft_Office", "id": 2043396}]}
+{"name": "Windows_graphics-related_software", "id": 41456455, "predecessors": [{"name": "Windows_software", "id": 978482}, {"name": "Graphics_software", "id": 796994}], "successors": [{"name": "Computer-aided_design_software_for_Windows", "id": 41511562}]}

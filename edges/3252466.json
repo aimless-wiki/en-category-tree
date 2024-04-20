@@ -1,1 +1,1 @@
-{"name": "135_film_cameras", "id": 3252466, "predecessors": [{"name": "Cameras", "id": 1120124}], "successors": []}
+{"name": "135_film_cameras", "id": 3252466, "predecessors": [{"name": "Cameras_by_type", "id": 1120136}], "successors": []}

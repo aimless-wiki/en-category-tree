@@ -1,1 +1,1 @@
-{"name": "FK_Loznica_players", "id": 27716448, "predecessors": [{"name": "Football_clubs_in_Serbia", "id": 34432988}, {"name": "Academic_disciplines", "id": 693763}], "successors": []}
+{"name": "FK_Loznica_players", "id": 27716448, "predecessors": [{"name": "Football_clubs_in_Serbia", "id": 34432988}, {"name": "Culture_of_Serbia", "id": 724300}], "successors": []}

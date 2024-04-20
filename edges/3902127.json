@@ -1,1 +1,1 @@
-{"name": "Herbal_tea", "id": 3902127, "predecessors": [{"name": "Herbs", "id": 743395}], "successors": []}
+{"name": "Herbal_tea", "id": 3902127, "predecessors": [{"name": "Herbs", "id": 743395}, {"name": "Hot_drinks", "id": 14782800}], "successors": []}

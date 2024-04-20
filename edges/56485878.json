@@ -1,1 +1,1 @@
-{"name": "Church_buildings_with_domes", "id": 56485878, "predecessors": [{"name": "Church_architecture", "id": 1737609}], "successors": [{"name": "Hagia_Sophia", "id": 74427860}]}
+{"name": "Church_buildings_with_domes", "id": 56485878, "predecessors": [{"name": "Church_architecture", "id": 1737609}, {"name": "Domes", "id": 9080614}], "successors": [{"name": "Hagia_Sophia", "id": 74427860}]}

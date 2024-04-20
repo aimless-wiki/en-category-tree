@@ -1,1 +1,1 @@
-{"name": "Missile_guidance", "id": 1095963, "predecessors": [{"name": "Robots", "id": 943048}, {"name": "Military_technology", "id": 1073580}, {"name": "Causes_of_death", "id": 5271061}, {"name": "Explosive_weapons", "id": 1150760}], "successors": []}
+{"name": "Missile_guidance", "id": 1095963, "predecessors": [{"name": "Robots", "id": 943048}, {"name": "Military_technology", "id": 1073580}, {"name": "Causes_of_death", "id": 5271061}, {"name": "Bombs", "id": 762472}], "successors": []}

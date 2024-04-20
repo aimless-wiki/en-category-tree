@@ -1,1 +1,1 @@
-{"name": "High_fashion_brands", "id": 10669781, "predecessors": [{"name": "Fashion", "id": 1000816}, {"name": "Luxury_brands", "id": 4348450}, {"name": "Clothing_brands", "id": 4473937}], "successors": [{"name": "Haute_couture", "id": 3035217}]}
+{"name": "High_fashion_brands", "id": 10669781, "predecessors": [{"name": "Luxury_brands", "id": 4348450}, {"name": "Clothing_brands", "id": 4473937}, {"name": "Fashion", "id": 1000816}], "successors": [{"name": "Haute_couture", "id": 3035217}]}

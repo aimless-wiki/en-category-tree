@@ -1,1 +1,1 @@
-{"name": "Elsevier_academic_journals", "id": 24899066, "predecessors": [{"name": "Publishing", "id": 1001911}], "successors": [{"name": "Cell_Press_academic_journals", "id": 28377043}]}
+{"name": "Elsevier_academic_journals", "id": 24899066, "predecessors": [{"name": "Academic_publishing_companies", "id": 34341275}, {"name": "Publishing", "id": 1001911}], "successors": [{"name": "Cell_Press_academic_journals", "id": 28377043}]}

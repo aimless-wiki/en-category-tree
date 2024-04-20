@@ -1,1 +1,1 @@
-{"name": "Windows_trojans", "id": 11283882, "predecessors": [{"name": "Windows_software", "id": 978482}], "successors": []}
+{"name": "Windows_trojans", "id": 11283882, "predecessors": [{"name": "Malware", "id": 802145}], "successors": []}

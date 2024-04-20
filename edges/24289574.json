@@ -1,1 +1,1 @@
-{"name": "Avinor_airports", "id": 24289574, "predecessors": [{"name": "Architecture", "id": 708984}, {"name": "Infrastructure", "id": 2962329}, {"name": "Activism_by_type", "id": 39631262}], "successors": []}
+{"name": "Avinor_airports", "id": 24289574, "predecessors": [{"name": "Airport_operators", "id": 3800059}, {"name": "Architecture", "id": 708984}, {"name": "Infrastructure", "id": 2962329}], "successors": []}

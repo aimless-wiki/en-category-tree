@@ -1,1 +1,1 @@
-{"name": "Oil_pipeline_companies", "id": 15458673, "predecessors": [{"name": "Infrastructure", "id": 2962329}], "successors": []}
+{"name": "Oil_pipeline_companies", "id": 15458673, "predecessors": [{"name": "Infrastructure", "id": 2962329}, {"name": "Petroleum_industry", "id": 37426453}], "successors": []}

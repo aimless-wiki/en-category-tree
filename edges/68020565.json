@@ -1,1 +1,1 @@
-{"name": "Military_aircraft_user_templates", "id": 68020565, "predecessors": [{"name": "Aviation_user_templates", "id": 60992889}, {"name": "Military_user_templates", "id": 5965767}], "successors": []}
+{"name": "Military_aircraft_user_templates", "id": 68020565, "predecessors": [{"name": "Aircraft_user_templates", "id": 76560740}, {"name": "Military_user_templates", "id": 5965767}], "successors": []}

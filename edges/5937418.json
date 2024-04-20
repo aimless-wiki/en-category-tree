@@ -1,1 +1,1 @@
-{"name": "Canadian_dance_musicians", "id": 5937418, "predecessors": [{"name": "Culture", "id": 694861}], "successors": [{"name": "Canadian_DJs", "id": 6548183}, {"name": "Canadian_dance_music_groups", "id": 6758180}]}
+{"name": "Canadian_dance_musicians", "id": 5937418, "predecessors": [{"name": "Music_genres", "id": 4826123}], "successors": [{"name": "Canadian_DJs", "id": 6548183}, {"name": "Canadian_dance_music_groups", "id": 6758180}, {"name": "Canadian_electronic_dance_music_DJs", "id": 76564348}]}

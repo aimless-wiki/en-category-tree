@@ -1,1 +1,1 @@
-{"name": "Ionosphere", "id": 39038801, "predecessors": [{"name": "Space_plasmas", "id": 1848476}, {"name": "Atmospheric_thermodynamics", "id": 5135753}], "successors": []}
+{"name": "Ionosphere", "id": 39038801, "predecessors": [{"name": "Space_plasmas", "id": 1848476}, {"name": "Atmosphere", "id": 1136015}], "successors": []}

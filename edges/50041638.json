@@ -1,1 +1,1 @@
-{"name": "Torturers", "id": 50041638, "predecessors": [{"name": "Torture", "id": 979826}, {"name": "Human_behavior", "id": 2524202}, {"name": "Crime", "id": 1183180}], "successors": []}
+{"name": "Torturers", "id": 50041638, "predecessors": [{"name": "Torture", "id": 979826}, {"name": "Human_behavior", "id": 2524202}, {"name": "Crime", "id": 1183180}], "successors": [{"name": "People_convicted_of_torture", "id": 65563052}]}

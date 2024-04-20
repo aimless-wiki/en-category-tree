@@ -1,1 +1,1 @@
-{"name": "Radiography", "id": 10041001, "predecessors": [{"name": "Radiology", "id": 695053}], "successors": []}
+{"name": "Radiography", "id": 10041001, "predecessors": [{"name": "Radiology", "id": 695053}, {"name": "X-rays", "id": 1297860}], "successors": []}

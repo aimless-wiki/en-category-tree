@@ -1,1 +1,1 @@
-{"name": "NBL_locomotives", "id": 2024970, "predecessors": [{"name": "Land_tenure", "id": 49153374}], "successors": [{"name": "Dübs_locomotives", "id": 14862938}, {"name": "Neilson_locomotives", "id": 14863109}, {"name": "Sharp_Stewart_locomotives", "id": 14949756}]}
+{"name": "NBL_locomotives", "id": 2024970, "predecessors": [{"name": "Standards", "id": 724561}], "successors": [{"name": "Dübs_locomotives", "id": 14862938}, {"name": "Neilson_locomotives", "id": 14863109}, {"name": "Sharp_Stewart_locomotives", "id": 14949756}]}

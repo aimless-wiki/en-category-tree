@@ -1,1 +1,1 @@
-{"name": "Oko", "id": 34985065, "predecessors": [{"name": "Missile_defense", "id": 13373210}, {"name": "Mass_surveillance", "id": 20004686}], "successors": []}
+{"name": "Oko", "id": 34985065, "predecessors": [{"name": "Missile_defense", "id": 13373210}, {"name": "Military_technology", "id": 1073580}, {"name": "Mass_surveillance", "id": 20004686}], "successors": []}

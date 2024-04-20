@@ -1,1 +1,1 @@
-{"name": "Bantamweight_boxers", "id": 32340992, "predecessors": [{"name": "Mammal_orders", "id": 43534992}], "successors": [{"name": "World_bantamweight_boxing_champions", "id": 32340267}]}
+{"name": "Bantamweight_boxers", "id": 32340992, "predecessors": [{"name": "Comparisons", "id": 984353}, {"name": "Sports_rules_and_regulations", "id": 14543951}], "successors": [{"name": "World_bantamweight_boxing_champions", "id": 32340267}]}

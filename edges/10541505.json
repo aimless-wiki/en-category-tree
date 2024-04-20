@@ -1,1 +1,1 @@
-{"name": "Electronica_musicians", "id": 10541505, "predecessors": [{"name": "Electronic_musicians", "id": 711299}], "successors": []}
+{"name": "Electronica_musicians", "id": 10541505, "predecessors": [{"name": "Music_genres", "id": 4826123}], "successors": [{"name": "Folktronica_musicians", "id": 58354753}]}

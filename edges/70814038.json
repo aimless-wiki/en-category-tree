@@ -1,1 +1,1 @@
-{"name": "Deaths_from_lung_cancer_in_France", "id": 70814038, "predecessors": [{"name": "Deaths_from_cancer_in_France", "id": 19530270}, {"name": "Landforms", "id": 705424}, {"name": "Deaths_from_lung_cancer", "id": 18669531}], "successors": []}
+{"name": "Deaths_from_lung_cancer_in_France", "id": 70814038, "predecessors": [{"name": "Deaths_from_cancer_in_France", "id": 19530270}, {"name": "Death", "id": 921954}, {"name": "Deaths_from_lung_cancer", "id": 18669531}], "successors": []}

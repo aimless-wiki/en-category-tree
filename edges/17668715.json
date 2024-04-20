@@ -1,1 +1,1 @@
-{"name": "Climate_and_weather_statistics", "id": 17668715, "predecessors": [{"name": "Climatology", "id": 798288}, {"name": "Physical_phenomena", "id": 3450392}, {"name": "Earth_sciences", "id": 716903}], "successors": []}
+{"name": "Climate_and_weather_statistics", "id": 17668715, "predecessors": [{"name": "Climatology", "id": 798288}, {"name": "Atmosphere", "id": 1136015}, {"name": "Earth_sciences", "id": 716903}], "successors": []}

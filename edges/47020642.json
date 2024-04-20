@@ -1,1 +1,1 @@
-{"name": "Arab_art_scene", "id": 47020642, "predecessors": [{"name": "Arab_culture", "id": 36513227}, {"name": "African_culture", "id": 1013583}], "successors": []}
+{"name": "Arab_art_scene", "id": 47020642, "predecessors": [{"name": "Arab_culture", "id": 36513227}, {"name": "Culture", "id": 694861}], "successors": [{"name": "Artists_from_Beirut", "id": 64953269}, {"name": "Lebanese_film_directors", "id": 3469678}]}

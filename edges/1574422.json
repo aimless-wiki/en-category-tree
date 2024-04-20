@@ -1,1 +1,1 @@
-{"name": "Double_agents", "id": 1574422, "predecessors": [{"name": "Mammal_orders", "id": 43534992}], "successors": [{"name": "Fictional_double_agents", "id": 43212784}, {"name": "Federal_Bureau_of_Investigation_informants", "id": 13062305}, {"name": "Stasi_informants", "id": 75667837}]}
+{"name": "Double_agents", "id": 1574422, "predecessors": [{"name": "Anthropology", "id": 694863}], "successors": [{"name": "Fictional_double_agents", "id": 43212784}, {"name": "Federal_Bureau_of_Investigation_informants", "id": 13062305}, {"name": "Stasi_informants", "id": 75667837}]}

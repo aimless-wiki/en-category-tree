@@ -1,1 +1,1 @@
-{"name": "Gas_discharge_lamps", "id": 15802367, "predecessors": [{"name": "Glass_applications", "id": 15377712}, {"name": "Types_of_lamp", "id": 45198981}, {"name": "Electricity", "id": 959298}, {"name": "Plasma_phenomena", "id": 75311543}], "successors": []}
+{"name": "Gas_discharge_lamps", "id": 15802367, "predecessors": [{"name": "Glass_applications", "id": 15377712}, {"name": "Types_of_lamp", "id": 45198981}, {"name": "Electrical_phenomena", "id": 2007926}], "successors": []}

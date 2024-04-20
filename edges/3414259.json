@@ -1,1 +1,1 @@
-{"name": "Tropical_agriculture", "id": 3414259, "predecessors": [{"name": "Agriculture", "id": 694871}, {"name": "Contents", "id": 14105005}], "successors": [{"name": "Tropical_fruit", "id": 19824185}]}
+{"name": "Tropical_agriculture", "id": 3414259, "predecessors": [{"name": "Agriculture", "id": 694871}, {"name": "Atmosphere", "id": 1136015}], "successors": [{"name": "Tropical_fruit", "id": 19824185}]}

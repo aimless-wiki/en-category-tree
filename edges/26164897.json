@@ -1,1 +1,1 @@
-{"name": "Mountains_under_1000_metres", "id": 26164897, "predecessors": [{"name": "Vertical_position", "id": 59333739}, {"name": "Toponymy", "id": 1086902}], "successors": [{"name": "Mountains_of_Canada_under_1000_metres", "id": 67866065}]}
+{"name": "Mountains_under_1000_metres", "id": 26164897, "predecessors": [{"name": "Mountains", "id": 700252}, {"name": "Toponymy", "id": 1086902}], "successors": [{"name": "Mountains_of_Canada_under_1000_metres", "id": 67866065}]}

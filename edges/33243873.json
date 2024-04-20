@@ -1,1 +1,1 @@
-{"name": "Single-engined_pusher_aircraft", "id": 33243873, "predecessors": [{"name": "Aircraft_configurations", "id": 1024208}, {"name": "Atmospheric_thermodynamics", "id": 5135753}], "successors": [{"name": "Single-engined_pusher_autogyros", "id": 58517503}]}
+{"name": "Single-engined_pusher_aircraft", "id": 33243873, "predecessors": [{"name": "Aircraft_configurations", "id": 1024208}, {"name": "Atmosphere", "id": 1136015}], "successors": [{"name": "Single-engined_pusher_autogyros", "id": 58517503}]}

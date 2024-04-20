@@ -1,1 +1,1 @@
-{"name": "Belgian_soldiers", "id": 8802474, "predecessors": [{"name": "Occupations", "id": 787658}], "successors": [{"name": "Belgian_Army_personnel_of_World_War_I", "id": 66939598}]}
+{"name": "Belgian_soldiers", "id": 8802474, "predecessors": [{"name": "Government", "id": 697609}, {"name": "Occupations", "id": 787658}], "successors": [{"name": "Belgian_Army_personnel_of_World_War_I", "id": 66939598}]}

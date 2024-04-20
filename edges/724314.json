@@ -1,1 +1,1 @@
-{"name": "Scottish_music", "id": 724314, "predecessors": [{"name": "Culture_of_Scotland", "id": 724317}], "successors": [{"name": "Scottish_songs", "id": 5858955}, {"name": "Scottish_Gaelic_music", "id": 34665711}, {"name": "Music_festivals_in_Scotland", "id": 11285443}]}
+{"name": "Scottish_music", "id": 724314, "predecessors": [{"name": "Culture_of_Scotland", "id": 724317}, {"name": "Culture", "id": 694861}, {"name": "Language_families", "id": 952039}], "successors": [{"name": "Scottish_songs", "id": 5858955}, {"name": "Scottish_Gaelic_music", "id": 34665711}]}

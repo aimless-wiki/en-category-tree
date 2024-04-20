@@ -1,1 +1,1 @@
-{"name": "Physicians_from_Vienna", "id": 37571592, "predecessors": [{"name": "Countries_in_Europe", "id": 37691805}, {"name": "Occupations", "id": 787658}, {"name": "Contents", "id": 14105005}], "successors": []}
+{"name": "Physicians_from_Vienna", "id": 37571592, "predecessors": [{"name": "Health_care", "id": 35880954}, {"name": "Occupations", "id": 787658}, {"name": "Health_care_occupations", "id": 1006080}], "successors": []}

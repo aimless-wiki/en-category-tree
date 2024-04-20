@@ -1,1 +1,1 @@
-{"name": "Railway_lines_in_Bavaria", "id": 9154202, "predecessors": [{"name": "Infrastructure", "id": 2962329}, {"name": "Land_tenure", "id": 49153374}], "successors": [{"name": "Branch_lines_in_Bavaria", "id": 20600079}]}
+{"name": "Railway_lines_in_Bavaria", "id": 9154202, "predecessors": [{"name": "Infrastructure", "id": 2962329}], "successors": [{"name": "Branch_lines_in_Bavaria", "id": 20600079}]}

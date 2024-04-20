@@ -1,1 +1,1 @@
-{"name": "Bookmakers", "id": 3448761, "predecessors": [{"name": "Standards", "id": 724561}], "successors": []}
+{"name": "Bookmakers", "id": 3448761, "predecessors": [{"name": "Wagering", "id": 3731325}, {"name": "Addiction", "id": 870031}, {"name": "Standards", "id": 724561}], "successors": []}

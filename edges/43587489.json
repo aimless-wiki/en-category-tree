@@ -1,1 +1,1 @@
-{"name": "Online_encyclopedias", "id": 43587489, "predecessors": [{"name": "Educational_materials", "id": 2488034}, {"name": "Websites", "id": 699165}], "successors": [{"name": "Wikipedia", "id": 700075}, {"name": "American_online_encyclopedias", "id": 62262448}]}
+{"name": "Online_encyclopedias", "id": 43587489, "predecessors": [{"name": "Educational_materials", "id": 2488034}, {"name": "Copyright_law", "id": 702268}, {"name": "Websites", "id": 699165}], "successors": [{"name": "Wikipedia", "id": 700075}, {"name": "American_online_encyclopedias", "id": 62262448}]}

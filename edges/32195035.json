@@ -1,1 +1,1 @@
-{"name": "Maize_dishes", "id": 32195035, "predecessors": [{"name": "Cereals", "id": 694869}], "successors": []}
+{"name": "Maize_dishes", "id": 32195035, "predecessors": [{"name": "Cereals", "id": 694869}, {"name": "Food_ingredients", "id": 1077080}], "successors": []}

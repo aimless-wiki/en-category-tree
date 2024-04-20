@@ -1,1 +1,1 @@
-{"name": "Weird_fiction_writers", "id": 42094933, "predecessors": [{"name": "Speculative_fiction", "id": 1072285}, {"name": "Fantasy_genres", "id": 1949693}], "successors": []}
+{"name": "Weird_fiction_writers", "id": 42094933, "predecessors": [{"name": "Fiction_by_genre", "id": 5740366}, {"name": "Fantasy_genres", "id": 1949693}], "successors": [{"name": "American_weird_fiction_writers", "id": 76557349}, {"name": "British_weird_fiction_writers", "id": 76557355}]}

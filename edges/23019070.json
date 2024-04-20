@@ -1,1 +1,1 @@
-{"name": "Film_awards_for_lead_actor", "id": 23019070, "predecessors": [{"name": "Academic_disciplines", "id": 693763}], "successors": [{"name": "Best_Actor_AACTA_Award_winners", "id": 33579236}]}
+{"name": "Film_awards_for_lead_actor", "id": 23019070, "predecessors": [{"name": "Academic_disciplines", "id": 693763}, {"name": "Entertainment", "id": 693016}], "successors": [{"name": "Best_Actor_AACTA_Award_winners", "id": 33579236}]}
