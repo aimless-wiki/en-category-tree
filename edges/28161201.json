@@ -1,1 +1,1 @@
-{"name": "Mexican_potters", "id": 28161201, "predecessors": [{"name": "Mexican_artists", "id": 1057750}, {"name": "Art_by_country", "id": 1001486}, {"name": "Mexican_art", "id": 3757655}], "successors": []}
+{"name": "Mexican_potters", "id": 28161201, "predecessors": [{"name": "Mexican_artists", "id": 1057750}, {"name": "Art_by_country", "id": 1001486}, {"name": "Mexican_art", "id": 3757655}, {"name": "Wikipedia_categorization", "id": 1036222}], "successors": []}

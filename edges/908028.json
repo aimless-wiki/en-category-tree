@@ -1,1 +1,1 @@
-{"name": "Porsche_vehicles", "id": 908028, "predecessors": [{"name": "Cars_of_Germany", "id": 6925854}, {"name": "Luxury_vehicles", "id": 1028860}, {"name": "Porsche", "id": 883789}, {"name": "Automotive_industry", "id": 1338498}, {"name": "Volkswagen_Group", "id": 28426237}], "successors": []}
+{"name": "Porsche_vehicles", "id": 908028, "predecessors": [{"name": "Luxury_vehicles", "id": 1028860}, {"name": "Porsche", "id": 883789}, {"name": "Automotive_industry", "id": 1338498}, {"name": "Volkswagen_Group", "id": 28426237}], "successors": []}

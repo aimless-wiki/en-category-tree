@@ -1,1 +1,1 @@
-{"name": "French_plays", "id": 1469273, "predecessors": [{"name": "Culture", "id": 694861}, {"name": "French_literature", "id": 894747}, {"name": "Culture_of_France", "id": 715456}], "successors": [{"name": "French_plays_adapted_into_films", "id": 51477343}]}
+{"name": "French_plays", "id": 1469273, "predecessors": [{"name": "Drama", "id": 709071}, {"name": "Culture_of_France", "id": 715456}, {"name": "French_literature", "id": 894747}], "successors": [{"name": "French_plays_adapted_into_films", "id": 51477343}]}

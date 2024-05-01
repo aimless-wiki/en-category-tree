@@ -1,1 +1,1 @@
-{"name": "Hatchbacks", "id": 4386717, "predecessors": [{"name": "Car_body_styles", "id": 750616}, {"name": "Comparisons", "id": 984353}], "successors": [{"name": "Hot_hatches", "id": 16241739}]}
+{"name": "Hatchbacks", "id": 4386717, "predecessors": [{"name": "Car_body_styles", "id": 750616}, {"name": "Classification_systems", "id": 3615452}], "successors": []}

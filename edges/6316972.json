@@ -1,1 +1,1 @@
-{"name": "Ear", "id": 6316972, "predecessors": [{"name": "Auditory_system", "id": 749765}, {"name": "Human_head_and_neck", "id": 36703875}, {"name": "Nervous_system", "id": 698571}, {"name": "Abstraction", "id": 902386}], "successors": []}
+{"name": "Ear", "id": 6316972, "predecessors": [{"name": "Auditory_system", "id": 749765}, {"name": "Human_head_and_neck", "id": 36703875}, {"name": "Nervous_system", "id": 698571}, {"name": "Abstraction", "id": 902386}, {"name": "Anatomy", "id": 692380}], "successors": []}

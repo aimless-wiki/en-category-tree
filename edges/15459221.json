@@ -1,1 +1,1 @@
-{"name": "Tropical_diseases", "id": 15459221, "predecessors": [{"name": "Infectious_diseases", "id": 707355}, {"name": "Branches_of_biology", "id": 37535091}], "successors": [{"name": "Malaria", "id": 4274737}, {"name": "Ebola", "id": 8265047}, {"name": "Helminthiases", "id": 32776497}]}
+{"name": "Tropical_diseases", "id": 15459221, "predecessors": [{"name": "Infectious_diseases", "id": 707355}, {"name": "Branches_of_biology", "id": 37535091}], "successors": [{"name": "Malaria", "id": 4274737}, {"name": "Ebola", "id": 8265047}]}

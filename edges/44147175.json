@@ -1,1 +1,1 @@
-{"name": "Lizards_of_Africa", "id": 44147175, "predecessors": [{"name": "Reptiles_of_Africa", "id": 6895690}, {"name": "Integers", "id": 736448}], "successors": [{"name": "Geckos_of_Africa", "id": 44200808}, {"name": "Skinks_of_Africa", "id": 44207129}, {"name": "Lacertid_lizards_of_Africa", "id": 44207511}]}
+{"name": "Lizards_of_Africa", "id": 44147175, "predecessors": [{"name": "Reptiles_of_Africa", "id": 6895690}, {"name": "Biology", "id": 692675}], "successors": [{"name": "Geckos_of_Africa", "id": 44200808}, {"name": "Skinks_of_Africa", "id": 44207129}]}

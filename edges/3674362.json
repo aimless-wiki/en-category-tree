@@ -1,1 +1,1 @@
-{"name": "Rites_of_passage", "id": 3674362, "predecessors": [{"name": "Rituals", "id": 3987698}, {"name": "Principles", "id": 5922972}, {"name": "Social_influence", "id": 42532156}, {"name": "Ceremonies", "id": 1118985}], "successors": [{"name": "Baptism", "id": 1991804}]}
+{"name": "Rites_of_passage", "id": 3674362, "predecessors": [{"name": "Rituals", "id": 3987698}, {"name": "Principles", "id": 5922972}, {"name": "Cultural_studies", "id": 1826208}, {"name": "Ceremonies", "id": 1118985}], "successors": [{"name": "Baptism", "id": 1991804}]}

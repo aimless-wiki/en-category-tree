@@ -1,1 +1,1 @@
-{"name": "Celebrity_magazines", "id": 3731586, "predecessors": [{"name": "Cultural_magazines", "id": 1328742}, {"name": "Entertainment_magazines", "id": 2340169}], "successors": []}
+{"name": "Celebrity_magazines", "id": 3731586, "predecessors": [{"name": "Celebrity", "id": 28251652}, {"name": "Cultural_magazines", "id": 1328742}, {"name": "Entertainment_magazines", "id": 2340169}], "successors": []}

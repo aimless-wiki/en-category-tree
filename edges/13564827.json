@@ -1,1 +1,1 @@
-{"name": "Vehicle_insurance", "id": 13564827, "predecessors": [{"name": "Vehicle_law", "id": 7902308}, {"name": "Land_tenure", "id": 49153374}, {"name": "Law_and_economics", "id": 706540}], "successors": []}
+{"name": "Vehicle_insurance", "id": 13564827, "predecessors": [{"name": "Vehicle_law", "id": 7902308}, {"name": "Land_tenure", "id": 49153374}, {"name": "Types_of_insurance", "id": 8163702}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Book_selling_websites", "id": 23777681, "predecessors": [{"name": "Bookselling", "id": 13123053}, {"name": "E-commerce", "id": 38191116}, {"name": "Literature", "id": 692008}], "successors": []}
+{"name": "Book_selling_websites", "id": 23777681, "predecessors": [{"name": "E-commerce", "id": 38191116}, {"name": "Sales", "id": 4536131}, {"name": "Literature", "id": 692008}], "successors": []}

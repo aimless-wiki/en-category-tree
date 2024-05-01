@@ -1,1 +1,1 @@
-{"name": "Lens_mounts", "id": 3152085, "predecessors": [{"name": "Mechanical_standards", "id": 8273307}, {"name": "Photographic_lenses", "id": 2971594}], "successors": [{"name": "Sony_E-mount_lenses", "id": 40291267}, {"name": "Canon_EF_lenses", "id": 2154634}, {"name": "Sony_E-mount_cameras", "id": 40487661}, {"name": "Nikon_F-mount_cameras", "id": 51864633}]}
+{"name": "Lens_mounts", "id": 3152085, "predecessors": [{"name": "Mechanical_standards", "id": 8273307}, {"name": "Photographic_lenses", "id": 2971594}, {"name": "Cameras", "id": 1120124}], "successors": []}

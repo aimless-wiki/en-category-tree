@@ -1,1 +1,1 @@
-{"name": "Olfaction", "id": 1061081, "predecessors": [{"name": "Brain", "id": 5239453}, {"name": "Otorhinolaryngology", "id": 44532271}, {"name": "Olfactory_system", "id": 749761}], "successors": [{"name": "Olfactory_system", "id": 749761}, {"name": "Scent_hounds", "id": 2464798}]}
+{"name": "Olfaction", "id": 1061081, "predecessors": [{"name": "Olfactory_system", "id": 749761}], "successors": [{"name": "Olfactory_system", "id": 749761}, {"name": "Scent_hounds", "id": 2464798}]}

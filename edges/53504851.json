@@ -1,1 +1,1 @@
-{"name": "Ships_built_by_Vickers_Armstrong", "id": 53504851, "predecessors": [{"name": "Shipbuilding", "id": 38000490}], "successors": []}
+{"name": "Ships_built_by_Vickers_Armstrong", "id": 53504851, "predecessors": [{"name": "Vickers", "id": 2174782}, {"name": "Shipbuilding", "id": 38000490}], "successors": []}

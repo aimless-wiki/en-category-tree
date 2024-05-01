@@ -1,1 +1,1 @@
-{"name": "Open_data", "id": 25128034, "predecessors": [{"name": "Data_management", "id": 762162}, {"name": "Open_content", "id": 2526636}, {"name": "Wikipedia_categorization", "id": 1036222}], "successors": [{"name": "Open_government", "id": 24134294}]}
+{"name": "Open_data", "id": 25128034, "predecessors": [{"name": "Data_management", "id": 762162}, {"name": "Open_content", "id": 2526636}, {"name": "Digital_media", "id": 1017992}], "successors": [{"name": "Open_government", "id": 24134294}]}

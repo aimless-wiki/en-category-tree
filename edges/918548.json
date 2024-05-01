@@ -1,1 +1,1 @@
-{"name": "Mercedes-Benz_vehicles", "id": 918548, "predecessors": [{"name": "Cars_of_Germany", "id": 6925854}, {"name": "Luxury_vehicles", "id": 1028860}, {"name": "Mercedes-Benz", "id": 918553}, {"name": "Automotive_industry", "id": 1338498}], "successors": []}
+{"name": "Mercedes-Benz_vehicles", "id": 918548, "predecessors": [{"name": "Luxury_vehicles", "id": 1028860}, {"name": "Mercedes-Benz", "id": 918553}, {"name": "Automotive_industry", "id": 1338498}], "successors": []}

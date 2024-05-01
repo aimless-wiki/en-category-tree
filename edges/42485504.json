@@ -1,1 +1,1 @@
-{"name": "Synth-pop_singers", "id": 42485504, "predecessors": [{"name": "Electronic_music_genres", "id": 757708}, {"name": "Electronic_music", "id": 724503}, {"name": "Music_genres", "id": 4826123}], "successors": []}
+{"name": "Synth-pop_singers", "id": 42485504, "predecessors": [{"name": "Music_genres", "id": 4826123}, {"name": "Electronic_music", "id": 724503}], "successors": []}

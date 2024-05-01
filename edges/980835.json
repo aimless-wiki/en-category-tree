@@ -1,1 +1,1 @@
-{"name": "Macintosh-only_software", "id": 980835, "predecessors": [{"name": "Computer_architecture", "id": 869984}, {"name": "Microcomputer_software", "id": 1756674}], "successors": [{"name": "Classic_Mac_OS-only_games", "id": 65889750}]}
+{"name": "Macintosh-only_software", "id": 980835, "predecessors": [{"name": "Digital_media", "id": 1017992}, {"name": "Microcomputer_software", "id": 1756674}], "successors": [{"name": "Classic_Mac_OS-only_games", "id": 65889750}]}

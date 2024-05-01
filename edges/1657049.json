@@ -1,1 +1,1 @@
-{"name": "Root_vegetables", "id": 1657049, "predecessors": [{"name": "Crops", "id": 694870}, {"name": "Plant_morphology", "id": 2774262}], "successors": [{"name": "Onions", "id": 3242699}, {"name": "Garlic", "id": 21995380}, {"name": "Cassava_dishes", "id": 62254411}]}
+{"name": "Root_vegetables", "id": 1657049, "predecessors": [{"name": "Crops", "id": 694870}, {"name": "Plant_morphology", "id": 2774262}], "successors": [{"name": "Garlic", "id": 21995380}]}

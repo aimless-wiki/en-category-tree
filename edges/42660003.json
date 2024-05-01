@@ -1,1 +1,1 @@
-{"name": "Eudicot_diseases", "id": 42660003, "predecessors": [{"name": "Plants", "id": 867260}, {"name": "Causes_of_death", "id": 5271061}], "successors": [{"name": "Tomato_diseases", "id": 5384780}, {"name": "Tea_diseases", "id": 42700294}]}
+{"name": "Eudicot_diseases", "id": 42660003, "predecessors": [{"name": "Plants", "id": 867260}, {"name": "Causes_of_death", "id": 5271061}], "successors": [{"name": "Tea_diseases", "id": 42700294}]}

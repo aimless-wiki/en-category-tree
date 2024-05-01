@@ -1,1 +1,1 @@
-{"name": "Stomach", "id": 35879163, "predecessors": [{"name": "Digestive_system", "id": 703214}, {"name": "Anatomy", "id": 692380}], "successors": [{"name": "Deaths_from_stomach_cancer", "id": 18669637}]}
+{"name": "Stomach", "id": 35879163, "predecessors": [{"name": "Abdomen", "id": 1703539}, {"name": "Digestive_system", "id": 703214}, {"name": "Anatomy", "id": 692380}], "successors": [{"name": "Deaths_from_stomach_cancer", "id": 18669637}]}

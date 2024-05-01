@@ -1,1 +1,1 @@
-{"name": "Italian_male_painters", "id": 51967750, "predecessors": [{"name": "Italian_painters", "id": 880075}, {"name": "Male_painters", "id": 51898275}, {"name": "Italian_artists", "id": 1031803}], "successors": []}
+{"name": "Italian_male_painters", "id": 51967750, "predecessors": [{"name": "Italian_painters", "id": 880075}, {"name": "Art_by_country", "id": 1001486}, {"name": "Italian_artists", "id": 1031803}], "successors": []}

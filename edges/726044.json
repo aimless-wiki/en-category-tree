@@ -1,1 +1,1 @@
-{"name": "Pharmacokinetics", "id": 726044, "predecessors": [{"name": "Pharmacology", "id": 717788}, {"name": "Drugs", "id": 1325883}], "successors": []}
+{"name": "Pharmacokinetics", "id": 726044, "predecessors": [{"name": "Pharmacology", "id": 717788}, {"name": "Drugs", "id": 1325883}], "successors": [{"name": "Cytochrome_P450", "id": 1024785}]}

@@ -1,1 +1,1 @@
-{"name": "Mechanical_hand_tools", "id": 846118, "predecessors": [{"name": "Mechanics", "id": 1028577}], "successors": [{"name": "Axes", "id": 1556769}]}
+{"name": "Mechanical_hand_tools", "id": 846118, "predecessors": [{"name": "Hand_tools", "id": 10163190}, {"name": "Mechanics", "id": 1028577}], "successors": [{"name": "Axes", "id": 1556769}]}

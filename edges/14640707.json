@@ -1,1 +1,1 @@
-{"name": "Comedy_plays", "id": 14640707, "predecessors": [{"name": "Theatrical_genres", "id": 1231826}, {"name": "Comedy", "id": 696823}], "successors": [{"name": "Restoration_comedy", "id": 13096409}]}
+{"name": "Comedy_plays", "id": 14640707, "predecessors": [{"name": "Theatrical_genres", "id": 1231826}, {"name": "Humour", "id": 35203672}], "successors": [{"name": "Restoration_comedy", "id": 13096409}]}

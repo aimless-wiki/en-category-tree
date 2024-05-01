@@ -1,1 +1,1 @@
-{"name": "Carnian_Stage", "id": 52165723, "predecessors": [{"name": "Geological_ages", "id": 47135419}, {"name": "Earth", "id": 754965}], "successors": [{"name": "Santa_Maria_Formation", "id": 55543093}]}
+{"name": "Carnian_Stage", "id": 52165723, "predecessors": [{"name": "Geological_ages", "id": 47135419}, {"name": "Historical_geology", "id": 1150528}], "successors": [{"name": "Santa_Maria_Formation", "id": 55543093}]}

@@ -1,1 +1,1 @@
-{"name": "Apex_predators", "id": 45401087, "predecessors": [{"name": "Predation", "id": 10473271}, {"name": "Ecology", "id": 691262}, {"name": "Evolutionary_biology", "id": 714501}, {"name": "Decision-making", "id": 51600594}], "successors": [{"name": "Wolves", "id": 2499005}]}
+{"name": "Apex_predators", "id": 45401087, "predecessors": [{"name": "Predation", "id": 10473271}, {"name": "Ecology", "id": 691262}, {"name": "Evolutionary_biology", "id": 714501}, {"name": "Arithmetic", "id": 705736}], "successors": [{"name": "Wolves", "id": 2499005}]}

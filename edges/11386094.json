@@ -1,1 +1,1 @@
-{"name": "Artist_families", "id": 11386094, "predecessors": [{"name": "Family", "id": 706788}, {"name": "Occupations", "id": 787658}], "successors": [{"name": "Sibling_artists", "id": 59201351}, {"name": "George_Gilbert_Scott_buildings", "id": 25901955}, {"name": "Frans_Hals", "id": 39085210}]}
+{"name": "Artist_families", "id": 11386094, "predecessors": [{"name": "Family", "id": 706788}, {"name": "Employment", "id": 1798901}], "successors": [{"name": "Sibling_artists", "id": 59201351}, {"name": "George_Gilbert_Scott_buildings", "id": 25901955}]}

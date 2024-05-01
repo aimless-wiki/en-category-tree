@@ -1,1 +1,1 @@
-{"name": "Vascular_diseases", "id": 32535848, "predecessors": [{"name": "Angiology", "id": 1482803}, {"name": "Cardiovascular_diseases", "id": 1339883}], "successors": [{"name": "Deaths_from_arteriosclerosis", "id": 45576305}, {"name": "Deaths_from_cerebrovascular_disease", "id": 48293509}]}
+{"name": "Vascular_diseases", "id": 32535848, "predecessors": [{"name": "Angiology", "id": 1482803}, {"name": "Cardiovascular_diseases", "id": 1339883}], "successors": []}
