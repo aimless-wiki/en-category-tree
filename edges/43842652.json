@@ -1,1 +1,1 @@
-{"name": "Boating_accident_deaths", "id": 43842652, "predecessors": [{"name": "Deaths_by_drowning", "id": 4623790}, {"name": "Maritime_culture", "id": 18335592}, {"name": "Water_transport", "id": 907307}, {"name": "Causes_of_death", "id": 5271061}], "successors": []}
+{"name": "Boating_accident_deaths", "id": 43842652, "predecessors": [{"name": "Maritime_culture", "id": 18335592}, {"name": "Water_transport", "id": 907307}, {"name": "Causes_of_death", "id": 5271061}], "successors": []}

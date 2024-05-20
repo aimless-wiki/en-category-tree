@@ -1,1 +1,1 @@
-{"name": "Atari_arcade_games", "id": 2469212, "predecessors": [{"name": "Atari_games", "id": 729578}, {"name": "Digital_media", "id": 1017992}], "successors": []}
+{"name": "Atari_arcade_games", "id": 2469212, "predecessors": [{"name": "Atari_games", "id": 729578}, {"name": "Arcade_video_games", "id": 696445}, {"name": "Digital_media", "id": 1017992}], "successors": []}

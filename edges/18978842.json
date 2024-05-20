@@ -1,1 +1,1 @@
-{"name": "Ocean_pollution", "id": 18978842, "predecessors": [{"name": "Oceans", "id": 900479}, {"name": "Pollution", "id": 871522}, {"name": "Water_pollution", "id": 4565449}, {"name": "Classification_systems", "id": 3615452}], "successors": [{"name": "Stormwater_management", "id": 38866611}]}
+{"name": "Ocean_pollution", "id": 18978842, "predecessors": [{"name": "Oceans", "id": 900479}, {"name": "Pollution", "id": 871522}, {"name": "Water_pollution", "id": 4565449}, {"name": "Anthropology", "id": 694863}], "successors": [{"name": "Stormwater_management", "id": 38866611}]}

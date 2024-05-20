@@ -1,1 +1,1 @@
-{"name": "Tropical_fish", "id": 11538745, "predecessors": [{"name": "Biology", "id": 692675}, {"name": "Atmosphere", "id": 1136015}], "successors": [{"name": "Pantropical_fish", "id": 5785356}, {"name": "Chaenopsidae_stubs", "id": 30196569}, {"name": "Callionymidae_stubs", "id": 28190675}]}
+{"name": "Tropical_fish", "id": 11538745, "predecessors": [{"name": "Natural_resources", "id": 1103405}, {"name": "Earth", "id": 754965}], "successors": [{"name": "Pantropical_fish", "id": 5785356}]}

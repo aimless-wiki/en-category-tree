@@ -1,1 +1,1 @@
-{"name": "Deaths_from_acute_myeloid_leukemia", "id": 72182121, "predecessors": [{"name": "Deaths_from_leukemia", "id": 18669509}], "successors": []}
+{"name": "Deaths_from_acute_myeloid_leukemia", "id": 72182121, "predecessors": [{"name": "Cancer", "id": 999635}, {"name": "Deaths_from_leukemia", "id": 18669509}], "successors": []}

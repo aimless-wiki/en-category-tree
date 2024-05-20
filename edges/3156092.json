@@ -1,1 +1,1 @@
-{"name": "Flame_retardants", "id": 3156092, "predecessors": [{"name": "Firefighting", "id": 854544}, {"name": "Manufacturing", "id": 867519}], "successors": []}
+{"name": "Flame_retardants", "id": 3156092, "predecessors": [{"name": "Firefighting", "id": 854544}, {"name": "Plastics", "id": 2206328}, {"name": "Manufacturing", "id": 867519}], "successors": []}

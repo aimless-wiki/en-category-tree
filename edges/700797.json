@@ -1,1 +1,1 @@
-{"name": "Spices", "id": 700797, "predecessors": [{"name": "Edible_plants", "id": 1318013}, {"name": "Natural_materials", "id": 2959852}], "successors": [{"name": "Indian_spices", "id": 44992786}]}
+{"name": "Spices", "id": 700797, "predecessors": [{"name": "Edible_plants", "id": 1318013}, {"name": "Natural_materials", "id": 2959852}], "successors": [{"name": "Indian_spices", "id": 44992786}, {"name": "Chili_peppers", "id": 5760873}, {"name": "Piper_(plant)", "id": 38218325}]}

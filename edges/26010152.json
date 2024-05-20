@@ -1,1 +1,1 @@
-{"name": "Government_gazettes", "id": 26010152, "predecessors": [{"name": "Mass_media", "id": 696790}], "successors": []}
+{"name": "Government_gazettes", "id": 26010152, "predecessors": [{"name": "Government", "id": 697609}, {"name": "Mass_media", "id": 696790}], "successors": []}

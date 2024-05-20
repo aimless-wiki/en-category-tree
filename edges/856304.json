@@ -1,1 +1,1 @@
-{"name": "Space_Shuttle_program", "id": 856304, "predecessors": [{"name": "Human_spaceflight_programs", "id": 43562977}, {"name": "NASA_programs", "id": 1201326}], "successors": [{"name": "Space_Shuttle_missions", "id": 3909217}, {"name": "Space_Shuttle_program_astronauts", "id": 61267035}]}
+{"name": "Space_Shuttle_program", "id": 856304, "predecessors": [{"name": "Human_spaceflight_programs", "id": 43562977}, {"name": "NASA_programs", "id": 1201326}], "successors": [{"name": "Space_Shuttle_missions", "id": 3909217}]}

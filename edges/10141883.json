@@ -1,1 +1,1 @@
-{"name": "Distributed_computing_projects", "id": 10141883, "predecessors": [{"name": "Distributed_computing", "id": 957605}, {"name": "Engineering_projects", "id": 10548354}], "successors": []}
+{"name": "Distributed_computing_projects", "id": 10141883, "predecessors": [{"name": "Engineering_projects", "id": 10548354}], "successors": [{"name": "Volunteer_computing_projects", "id": 71674469}]}

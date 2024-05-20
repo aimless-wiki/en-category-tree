@@ -1,1 +1,1 @@
-{"name": "Large_language_models", "id": 73281105, "predecessors": [{"name": "Applications_of_artificial_intelligence", "id": 1532663}, {"name": "Computational_linguistics", "id": 787876}, {"name": "Application_software", "id": 708063}], "successors": []}
+{"name": "Large_language_models", "id": 73281105, "predecessors": [{"name": "Applications_of_artificial_intelligence", "id": 1532663}, {"name": "Computational_linguistics", "id": 787876}, {"name": "Machine_learning", "id": 706543}, {"name": "Application_software", "id": 708063}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "FA_Cup_finals", "id": 5177339, "predecessors": [{"name": "FA_Cup_seasons", "id": 13010083}, {"name": "Sports_governing_bodies_in_England", "id": 6227172}, {"name": "Meetings", "id": 1261738}], "successors": [{"name": "FA_Cup_final_referees", "id": 9344070}]}
+{"name": "FA_Cup_finals", "id": 5177339, "predecessors": [{"name": "FA_Cup_seasons", "id": 13010083}, {"name": "Meetings", "id": 1261738}], "successors": [{"name": "FA_Cup_final_referees", "id": 9344070}]}

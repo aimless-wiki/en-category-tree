@@ -1,1 +1,1 @@
-{"name": "Deaths_from_Hodgkin_lymphoma", "id": 72181293, "predecessors": [{"name": "Viral_diseases", "id": 9219628}], "successors": []}
+{"name": "Deaths_from_Hodgkin_lymphoma", "id": 72181293, "predecessors": [{"name": "Deaths_from_lymphoma", "id": 18669542}, {"name": "Lymphoma", "id": 26669375}], "successors": []}

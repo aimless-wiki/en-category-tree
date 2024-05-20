@@ -1,1 +1,1 @@
-{"name": "Deaths_from_thrombosis", "id": 23451814, "predecessors": [{"name": "Cardiovascular_diseases", "id": 1339883}], "successors": [{"name": "Deaths_from_coronary_thrombosis", "id": 57344730}]}
+{"name": "Deaths_from_thrombosis", "id": 23451814, "predecessors": [{"name": "Blood_disorders", "id": 2856069}, {"name": "Cardiovascular_diseases", "id": 1339883}], "successors": [{"name": "Deaths_from_coronary_thrombosis", "id": 57344730}]}

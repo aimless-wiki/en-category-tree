@@ -1,1 +1,1 @@
-{"name": "Industrial_accident_deaths", "id": 8921432, "predecessors": [{"name": "Causes_of_death", "id": 5271061}, {"name": "Environmental_justice", "id": 24946983}], "successors": []}
+{"name": "Industrial_accident_deaths", "id": 8921432, "predecessors": [{"name": "Environmental_justice", "id": 24946983}, {"name": "Causes_of_death", "id": 5271061}], "successors": []}

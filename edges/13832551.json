@@ -1,1 +1,1 @@
-{"name": "Gangs_in_California", "id": 13832551, "predecessors": [{"name": "Crime_in_California", "id": 14533463}, {"name": "Crime", "id": 1183180}], "successors": [{"name": "Hells_Angels", "id": 5978326}, {"name": "Gangs_in_Los_Angeles", "id": 16592429}]}
+{"name": "Gangs_in_California", "id": 13832551, "predecessors": [{"name": "Crime_in_California", "id": 14533463}], "successors": [{"name": "Hells_Angels", "id": 5978326}, {"name": "Gangs_in_Los_Angeles", "id": 16592429}]}

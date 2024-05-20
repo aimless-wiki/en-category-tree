@@ -1,1 +1,1 @@
-{"name": "Blind_musicians", "id": 2468645, "predecessors": [{"name": "Entertainment", "id": 693016}], "successors": [{"name": "Blind_classical_musicians", "id": 40006470}]}
+{"name": "Blind_musicians", "id": 2468645, "predecessors": [{"name": "Blindness", "id": 2173860}], "successors": [{"name": "Blind_classical_musicians", "id": 40006470}]}

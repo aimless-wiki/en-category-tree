@@ -1,1 +1,1 @@
-{"name": "Barley_diseases", "id": 9491193, "predecessors": [{"name": "Cereals", "id": 694869}], "successors": []}
+{"name": "Barley_diseases", "id": 9491193, "predecessors": [{"name": "Food_plant_pathogens_and_diseases", "id": 42670017}, {"name": "Ancient_Near_East", "id": 1245601}], "successors": []}

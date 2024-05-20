@@ -1,1 +1,1 @@
-{"name": "Audi_vehicles", "id": 852176, "predecessors": [{"name": "Audi", "id": 852543}, {"name": "Luxury_vehicles", "id": 1028860}, {"name": "Automotive_industry", "id": 1338498}, {"name": "Volkswagen_Group", "id": 28426237}], "successors": []}
+{"name": "Audi_vehicles", "id": 852176, "predecessors": [{"name": "Audi", "id": 852543}, {"name": "Automotive_industry", "id": 1338498}, {"name": "Volkswagen_Group", "id": 28426237}, {"name": "Industries_(economics)", "id": 694873}], "successors": []}

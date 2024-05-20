@@ -1,1 +1,1 @@
-{"name": "Manufacturing_companies_of_Russia", "id": 5378672, "predecessors": [{"name": "Standards", "id": 724561}], "successors": [{"name": "Manufacturing_companies_based_in_Moscow", "id": 50787012}]}
+{"name": "Manufacturing_companies_of_Russia", "id": 5378672, "predecessors": [{"name": "Standards", "id": 724561}, {"name": "Justice", "id": 2388327}], "successors": [{"name": "Manufacturing_companies_based_in_Moscow", "id": 50787012}]}

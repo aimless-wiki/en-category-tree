@@ -1,1 +1,1 @@
-{"name": "Book_distributors", "id": 44827240, "predecessors": [{"name": "Documents", "id": 694072}, {"name": "Distribution_(marketing)", "id": 1232228}, {"name": "Mass_media", "id": 696790}], "successors": []}
+{"name": "Book_distributors", "id": 44827240, "predecessors": [{"name": "Documents", "id": 694072}, {"name": "Distribution_(marketing)", "id": 1232228}, {"name": "Publishing", "id": 1001911}], "successors": []}

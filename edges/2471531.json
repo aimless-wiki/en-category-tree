@@ -1,1 +1,1 @@
-{"name": "Nuclear_reactors", "id": 2471531, "predecessors": [{"name": "Nuclear_technology", "id": 888845}], "successors": [{"name": "Nuclear_power_reactor_types", "id": 4036713}, {"name": "Nuclear_research_reactors", "id": 8526394}, {"name": "Former_nuclear_power_stations_in_the_United_States", "id": 19271643}]}
+{"name": "Nuclear_reactors", "id": 2471531, "predecessors": [{"name": "Nuclear_technology", "id": 888845}], "successors": [{"name": "Nuclear_power_reactor_types", "id": 4036713}, {"name": "Nuclear_research_reactors", "id": 8526394}]}

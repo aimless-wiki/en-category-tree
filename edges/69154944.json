@@ -1,1 +1,1 @@
-{"name": "J2ME_games", "id": 69154944, "predecessors": [{"name": "Java_platform_games", "id": 4821550}, {"name": "Mobile_games", "id": 34313655}], "successors": []}
+{"name": "J2ME_games", "id": 69154944, "predecessors": [{"name": "Java_platform_games", "id": 4821550}, {"name": "Mobile_software", "id": 10473202}, {"name": "Mobile_games", "id": 34313655}], "successors": []}

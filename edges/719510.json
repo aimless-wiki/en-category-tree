@@ -1,1 +1,1 @@
-{"name": "Anxiolytics", "id": 719510, "predecessors": [{"name": "Anxiety_disorders", "id": 1394400}, {"name": "Neuroscience", "id": 714648}], "successors": [{"name": "Barbiturates", "id": 718202}]}
+{"name": "Anxiolytics", "id": 719510, "predecessors": [{"name": "Neuroscience", "id": 714648}], "successors": [{"name": "Barbiturates", "id": 718202}]}

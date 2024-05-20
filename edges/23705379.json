@@ -1,1 +1,1 @@
-{"name": "Ships_sunk_as_artificial_reefs", "id": 23705379, "predecessors": [{"name": "Wreck_diving_sites", "id": 33494399}, {"name": "Shipwrecks", "id": 739221}, {"name": "Appropriate_technology", "id": 4009439}], "successors": []}
+{"name": "Ships_sunk_as_artificial_reefs", "id": 23705379, "predecessors": [{"name": "Wreck_diving_sites", "id": 33494399}, {"name": "Shipwrecks", "id": 739221}, {"name": "Coastal_construction", "id": 2274672}], "successors": []}

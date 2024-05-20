@@ -1,1 +1,1 @@
-{"name": "Pop_rock_albums_by_American_artists", "id": 37195805, "predecessors": [{"name": "Pop_albums_by_American_artists", "id": 27448343}, {"name": "Rock_albums_by_American_artists", "id": 27447308}], "successors": [{"name": "Glen_Campbell_albums", "id": 12243641}]}
+{"name": "Pop_rock_albums_by_American_artists", "id": 37195805, "predecessors": [{"name": "Music_genres", "id": 4826123}], "successors": [{"name": "Glen_Campbell_albums", "id": 12243641}, {"name": "Todd_Rundgren_albums", "id": 2111413}]}

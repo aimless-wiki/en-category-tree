@@ -1,1 +1,1 @@
-{"name": "Indian_fashion_designers", "id": 5849583, "predecessors": [{"name": "Design", "id": 999651}, {"name": "Indian_art", "id": 2250685}], "successors": [{"name": "Indian_women_fashion_designers", "id": 51429222}]}
+{"name": "Indian_fashion_designers", "id": 5849583, "predecessors": [{"name": "Design", "id": 999651}, {"name": "Fashion", "id": 1000816}], "successors": [{"name": "Indian_women_fashion_designers", "id": 51429222}]}

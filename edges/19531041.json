@@ -1,1 +1,1 @@
-{"name": "Deaths_from_cancer_in_Sweden", "id": 19531041, "predecessors": [{"name": "Cancer", "id": 999635}, {"name": "Death", "id": 921954}], "successors": []}
+{"name": "Deaths_from_cancer_in_Sweden", "id": 19531041, "predecessors": [{"name": "Deaths_from_cancer", "id": 18669378}], "successors": []}

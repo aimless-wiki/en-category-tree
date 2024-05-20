@@ -1,1 +1,1 @@
-{"name": "Gynaecological_cancer", "id": 32943609, "predecessors": [{"name": "Cancer", "id": 999635}, {"name": "Gynaecologic_disorders", "id": 32943578}], "successors": []}
+{"name": "Gynaecological_cancer", "id": 32943609, "predecessors": [{"name": "Gynaecologic_disorders", "id": 32943578}], "successors": [{"name": "Deaths_from_ovarian_cancer", "id": 18669594}]}

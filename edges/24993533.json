@@ -1,1 +1,1 @@
-{"name": "FK_Novi_Pazar_players", "id": 24993533, "predecessors": [{"name": "Football_clubs_in_Serbia", "id": 34432988}, {"name": "Culture_of_Serbia", "id": 724300}], "successors": []}
+{"name": "FK_Novi_Pazar_players", "id": 24993533, "predecessors": [{"name": "Football_clubs_in_Serbia", "id": 34432988}, {"name": "Former_countries", "id": 804303}], "successors": []}

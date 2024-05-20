@@ -1,1 +1,1 @@
-{"name": "Human_hair", "id": 36697594, "predecessors": [{"name": "Human_appearance", "id": 923111}, {"name": "Human_head_and_neck", "id": 36703875}, {"name": "Biology", "id": 692675}], "successors": [{"name": "Hairdressing", "id": 933176}, {"name": "Hair_removal", "id": 44532338}]}
+{"name": "Human_hair", "id": 36697594, "predecessors": [{"name": "Human_appearance", "id": 923111}, {"name": "Human_head_and_neck", "id": 36703875}, {"name": "Biophysics", "id": 1757009}], "successors": [{"name": "Hairdressing", "id": 933176}, {"name": "Hair_removal", "id": 44532338}]}

@@ -1,1 +1,1 @@
-{"name": "Medieval_Spain", "id": 18194861, "predecessors": [{"name": "Historiography", "id": 895940}], "successors": [{"name": "Reconquista", "id": 1074583}, {"name": "Crown_of_Aragon", "id": 2804716}]}
+{"name": "Medieval_Spain", "id": 18194861, "predecessors": [{"name": "Historical_eras", "id": 925351}, {"name": "Historiography", "id": 895940}], "successors": [{"name": "Reconquista", "id": 1074583}, {"name": "Crown_of_Aragon", "id": 2804716}, {"name": "Counts_of_Barcelona", "id": 833685}]}

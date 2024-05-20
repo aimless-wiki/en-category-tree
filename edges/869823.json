@@ -1,1 +1,1 @@
-{"name": "Cardiac_anatomy", "id": 869823, "predecessors": [{"name": "Human_anatomy", "id": 2294735}, {"name": "Angiology", "id": 1482803}], "successors": []}
+{"name": "Cardiac_anatomy", "id": 869823, "predecessors": [{"name": "Human_anatomy", "id": 2294735}, {"name": "Animal_anatomy", "id": 3120301}], "successors": []}

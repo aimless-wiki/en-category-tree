@@ -1,1 +1,1 @@
-{"name": "Carbon_dioxide", "id": 4535947, "predecessors": [{"name": "Greenhouse_gases", "id": 788513}, {"name": "Industrial_gases", "id": 27086455}, {"name": "Inorganic_compounds", "id": 695962}, {"name": "Oxides", "id": 695963}], "successors": []}
+{"name": "Carbon_dioxide", "id": 4535947, "predecessors": [{"name": "Greenhouse_gases", "id": 788513}, {"name": "Industrial_gases", "id": 27086455}, {"name": "Inorganic_compounds", "id": 695962}, {"name": "Oxides", "id": 695963}], "successors": [{"name": "Carbonated_drinks", "id": 4149713}]}

@@ -1,1 +1,1 @@
-{"name": "Bacillales", "id": 3638796, "predecessors": [{"name": "Bacteria", "id": 948811}], "successors": []}
+{"name": "Bacillales", "id": 3638796, "predecessors": [{"name": "Bacteria", "id": 948811}], "successors": [{"name": "Bacillaceae", "id": 3639099}, {"name": "Paenibacillaceae", "id": 3639221}, {"name": "Staphylococcus", "id": 44598034}]}

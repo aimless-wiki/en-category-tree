@@ -1,1 +1,1 @@
-{"name": "Fictional_private_investigators", "id": 10045820, "predecessors": [{"name": "Private_investigators", "id": 68513186}, {"name": "Fiction_by_genre", "id": 5740366}], "successors": [{"name": "Sherlock_Holmes", "id": 890711}]}
+{"name": "Fictional_private_investigators", "id": 10045820, "predecessors": [{"name": "Fictional_detectives", "id": 692895}], "successors": [{"name": "Sherlock_Holmes", "id": 890711}]}

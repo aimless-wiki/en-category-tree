@@ -1,1 +1,1 @@
-{"name": "Animal_food_manufacturers", "id": 4210513, "predecessors": [{"name": "Food_processing", "id": 39100244}, {"name": "Agriculture", "id": 694871}, {"name": "Nutrition", "id": 9936002}], "successors": []}
+{"name": "Animal_food_manufacturers", "id": 4210513, "predecessors": [{"name": "Agriculture", "id": 694871}, {"name": "Nutrition", "id": 9936002}], "successors": []}

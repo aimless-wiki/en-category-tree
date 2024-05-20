@@ -1,1 +1,1 @@
-{"name": "New_York_University_people", "id": 28318192, "predecessors": [{"name": "New_York_University", "id": 974731}, {"name": "Public_services", "id": 5678592}], "successors": [{"name": "New_York_University_alumni", "id": 4791138}, {"name": "New_York_University_faculty", "id": 4881128}]}
+{"name": "New_York_University_people", "id": 28318192, "predecessors": [{"name": "New_York_University", "id": 974731}, {"name": "Tourism", "id": 698284}], "successors": [{"name": "New_York_University_alumni", "id": 4791138}, {"name": "New_York_University_faculty", "id": 4881128}]}

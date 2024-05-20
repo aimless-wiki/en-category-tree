@@ -1,1 +1,1 @@
-{"name": "Canadian_lighthouse_stubs", "id": 23833791, "predecessors": [{"name": "Canadian_building_and_structure_stubs", "id": 43129680}, {"name": "Lighthouse_stubs", "id": 6481018}, {"name": "Infrastructure", "id": 2962329}, {"name": "Contents", "id": 14105005}], "successors": []}
+{"name": "Canadian_lighthouse_stubs", "id": 23833791, "predecessors": [{"name": "Canadian_building_and_structure_stubs", "id": 43129680}, {"name": "Lighthouse_stubs", "id": 6481018}, {"name": "Freight_transport", "id": 710066}, {"name": "Contents", "id": 14105005}], "successors": []}

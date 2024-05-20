@@ -1,1 +1,1 @@
-{"name": "FK_Jablonec_players", "id": 27676832, "predecessors": [{"name": "Team_sports", "id": 700681}], "successors": []}
+{"name": "FK_Jablonec_players", "id": 27676832, "predecessors": [{"name": "Former_kingdoms", "id": 22462607}, {"name": "Team_sports", "id": 700681}], "successors": []}

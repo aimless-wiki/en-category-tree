@@ -1,1 +1,1 @@
-{"name": "Law_enforcement_units", "id": 8208463, "predecessors": [{"name": "Government", "id": 697609}], "successors": [{"name": "Task_forces", "id": 26970203}, {"name": "Police_tactical_units", "id": 71194535}]}
+{"name": "Law_enforcement_units", "id": 8208463, "predecessors": [{"name": "Government", "id": 697609}], "successors": [{"name": "Task_forces", "id": 26970203}, {"name": "Police_tactical_units", "id": 71194535}, {"name": "Royal_Canadian_Mounted_Police", "id": 1182285}]}

@@ -1,1 +1,1 @@
-{"name": "Wineries_in_California", "id": 42546015, "predecessors": [{"name": "California_wine", "id": 13851248}, {"name": "Agriculture_in_the_United_States", "id": 3718236}, {"name": "Drink_companies_of_the_United_States", "id": 732755}], "successors": [{"name": "Wineries_in_Napa_Valley", "id": 42546032}]}
+{"name": "Wineries_in_California", "id": 42546015, "predecessors": [{"name": "Agriculture_in_California", "id": 14654068}, {"name": "Alcoholic_drinks", "id": 13294809}], "successors": [{"name": "Wineries_in_Napa_Valley", "id": 42546032}]}

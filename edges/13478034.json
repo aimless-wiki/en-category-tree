@@ -1,1 +1,1 @@
-{"name": "Visa_policy_by_country", "id": 13478034, "predecessors": [{"name": "Human_migration", "id": 1206703}, {"name": "Immigration_law", "id": 2328787}], "successors": []}
+{"name": "Visa_policy_by_country", "id": 13478034, "predecessors": [{"name": "Immigration_law", "id": 2328787}, {"name": "Diplomacy", "id": 911551}, {"name": "Human_migration", "id": 1206703}], "successors": []}

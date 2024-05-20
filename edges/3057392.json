@@ -1,1 +1,1 @@
-{"name": "Veteran_auto_stubs", "id": 3057392, "predecessors": [{"name": "Automobile_stubs", "id": 841205}, {"name": "Contents", "id": 14105005}], "successors": []}
+{"name": "Veteran_auto_stubs", "id": 3057392, "predecessors": [{"name": "Automobile_stubs", "id": 841205}, {"name": "Veteran_vehicles", "id": 3568392}, {"name": "Contents", "id": 14105005}], "successors": []}

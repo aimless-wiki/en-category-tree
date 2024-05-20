@@ -1,1 +1,1 @@
-{"name": "Perfumes", "id": 44532346, "predecessors": [{"name": "Perfumery", "id": 1194342}, {"name": "Olfactory_system", "id": 749761}], "successors": [{"name": "Essential_oils", "id": 1968285}, {"name": "Perfume_houses", "id": 10899020}]}
+{"name": "Perfumes", "id": 44532346, "predecessors": [{"name": "Perfumery", "id": 1194342}, {"name": "Olfactory_system", "id": 749761}], "successors": [{"name": "Essential_oils", "id": 1968285}]}

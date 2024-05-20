@@ -1,1 +1,1 @@
-{"name": "Health_insurance", "id": 23120838, "predecessors": [{"name": "Types_of_insurance", "id": 8163702}, {"name": "Branches_of_biology", "id": 37535091}, {"name": "Health_care", "id": 35880954}], "successors": [{"name": "Health_insurance_in_the_United_States", "id": 23761126}]}
+{"name": "Health_insurance", "id": 23120838, "predecessors": [{"name": "Types_of_insurance", "id": 8163702}, {"name": "Branches_of_biology", "id": 37535091}, {"name": "Health_care", "id": 35880954}], "successors": []}

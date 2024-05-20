@@ -1,1 +1,1 @@
-{"name": "Emergency_communication", "id": 7289148, "predecessors": [{"name": "Emergency_services", "id": 1318794}, {"name": "Rescue", "id": 1013590}, {"name": "Disaster_management", "id": 46773746}, {"name": "Communication", "id": 709243}], "successors": [{"name": "Crisis_hotlines", "id": 23750610}]}
+{"name": "Emergency_communication", "id": 7289148, "predecessors": [{"name": "Emergency_services", "id": 1318794}, {"name": "Rescue", "id": 1013590}, {"name": "Communication", "id": 709243}], "successors": [{"name": "Crisis_hotlines", "id": 23750610}]}

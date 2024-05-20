@@ -1,1 +1,1 @@
-{"name": "German_art_dealers", "id": 13237336, "predecessors": [{"name": "Art_museum_people", "id": 47161633}, {"name": "Art_by_country", "id": 1001486}, {"name": "German_businesspeople", "id": 1089890}, {"name": "Culture_of_Germany", "id": 707681}], "successors": []}
+{"name": "German_art_dealers", "id": 13237336, "predecessors": [{"name": "German_businesspeople", "id": 1089890}, {"name": "Culture", "id": 694861}, {"name": "Literature", "id": 692008}], "successors": []}

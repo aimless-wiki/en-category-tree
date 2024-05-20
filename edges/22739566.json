@@ -1,1 +1,1 @@
-{"name": "Indian_rice_dishes", "id": 22739566, "predecessors": [{"name": "Indian_cuisine", "id": 851793}, {"name": "Rice", "id": 4059323}], "successors": []}
+{"name": "Indian_rice_dishes", "id": 22739566, "predecessors": [{"name": "Rice_dishes", "id": 873106}, {"name": "Food_ingredients", "id": 1077080}], "successors": []}

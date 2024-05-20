@@ -1,1 +1,1 @@
-{"name": "Secret_police", "id": 4083427, "predecessors": [{"name": "Law_enforcement", "id": 718211}, {"name": "Political_repression", "id": 1299694}, {"name": "Government", "id": 697609}], "successors": [{"name": "KGB", "id": 1440007}]}
+{"name": "Secret_police", "id": 4083427, "predecessors": [{"name": "Law_enforcement", "id": 718211}, {"name": "Political_repression", "id": 1299694}, {"name": "Government", "id": 697609}], "successors": [{"name": "KGB", "id": 1440007}, {"name": "Abwehr_personnel_of_World_War_II", "id": 72648676}]}

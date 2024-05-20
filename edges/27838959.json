@@ -1,1 +1,1 @@
-{"name": "Relational_database_management_systems", "id": 27838959, "predecessors": [{"name": "Database_management_systems", "id": 700602}], "successors": [{"name": "MySQL", "id": 21558508}]}
+{"name": "Relational_database_management_systems", "id": 27838959, "predecessors": [{"name": "Database_management_systems", "id": 700602}, {"name": "Programming_paradigms", "id": 914736}], "successors": [{"name": "MySQL", "id": 21558508}]}

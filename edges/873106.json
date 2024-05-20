@@ -1,1 +1,1 @@
-{"name": "Rice_dishes", "id": 873106, "predecessors": [{"name": "Rice", "id": 4059323}, {"name": "Cereals", "id": 694869}], "successors": [{"name": "Glutinous_rice_dishes", "id": 25748907}]}
+{"name": "Rice_dishes", "id": 873106, "predecessors": [{"name": "Edible_nuts_and_seeds", "id": 6769223}, {"name": "Culture", "id": 694861}], "successors": [{"name": "Glutinous_rice_dishes", "id": 25748907}, {"name": "Indian_rice_dishes", "id": 22739566}, {"name": "Indonesian_rice_dishes", "id": 40294291}, {"name": "Philippine_rice_dishes", "id": 40421044}]}

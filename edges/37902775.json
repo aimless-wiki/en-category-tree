@@ -1,1 +1,1 @@
-{"name": "U.S._Route_64", "id": 37902775, "predecessors": [{"name": "U.S._Highways_in_Arizona", "id": 3475096}, {"name": "U.S._Highways_in_New_Mexico", "id": 3454893}, {"name": "U.S._Highways_in_North_Carolina", "id": 3119507}, {"name": "U.S._Highways_in_Tennessee", "id": 3119840}], "successors": []}
+{"name": "U.S._Route_64", "id": 37902775, "predecessors": [{"name": "U.S._Highways_in_North_Carolina", "id": 3119507}, {"name": "U.S._Highways_in_Tennessee", "id": 3119840}], "successors": []}

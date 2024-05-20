@@ -1,1 +1,1 @@
-{"name": "Deaths_from_dementia_in_England", "id": 70731729, "predecessors": [{"name": "Neurological_disease_deaths_in_England", "id": 68635389}], "successors": []}
+{"name": "Deaths_from_dementia_in_England", "id": 70731729, "predecessors": [{"name": "Neurological_disease_deaths_in_England", "id": 68635389}, {"name": "History_of_neuroscience", "id": 1704500}], "successors": [{"name": "Deaths_from_Alzheimer's_disease_in_England", "id": 76615325}]}

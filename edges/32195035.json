@@ -1,1 +1,1 @@
-{"name": "Maize_dishes", "id": 32195035, "predecessors": [{"name": "Cereals", "id": 694869}, {"name": "Food_ingredients", "id": 1077080}], "successors": []}
+{"name": "Maize_dishes", "id": 32195035, "predecessors": [{"name": "Crops_originating_from_Mexico", "id": 28431569}, {"name": "Food_ingredients", "id": 1077080}, {"name": "Edible_nuts_and_seeds", "id": 6769223}], "successors": []}

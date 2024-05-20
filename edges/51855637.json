@@ -1,1 +1,1 @@
-{"name": "Campanian_life", "id": 51855637, "predecessors": [{"name": "Stratigraphy", "id": 1172461}], "successors": [{"name": "Campanian_genera", "id": 54587745}]}
+{"name": "Campanian_life", "id": 51855637, "predecessors": [{"name": "Stratigraphy", "id": 1172461}], "successors": [{"name": "Campanian_genera", "id": 54587745}, {"name": "Campanian_genus_first_appearances", "id": 54587725}, {"name": "Campanian_genus_extinctions", "id": 54301986}]}

@@ -1,1 +1,1 @@
-{"name": "Paragliders", "id": 34604633, "predecessors": [{"name": "Glider_aircraft", "id": 751910}, {"name": "Culture", "id": 694861}], "successors": []}
+{"name": "Paragliders", "id": 34604633, "predecessors": [{"name": "Glider_aircraft", "id": 751910}, {"name": "Aerodynamics", "id": 1303037}], "successors": []}

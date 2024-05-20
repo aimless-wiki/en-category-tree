@@ -1,1 +1,1 @@
-{"name": "Panama_Canal", "id": 3215783, "predecessors": [{"name": "Ship_canals", "id": 16927755}, {"name": "Geography", "id": 693800}, {"name": "Water", "id": 977553}, {"name": "Political_concepts", "id": 34181261}], "successors": [{"name": "Panama_Canal_Zone", "id": 14739235}]}
+{"name": "Panama_Canal", "id": 3215783, "predecessors": [{"name": "Ship_canals", "id": 16927755}, {"name": "Industries_(economics)", "id": 694873}, {"name": "Geography", "id": 693800}, {"name": "Infrastructure", "id": 2962329}], "successors": [{"name": "Panama_Canal_Zone", "id": 14739235}]}

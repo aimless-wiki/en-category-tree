@@ -1,1 +1,1 @@
-{"name": "Rocket_artillery", "id": 933292, "predecessors": [{"name": "Rockets_and_missiles", "id": 762536}, {"name": "Ballistics", "id": 981903}], "successors": [{"name": "Multiple_rocket_launchers", "id": 30733122}]}
+{"name": "Rocket_artillery", "id": 933292, "predecessors": [{"name": "Ballistics", "id": 981903}, {"name": "Explosive_weapons", "id": 1150760}], "successors": [{"name": "Multiple_rocket_launchers", "id": 30733122}, {"name": "Wheeled_self-propelled_rocket_launchers", "id": 29874646}]}

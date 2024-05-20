@@ -1,1 +1,1 @@
-{"name": "Poultry_companies", "id": 43335624, "predecessors": [{"name": "Poultry_farming", "id": 2721466}, {"name": "Agriculture", "id": 694871}, {"name": "Aviculture", "id": 1097161}, {"name": "Meat_industry", "id": 24459928}], "successors": [{"name": "Fast-food_poultry_restaurants", "id": 2352424}]}
+{"name": "Poultry_companies", "id": 43335624, "predecessors": [{"name": "Poultry_farming", "id": 2721466}, {"name": "Agriculture", "id": 694871}, {"name": "Aviculture", "id": 1097161}], "successors": []}

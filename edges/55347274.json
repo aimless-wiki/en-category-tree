@@ -1,1 +1,1 @@
-{"name": "British_art_curators", "id": 55347274, "predecessors": [{"name": "British_art", "id": 4173215}, {"name": "British_curators", "id": 2780050}, {"name": "Art_museum_people", "id": 47161633}, {"name": "Art_by_country", "id": 1001486}], "successors": []}
+{"name": "British_art_curators", "id": 55347274, "predecessors": [{"name": "British_curators", "id": 2780050}, {"name": "Museology", "id": 2999304}, {"name": "Occupations", "id": 787658}], "successors": []}

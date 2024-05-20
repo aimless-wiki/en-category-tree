@@ -1,1 +1,1 @@
-{"name": "Vulnerable_biota_of_Africa", "id": 50523036, "predecessors": [{"name": "Biodiversity", "id": 3568972}, {"name": "African_studies", "id": 5841323}], "successors": [{"name": "Vulnerable_flora_of_Africa", "id": 49206886}]}
+{"name": "Vulnerable_biota_of_Africa", "id": 50523036, "predecessors": [{"name": "Biodiversity", "id": 3568972}, {"name": "Biogeography", "id": 1902120}], "successors": [{"name": "Vulnerable_flora_of_Africa", "id": 49206886}]}

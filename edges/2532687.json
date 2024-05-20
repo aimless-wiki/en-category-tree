@@ -1,1 +1,1 @@
-{"name": "Film_noir", "id": 2532687, "predecessors": [{"name": "Film_genres", "id": 3008852}, {"name": "History_of_film", "id": 2260983}, {"name": "Film_theory", "id": 1519596}], "successors": [{"name": "Sin_City", "id": 1600113}]}
+{"name": "Film_noir", "id": 2532687, "predecessors": [{"name": "Film_genres", "id": 3008852}, {"name": "History_of_film", "id": 2260983}, {"name": "Film_theory", "id": 1519596}], "successors": [{"name": "Sin_City", "id": 1600113}, {"name": "Neo-noir", "id": 1645915}]}

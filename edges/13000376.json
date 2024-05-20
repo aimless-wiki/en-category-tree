@@ -1,1 +1,1 @@
-{"name": "Medical_books", "id": 13000376, "predecessors": [{"name": "Science_books", "id": 47064376}, {"name": "Health_promotion", "id": 4344045}, {"name": "History_of_medicine", "id": 709678}], "successors": [{"name": "Medical_book_stubs", "id": 43295087}]}
+{"name": "Medical_books", "id": 13000376, "predecessors": [{"name": "Science_books", "id": 47064376}, {"name": "Wikipedia_categorization", "id": 1036222}, {"name": "History_of_medicine", "id": 709678}], "successors": [{"name": "Medical_book_stubs", "id": 43295087}]}

@@ -1,1 +1,1 @@
-{"name": "FK_Teleoptik_players", "id": 26373250, "predecessors": [{"name": "Football_clubs_in_Belgrade", "id": 39408858}, {"name": "Culture_of_Serbia", "id": 724300}], "successors": []}
+{"name": "FK_Teleoptik_players", "id": 26373250, "predecessors": [{"name": "Football_clubs_in_Belgrade", "id": 39408858}, {"name": "Former_countries", "id": 804303}], "successors": []}

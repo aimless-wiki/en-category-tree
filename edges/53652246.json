@@ -1,1 +1,1 @@
-{"name": "Women_metalsmiths", "id": 53652246, "predecessors": [{"name": "Crafts", "id": 3061643}, {"name": "Apprenticeship", "id": 35189993}], "successors": []}
+{"name": "Women_metalsmiths", "id": 53652246, "predecessors": [{"name": "Crafts", "id": 3061643}, {"name": "Alternative_education", "id": 3723669}], "successors": [{"name": "Women_silversmiths", "id": 53543372}]}
