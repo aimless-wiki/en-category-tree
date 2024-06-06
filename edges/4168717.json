@@ -1,1 +1,1 @@
-{"name": "Duelling_fatalities", "id": 4168717, "predecessors": [{"name": "Homicide", "id": 11692544}, {"name": "Human_behavior", "id": 2524202}], "successors": []}
+{"name": "Duelling_fatalities", "id": 4168717, "predecessors": [{"name": "Causes_of_death", "id": 5271061}, {"name": "Homicide", "id": 11692544}, {"name": "Human_behavior", "id": 2524202}], "successors": []}

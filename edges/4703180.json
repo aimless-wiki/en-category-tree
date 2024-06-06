@@ -1,1 +1,1 @@
-{"name": "FK_Vojvodina_players", "id": 4703180, "predecessors": [{"name": "Football_clubs_in_Serbia", "id": 34432988}, {"name": "Former_countries", "id": 804303}], "successors": []}
+{"name": "FK_Vojvodina_players", "id": 4703180, "predecessors": [{"name": "Football_clubs_in_Serbia", "id": 34432988}, {"name": "Former_countries_in_Europe", "id": 2570727}], "successors": []}

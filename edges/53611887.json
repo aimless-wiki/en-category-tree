@@ -1,1 +1,1 @@
-{"name": "Syndromes_affecting_the_nervous_system", "id": 53611887, "predecessors": [{"name": "Neurological_disorders", "id": 1267652}, {"name": "Biophysics", "id": 1757009}], "successors": []}
+{"name": "Syndromes_affecting_the_nervous_system", "id": 53611887, "predecessors": [{"name": "Neurological_disorders", "id": 1267652}, {"name": "Biophysics", "id": 1757009}], "successors": [{"name": "Syndromes_with_intellectual_disability", "id": 53612389}]}

@@ -1,1 +1,1 @@
-{"name": "British_science_fiction_novels", "id": 6756081, "predecessors": [{"name": "British_books", "id": 5357199}, {"name": "Fiction_by_genre", "id": 5740366}], "successors": [{"name": "Novels_by_H._G._Wells", "id": 7963816}]}
+{"name": "British_science_fiction_novels", "id": 6756081, "predecessors": [{"name": "British_books", "id": 5357199}, {"name": "Speculative_fiction", "id": 1072285}], "successors": [{"name": "Novels_by_H._G._Wells", "id": 7963816}]}

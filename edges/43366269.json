@@ -1,1 +1,1 @@
-{"name": "Farmers_from_California", "id": 43366269, "predecessors": [{"name": "Agriculture_in_California", "id": 14654068}, {"name": "Occupations", "id": 787658}, {"name": "Wikipedia_categorization", "id": 1036222}], "successors": [{"name": "Ranchers_from_California", "id": 43367106}]}
+{"name": "Farmers_from_California", "id": 43366269, "predecessors": [{"name": "Agriculture_in_California", "id": 14654068}, {"name": "Agriculture", "id": 694871}, {"name": "Wikipedia_categorization", "id": 1036222}], "successors": [{"name": "Ranchers_from_California", "id": 43367106}]}

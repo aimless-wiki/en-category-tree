@@ -1,1 +1,1 @@
-{"name": "FK_Palić_players", "id": 34075043, "predecessors": [{"name": "Former_countries", "id": 804303}], "successors": []}
+{"name": "FK_Palić_players", "id": 34075043, "predecessors": [{"name": "Former_countries_in_Europe", "id": 2570727}], "successors": []}

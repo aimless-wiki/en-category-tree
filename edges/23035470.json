@@ -1,1 +1,1 @@
-{"name": "FK_Zeta_players", "id": 23035470, "predecessors": [{"name": "Football_clubs_in_Montenegro", "id": 34431720}, {"name": "Former_countries", "id": 804303}], "successors": []}
+{"name": "FK_Zeta_players", "id": 23035470, "predecessors": [{"name": "Football_clubs_in_Montenegro", "id": 34431720}, {"name": "Former_countries_in_Europe", "id": 2570727}], "successors": []}

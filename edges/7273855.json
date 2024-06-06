@@ -1,1 +1,1 @@
-{"name": "Syntactic_entities", "id": 7273855, "predecessors": [{"name": "Syntax", "id": 897612}, {"name": "Linguistics", "id": 693798}], "successors": [{"name": "Symbols", "id": 738565}, {"name": "Grammatical_cases", "id": 866623}]}
+{"name": "Syntactic_entities", "id": 7273855, "predecessors": [{"name": "Syntax", "id": 897612}, {"name": "Linguistics_terminology", "id": 37279472}], "successors": [{"name": "Symbols", "id": 738565}, {"name": "Grammatical_cases", "id": 866623}]}

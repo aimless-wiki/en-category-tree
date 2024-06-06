@@ -1,1 +1,1 @@
-{"name": "FK_Železnik_players", "id": 26044914, "predecessors": [{"name": "Former_countries", "id": 804303}], "successors": []}
+{"name": "FK_Železnik_players", "id": 26044914, "predecessors": [{"name": "Former_countries_in_Europe", "id": 2570727}], "successors": []}

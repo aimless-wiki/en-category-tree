@@ -1,1 +1,1 @@
-{"name": "Daihatsu_vehicles", "id": 1157762, "predecessors": [{"name": "Toyota_vehicles", "id": 904149}, {"name": "Automotive_industry", "id": 1338498}, {"name": "2016_mergers_and_acquisitions", "id": 53994257}], "successors": []}
+{"name": "Daihatsu_vehicles", "id": 1157762, "predecessors": [{"name": "Toyota_vehicles", "id": 904149}, {"name": "Automotive_industry", "id": 1338498}, {"name": "Toyota", "id": 904150}], "successors": []}

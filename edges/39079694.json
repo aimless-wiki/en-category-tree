@@ -1,1 +1,1 @@
-{"name": "Giant_planets", "id": 39079694, "predecessors": [{"name": "Planetary_science", "id": 1600702}], "successors": [{"name": "Hot_Jupiters", "id": 17703653}]}
+{"name": "Giant_planets", "id": 39079694, "predecessors": [{"name": "Planetary_science", "id": 1600702}], "successors": [{"name": "Hot_Jupiters", "id": 17703653}, {"name": "Hot_Neptunes", "id": 25283569}]}

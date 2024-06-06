@@ -1,1 +1,1 @@
-{"name": "Rock_songwriters", "id": 3622516, "predecessors": [{"name": "Wikipedia_categorization", "id": 1036222}, {"name": "Entertainment", "id": 693016}], "successors": [{"name": "American_rock_songwriters", "id": 3622297}]}
+{"name": "Rock_songwriters", "id": 3622516, "predecessors": [{"name": "Entertainment", "id": 693016}, {"name": "Writing", "id": 1166293}], "successors": [{"name": "American_rock_songwriters", "id": 3622297}]}

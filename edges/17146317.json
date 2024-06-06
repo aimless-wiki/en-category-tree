@@ -1,1 +1,1 @@
-{"name": "Power_station_technology", "id": 17146317, "predecessors": [{"name": "Sustainable_technologies", "id": 6091415}, {"name": "Electric_power", "id": 959286}], "successors": [{"name": "Anaerobic_digestion", "id": 6141390}]}
+{"name": "Power_station_technology", "id": 17146317, "predecessors": [{"name": "Energy", "id": 865456}, {"name": "Electric_power", "id": 959286}], "successors": [{"name": "Anaerobic_digestion", "id": 6141390}]}
