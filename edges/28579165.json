@@ -1,1 +1,1 @@
-{"name": "Pediatrics_journals", "id": 28579165, "predecessors": [{"name": "Health_care", "id": 35880954}, {"name": "Pediatrics", "id": 790701}], "successors": [{"name": "Pediatrics_journal_stubs", "id": 67113232}]}
+{"name": "Pediatrics_journals", "id": 28579165, "predecessors": [{"name": "Health_promotion", "id": 4344045}, {"name": "Pediatrics", "id": 790701}], "successors": [{"name": "Pediatrics_journal_stubs", "id": 67113232}]}

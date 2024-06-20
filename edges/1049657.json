@@ -1,1 +1,1 @@
-{"name": "Kia_vehicles", "id": 1049657, "predecessors": [{"name": "Automotive_industry", "id": 1338498}, {"name": "Goods_(economics)", "id": 1625839}, {"name": "Battery_electric_vehicle_manufacturers", "id": 15593322}], "successors": []}
+{"name": "Kia_vehicles", "id": 1049657, "predecessors": [{"name": "Automotive_industry", "id": 1338498}, {"name": "Standards", "id": 724561}, {"name": "Battery_electric_vehicle_manufacturers", "id": 15593322}], "successors": []}

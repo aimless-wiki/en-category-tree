@@ -1,1 +1,1 @@
-{"name": "Wikipedia_new_articles", "id": 1353827, "predecessors": [{"name": "Wikipedia_article_lists", "id": 1355526}], "successors": [{"name": "Wikipedia_workpages", "id": 11376362}, {"name": "Archives_of_the_Newpage_bot_search_results", "id": 10388228}, {"name": "Wikipedian_new_page_patrollers", "id": 7751069}]}
+{"name": "Wikipedia_new_articles", "id": 1353827, "predecessors": [{"name": "Wikipedia_article_lists", "id": 1355526}], "successors": [{"name": "Wikipedia_workpages", "id": 11376362}, {"name": "Archives_of_the_Newpage_bot_search_results", "id": 10388228}]}

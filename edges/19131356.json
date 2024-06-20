@@ -1,1 +1,1 @@
-{"name": "Films_set_in_the_future", "id": 19131356, "predecessors": [{"name": "Film_genres", "id": 3008852}, {"name": "Fiction", "id": 692981}, {"name": "Prediction", "id": 1436435}], "successors": [{"name": "Films_set_in_the_23rd_century", "id": 19130666}]}
+{"name": "Films_set_in_the_future", "id": 19131356, "predecessors": [{"name": "Film_genres", "id": 3008852}, {"name": "Prediction", "id": 1436435}], "successors": [{"name": "Films_set_in_the_23rd_century", "id": 19130666}, {"name": "Animated_films_set_in_the_future", "id": 67937434}]}

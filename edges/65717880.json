@@ -1,1 +1,1 @@
-{"name": "Political_music_artists", "id": 65717880, "predecessors": [{"name": "Music_and_politics", "id": 36859313}, {"name": "Music_genres", "id": 4826123}], "successors": [{"name": "Political_music_groups", "id": 65717905}]}
+{"name": "Political_music_artists", "id": 65717880, "predecessors": [{"name": "Music_genres", "id": 4826123}], "successors": [{"name": "Political_music_groups", "id": 65717905}]}

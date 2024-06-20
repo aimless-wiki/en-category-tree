@@ -1,1 +1,1 @@
-{"name": "Legal_aid", "id": 6967505, "predecessors": [{"name": "Legal_entities", "id": 1125732}, {"name": "Poverty", "id": 5577702}], "successors": [{"name": "Public_defenders", "id": 37570126}, {"name": "Legal_aid_in_the_United_States", "id": 62549310}]}
+{"name": "Legal_aid", "id": 6967505, "predecessors": [{"name": "Academia", "id": 853425}, {"name": "Social_concepts", "id": 34119332}], "successors": [{"name": "Public_defenders", "id": 37570126}, {"name": "Legal_aid_in_the_United_States", "id": 62549310}]}

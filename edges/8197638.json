@@ -1,1 +1,1 @@
-{"name": "Parts_of_clothing", "id": 8197638, "predecessors": [{"name": "Fashion_design", "id": 999837}, {"name": "Abstraction", "id": 902386}, {"name": "Contents", "id": 14105005}], "successors": [{"name": "Fasteners", "id": 1402148}]}
+{"name": "Parts_of_clothing", "id": 8197638, "predecessors": [{"name": "Fashion_design", "id": 999837}, {"name": "Abstraction", "id": 902386}, {"name": "Contents", "id": 14105005}], "successors": [{"name": "Fasteners", "id": 1402148}, {"name": "Beadwork", "id": 3592629}]}

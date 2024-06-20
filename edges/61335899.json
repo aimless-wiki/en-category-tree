@@ -1,1 +1,1 @@
-{"name": "Christian_processions", "id": 61335899, "predecessors": [{"name": "Christian_festivals_and_holy_days", "id": 12009129}, {"name": "Ceremonies", "id": 1118985}], "successors": [{"name": "Christian_pilgrimages", "id": 30966505}]}
+{"name": "Christian_processions", "id": 61335899, "predecessors": [{"name": "Ceremonies", "id": 1118985}], "successors": [{"name": "Christian_pilgrimages", "id": 30966505}]}

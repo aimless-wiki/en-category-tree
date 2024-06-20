@@ -1,1 +1,1 @@
-{"name": "Radiation_protection", "id": 43132476, "predecessors": [{"name": "Nuclear_safety_and_security", "id": 3096958}, {"name": "Radiation", "id": 2055387}], "successors": [{"name": "Radiation_protection_organizations", "id": 67863925}]}
+{"name": "Radiation_protection", "id": 43132476, "predecessors": [{"name": "Nuclear_safety_and_security", "id": 3096958}], "successors": [{"name": "Radiation_protection_organizations", "id": 67863925}]}

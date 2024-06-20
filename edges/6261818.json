@@ -1,1 +1,1 @@
-{"name": "Seabird_colonies", "id": 6261818, "predecessors": [{"name": "Ethology", "id": 2650082}, {"name": "Evolutionary_biology", "id": 714501}], "successors": [{"name": "Penguin_colonies", "id": 65650054}]}
+{"name": "Seabird_colonies", "id": 6261818, "predecessors": [{"name": "Birds_by_common_name", "id": 11002423}, {"name": "Ethology", "id": 2650082}], "successors": [{"name": "Penguin_colonies", "id": 65650054}]}

@@ -1,1 +1,1 @@
-{"name": "Lecturers", "id": 10979142, "predecessors": [{"name": "Education_and_training_occupations", "id": 18730907}, {"name": "Public_speaking", "id": 2810397}, {"name": "Human_behavior", "id": 2524202}], "successors": [{"name": "American_lecturers", "id": 74605935}]}
+{"name": "Lecturers", "id": 10979142, "predecessors": [{"name": "Education_and_training_occupations", "id": 18730907}, {"name": "Public_speaking", "id": 2810397}, {"name": "Contents", "id": 14105005}], "successors": [{"name": "American_lecturers", "id": 74605935}]}

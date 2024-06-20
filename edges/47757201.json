@@ -1,1 +1,1 @@
-{"name": "WatchOS_software", "id": 47757201, "predecessors": [{"name": "Apple_Inc._software", "id": 9301144}, {"name": "Digital_media", "id": 1017992}, {"name": "Companies_based_in_Cambridge", "id": 23701758}], "successors": []}
+{"name": "WatchOS_software", "id": 47757201, "predecessors": [{"name": "Apple_Inc._software", "id": 9301144}, {"name": "Digital_media", "id": 1017992}, {"name": "Apple_Inc._hardware", "id": 9301031}], "successors": []}

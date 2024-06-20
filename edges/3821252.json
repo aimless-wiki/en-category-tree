@@ -1,1 +1,1 @@
-{"name": "NHL_first-round_draft_picks", "id": 3821252, "predecessors": [{"name": "NHL_entry_draft", "id": 4070501}, {"name": "Climate_by_country", "id": 7544187}], "successors": [{"name": "NHL_first_overall_draft_picks", "id": 5652029}]}
+{"name": "NHL_first-round_draft_picks", "id": 3821252, "predecessors": [{"name": "NHL_entry_draft", "id": 4070501}, {"name": "Games_of_physical_skill", "id": 8429269}], "successors": [{"name": "NHL_first_overall_draft_picks", "id": 5652029}]}

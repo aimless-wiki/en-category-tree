@@ -1,1 +1,1 @@
-{"name": "PBS_member_networks", "id": 14872313, "predecessors": [{"name": "PBS_member_stations", "id": 1428039}, {"name": "Commercial-free_television_networks", "id": 2364461}], "successors": []}
+{"name": "PBS_member_networks", "id": 14872313, "predecessors": [{"name": "PBS_member_stations", "id": 1428039}, {"name": "Commercial-free_television_networks", "id": 2364461}], "successors": [{"name": "Kentucky_Educational_Television", "id": 52351944}]}

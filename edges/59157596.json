@@ -1,1 +1,1 @@
-{"name": "Swiss_male_composers", "id": 59157596, "predecessors": [{"name": "Occupations", "id": 787658}, {"name": "Culture", "id": 694861}], "successors": [{"name": "Swiss_male_classical_composers", "id": 59157594}]}
+{"name": "Swiss_male_composers", "id": 59157596, "predecessors": [{"name": "Culture", "id": 694861}, {"name": "Anthropology", "id": 694863}, {"name": "Male_composers", "id": 44858637}], "successors": [{"name": "Swiss_male_classical_composers", "id": 59157594}]}

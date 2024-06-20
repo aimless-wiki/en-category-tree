@@ -1,1 +1,1 @@
-{"name": "Cambrian_invertebrates", "id": 50680735, "predecessors": [{"name": "Earth", "id": 754965}], "successors": [{"name": "Cambrian_arthropods", "id": 40790359}]}
+{"name": "Cambrian_invertebrates", "id": 50680735, "predecessors": [{"name": "Cambrian_animals", "id": 7862410}, {"name": "Stratigraphy", "id": 1172461}], "successors": [{"name": "Cambrian_arthropods", "id": 40790359}]}

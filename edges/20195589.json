@@ -1,1 +1,1 @@
-{"name": "Fruit_vegetables", "id": 20195589, "predecessors": [{"name": "Edible_fruits", "id": 39951547}, {"name": "Crops", "id": 694870}], "successors": [{"name": "Squashes_and_pumpkins", "id": 2802959}, {"name": "Chili_peppers", "id": 5760873}]}
+{"name": "Fruit_vegetables", "id": 20195589, "predecessors": [{"name": "Edible_fruits", "id": 39951547}, {"name": "Crops", "id": 694870}], "successors": [{"name": "Squashes_and_pumpkins", "id": 2802959}, {"name": "Chili_peppers", "id": 5760873}, {"name": "Piper_(plant)", "id": 38218325}, {"name": "Eggplant_dishes", "id": 15751929}]}

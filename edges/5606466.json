@@ -1,1 +1,1 @@
-{"name": "British_Quakers", "id": 5606466, "predecessors": [{"name": "British_Christians", "id": 5633381}, {"name": "Anthropology", "id": 694863}, {"name": "Christian_movements", "id": 16181273}], "successors": [{"name": "English_Quakers", "id": 5605663}]}
+{"name": "British_Quakers", "id": 5606466, "predecessors": [{"name": "Belief", "id": 956054}], "successors": [{"name": "English_Quakers", "id": 5605663}]}

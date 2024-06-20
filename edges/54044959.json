@@ -1,1 +1,1 @@
-{"name": "Heart_transplant_recipients", "id": 54044959, "predecessors": [{"name": "Organ_transplantation", "id": 38959574}, {"name": "Animal_anatomy", "id": 3120301}], "successors": []}
+{"name": "Heart_transplant_recipients", "id": 54044959, "predecessors": [{"name": "Organ_transplantation", "id": 38959574}, {"name": "Angiology", "id": 1482803}], "successors": []}

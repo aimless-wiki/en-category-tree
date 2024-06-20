@@ -1,1 +1,1 @@
-{"name": "Earthquake_clusters,_swarms,_and_sequences", "id": 57004529, "predecessors": [{"name": "Structure_of_the_Earth", "id": 7917749}], "successors": []}
+{"name": "Earthquake_clusters,_swarms,_and_sequences", "id": 57004529, "predecessors": [{"name": "Geology", "id": 697077}], "successors": [{"name": "Doublet_earthquakes", "id": 57043184}]}

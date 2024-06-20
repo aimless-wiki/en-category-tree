@@ -1,1 +1,1 @@
-{"name": "BMW_vehicles", "id": 936541, "predecessors": [{"name": "BMW", "id": 882125}, {"name": "Automotive_industry", "id": 1338498}, {"name": "Industries_(economics)", "id": 694873}], "successors": [{"name": "BMW_motorcycles", "id": 1024823}]}
+{"name": "BMW_vehicles", "id": 936541, "predecessors": [{"name": "BMW", "id": 882125}, {"name": "Automotive_industry", "id": 1338498}, {"name": "Political_concepts", "id": 34181261}], "successors": [{"name": "BMW_motorcycles", "id": 1024823}, {"name": "BMW_model_codes", "id": 31123750}]}

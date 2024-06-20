@@ -1,1 +1,1 @@
-{"name": "Estimation_theory", "id": 1587689, "predecessors": [{"name": "Epistemology", "id": 772240}, {"name": "Academic_disciplines", "id": 693763}], "successors": [{"name": "Regression_analysis", "id": 6534587}, {"name": "Monte_Carlo_methods", "id": 5200150}]}
+{"name": "Estimation_theory", "id": 1587689, "predecessors": [{"name": "Epistemology", "id": 772240}, {"name": "Academic_disciplines", "id": 693763}], "successors": [{"name": "Regression_analysis", "id": 6534587}, {"name": "Estimation_methods", "id": 52314443}]}

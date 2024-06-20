@@ -1,1 +1,1 @@
-{"name": "Reducing_agents", "id": 13304153, "predecessors": [{"name": "Manufacturing", "id": 867519}, {"name": "Chemical_properties", "id": 743292}], "successors": [{"name": "Metal_hydrides", "id": 1934144}]}
+{"name": "Reducing_agents", "id": 13304153, "predecessors": [{"name": "Chemical_properties", "id": 743292}], "successors": [{"name": "Metal_hydrides", "id": 1934144}]}

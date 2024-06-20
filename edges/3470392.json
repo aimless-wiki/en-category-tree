@@ -1,1 +1,1 @@
-{"name": "BIOS", "id": 3470392, "predecessors": [{"name": "IBM_PC_compatibles", "id": 1094042}, {"name": "Motherboard", "id": 1827185}, {"name": "Embedded_systems", "id": 852879}, {"name": "Operating_system_technology", "id": 1956884}], "successors": []}
+{"name": "BIOS", "id": 3470392, "predecessors": [{"name": "IBM_PC_compatibles", "id": 1094042}, {"name": "Embedded_systems", "id": 852879}, {"name": "Operating_system_technology", "id": 1956884}], "successors": []}

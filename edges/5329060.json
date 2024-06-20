@@ -1,1 +1,1 @@
-{"name": "Tour_de_Suisse", "id": 5329060, "predecessors": [{"name": "UCI_World_Tour_races", "id": 39344105}, {"name": "Men's_road_bicycle_races", "id": 39369134}, {"name": "Culture_of_Switzerland", "id": 727018}], "successors": [{"name": "Tour_de_Suisse_stage_winners", "id": 24998032}, {"name": "Tour_de_Suisse_race_stubs", "id": 61451690}]}
+{"name": "Tour_de_Suisse", "id": 5329060, "predecessors": [{"name": "Competitions", "id": 737119}], "successors": [{"name": "Tour_de_Suisse_stage_winners", "id": 24998032}, {"name": "Tour_de_Suisse_race_stubs", "id": 61451690}]}

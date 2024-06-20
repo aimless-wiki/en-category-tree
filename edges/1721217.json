@@ -1,1 +1,1 @@
-{"name": "Submarine_power_cables", "id": 1721217, "predecessors": [{"name": "Electric_power_systems_components", "id": 25426203}, {"name": "Coastal_construction", "id": 2274672}, {"name": "Electric_power", "id": 959286}], "successors": []}
+{"name": "Submarine_power_cables", "id": 1721217, "predecessors": [{"name": "Electric_power_systems_components", "id": 25426203}, {"name": "Coastal_construction", "id": 2274672}, {"name": "Electric_power_distribution", "id": 28606596}], "successors": []}

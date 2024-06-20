@@ -1,1 +1,1 @@
-{"name": "2022_meteorology", "id": 67811167, "predecessors": [{"name": "Earth_sciences", "id": 716903}, {"name": "Historiography", "id": 895940}, {"name": "History_of_science", "id": 707333}, {"name": "Calendars", "id": 698466}], "successors": [{"name": "Tropical_cyclones_in_2022", "id": 67811158}]}
+{"name": "2022_meteorology", "id": 67811167, "predecessors": [{"name": "Wikipedia_categorization", "id": 1036222}, {"name": "Earth_sciences", "id": 716903}, {"name": "Calendars", "id": 698466}], "successors": [{"name": "Tropical_cyclones_in_2022", "id": 67811158}]}

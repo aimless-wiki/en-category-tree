@@ -1,1 +1,1 @@
-{"name": "Child_pop_musicians", "id": 30979249, "predecessors": [{"name": "Child_labour", "id": 1899643}, {"name": "Historical_eras", "id": 925351}], "successors": [{"name": "American_child_pop_musicians", "id": 76564018}]}
+{"name": "Child_pop_musicians", "id": 30979249, "predecessors": [{"name": "Music_genres", "id": 4826123}], "successors": [{"name": "American_child_pop_musicians", "id": 76564018}]}

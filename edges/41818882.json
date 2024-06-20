@@ -1,1 +1,1 @@
-{"name": "Pollsters", "id": 41818882, "predecessors": [{"name": "Academic_disciplines", "id": 693763}, {"name": "Data", "id": 16989227}, {"name": "Occupations", "id": 787658}], "successors": []}
+{"name": "Pollsters", "id": 41818882, "predecessors": [{"name": "Academic_disciplines", "id": 693763}, {"name": "Research_methods", "id": 1557538}, {"name": "Wikipedia_categorization", "id": 1036222}], "successors": []}

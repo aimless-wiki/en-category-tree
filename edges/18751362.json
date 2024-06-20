@@ -1,1 +1,1 @@
-{"name": "Deaths_from_aortic_dissection", "id": 18751362, "predecessors": [{"name": "Arteries_of_the_abdomen", "id": 21973686}, {"name": "Cardiovascular_diseases", "id": 1339883}], "successors": [{"name": "Deaths_from_aortic_aneurysm", "id": 22304462}]}
+{"name": "Deaths_from_aortic_dissection", "id": 18751362, "predecessors": [{"name": "Cardiovascular_diseases", "id": 1339883}], "successors": [{"name": "Deaths_from_aortic_aneurysm", "id": 22304462}]}

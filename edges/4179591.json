@@ -1,1 +1,1 @@
-{"name": "Educational_environment", "id": 4179591, "predecessors": [{"name": "Student_culture", "id": 698268}, {"name": "Human_behavior", "id": 2524202}], "successors": [{"name": "Satellite_campuses", "id": 34796900}]}
+{"name": "Educational_environment", "id": 4179591, "predecessors": [{"name": "Student_culture", "id": 698268}, {"name": "Contents", "id": 14105005}], "successors": [{"name": "Satellite_campuses", "id": 34796900}, {"name": "University_of_Wisconsin–Madison", "id": 24384528}, {"name": "University_of_Nebraska–Lincoln", "id": 29615670}]}

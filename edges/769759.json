@@ -1,1 +1,1 @@
-{"name": "Antiviral_drugs", "id": 769759, "predecessors": [{"name": "Viral_diseases", "id": 9219628}, {"name": "Manufacturing", "id": 867519}], "successors": []}
+{"name": "Antiviral_drugs", "id": 769759, "predecessors": [{"name": "Viral_diseases", "id": 9219628}, {"name": "Medicinal_chemistry", "id": 2161858}, {"name": "Toxicology", "id": 1043816}], "successors": []}

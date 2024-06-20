@@ -1,1 +1,1 @@
-{"name": "Philosophical_methodology", "id": 22393833, "predecessors": [{"name": "Academic_disciplines", "id": 693763}], "successors": [{"name": "Philosophical_arguments", "id": 2656241}, {"name": "Hermeneutics", "id": 2687956}, {"name": "Dialogues", "id": 7811689}]}
+{"name": "Philosophical_methodology", "id": 22393833, "predecessors": [{"name": "Methodology", "id": 2633708}, {"name": "Academic_disciplines", "id": 693763}], "successors": [{"name": "Philosophical_arguments", "id": 2656241}, {"name": "Hermeneutics", "id": 2687956}, {"name": "Dialogues", "id": 7811689}]}

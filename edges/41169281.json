@@ -1,1 +1,1 @@
-{"name": "Singing_talent_shows", "id": 41169281, "predecessors": [{"name": "Talent_shows", "id": 26867764}, {"name": "Music_competitions", "id": 1507688}], "successors": [{"name": "The_X_Factor", "id": 32882664}]}
+{"name": "Singing_talent_shows", "id": 41169281, "predecessors": [{"name": "Singing_competitions", "id": 2079973}, {"name": "Talent_shows", "id": 26867764}, {"name": "Music_competitions", "id": 1507688}], "successors": [{"name": "The_X_Factor", "id": 32882664}]}

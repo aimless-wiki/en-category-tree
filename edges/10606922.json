@@ -1,1 +1,1 @@
-{"name": "Theatre_companies_in_California", "id": 10606922, "predecessors": [{"name": "Entertainment_companies_based_in_California", "id": 49024541}, {"name": "California_culture", "id": 1199922}, {"name": "Social_groups", "id": 1093141}], "successors": [{"name": "Theatre_companies_in_Los_Angeles", "id": 23767668}]}
+{"name": "Theatre_companies_in_California", "id": 10606922, "predecessors": [{"name": "California_culture", "id": 1199922}, {"name": "Theatre", "id": 698600}], "successors": [{"name": "Theatre_companies_in_Los_Angeles", "id": 23767668}]}

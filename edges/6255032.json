@@ -1,1 +1,1 @@
-{"name": "Musical_game_shows", "id": 6255032, "predecessors": [{"name": "Entertainment", "id": 693016}], "successors": [{"name": "Masked_Singer", "id": 64275870}]}
+{"name": "Musical_game_shows", "id": 6255032, "predecessors": [{"name": "Entertainment", "id": 693016}, {"name": "Theatrical_genres", "id": 1231826}], "successors": [{"name": "Masked_Singer", "id": 64275870}]}

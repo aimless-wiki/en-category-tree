@@ -1,1 +1,1 @@
-{"name": "Swiss_non-fiction_writers", "id": 6679605, "predecessors": [{"name": "Swiss_writers", "id": 1096813}, {"name": "Literary_genres", "id": 1286193}], "successors": [{"name": "Swiss_journalists", "id": 1096876}]}
+{"name": "Swiss_non-fiction_writers", "id": 6679605, "predecessors": [{"name": "Swiss_writers", "id": 1096813}, {"name": "Culture", "id": 694861}], "successors": [{"name": "Swiss_journalists", "id": 1096876}]}

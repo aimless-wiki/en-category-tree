@@ -1,1 +1,1 @@
-{"name": "Analysis_of_variance", "id": 6067571, "predecessors": [{"name": "Data_analysis", "id": 14482748}], "successors": []}
+{"name": "Analysis_of_variance", "id": 6067571, "predecessors": [{"name": "Data_analysis", "id": 14482748}], "successors": [{"name": "Least_squares", "id": 29421988}]}

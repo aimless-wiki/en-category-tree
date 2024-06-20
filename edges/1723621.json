@@ -1,1 +1,1 @@
-{"name": "Silk", "id": 1723621, "predecessors": [{"name": "Fibers", "id": 1436866}, {"name": "Animals_and_humans", "id": 52196069}, {"name": "Contents", "id": 14105005}], "successors": [{"name": "Silk_Road", "id": 1426977}, {"name": "Silk_production", "id": 35302982}]}
+{"name": "Silk", "id": 1723621, "predecessors": [{"name": "Fibers", "id": 1436866}, {"name": "Agriculture", "id": 694871}, {"name": "Extant_Pennsylvanian_first_appearances", "id": 48569031}], "successors": [{"name": "Silk_Road", "id": 1426977}, {"name": "Silk_production", "id": 35302982}]}

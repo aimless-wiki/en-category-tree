@@ -1,1 +1,1 @@
-{"name": "Epilepsy", "id": 11554888, "predecessors": [{"name": "Politics", "id": 695027}], "successors": [{"name": "Anticonvulsants", "id": 2273733}, {"name": "People_with_epilepsy", "id": 5164476}]}
+{"name": "Epilepsy", "id": 11554888, "predecessors": [{"name": "Disorders_causing_seizures", "id": 21292193}, {"name": "Neurological_disorders", "id": 1267652}, {"name": "Causes_of_death", "id": 5271061}], "successors": [{"name": "Anticonvulsants", "id": 2273733}, {"name": "People_with_epilepsy", "id": 5164476}, {"name": "Epilepsy_types", "id": 21390246}]}

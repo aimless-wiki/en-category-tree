@@ -1,1 +1,1 @@
-{"name": "Modems", "id": 4380426, "predecessors": [{"name": "Networking_hardware", "id": 1899604}, {"name": "Internet_protocols", "id": 1034331}, {"name": "IEEE_802", "id": 2067440}], "successors": [{"name": "Quantized_radio_modulation_modes", "id": 26014785}]}
+{"name": "Modems", "id": 4380426, "predecessors": [{"name": "Networking_hardware", "id": 1899604}, {"name": "Physical_layer_protocols", "id": 7920188}, {"name": "Telephony", "id": 1048611}, {"name": "IEEE_802", "id": 2067440}], "successors": [{"name": "Quantized_radio_modulation_modes", "id": 26014785}]}

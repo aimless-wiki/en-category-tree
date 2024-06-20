@@ -1,1 +1,1 @@
-{"name": "Coffee_culture", "id": 9284986, "predecessors": [{"name": "Drug_culture", "id": 1326113}, {"name": "Agriculture", "id": 694871}, {"name": "Eating_behaviors", "id": 1476452}], "successors": [{"name": "Coffee_drinks", "id": 25629728}, {"name": "Coffeehouses_and_cafés", "id": 38675732}]}
+{"name": "Coffee_culture", "id": 9284986, "predecessors": [{"name": "Drug_culture", "id": 1326113}, {"name": "Agriculture", "id": 694871}], "successors": [{"name": "Coffee_drinks", "id": 25629728}, {"name": "Coffeehouses_and_cafés", "id": 38675732}]}

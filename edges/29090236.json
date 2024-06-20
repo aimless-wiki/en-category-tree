@@ -1,1 +1,1 @@
-{"name": "Summer_schools", "id": 29090236, "predecessors": [{"name": "School_types", "id": 1119661}, {"name": "Calendars", "id": 698466}, {"name": "Human_behavior", "id": 2524202}], "successors": []}
+{"name": "Summer_schools", "id": 29090236, "predecessors": [{"name": "Calendars", "id": 698466}, {"name": "Contents", "id": 14105005}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Coumarins", "id": 25897219, "predecessors": [{"name": "Benzopyrans", "id": 26455836}, {"name": "Phenol_esters", "id": 55085852}, {"name": "Conjugated_dienes", "id": 60929067}, {"name": "Aromatic_compounds", "id": 1369194}], "successors": []}
+{"name": "Coumarins", "id": 25897219, "predecessors": [{"name": "Benzopyrans", "id": 26455836}, {"name": "Phenol_esters", "id": 55085852}, {"name": "Classification_systems", "id": 3615452}, {"name": "Lactones", "id": 2248989}], "successors": []}

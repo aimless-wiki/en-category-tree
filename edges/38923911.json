@@ -1,1 +1,1 @@
-{"name": "Scholarly_communication", "id": 38923911, "predecessors": [{"name": "Publishing", "id": 1001911}], "successors": [{"name": "Academic_publishing", "id": 2239162}, {"name": "Full-text_scholarly_online_databases", "id": 44998296}]}
+{"name": "Scholarly_communication", "id": 38923911, "predecessors": [{"name": "Academia", "id": 853425}, {"name": "Publishing", "id": 1001911}], "successors": [{"name": "Academic_publishing", "id": 2239162}, {"name": "Full-text_scholarly_online_databases", "id": 44998296}]}

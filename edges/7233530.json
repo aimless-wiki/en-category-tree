@@ -1,1 +1,1 @@
-{"name": "Dairy_farming", "id": 7233530, "predecessors": [{"name": "Livestock", "id": 917009}, {"name": "Agriculture", "id": 694871}, {"name": "Food_industry", "id": 3540193}], "successors": [{"name": "Dairy_farmers", "id": 43575333}]}
+{"name": "Dairy_farming", "id": 7233530, "predecessors": [{"name": "Livestock", "id": 917009}, {"name": "Agriculture", "id": 694871}], "successors": [{"name": "Dairy_farmers", "id": 43575333}]}

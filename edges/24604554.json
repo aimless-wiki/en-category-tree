@@ -1,1 +1,1 @@
-{"name": "Confectioners", "id": 24604554, "predecessors": [{"name": "Confectionery", "id": 693491}, {"name": "Food_industry", "id": 3540193}], "successors": [{"name": "Pastry_chefs", "id": 23758137}]}
+{"name": "Confectioners", "id": 24604554, "predecessors": [{"name": "Confectionery", "id": 693491}, {"name": "Wikipedia_categorization", "id": 1036222}], "successors": [{"name": "Pastry_chefs", "id": 23758137}]}

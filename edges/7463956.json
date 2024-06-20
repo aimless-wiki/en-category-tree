@@ -1,1 +1,1 @@
-{"name": "Helicopter_airlines", "id": 7463956, "predecessors": [{"name": "Helicopters", "id": 751767}, {"name": "Transport_economics", "id": 3646902}, {"name": "Aerospace_companies", "id": 760233}], "successors": []}
+{"name": "Helicopter_airlines", "id": 7463956, "predecessors": [{"name": "Management_by_type", "id": 36812489}, {"name": "Standards", "id": 724561}, {"name": "Aerospace_companies", "id": 760233}], "successors": []}

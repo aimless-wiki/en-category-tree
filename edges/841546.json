@@ -1,1 +1,1 @@
-{"name": "Digital_signal_processors", "id": 841546, "predecessors": [{"name": "Digital_signal_processing", "id": 707453}, {"name": "Central_processing_unit", "id": 5834555}, {"name": "Computer_architecture", "id": 869984}, {"name": "Integrated_circuits", "id": 1240658}], "successors": []}
+{"name": "Digital_signal_processors", "id": 841546, "predecessors": [{"name": "Digital_signal_processing", "id": 707453}, {"name": "Central_processing_unit", "id": 5834555}, {"name": "Integrated_circuits", "id": 1240658}], "successors": []}

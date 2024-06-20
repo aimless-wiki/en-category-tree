@@ -1,1 +1,1 @@
-{"name": "Online_journalists", "id": 26744451, "predecessors": [{"name": "Journalism", "id": 698307}, {"name": "Computer_networking", "id": 4677693}], "successors": [{"name": "American_online_journalists", "id": 26732306}, {"name": "BuzzFeed_people", "id": 55046329}]}
+{"name": "Online_journalists", "id": 26744451, "predecessors": [{"name": "Computer_networking", "id": 4677693}, {"name": "Mass_media", "id": 696790}], "successors": [{"name": "American_online_journalists", "id": 26732306}, {"name": "BuzzFeed_people", "id": 55046329}]}

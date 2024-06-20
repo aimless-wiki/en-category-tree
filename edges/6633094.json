@@ -1,1 +1,1 @@
-{"name": "Chess_Olympiads", "id": 6633094, "predecessors": [{"name": "Abstract_strategy_games", "id": 3290901}], "successors": [{"name": "Chess_Olympiad_competitors", "id": 26709128}]}
+{"name": "Chess_Olympiads", "id": 6633094, "predecessors": [{"name": "Board_games", "id": 9205892}], "successors": [{"name": "Chess_Olympiad_competitors", "id": 26709128}]}

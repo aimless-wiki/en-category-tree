@@ -1,1 +1,1 @@
-{"name": "Tourist_attractions_in_Denver", "id": 36608501, "predecessors": [{"name": "Colorado_counties", "id": 786280}, {"name": "Cities_in_Colorado", "id": 786309}, {"name": "Geography_of_the_United_States", "id": 1400743}], "successors": []}
+{"name": "Tourist_attractions_in_Denver", "id": 36608501, "predecessors": [{"name": "Colorado_counties", "id": 786280}, {"name": "Cities_in_Colorado", "id": 786309}, {"name": "Tourist_attractions_in_Colorado", "id": 9759142}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Oilfield_services_companies", "id": 17465059, "predecessors": [{"name": "Petroleum_production", "id": 1243675}, {"name": "Petroleum_geology", "id": 17839671}, {"name": "Engineering_organizations", "id": 14661580}, {"name": "Energy_organizations", "id": 18605597}], "successors": []}
+{"name": "Oilfield_services_companies", "id": 17465059, "predecessors": [{"name": "Engineering_organizations", "id": 14661580}, {"name": "Natural_resources", "id": 1103405}], "successors": []}

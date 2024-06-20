@@ -1,1 +1,1 @@
-{"name": "Wikipedian_new_page_patrollers", "id": 7751069, "predecessors": [{"name": "Wikipedia_WikiProjects", "id": 4777982}, {"name": "Wikipedia_new_articles", "id": 1353827}], "successors": [{"name": "Wikipedia_new_page_reviewers", "id": 52117600}]}
+{"name": "Wikipedian_new_page_patrollers", "id": 7751069, "predecessors": [{"name": "Wikipedia_WikiProjects", "id": 4777982}], "successors": [{"name": "Wikipedia_new_page_reviewers", "id": 52117600}, {"name": "Patrolling_user_templates", "id": 59212214}]}

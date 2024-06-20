@@ -1,1 +1,1 @@
-{"name": "Luminescence", "id": 1635549, "predecessors": [{"name": "Energy_conversion", "id": 1947340}, {"name": "Molecular_physics", "id": 1880263}], "successors": [{"name": "Luminescent_minerals", "id": 49798212}, {"name": "Fluorescent_dyes", "id": 3242840}]}
+{"name": "Luminescence", "id": 1635549, "predecessors": [{"name": "Energy_conversion", "id": 1947340}, {"name": "Molecular_physics", "id": 1880263}], "successors": [{"name": "Fluorescence", "id": 5361774}, {"name": "Luminescent_minerals", "id": 49798212}, {"name": "Fluorescent_dyes", "id": 3242840}]}

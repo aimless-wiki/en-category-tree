@@ -1,1 +1,1 @@
-{"name": "Deaths_from_gangrene", "id": 29632072, "predecessors": [{"name": "Cellular_processes", "id": 7684398}, {"name": "Anthropology", "id": 694863}, {"name": "Infectious_diseases", "id": 707355}, {"name": "Cardiovascular_diseases", "id": 1339883}], "successors": []}
+{"name": "Deaths_from_gangrene", "id": 29632072, "predecessors": [{"name": "Cellular_processes", "id": 7684398}, {"name": "Causes_of_death", "id": 5271061}, {"name": "Infectious_diseases", "id": 707355}, {"name": "Cardiovascular_diseases", "id": 1339883}], "successors": []}

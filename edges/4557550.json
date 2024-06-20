@@ -1,1 +1,1 @@
-{"name": "Secretaries", "id": 4557550, "predecessors": [{"name": "Clerks", "id": 8909890}, {"name": "Employment_classifications", "id": 15387066}], "successors": [{"name": "Personal_secretaries_to_the_President_of_the_United_States", "id": 22991455}, {"name": "Private_secretaries_in_the_British_Civil_Service", "id": 24303913}]}
+{"name": "Secretaries", "id": 4557550, "predecessors": [{"name": "Clerks", "id": 8909890}, {"name": "Employment_classifications", "id": 15387066}], "successors": [{"name": "Personal_secretaries_to_the_President_of_the_United_States", "id": 22991455}]}

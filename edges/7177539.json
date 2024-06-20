@@ -1,1 +1,1 @@
-{"name": "Crewed_Soyuz_missions", "id": 7177539, "predecessors": [{"name": "Crewed_spacecraft", "id": 786264}, {"name": "Soyuz_program", "id": 39258662}, {"name": "Human_spaceflight", "id": 856134}, {"name": "Rocketry", "id": 1421160}], "successors": []}
+{"name": "Crewed_Soyuz_missions", "id": 7177539, "predecessors": [{"name": "Crewed_spacecraft", "id": 786264}, {"name": "Human_spaceflights", "id": 850824}, {"name": "Soyuz_program", "id": 39258662}, {"name": "Wikipedia_categorization", "id": 1036222}], "successors": []}

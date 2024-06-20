@@ -1,1 +1,1 @@
-{"name": "IPhone", "id": 16645189, "predecessors": [{"name": "Apple_Inc._hardware", "id": 9301031}, {"name": "IOS", "id": 27765345}, {"name": "Smartphones", "id": 953043}, {"name": "Companies_based_in_Cambridge", "id": 23701758}], "successors": [{"name": "IOS_software", "id": 30128111}]}
+{"name": "IPhone", "id": 16645189, "predecessors": [{"name": "Apple_Inc._hardware", "id": 9301031}, {"name": "IOS", "id": 27765345}, {"name": "Smartphones", "id": 953043}], "successors": [{"name": "IOS_software", "id": 30128111}]}

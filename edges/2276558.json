@@ -1,1 +1,1 @@
-{"name": "Computer_science_books", "id": 2276558, "predecessors": [{"name": "Science_books", "id": 47064376}, {"name": "Technology_books", "id": 1316657}, {"name": "Academic_disciplines", "id": 693763}], "successors": []}
+{"name": "Computer_science_books", "id": 2276558, "predecessors": [{"name": "Science_books", "id": 47064376}, {"name": "Technology_books", "id": 1316657}, {"name": "Academic_disciplines", "id": 693763}], "successors": [{"name": "Computer_programming_books", "id": 34293674}]}

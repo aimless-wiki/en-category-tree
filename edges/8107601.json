@@ -1,1 +1,1 @@
-{"name": "Radio_resource_management", "id": 8107601, "predecessors": [{"name": "Network_management", "id": 1644925}, {"name": "Radio_technology", "id": 2959298}, {"name": "Internet_protocols", "id": 1034331}], "successors": []}
+{"name": "Radio_resource_management", "id": 8107601, "predecessors": [{"name": "Network_management", "id": 1644925}, {"name": "Physical_layer_protocols", "id": 7920188}, {"name": "Radio_technology", "id": 2959298}], "successors": []}

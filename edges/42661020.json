@@ -1,1 +1,1 @@
-{"name": "Fungal_tree_pathogens_and_diseases", "id": 42661020, "predecessors": [{"name": "Fungal_plant_pathogens_and_diseases", "id": 11455316}, {"name": "Forest_ecology", "id": 13260017}], "successors": [{"name": "Fungal_tree_disease_stubs", "id": 65967336}]}
+{"name": "Fungal_tree_pathogens_and_diseases", "id": 42661020, "predecessors": [{"name": "Fungal_plant_pathogens_and_diseases", "id": 11455316}, {"name": "Phytopathology", "id": 11967389}], "successors": [{"name": "Fungal_tree_disease_stubs", "id": 65967336}]}

@@ -1,1 +1,1 @@
-{"name": "Child_superheroes", "id": 3918064, "predecessors": [{"name": "Ageing", "id": 39157130}, {"name": "Fantasy_tropes", "id": 6932967}], "successors": [{"name": "Teenage_superheroes", "id": 70961321}]}
+{"name": "Child_superheroes", "id": 3918064, "predecessors": [{"name": "Fantasy_tropes", "id": 6932967}, {"name": "Child_labour", "id": 1899643}], "successors": [{"name": "Teenage_superheroes", "id": 70961321}]}

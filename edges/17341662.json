@@ -1,1 +1,1 @@
-{"name": "Cancer_research", "id": 17341662, "predecessors": [{"name": "Cancer", "id": 999635}, {"name": "Health_care_quality", "id": 16191835}], "successors": [{"name": "Cancer_researchers", "id": 11371980}, {"name": "Oncology_journals", "id": 20566229}, {"name": "Experimental_cancer_drugs", "id": 32587822}]}
+{"name": "Cancer_research", "id": 17341662, "predecessors": [{"name": "Cancer", "id": 999635}, {"name": "Health_care_quality", "id": 16191835}], "successors": [{"name": "Cancer_researchers", "id": 11371980}, {"name": "Oncology_journals", "id": 20566229}]}

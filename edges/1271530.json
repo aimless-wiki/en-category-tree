@@ -1,1 +1,1 @@
-{"name": "Vaudeville_performers", "id": 1271530, "predecessors": [{"name": "Entertainment", "id": 693016}, {"name": "Theatrical_genres", "id": 1231826}], "successors": [{"name": "Blackface_minstrel_performers", "id": 5061375}]}
+{"name": "Vaudeville_performers", "id": 1271530, "predecessors": [{"name": "Vaudeville", "id": 3364264}, {"name": "Entertainment", "id": 693016}], "successors": [{"name": "Blackface_minstrel_performers", "id": 5061375}, {"name": "Music_hall_performers", "id": 11876030}, {"name": "American_vaudeville_performers", "id": 76605700}]}

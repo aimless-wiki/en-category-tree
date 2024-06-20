@@ -1,1 +1,1 @@
-{"name": "Women_biochemists", "id": 41980253, "predecessors": [{"name": "Biochemistry", "id": 695996}, {"name": "Women_biologists", "id": 1704172}, {"name": "Women_chemists", "id": 1704190}], "successors": [{"name": "Women_pharmacologists", "id": 42138871}, {"name": "American_women_biochemists", "id": 61643068}]}
+{"name": "Women_biochemists", "id": 41980253, "predecessors": [{"name": "Biochemistry", "id": 695996}], "successors": [{"name": "Women_pharmacologists", "id": 42138871}, {"name": "American_women_biochemists", "id": 61643068}]}

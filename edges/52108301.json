@@ -1,1 +1,1 @@
-{"name": "Manufacturing_companies_based_in_Osaka", "id": 52108301, "predecessors": [{"name": "Companies_based_in_Osaka_Prefecture", "id": 24919936}], "successors": [{"name": "Suntory_brands", "id": 75435787}]}
+{"name": "Manufacturing_companies_based_in_Osaka", "id": 52108301, "predecessors": [{"name": "Companies_based_in_Osaka_Prefecture", "id": 24919936}, {"name": "Standards", "id": 724561}], "successors": [{"name": "Suntory_brands", "id": 75435787}]}

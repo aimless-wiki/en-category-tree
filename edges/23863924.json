@@ -1,1 +1,1 @@
-{"name": "FK_Leotar_players", "id": 23863924, "predecessors": [{"name": "Football_clubs_in_Bosnia_and_Herzegovina", "id": 34428248}, {"name": "Former_countries_in_Europe", "id": 2570727}], "successors": []}
+{"name": "FK_Leotar_players", "id": 23863924, "predecessors": [{"name": "Football_clubs_in_Bosnia_and_Herzegovina", "id": 34428248}, {"name": "Wikipedia_categorization", "id": 1036222}], "successors": []}

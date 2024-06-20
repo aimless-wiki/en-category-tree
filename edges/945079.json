@@ -1,1 +1,1 @@
-{"name": "Embroidery", "id": 945079, "predecessors": [{"name": "Needlework", "id": 732990}], "successors": [{"name": "Embroiderers", "id": 37439464}, {"name": "Fibers", "id": 1436866}]}
+{"name": "Embroidery", "id": 945079, "predecessors": [{"name": "Needlework", "id": 732990}], "successors": [{"name": "Embroiderers", "id": 37439464}, {"name": "Fibers", "id": 1436866}, {"name": "American_embroiderers", "id": 71189452}, {"name": "British_embroiderers", "id": 64004794}]}

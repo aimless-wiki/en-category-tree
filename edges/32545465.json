@@ -1,1 +1,1 @@
-{"name": "Blues_albums_by_American_artists", "id": 32545465, "predecessors": [{"name": "Music_genres", "id": 4826123}, {"name": "American_musicians", "id": 2384226}], "successors": [{"name": "Nat_King_Cole_albums", "id": 7127930}, {"name": "Blues_rock_albums_by_American_artists", "id": 37201345}]}
+{"name": "Blues_albums_by_American_artists", "id": 32545465, "predecessors": [{"name": "Recorded_music", "id": 2722900}, {"name": "Music_genres", "id": 4826123}], "successors": [{"name": "Nat_King_Cole_albums", "id": 7127930}]}

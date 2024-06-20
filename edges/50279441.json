@@ -1,1 +1,1 @@
-{"name": "Fried_foods", "id": 50279441, "predecessors": [{"name": "Culture", "id": 694861}], "successors": [{"name": "Pancakes", "id": 1386309}, {"name": "Deep_fried_foods", "id": 27780712}, {"name": "Fried_chicken", "id": 61629535}]}
+{"name": "Fried_foods", "id": 50279441, "predecessors": [{"name": "Cooking_techniques", "id": 757512}], "successors": [{"name": "Pancakes", "id": 1386309}, {"name": "Deep_fried_foods", "id": 27780712}, {"name": "Fried_chicken", "id": 61629535}]}

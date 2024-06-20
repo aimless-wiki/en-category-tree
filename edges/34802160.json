@@ -1,1 +1,1 @@
-{"name": "Human_positions", "id": 34802160, "predecessors": [{"name": "Human_anatomy", "id": 2294735}, {"name": "Human_behavior", "id": 2524202}, {"name": "Nonverbal_communication", "id": 5254762}, {"name": "Entertainment", "id": 693016}], "successors": [{"name": "Gestures", "id": 1363132}]}
+{"name": "Human_positions", "id": 34802160, "predecessors": [{"name": "Human_anatomy", "id": 2294735}, {"name": "Human_behavior", "id": 2524202}, {"name": "Entertainment", "id": 693016}], "successors": [{"name": "Gestures", "id": 1363132}]}

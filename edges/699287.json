@@ -1,1 +1,1 @@
-{"name": "Graph_algorithms", "id": 699287, "predecessors": [{"name": "Algorithms", "id": 691136}, {"name": "Computational_problems_in_graph_theory", "id": 25346631}], "successors": []}
+{"name": "Graph_algorithms", "id": 699287, "predecessors": [{"name": "Algorithms", "id": 691136}, {"name": "Computational_problems_in_graph_theory", "id": 25346631}], "successors": [{"name": "Planar_graphs", "id": 28029415}]}

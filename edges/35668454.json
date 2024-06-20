@@ -1,1 +1,1 @@
-{"name": "Underwater_breathing_apparatus", "id": 35668454, "predecessors": [{"name": "Underwater_diving_equipment", "id": 2684399}, {"name": "Respiration", "id": 1320459}], "successors": [{"name": "Underwater_breathing_apparatus_components", "id": 75726873}]}
+{"name": "Underwater_breathing_apparatus", "id": 35668454, "predecessors": [{"name": "Underwater_diving_equipment", "id": 2684399}, {"name": "Academic_disciplines", "id": 693763}], "successors": [{"name": "Underwater_breathing_apparatus_components", "id": 75726873}]}

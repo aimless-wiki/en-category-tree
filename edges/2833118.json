@@ -1,1 +1,1 @@
-{"name": "Vasodilators", "id": 2833118, "predecessors": [{"name": "Cardiology", "id": 692364}], "successors": []}
+{"name": "Vasodilators", "id": 2833118, "predecessors": [{"name": "Angiology", "id": 1482803}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Clinical_psychologists", "id": 24690299, "predecessors": [{"name": "Clinical_psychology", "id": 1063305}, {"name": "Academic_disciplines", "id": 693763}, {"name": "Health_care_occupations", "id": 1006080}], "successors": []}
+{"name": "Clinical_psychologists", "id": 24690299, "predecessors": [{"name": "Clinical_psychology", "id": 1063305}, {"name": "Psychotherapists", "id": 2084138}, {"name": "Academic_disciplines", "id": 693763}, {"name": "Health_care_occupations", "id": 1006080}], "successors": []}

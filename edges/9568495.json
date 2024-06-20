@@ -1,1 +1,1 @@
-{"name": "Video_game_expansion_packs", "id": 9568495, "predecessors": [{"name": "Distribution_(marketing)", "id": 1232228}, {"name": "Digital_media", "id": 1017992}, {"name": "Entertainment", "id": 693016}], "successors": [{"name": "Video_games_with_expansion_packs", "id": 9570376}]}
+{"name": "Video_game_expansion_packs", "id": 9568495, "predecessors": [{"name": "Entertainment", "id": 693016}, {"name": "Digital_media", "id": 1017992}], "successors": [{"name": "Video_games_with_expansion_packs", "id": 9570376}]}
