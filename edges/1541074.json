@@ -1,1 +1,1 @@
-{"name": "Pamphlets", "id": 1541074, "predecessors": [{"name": "Book_collecting", "id": 9203521}, {"name": "Mass_media", "id": 696790}, {"name": "Printing", "id": 774014}], "successors": [{"name": "Protocols_of_the_Elders_of_Zion", "id": 10895148}]}
+{"name": "Pamphlets", "id": 1541074, "predecessors": [{"name": "Book_collecting", "id": 9203521}, {"name": "Literary_genres", "id": 1286193}, {"name": "Mass_media", "id": 696790}, {"name": "Printing", "id": 774014}], "successors": [{"name": "Protocols_of_the_Elders_of_Zion", "id": 10895148}]}

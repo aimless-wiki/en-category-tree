@@ -1,1 +1,1 @@
-{"name": "Women_hymnwriters", "id": 56346236, "predecessors": [{"name": "Women_religious_writers", "id": 44271451}, {"name": "Literature_by_women", "id": 13332078}], "successors": [{"name": "American_women_hymnwriters", "id": 65654258}]}
+{"name": "Women_hymnwriters", "id": 56346236, "predecessors": [{"name": "Women_religious_writers", "id": 44271451}, {"name": "Religious_writers", "id": 6692804}, {"name": "Literature_by_women", "id": 13332078}], "successors": [{"name": "American_women_hymnwriters", "id": 65654258}, {"name": "British_women_hymnwriters", "id": 65654266}]}

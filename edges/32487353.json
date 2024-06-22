@@ -1,1 +1,1 @@
-{"name": "Digestive_system_surgery", "id": 32487353, "predecessors": [{"name": "Digestive_system_procedures", "id": 32487457}, {"name": "Surgical_procedures_and_techniques", "id": 3464652}, {"name": "Surgery", "id": 804789}], "successors": []}
+{"name": "Digestive_system_surgery", "id": 32487353, "predecessors": [{"name": "Surgical_procedures_and_techniques", "id": 3464652}, {"name": "Surgery", "id": 804789}, {"name": "Digestive_system", "id": 703214}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Elliptic_curves", "id": 1120102, "predecessors": [{"name": "Abelian_varieties", "id": 1120103}, {"name": "Algebraic_curves", "id": 1114053}, {"name": "Analytic_number_theory", "id": 694968}], "successors": [{"name": "Bitcoin", "id": 39563179}]}
+{"name": "Elliptic_curves", "id": 1120102, "predecessors": [{"name": "Abelian_varieties", "id": 1120103}, {"name": "Algebraic_curves", "id": 1114053}, {"name": "Riemann_surfaces", "id": 1031092}], "successors": []}

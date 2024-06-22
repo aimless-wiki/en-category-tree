@@ -1,1 +1,1 @@
-{"name": "Reichsmarine_personnel", "id": 30968667, "predecessors": [{"name": "Reichswehr_personnel", "id": 26523658}, {"name": "Maritime_history", "id": 3120048}, {"name": "Government_occupations", "id": 1006059}], "successors": []}
+{"name": "Reichsmarine_personnel", "id": 30968667, "predecessors": [{"name": "Reichswehr_personnel", "id": 26523658}, {"name": "Occupations", "id": 787658}], "successors": []}

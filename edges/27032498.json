@@ -1,1 +1,1 @@
-{"name": "Ticks", "id": 27032498, "predecessors": [{"name": "Blood", "id": 968308}, {"name": "Evolutionary_biology", "id": 714501}, {"name": "Contents", "id": 14105005}], "successors": [{"name": "Tick-borne_diseases", "id": 28888506}, {"name": "Ixodidae", "id": 56121559}]}
+{"name": "Ticks", "id": 27032498, "predecessors": [{"name": "Blood", "id": 968308}, {"name": "Contents", "id": 14105005}], "successors": [{"name": "Tick-borne_diseases", "id": 28888506}, {"name": "Ixodidae", "id": 56121559}]}

@@ -1,1 +1,1 @@
-{"name": "Defence_batteries_of_the_Royal_Artillery", "id": 69691500, "predecessors": [{"name": "Royal_Artillery_batteries", "id": 18500303}, {"name": "Safety", "id": 902977}, {"name": "Ballistics", "id": 981903}], "successors": []}
+{"name": "Defence_batteries_of_the_Royal_Artillery", "id": 69691500, "predecessors": [{"name": "Royal_Artillery_batteries", "id": 18500303}, {"name": "Warfare_by_type", "id": 4733422}, {"name": "Ballistics", "id": 981903}], "successors": []}

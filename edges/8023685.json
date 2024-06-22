@@ -1,1 +1,1 @@
-{"name": "Heineken_brands", "id": 8023685, "predecessors": [{"name": "Beer_brands", "id": 13979965}, {"name": "Brand_management", "id": 31052109}, {"name": "Culture", "id": 694861}, {"name": "Drink_brands", "id": 4115722}], "successors": []}
+{"name": "Heineken_brands", "id": 8023685, "predecessors": [{"name": "Beer_brands", "id": 13979965}, {"name": "Brand_management", "id": 31052109}, {"name": "Alkanols", "id": 46536540}, {"name": "Drink_brands", "id": 4115722}], "successors": []}

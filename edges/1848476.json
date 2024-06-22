@@ -1,1 +1,1 @@
-{"name": "Space_plasmas", "id": 1848476, "predecessors": [{"name": "Astrophysics", "id": 698070}, {"name": "Space_science", "id": 1075449}], "successors": [{"name": "Sun", "id": 887873}, {"name": "Lightning", "id": 12425718}, {"name": "Ionosphere", "id": 39038801}]}
+{"name": "Space_plasmas", "id": 1848476, "predecessors": [{"name": "Space_science", "id": 1075449}], "successors": [{"name": "Sun", "id": 887873}, {"name": "Lightning", "id": 12425718}, {"name": "Ionosphere", "id": 39038801}]}

@@ -1,1 +1,1 @@
-{"name": "Big_bands", "id": 7869729, "predecessors": [{"name": "Jazz_genres", "id": 1762087}, {"name": "Swing_music", "id": 25649680}], "successors": [{"name": "Big_band_bandleaders", "id": 12018780}, {"name": "Big_band_albums", "id": 12119765}]}
+{"name": "Big_bands", "id": 7869729, "predecessors": [{"name": "Jazz_genres", "id": 1762087}, {"name": "Swing_music", "id": 25649680}], "successors": [{"name": "Big_band_bandleaders", "id": 12018780}]}

@@ -1,1 +1,1 @@
-{"name": "Arthritis", "id": 4223174, "predecessors": [{"name": "Aging-associated_diseases", "id": 13342878}, {"name": "Inflammations", "id": 2308187}, {"name": "Musculoskeletal_disorders", "id": 2900721}], "successors": []}
+{"name": "Arthritis", "id": 4223174, "predecessors": [{"name": "Aging-associated_diseases", "id": 13342878}, {"name": "Inflammations", "id": 2308187}, {"name": "Branches_of_biology", "id": 37535091}], "successors": []}

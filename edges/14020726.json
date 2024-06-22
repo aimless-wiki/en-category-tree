@@ -1,1 +1,1 @@
-{"name": "Food_industry_trade_groups", "id": 14020726, "predecessors": [{"name": "Legal_entities", "id": 1125732}, {"name": "Culture", "id": 694861}], "successors": []}
+{"name": "Food_industry_trade_groups", "id": 14020726, "predecessors": [{"name": "Legal_entities", "id": 1125732}, {"name": "Food_industry", "id": 3540193}], "successors": []}

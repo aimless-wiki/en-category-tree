@@ -1,1 +1,1 @@
-{"name": "British_male_stage_actors", "id": 40387488, "predecessors": [{"name": "Culture", "id": 694861}], "successors": [{"name": "Male_stage_actors_from_Northern_Ireland", "id": 40400585}]}
+{"name": "British_male_stage_actors", "id": 40387488, "predecessors": [{"name": "Culture", "id": 694861}, {"name": "British_male_actors", "id": 38377100}], "successors": [{"name": "English_male_Shakespearean_actors", "id": 49163729}]}

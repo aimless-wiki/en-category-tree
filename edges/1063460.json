@@ -1,1 +1,1 @@
-{"name": "Philosophical_logic", "id": 1063460, "predecessors": [{"name": "Academic_disciplines", "id": 693763}], "successors": [{"name": "Semantics", "id": 776364}, {"name": "Dialogues", "id": 7811689}]}
+{"name": "Philosophical_logic", "id": 1063460, "predecessors": [{"name": "Logic", "id": 693678}], "successors": [{"name": "Semantics", "id": 776364}, {"name": "Dialogues", "id": 7811689}]}

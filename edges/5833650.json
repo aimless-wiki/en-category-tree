@@ -1,1 +1,1 @@
-{"name": "Coffee_brands", "id": 5833650, "predecessors": [{"name": "Drink_brands", "id": 4115722}, {"name": "Culture", "id": 694861}], "successors": []}
+{"name": "Coffee_brands", "id": 5833650, "predecessors": [{"name": "Drink_brands", "id": 4115722}, {"name": "Food_industry", "id": 3540193}], "successors": []}

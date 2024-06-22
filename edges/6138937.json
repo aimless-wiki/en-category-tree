@@ -1,1 +1,1 @@
-{"name": "Tea_culture", "id": 6138937, "predecessors": [{"name": "Neuroscience", "id": 714648}], "successors": [{"name": "Tea_houses", "id": 2732224}, {"name": "Chadō", "id": 5123421}, {"name": "Korean_tea", "id": 46919607}]}
+{"name": "Tea_culture", "id": 6138937, "predecessors": [{"name": "Culture", "id": 694861}, {"name": "Eating_behaviors", "id": 1476452}], "successors": [{"name": "Tea_houses", "id": 2732224}, {"name": "Korean_tea", "id": 46919607}]}

@@ -1,1 +1,1 @@
-{"name": "Bathing", "id": 3431925, "predecessors": [{"name": "Hygiene", "id": 1056532}, {"name": "Culture", "id": 694861}], "successors": [{"name": "Balneotherapy", "id": 28036007}, {"name": "Spas", "id": 29517111}, {"name": "Bathing_in_art", "id": 57039151}]}
+{"name": "Bathing", "id": 3431925, "predecessors": [{"name": "Hygiene", "id": 1056532}, {"name": "Culture", "id": 694861}, {"name": "Human_behavior", "id": 2524202}], "successors": [{"name": "Balneotherapy", "id": 28036007}, {"name": "Spas", "id": 29517111}, {"name": "Bathing_in_art", "id": 57039151}]}

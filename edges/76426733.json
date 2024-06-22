@@ -1,1 +1,1 @@
-{"name": "NBC_game_shows", "id": 76426733, "predecessors": [{"name": "NBC_original_programming", "id": 796477}, {"name": "Television_genres", "id": 1259802}, {"name": "Entertainment", "id": 693016}], "successors": [{"name": "Deal_or_No_Deal", "id": 5020408}]}
+{"name": "NBC_game_shows", "id": 76426733, "predecessors": [{"name": "NBC_original_programming", "id": 796477}, {"name": "Television_genres", "id": 1259802}, {"name": "Broadcasting", "id": 765733}], "successors": [{"name": "Deal_or_No_Deal", "id": 5020408}]}

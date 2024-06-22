@@ -1,1 +1,1 @@
-{"name": "Mass_spectrometry", "id": 1013984, "predecessors": [{"name": "Mass", "id": 923166}, {"name": "Analytical_chemistry", "id": 695001}, {"name": "Concepts_in_physics", "id": 36477012}], "successors": [{"name": "Ion_source", "id": 13067250}, {"name": "Mass_spectrometrists", "id": 13142180}]}
+{"name": "Mass_spectrometry", "id": 1013984, "predecessors": [{"name": "Mass", "id": 923166}, {"name": "Analytical_chemistry", "id": 695001}, {"name": "Concepts_in_physics", "id": 36477012}], "successors": [{"name": "Mass_spectrometrists", "id": 13142180}]}

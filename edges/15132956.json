@@ -1,1 +1,1 @@
-{"name": "Fashion_accessory_brands", "id": 15132956, "predecessors": [{"name": "Industries_(economics)", "id": 694873}, {"name": "Contents", "id": 14105005}], "successors": [{"name": "Cosmetics_brands", "id": 18789297}, {"name": "Watch_brands", "id": 18799891}]}
+{"name": "Fashion_accessory_brands", "id": 15132956, "predecessors": [{"name": "Fashion_accessories", "id": 15132951}, {"name": "Clothing_brands", "id": 4473937}, {"name": "Fashion", "id": 1000816}], "successors": [{"name": "Cosmetics_brands", "id": 18789297}, {"name": "Watch_brands", "id": 18799891}]}

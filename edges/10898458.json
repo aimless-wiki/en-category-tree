@@ -1,1 +1,1 @@
-{"name": "Perfumers", "id": 10898458, "predecessors": [{"name": "Perfumery", "id": 1194342}, {"name": "Employment_classifications", "id": 15387066}], "successors": [{"name": "French_perfumers", "id": 70072236}]}
+{"name": "Perfumers", "id": 10898458, "predecessors": [{"name": "Perfumery", "id": 1194342}, {"name": "Fashion", "id": 1000816}], "successors": [{"name": "French_perfumers", "id": 70072236}]}

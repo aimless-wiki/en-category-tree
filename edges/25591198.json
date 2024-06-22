@@ -1,1 +1,1 @@
-{"name": "Diplomatic_visits_by_heads_of_government", "id": 25591198, "predecessors": [{"name": "Heads_of_government", "id": 694892}, {"name": "Government_occupations", "id": 1006059}], "successors": [{"name": "Commonwealth_Heads_of_Government_Meetings", "id": 14334911}]}
+{"name": "Diplomatic_visits_by_heads_of_government", "id": 25591198, "predecessors": [{"name": "Heads_of_government", "id": 694892}, {"name": "Diplomacy", "id": 911551}, {"name": "Occupations", "id": 787658}], "successors": [{"name": "Commonwealth_Heads_of_Government_Meetings", "id": 14334911}]}

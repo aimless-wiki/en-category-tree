@@ -1,1 +1,1 @@
-{"name": "Foods_featuring_butter", "id": 18950830, "predecessors": [{"name": "Butter", "id": 5278799}], "successors": [{"name": "Cookies", "id": 1864543}, {"name": "Pastries", "id": 41673232}]}
+{"name": "Foods_featuring_butter", "id": 18950830, "predecessors": [{"name": "Butter", "id": 5278799}, {"name": "Food_ingredients", "id": 1077080}], "successors": [{"name": "Cookies", "id": 1864543}, {"name": "Pastries", "id": 41673232}]}

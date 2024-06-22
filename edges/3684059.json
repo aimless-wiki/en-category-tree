@@ -1,1 +1,1 @@
-{"name": "Boilers", "id": 3684059, "predecessors": [{"name": "Liquid_containers", "id": 38522306}, {"name": "Plumbing", "id": 765224}, {"name": "Pressure_vessels", "id": 3872805}, {"name": "Steam_power", "id": 15894282}], "successors": [{"name": "Steam_boiler_types", "id": 27417567}]}
+{"name": "Boilers", "id": 3684059, "predecessors": [{"name": "Plumbing", "id": 765224}, {"name": "Pressure_vessels", "id": 3872805}, {"name": "Steam_power", "id": 15894282}, {"name": "Containers", "id": 1047091}], "successors": [{"name": "Steam_boiler_types", "id": 27417567}]}

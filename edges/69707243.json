@@ -1,1 +1,1 @@
-{"name": "Vegetarian_cookbook_writers", "id": 69707243, "predecessors": [{"name": "Cookbook_writers", "id": 38321683}, {"name": "Human_behavior", "id": 2524202}, {"name": "Literary_genres", "id": 1286193}], "successors": [{"name": "Vegan_cookbook_writers", "id": 69692901}]}
+{"name": "Vegetarian_cookbook_writers", "id": 69707243, "predecessors": [{"name": "Cookbook_writers", "id": 38321683}, {"name": "Books_about_food_and_drink", "id": 34453719}, {"name": "Human_behavior", "id": 2524202}], "successors": [{"name": "Vegan_cookbook_writers", "id": 69692901}]}

@@ -1,1 +1,1 @@
-{"name": "Glass_production", "id": 42591028, "predecessors": [{"name": "Glass_art", "id": 1984298}, {"name": "Glass_engineering_and_science", "id": 15358462}, {"name": "Manufacturing", "id": 867519}, {"name": "Standards", "id": 724561}], "successors": []}
+{"name": "Glass_production", "id": 42591028, "predecessors": [{"name": "Glass_art", "id": 1984298}, {"name": "Glass_engineering_and_science", "id": 15358462}], "successors": []}

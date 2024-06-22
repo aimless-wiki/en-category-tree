@@ -1,1 +1,1 @@
-{"name": "Military_theorists", "id": 14872297, "predecessors": [{"name": "Academia", "id": 853425}, {"name": "Safety", "id": 902977}], "successors": [{"name": "Guerrilla_warfare_theorists", "id": 10668699}]}
+{"name": "Military_theorists", "id": 14872297, "predecessors": [{"name": "Military_doctrines", "id": 1436947}, {"name": "Academia", "id": 853425}], "successors": [{"name": "Revolution_theorists", "id": 11930623}]}

@@ -1,1 +1,1 @@
-{"name": "Chelating_agents", "id": 1000030, "predecessors": [{"name": "Chemical_processes", "id": 698322}, {"name": "Manufacturing", "id": 867519}], "successors": []}
+{"name": "Chelating_agents", "id": 1000030, "predecessors": [{"name": "Atomic_physics", "id": 697256}, {"name": "Chemical_processes", "id": 698322}], "successors": []}

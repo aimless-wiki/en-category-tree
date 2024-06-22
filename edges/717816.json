@@ -1,1 +1,1 @@
-{"name": "Tryptamines", "id": 717816, "predecessors": [{"name": "Amines", "id": 725878}, {"name": "Manufacturing", "id": 867519}], "successors": [{"name": "Psychedelic_tryptamines", "id": 2004681}, {"name": "Tryptamine_alkaloids", "id": 41052192}]}
+{"name": "Tryptamines", "id": 717816, "predecessors": [{"name": "Amines", "id": 725878}, {"name": "Indoles", "id": 3231798}, {"name": "Atomic_physics", "id": 697256}], "successors": [{"name": "Psychedelic_tryptamines", "id": 2004681}, {"name": "Tryptamine_alkaloids", "id": 41052192}]}

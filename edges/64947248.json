@@ -1,1 +1,1 @@
-{"name": "Tuberculosis_deaths_in_England", "id": 64947248, "predecessors": [{"name": "Infectious_disease_deaths_in_England", "id": 19409079}, {"name": "Respiratory_diseases", "id": 19827264}], "successors": []}
+{"name": "Tuberculosis_deaths_in_England", "id": 64947248, "predecessors": [{"name": "Infectious_disease_deaths_in_England", "id": 19409079}, {"name": "Death", "id": 921954}], "successors": []}

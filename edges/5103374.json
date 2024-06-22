@@ -1,1 +1,1 @@
-{"name": "Biomechanics", "id": 5103374, "predecessors": [{"name": "Biophysics", "id": 1757009}, {"name": "Mechanics", "id": 1028577}, {"name": "Physiology", "id": 702173}], "successors": [{"name": "Injuries", "id": 10158091}, {"name": "Neurotrauma", "id": 2979809}]}
+{"name": "Biomechanics", "id": 5103374, "predecessors": [{"name": "Biophysics", "id": 1757009}, {"name": "Mechanics", "id": 1028577}], "successors": [{"name": "Injuries", "id": 10158091}, {"name": "Neurotrauma", "id": 2979809}]}

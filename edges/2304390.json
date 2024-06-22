@@ -1,1 +1,1 @@
-{"name": "Chocolatiers", "id": 2304390, "predecessors": [{"name": "Chocolate", "id": 1000317}, {"name": "Wikipedia_categorization", "id": 1036222}], "successors": []}
+{"name": "Chocolatiers", "id": 2304390, "predecessors": [{"name": "Food_industry", "id": 3540193}, {"name": "Chocolate", "id": 1000317}], "successors": []}

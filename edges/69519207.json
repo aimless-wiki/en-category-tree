@@ -1,1 +1,1 @@
-{"name": "2022_WTA_Tour", "id": 69519207, "predecessors": [{"name": "WTA_Tour", "id": 12843673}, {"name": "Calendars", "id": 698466}, {"name": "Games_of_physical_skill", "id": 8429269}], "successors": [{"name": "2022_WTA_125_tournaments", "id": 69675811}]}
+{"name": "2022_WTA_Tour", "id": 69519207, "predecessors": [{"name": "WTA_Tour", "id": 12843673}, {"name": "Chronology", "id": 1013214}, {"name": "Games_of_physical_skill", "id": 8429269}], "successors": [{"name": "2022_WTA_125_tournaments", "id": 69675811}]}

@@ -1,1 +1,1 @@
-{"name": "Aluminium_alloys", "id": 3315821, "predecessors": [{"name": "Alloys", "id": 695965}, {"name": "Chemical_elements", "id": 691255}], "successors": []}
+{"name": "Aluminium_alloys", "id": 3315821, "predecessors": [{"name": "Chemical_mixtures", "id": 1975221}, {"name": "Chemical_elements", "id": 691255}], "successors": []}

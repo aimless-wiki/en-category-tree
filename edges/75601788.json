@@ -1,1 +1,1 @@
-{"name": "Deaths_from_leukemia_in_California", "id": 75601788, "predecessors": [{"name": "Deaths_from_leukemia_in_the_United_States", "id": 75601474}, {"name": "Blood_disorders", "id": 2856069}], "successors": []}
+{"name": "Deaths_from_leukemia_in_California", "id": 75601788, "predecessors": [{"name": "Deaths_from_leukemia_in_the_United_States", "id": 75601474}, {"name": "Cancer", "id": 999635}], "successors": []}

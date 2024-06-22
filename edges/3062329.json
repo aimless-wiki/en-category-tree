@@ -1,1 +1,1 @@
-{"name": "Food_services_occupations", "id": 3062329, "predecessors": [{"name": "Food_technology", "id": 7320176}, {"name": "Industries_(economics)", "id": 694873}, {"name": "Employment_classifications", "id": 15387066}, {"name": "Retail_formats", "id": 60643813}, {"name": "Wikipedia_categorization", "id": 1036222}], "successors": []}
+{"name": "Food_services_occupations", "id": 3062329, "predecessors": [{"name": "Food_industry", "id": 3540193}, {"name": "Food_technology", "id": 7320176}], "successors": []}

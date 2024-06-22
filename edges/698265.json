@@ -1,1 +1,1 @@
-{"name": "Parties", "id": 698265, "predecessors": [{"name": "Meetings", "id": 1261738}, {"name": "Social_events", "id": 14078337}], "successors": [{"name": "Party_games", "id": 776242}]}
+{"name": "Parties", "id": 698265, "predecessors": [{"name": "Meetings", "id": 1261738}, {"name": "Social_events", "id": 14078337}], "successors": [{"name": "Party_games", "id": 776242}, {"name": "Eating_parties", "id": 39565398}, {"name": "Songs_about_parties", "id": 62322103}, {"name": "Films_about_parties", "id": 66549010}]}

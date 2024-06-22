@@ -1,1 +1,1 @@
-{"name": "Syndromes_affecting_the_heart", "id": 53611803, "predecessors": [{"name": "Heart_diseases", "id": 32535910}], "successors": []}
+{"name": "Syndromes_affecting_the_heart", "id": 53611803, "predecessors": [{"name": "Heart_diseases", "id": 32535910}, {"name": "Syndromes", "id": 4678438}], "successors": []}

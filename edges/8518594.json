@@ -1,1 +1,1 @@
-{"name": "British_confectionery", "id": 8518594, "predecessors": [{"name": "Confectionery", "id": 693491}], "successors": [{"name": "Cadbury_brands", "id": 30724481}]}
+{"name": "British_confectionery", "id": 8518594, "predecessors": [{"name": "British_desserts", "id": 6547144}, {"name": "Confectionery", "id": 693491}], "successors": [{"name": "Cadbury_brands", "id": 30724481}]}

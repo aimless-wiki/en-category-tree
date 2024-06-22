@@ -1,1 +1,1 @@
-{"name": "Sauces", "id": 754918, "predecessors": [{"name": "Condiments", "id": 1072516}, {"name": "Food_ingredients", "id": 1077080}], "successors": []}
+{"name": "Sauces", "id": 754918, "predecessors": [{"name": "Condiments", "id": 1072516}, {"name": "Food_ingredients", "id": 1077080}], "successors": [{"name": "French_sauces", "id": 8581929}]}

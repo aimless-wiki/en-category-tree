@@ -1,1 +1,1 @@
-{"name": "Shipwreck_survivors", "id": 36819958, "predecessors": [{"name": "Water_transport", "id": 907307}, {"name": "Causes_of_death", "id": 5271061}], "successors": [{"name": "RMS_Titanic_survivors", "id": 37754075}, {"name": "Ships_sunk_with_no_fatalities", "id": 39705455}]}
+{"name": "Shipwreck_survivors", "id": 36819958, "predecessors": [{"name": "Water_transport", "id": 907307}, {"name": "Causes_of_death", "id": 5271061}], "successors": [{"name": "Ships_sunk_with_no_fatalities", "id": 39705455}]}

@@ -1,1 +1,1 @@
-{"name": "SQL", "id": 1250646, "predecessors": [{"name": "Database_management_systems", "id": 700602}, {"name": "Query_languages", "id": 911721}, {"name": "ISO_standards", "id": 711826}], "successors": [{"name": "MySQL", "id": 21558508}]}
+{"name": "SQL", "id": 1250646, "predecessors": [{"name": "Database_management_systems", "id": 700602}, {"name": "Query_languages", "id": 911721}, {"name": "ISO_standards", "id": 711826}], "successors": []}

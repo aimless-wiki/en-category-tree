@@ -1,1 +1,1 @@
-{"name": "Symptoms_and_signs:_Digestive_system_and_abdomen", "id": 26436022, "predecessors": [{"name": "Symptoms_and_signs", "id": 40767698}, {"name": "Causes_of_death", "id": 5271061}], "successors": []}
+{"name": "Symptoms_and_signs:_Digestive_system_and_abdomen", "id": 26436022, "predecessors": [{"name": "Symptoms_and_signs", "id": 40767698}, {"name": "Gastroenterology", "id": 701879}], "successors": []}

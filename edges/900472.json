@@ -1,1 +1,1 @@
-{"name": "Packaging_materials", "id": 900472, "predecessors": [{"name": "Packaging", "id": 1948437}, {"name": "Manufacturing", "id": 867519}], "successors": [{"name": "Paper", "id": 1918311}]}
+{"name": "Packaging_materials", "id": 900472, "predecessors": [{"name": "Packaging", "id": 1948437}], "successors": [{"name": "Paper", "id": 1918311}]}

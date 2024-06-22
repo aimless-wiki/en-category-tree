@@ -1,1 +1,1 @@
-{"name": "American_gardeners", "id": 3124722, "predecessors": [{"name": "American_horticulturists", "id": 23911086}, {"name": "Agriculture", "id": 694871}, {"name": "Botany", "id": 693494}], "successors": [{"name": "American_landscape_and_garden_designers", "id": 29766999}]}
+{"name": "American_gardeners", "id": 3124722, "predecessors": [{"name": "American_horticulturists", "id": 23911086}, {"name": "Agriculture", "id": 694871}, {"name": "Horticulture", "id": 2213176}], "successors": [{"name": "American_landscape_and_garden_designers", "id": 29766999}]}

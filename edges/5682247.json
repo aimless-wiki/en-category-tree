@@ -1,1 +1,1 @@
-{"name": "Sea_radars", "id": 5682247, "predecessors": [{"name": "Radar", "id": 939701}, {"name": "Electricity", "id": 959298}], "successors": [{"name": "Naval_radars", "id": 48441748}]}
+{"name": "Sea_radars", "id": 5682247, "predecessors": [{"name": "Radar", "id": 939701}], "successors": [{"name": "Naval_radars", "id": 48441748}]}

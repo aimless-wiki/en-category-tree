@@ -1,1 +1,1 @@
-{"name": "Neurons", "id": 1046879, "predecessors": [{"name": "Human_cells", "id": 729309}, {"name": "Animal_anatomy", "id": 3120301}], "successors": []}
+{"name": "Neurons", "id": 1046879, "predecessors": [{"name": "Human_cells", "id": 729309}], "successors": []}

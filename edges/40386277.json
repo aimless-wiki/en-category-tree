@@ -1,1 +1,1 @@
-{"name": "Indoor_arenas_in_Texas", "id": 40386277, "predecessors": [{"name": "Sports_venues_in_Texas", "id": 3729980}, {"name": "Texas_culture", "id": 1237702}, {"name": "Tourism", "id": 698284}], "successors": [{"name": "Basketball_venues_in_Texas", "id": 24881841}]}
+{"name": "Indoor_arenas_in_Texas", "id": 40386277, "predecessors": [{"name": "Sports_venues_in_Texas", "id": 3729980}, {"name": "States_of_the_United_States", "id": 2837635}, {"name": "Texas_culture", "id": 1237702}], "successors": [{"name": "Basketball_venues_in_Texas", "id": 24881841}]}

@@ -1,1 +1,1 @@
-{"name": "Amazon_parrots", "id": 3581126, "predecessors": [{"name": "Birds_by_common_name", "id": 11002423}], "successors": []}
+{"name": "Amazon_parrots", "id": 3581126, "predecessors": [{"name": "Birds_by_common_name", "id": 11002423}, {"name": "Birds_of_South_America", "id": 6912055}], "successors": []}

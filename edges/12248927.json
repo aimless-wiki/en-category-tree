@@ -1,1 +1,1 @@
-{"name": "Sugar_companies", "id": 12248927, "predecessors": [{"name": "Sugar", "id": 12682386}, {"name": "Agriculture", "id": 694871}], "successors": []}
+{"name": "Sugar_companies", "id": 12248927, "predecessors": [{"name": "Sugar", "id": 12682386}, {"name": "Agriculture", "id": 694871}, {"name": "Food_industry", "id": 3540193}], "successors": []}

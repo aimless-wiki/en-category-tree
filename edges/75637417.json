@@ -1,1 +1,1 @@
-{"name": "Fox_Broadcasting_Company_sitcoms", "id": 75637417, "predecessors": [{"name": "Fox_Broadcasting_Company_original_programming", "id": 796520}, {"name": "Comedy_genres", "id": 14988940}], "successors": [{"name": "The_Simpsons", "id": 691123}]}
+{"name": "Fox_Broadcasting_Company_sitcoms", "id": 75637417, "predecessors": [{"name": "Fox_Broadcasting_Company_original_programming", "id": 796520}, {"name": "Broadcasting", "id": 765733}], "successors": [{"name": "The_Simpsons", "id": 691123}]}

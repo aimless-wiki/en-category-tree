@@ -1,1 +1,1 @@
-{"name": "Aviation_television_series", "id": 32820479, "predecessors": [{"name": "Television_genres", "id": 1259802}], "successors": [{"name": "Documentary_television_series_about_aviation", "id": 61416962}]}
+{"name": "Aviation_television_series", "id": 32820479, "predecessors": [{"name": "Television_genres", "id": 1259802}, {"name": "Atmosphere", "id": 1136015}], "successors": [{"name": "Documentary_television_series_about_aviation", "id": 61416962}]}

@@ -1,1 +1,1 @@
-{"name": "Microcontrollers", "id": 841124, "predecessors": [{"name": "Central_processing_unit", "id": 5834555}, {"name": "Embedded_systems", "id": 852879}, {"name": "Electrical_engineering", "id": 706415}], "successors": [{"name": "Microcomputer_stubs", "id": 1516634}]}
+{"name": "Microcontrollers", "id": 841124, "predecessors": [{"name": "Embedded_systems", "id": 852879}, {"name": "Electrical_engineering", "id": 706415}], "successors": [{"name": "Microcomputer_stubs", "id": 1516634}]}

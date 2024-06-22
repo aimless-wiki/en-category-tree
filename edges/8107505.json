@@ -1,1 +1,1 @@
-{"name": "Atmospheric_optical_phenomena", "id": 8107505, "predecessors": [{"name": "Meteorological_phenomena", "id": 38779805}, {"name": "Optical_phenomena", "id": 1776538}, {"name": "Earth", "id": 754965}, {"name": "Atmosphere", "id": 1136015}], "successors": []}
+{"name": "Atmospheric_optical_phenomena", "id": 8107505, "predecessors": [{"name": "Optical_phenomena", "id": 1776538}, {"name": "Earth", "id": 754965}, {"name": "Atmosphere", "id": 1136015}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Human_metabolites", "id": 39304616, "predecessors": [{"name": "Human_physiology", "id": 2261140}, {"name": "Metabolism", "id": 1135134}], "successors": [{"name": "Chemical_pathology", "id": 728578}]}
+{"name": "Human_metabolites", "id": 39304616, "predecessors": [{"name": "Human_physiology", "id": 2261140}, {"name": "Metabolism", "id": 1135134}], "successors": [{"name": "Human_drug_metabolites", "id": 47618895}, {"name": "Chemical_pathology", "id": 728578}]}

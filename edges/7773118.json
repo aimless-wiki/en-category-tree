@@ -1,1 +1,1 @@
-{"name": "Military_helicopters", "id": 7773118, "predecessors": [{"name": "Academic_disciplines", "id": 693763}], "successors": [{"name": "United_States_military_helicopters", "id": 42273919}]}
+{"name": "Military_helicopters", "id": 7773118, "predecessors": [{"name": "Helicopters", "id": 751767}, {"name": "Academic_disciplines", "id": 693763}], "successors": [{"name": "United_States_military_helicopters", "id": 42273919}]}

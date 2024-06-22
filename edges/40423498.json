@@ -1,1 +1,1 @@
-{"name": "Big_data", "id": 40423498, "predecessors": [{"name": "Data", "id": 16989227}, {"name": "Databases", "id": 2276471}], "successors": [{"name": "Big_data_companies", "id": 48573656}]}
+{"name": "Big_data", "id": 40423498, "predecessors": [{"name": "Data", "id": 16989227}], "successors": [{"name": "Big_data_companies", "id": 48573656}]}

@@ -1,1 +1,1 @@
-{"name": "Maserati_vehicles", "id": 952042, "predecessors": [{"name": "Cars_of_Italy", "id": 4336638}, {"name": "Stellantis", "id": 66410550}, {"name": "Automotive_industry", "id": 1338498}], "successors": []}
+{"name": "Maserati_vehicles", "id": 952042, "predecessors": [{"name": "Cars_of_Italy", "id": 4336638}, {"name": "Car_manufacturers_of_Italy", "id": 29483858}, {"name": "Automotive_industry", "id": 1338498}], "successors": []}

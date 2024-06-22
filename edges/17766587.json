@@ -1,1 +1,1 @@
-{"name": "Unemployment", "id": 17766587, "predecessors": [{"name": "Labour_economics", "id": 4606796}, {"name": "Market_(economics)", "id": 28261123}, {"name": "Contents", "id": 14105005}], "successors": [{"name": "Employment_discrimination", "id": 36658726}]}
+{"name": "Unemployment", "id": 17766587, "predecessors": [{"name": "Employment", "id": 1798901}, {"name": "Labour_economics", "id": 4606796}, {"name": "Waste", "id": 691538}, {"name": "Contents", "id": 14105005}], "successors": [{"name": "Employment_discrimination", "id": 36658726}]}

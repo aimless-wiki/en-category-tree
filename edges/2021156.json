@@ -1,1 +1,1 @@
-{"name": "Selenides", "id": 2021156, "predecessors": [{"name": "Periodic_table", "id": 727142}], "successors": []}
+{"name": "Selenides", "id": 2021156, "predecessors": [{"name": "Atomic_physics", "id": 697256}, {"name": "Chemical_compounds_by_element", "id": 1674961}], "successors": []}

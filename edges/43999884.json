@@ -1,1 +1,1 @@
-{"name": "Human_Genome_Project_scientists", "id": 43999884, "predecessors": [{"name": "Engineering_projects", "id": 10548354}, {"name": "Branches_of_biology", "id": 37535091}, {"name": "Bioinformatics", "id": 726312}], "successors": []}
+{"name": "Human_Genome_Project_scientists", "id": 43999884, "predecessors": [{"name": "Bioinformatics", "id": 726312}], "successors": []}

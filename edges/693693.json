@@ -1,1 +1,1 @@
-{"name": "Proof_theory", "id": 693693, "predecessors": [{"name": "Mathematical_logic", "id": 693685}, {"name": "Theories", "id": 1963117}, {"name": "Creativity", "id": 1209234}], "successors": [{"name": "Rules_of_inference", "id": 3326986}]}
+{"name": "Proof_theory", "id": 693693, "predecessors": [{"name": "Mathematical_logic", "id": 693685}, {"name": "Theories", "id": 1963117}, {"name": "Cognition", "id": 1055995}, {"name": "Logic", "id": 693678}], "successors": [{"name": "Rules_of_inference", "id": 3326986}]}

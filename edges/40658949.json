@@ -1,1 +1,1 @@
-{"name": "Models_from_New_York_City", "id": 40658949, "predecessors": [{"name": "People_from_New_York_City", "id": 2482963}, {"name": "Advertising", "id": 884913}], "successors": []}
+{"name": "Models_from_New_York_City", "id": 40658949, "predecessors": [{"name": "Advertising", "id": 884913}, {"name": "Occupations", "id": 787658}], "successors": []}

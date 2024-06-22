@@ -1,1 +1,1 @@
-{"name": "Calculus_of_variations", "id": 1241293, "predecessors": [{"name": "Differential_equations", "id": 696330}, {"name": "Functional_analysis", "id": 691866}, {"name": "Mathematical_physics", "id": 2382182}], "successors": [{"name": "Optimal_control", "id": 18207755}, {"name": "Convex_analysis", "id": 3224131}]}
+{"name": "Calculus_of_variations", "id": 1241293, "predecessors": [{"name": "Mathematical_physics", "id": 2382182}], "successors": []}

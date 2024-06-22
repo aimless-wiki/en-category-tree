@@ -1,1 +1,1 @@
-{"name": "Keelboats", "id": 949549, "predecessors": [{"name": "Sailboat_types", "id": 1618454}], "successors": [{"name": "Soling_class_sailors", "id": 36873140}]}
+{"name": "Keelboats", "id": 949549, "predecessors": [{"name": "Sailboat_types", "id": 1618454}], "successors": [{"name": "Star_class_sailors", "id": 36872707}, {"name": "Soling_class_sailors", "id": 36873140}, {"name": "Star_World_Championship", "id": 35617950}]}

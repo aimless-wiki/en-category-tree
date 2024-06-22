@@ -1,1 +1,1 @@
-{"name": "Jurassic_ammonites", "id": 16783592, "predecessors": [{"name": "Stratigraphy", "id": 1172461}, {"name": "Animal_welfare", "id": 991706}], "successors": []}
+{"name": "Jurassic_ammonites", "id": 16783592, "predecessors": [{"name": "Animal_welfare", "id": 991706}], "successors": [{"name": "Early_Jurassic_ammonites_of_Europe", "id": 52288854}]}

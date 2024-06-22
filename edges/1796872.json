@@ -1,1 +1,1 @@
-{"name": "Sediments", "id": 1796872, "predecessors": [{"name": "Sedimentology", "id": 1344055}, {"name": "Soil", "id": 14507875}, {"name": "Geomorphology", "id": 1106721}], "successors": [{"name": "Sand", "id": 25876885}]}
+{"name": "Sediments", "id": 1796872, "predecessors": [{"name": "Soil", "id": 14507875}, {"name": "Geomorphology", "id": 1106721}], "successors": [{"name": "Sand", "id": 25876885}]}

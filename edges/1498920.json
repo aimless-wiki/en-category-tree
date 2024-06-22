@@ -1,1 +1,1 @@
-{"name": "English_antiquarians", "id": 1498920, "predecessors": [{"name": "English_historians", "id": 1076728}, {"name": "Cultural_historians", "id": 7434407}], "successors": [{"name": "English_folklorists", "id": 6866150}]}
+{"name": "English_antiquarians", "id": 1498920, "predecessors": [{"name": "English_historians", "id": 1076728}, {"name": "English_scientists", "id": 1064706}, {"name": "Occupations", "id": 787658}, {"name": "Cultural_historians", "id": 7434407}], "successors": [{"name": "English_folklorists", "id": 6866150}]}

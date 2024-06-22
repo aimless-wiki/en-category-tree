@@ -1,1 +1,1 @@
-{"name": "IBM_mainframe_software", "id": 53519385, "predecessors": [{"name": "IBM_software", "id": 859157}, {"name": "Computing_platforms", "id": 973745}, {"name": "Computer_hardware_companies", "id": 699547}], "successors": [{"name": "IBM_mainframe_operating_systems", "id": 34629079}]}
+{"name": "IBM_mainframe_software", "id": 53519385, "predecessors": [{"name": "IBM_software", "id": 859157}, {"name": "Digital_media", "id": 1017992}, {"name": "Office_equipment", "id": 1111733}], "successors": [{"name": "IBM_mainframe_operating_systems", "id": 34629079}]}

@@ -1,1 +1,1 @@
-{"name": "Music_promoters", "id": 8164435, "predecessors": [{"name": "Music_industry", "id": 768384}, {"name": "Occupations_in_music", "id": 3165560}], "successors": []}
+{"name": "Music_promoters", "id": 8164435, "predecessors": [{"name": "Music_industry", "id": 768384}, {"name": "Entertainment", "id": 693016}], "successors": []}

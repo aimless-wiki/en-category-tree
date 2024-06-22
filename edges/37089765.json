@@ -1,1 +1,1 @@
-{"name": "Cola_brands", "id": 37089765, "predecessors": [{"name": "Soft_drinks", "id": 803741}, {"name": "Drink_brands", "id": 4115722}, {"name": "Neuroscience", "id": 714648}], "successors": []}
+{"name": "Cola_brands", "id": 37089765, "predecessors": [{"name": "Culture", "id": 694861}, {"name": "Soft_drinks", "id": 803741}, {"name": "Drink_brands", "id": 4115722}], "successors": []}

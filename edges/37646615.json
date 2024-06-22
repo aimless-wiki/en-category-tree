@@ -1,1 +1,1 @@
-{"name": "Music_fandom", "id": 37646615, "predecessors": [{"name": "Fandom", "id": 924410}], "successors": [{"name": "Tribute_bands", "id": 1722918}, {"name": "Bootleg_recordings", "id": 19154940}]}
+{"name": "Music_fandom", "id": 37646615, "predecessors": [{"name": "Fandom", "id": 924410}, {"name": "Entertainment", "id": 693016}], "successors": [{"name": "Tribute_bands", "id": 1722918}, {"name": "Bootleg_recordings", "id": 19154940}]}

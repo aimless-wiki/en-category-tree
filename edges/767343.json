@@ -1,1 +1,1 @@
-{"name": "Stochastic_processes", "id": 767343, "predecessors": [{"name": "Probability_theory", "id": 693985}], "successors": [{"name": "Ergodic_theory", "id": 974653}, {"name": "Time_series", "id": 3751711}, {"name": "Queueing_theory", "id": 6176305}, {"name": "Markov_processes", "id": 28936649}]}
+{"name": "Stochastic_processes", "id": 767343, "predecessors": [{"name": "Probability_theory", "id": 693985}], "successors": [{"name": "Time_series", "id": 3751711}, {"name": "Queueing_theory", "id": 6176305}]}

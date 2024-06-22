@@ -1,1 +1,1 @@
-{"name": "Quebec_CEGEP", "id": 1464643, "predecessors": [{"name": "Organizations_based_in_Quebec", "id": 7813072}], "successors": []}
+{"name": "Quebec_CEGEP", "id": 1464643, "predecessors": [{"name": "Higher_education", "id": 10436887}], "successors": [{"name": "Dawson_College_alumni", "id": 30205437}]}

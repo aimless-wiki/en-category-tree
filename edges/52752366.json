@@ -1,1 +1,1 @@
-{"name": "Spacecraft_launched_by_Long_March_rockets", "id": 52752366, "predecessors": [{"name": "Rockets_and_missiles", "id": 762536}, {"name": "Expendable_space_launch_systems", "id": 33617537}], "successors": []}
+{"name": "Spacecraft_launched_by_Long_March_rockets", "id": 52752366, "predecessors": [{"name": "Expendable_space_launch_systems", "id": 33617537}, {"name": "Rocketry", "id": 1421160}], "successors": []}

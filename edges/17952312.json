@@ -1,1 +1,1 @@
-{"name": "Kit_cars", "id": 17952312, "predecessors": [{"name": "DIY_culture", "id": 12319523}, {"name": "Crafts", "id": 3061643}, {"name": "Land_tenure", "id": 49153374}], "successors": [{"name": "Kit_car_manufacturers", "id": 4330370}]}
+{"name": "Kit_cars", "id": 17952312, "predecessors": [{"name": "DIY_culture", "id": 12319523}, {"name": "Crafts", "id": 3061643}, {"name": "Land_tenure", "id": 49153374}], "successors": []}

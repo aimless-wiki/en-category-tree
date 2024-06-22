@@ -1,1 +1,1 @@
-{"name": "Sheep_breeds", "id": 20853459, "predecessors": [{"name": "Domesticated_animals", "id": 706779}], "successors": [{"name": "Sheep_breeds_originating_in_Italy", "id": 31505099}]}
+{"name": "Sheep_breeds", "id": 20853459, "predecessors": [{"name": "Domesticated_animals", "id": 706779}, {"name": "Animals_and_humans", "id": 52196069}], "successors": [{"name": "Sheep_breeds_originating_in_Italy", "id": 31505099}]}

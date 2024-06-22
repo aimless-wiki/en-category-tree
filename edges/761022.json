@@ -1,1 +1,1 @@
-{"name": "Fashion_photographers", "id": 761022, "predecessors": [{"name": "Employment_classifications", "id": 15387066}, {"name": "Photography", "id": 717207}], "successors": [{"name": "British_fashion_photographers", "id": 76550848}, {"name": "American_fashion_photographers", "id": 76550850}]}
+{"name": "Fashion_photographers", "id": 761022, "predecessors": [{"name": "Fashion", "id": 1000816}, {"name": "Photography", "id": 717207}], "successors": [{"name": "British_fashion_photographers", "id": 76550848}, {"name": "American_fashion_photographers", "id": 76550850}]}

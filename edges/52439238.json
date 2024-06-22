@@ -1,1 +1,1 @@
-{"name": "German_Protestant_missionaries", "id": 52439238, "predecessors": [{"name": "German_Protestants", "id": 9289235}, {"name": "Belief", "id": 956054}, {"name": "Countries_in_Europe", "id": 37691805}], "successors": [{"name": "German_Lutheran_missionaries", "id": 52430688}]}
+{"name": "German_Protestant_missionaries", "id": 52439238, "predecessors": [{"name": "German_Protestants", "id": 9289235}, {"name": "German_Christians", "id": 5681101}, {"name": "Belief", "id": 956054}], "successors": [{"name": "German_Lutheran_missionaries", "id": 52430688}]}

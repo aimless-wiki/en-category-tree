@@ -1,1 +1,1 @@
-{"name": "Record_production_teams", "id": 7784542, "predecessors": [{"name": "Occupations_in_music", "id": 3165560}], "successors": [{"name": "Record_production_duos", "id": 59179280}, {"name": "British_record_production_teams", "id": 65525423}]}
+{"name": "Record_production_teams", "id": 7784542, "predecessors": [{"name": "Entertainment", "id": 693016}, {"name": "Social_groups", "id": 1093141}], "successors": [{"name": "Record_production_duos", "id": 59179280}]}

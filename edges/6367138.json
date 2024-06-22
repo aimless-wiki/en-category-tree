@@ -1,1 +1,1 @@
-{"name": "Waste_stubs", "id": 6367138, "predecessors": [{"name": "Environment_stubs", "id": 42878599}, {"name": "Waste_management", "id": 1233052}, {"name": "Contents", "id": 14105005}], "successors": []}
+{"name": "Waste_stubs", "id": 6367138, "predecessors": [{"name": "Environment_stubs", "id": 42878599}, {"name": "Waste", "id": 691538}, {"name": "Waste_management", "id": 1233052}, {"name": "Contents", "id": 14105005}], "successors": []}

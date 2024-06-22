@@ -1,1 +1,1 @@
-{"name": "French_geologists", "id": 1701457, "predecessors": [{"name": "Academic_disciplines", "id": 693763}, {"name": "Occupations", "id": 787658}], "successors": [{"name": "French_paleontologists", "id": 1064695}, {"name": "French_mineralogists", "id": 1702404}]}
+{"name": "French_geologists", "id": 1701457, "predecessors": [{"name": "Earth_sciences", "id": 716903}], "successors": [{"name": "French_paleontologists", "id": 1064695}, {"name": "French_mineralogists", "id": 1702404}]}

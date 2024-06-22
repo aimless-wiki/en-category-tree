@@ -1,1 +1,1 @@
-{"name": "Transit_authorities_with_natural_gas_buses", "id": 18121748, "predecessors": [{"name": "Natural_gas", "id": 930957}, {"name": "Road_transport", "id": 700964}], "successors": []}
+{"name": "Transit_authorities_with_natural_gas_buses", "id": 18121748, "predecessors": [{"name": "Natural_gas", "id": 930957}, {"name": "Transport_economics", "id": 3646902}], "successors": []}

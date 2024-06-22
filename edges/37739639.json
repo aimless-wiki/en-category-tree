@@ -1,1 +1,1 @@
-{"name": "Watercraft_components", "id": 37739639, "predecessors": [{"name": "Vehicle_parts", "id": 23450032}, {"name": "Culture", "id": 694861}], "successors": [{"name": "Marine_propulsion", "id": 1111743}, {"name": "Sailing_rigs_and_rigging", "id": 30448597}, {"name": "Sailing_ship_components", "id": 33980209}, {"name": "Sailboat_components", "id": 33980221}]}
+{"name": "Watercraft_components", "id": 37739639, "predecessors": [{"name": "Vehicle_parts", "id": 23450032}, {"name": "Culture", "id": 694861}], "successors": [{"name": "Marine_propulsion", "id": 1111743}]}

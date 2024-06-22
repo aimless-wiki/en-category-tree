@@ -1,1 +1,1 @@
-{"name": "WWE_NXT", "id": 42123342, "predecessors": [{"name": "Brand_management", "id": 31052109}], "successors": [{"name": "WWE_NXT_teams_and_stables", "id": 55371753}]}
+{"name": "WWE_NXT", "id": 42123342, "predecessors": [{"name": "Television_series_by_WWE", "id": 31742766}, {"name": "Brand_management", "id": 31052109}], "successors": [{"name": "WWE_NXT_teams_and_stables", "id": 55371753}]}

@@ -1,1 +1,1 @@
-{"name": "Bus_operating_company_stubs", "id": 19610399, "predecessors": [{"name": "Bus_transport_stubs", "id": 41978649}, {"name": "Transport_company_stubs", "id": 43032099}, {"name": "Contents", "id": 14105005}, {"name": "Road_transport", "id": 700964}], "successors": []}
+{"name": "Bus_operating_company_stubs", "id": 19610399, "predecessors": [{"name": "Bus_transport_stubs", "id": 41978649}, {"name": "Transport_company_stubs", "id": 43032099}, {"name": "Contents", "id": 14105005}, {"name": "Transport_economics", "id": 3646902}], "successors": []}

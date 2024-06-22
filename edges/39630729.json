@@ -1,1 +1,1 @@
-{"name": "Stockbrokers", "id": 39630729, "predecessors": [{"name": "Stock_market", "id": 988245}, {"name": "Financial_services", "id": 1653309}, {"name": "Standards", "id": 724561}], "successors": [{"name": "American_stockbrokers", "id": 34031767}]}
+{"name": "Stockbrokers", "id": 39630729, "predecessors": [{"name": "Stock_market", "id": 988245}, {"name": "Financial_services", "id": 1653309}, {"name": "Wikipedia_categorization", "id": 1036222}], "successors": [{"name": "American_stockbrokers", "id": 34031767}]}

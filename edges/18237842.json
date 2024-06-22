@@ -1,1 +1,1 @@
-{"name": "Seafood_dishes", "id": 18237842, "predecessors": [{"name": "Meat_dishes", "id": 18237845}, {"name": "Seafood", "id": 1770408}], "successors": [{"name": "Fish_dishes", "id": 16096793}, {"name": "Shrimp_dishes", "id": 30496746}, {"name": "Fish_of_Korea", "id": 36412015}]}
+{"name": "Seafood_dishes", "id": 18237842, "predecessors": [{"name": "Meat_dishes", "id": 18237845}, {"name": "Seafood", "id": 1770408}], "successors": [{"name": "Fish_dishes", "id": 16096793}, {"name": "Shrimp_dishes", "id": 30496746}]}

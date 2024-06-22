@@ -1,1 +1,1 @@
-{"name": "Music_television_specials", "id": 49688806, "predecessors": [{"name": "Theatrical_genres", "id": 1231826}, {"name": "Entertainment", "id": 693016}, {"name": "Wikipedia_categorization", "id": 1036222}], "successors": [{"name": "Musical_theatre_television_specials", "id": 2743060}]}
+{"name": "Music_television_specials", "id": 49688806, "predecessors": [{"name": "Entertainment", "id": 693016}, {"name": "Wikipedia_categorization", "id": 1036222}], "successors": [{"name": "Musical_theatre_television_specials", "id": 2743060}]}

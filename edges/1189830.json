@@ -1,1 +1,1 @@
-{"name": "Bicycle_parts", "id": 1189830, "predecessors": [{"name": "Bicycles", "id": 23352208}, {"name": "Vehicle_parts", "id": 23450032}, {"name": "Cycling", "id": 841814}], "successors": []}
+{"name": "Bicycle_parts", "id": 1189830, "predecessors": [{"name": "Bicycles", "id": 23352208}, {"name": "Vehicle_parts", "id": 23450032}, {"name": "Sports_equipment", "id": 8619631}], "successors": []}

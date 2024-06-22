@@ -1,1 +1,1 @@
-{"name": "Submarine_volcanoes", "id": 2659935, "predecessors": [{"name": "Marine_geology", "id": 4946349}, {"name": "Coastal_and_oceanic_landforms", "id": 11062641}, {"name": "Wikipedia_categorization", "id": 1036222}], "successors": []}
+{"name": "Submarine_volcanoes", "id": 2659935, "predecessors": [{"name": "Wikipedia_categorization", "id": 1036222}], "successors": [{"name": "Guyots", "id": 10268022}, {"name": "Seamounts_of_the_Pacific_Ocean", "id": 15909010}, {"name": "Seamounts_of_the_Atlantic_Ocean", "id": 20742110}]}

@@ -1,1 +1,1 @@
-{"name": "Democratization", "id": 38255323, "predecessors": [{"name": "Government", "id": 697609}], "successors": [{"name": "Spanish_transition_to_democracy", "id": 13017635}, {"name": "Decentralization", "id": 38660205}, {"name": "Perestroika", "id": 40271173}]}
+{"name": "Democratization", "id": 38255323, "predecessors": [{"name": "Democracy", "id": 2701500}, {"name": "Government", "id": 697609}], "successors": [{"name": "Decentralization", "id": 38660205}, {"name": "Perestroika", "id": 40271173}]}

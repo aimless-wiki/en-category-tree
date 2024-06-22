@@ -1,1 +1,1 @@
-{"name": "Hot_drinks", "id": 14782800, "predecessors": [{"name": "Temperature", "id": 1214620}, {"name": "Phases_of_matter", "id": 1914140}], "successors": [{"name": "Herbal_tea", "id": 3902127}, {"name": "Coffee_drinks", "id": 25629728}]}
+{"name": "Hot_drinks", "id": 14782800, "predecessors": [{"name": "Temperature", "id": 1214620}, {"name": "Culture", "id": 694861}], "successors": [{"name": "Herbal_tea", "id": 3902127}, {"name": "Coffee_drinks", "id": 25629728}]}

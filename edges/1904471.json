@@ -1,1 +1,1 @@
-{"name": "Scooter_manufacturers", "id": 1904471, "predecessors": [{"name": "Motor_scooters", "id": 3181261}, {"name": "Land_tenure", "id": 49153374}], "successors": []}
+{"name": "Scooter_manufacturers", "id": 1904471, "predecessors": [{"name": "Motor_scooters", "id": 3181261}, {"name": "Automotive_industry", "id": 1338498}], "successors": []}
