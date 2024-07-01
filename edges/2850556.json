@@ -1,1 +1,1 @@
-{"name": "Auto_parts", "id": 2850556, "predecessors": [{"name": "Automotive_technologies", "id": 859604}, {"name": "Vehicle_parts", "id": 23450032}], "successors": [{"name": "Automotive_part_stubs", "id": 8741043}]}
+{"name": "Auto_parts", "id": 2850556, "predecessors": [{"name": "Automotive_technologies", "id": 859604}], "successors": [{"name": "Automotive_part_stubs", "id": 8741043}]}

@@ -1,1 +1,1 @@
-{"name": "United_States_Marines", "id": 3837312, "predecessors": [{"name": "Military_ranks", "id": 727793}, {"name": "Marines", "id": 1053573}], "successors": [{"name": "United_States_Marine_Corps_non-commissioned_officers", "id": 67630730}]}
+{"name": "United_States_Marines", "id": 3837312, "predecessors": [{"name": "United_States_Marine_Corps", "id": 767671}], "successors": [{"name": "United_States_Marine_Corps_non-commissioned_officers", "id": 67630730}]}

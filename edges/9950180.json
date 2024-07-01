@@ -1,1 +1,1 @@
-{"name": "Fishing_video_games", "id": 9950180, "predecessors": [{"name": "Sports_video_games", "id": 9716925}, {"name": "Animals_and_humans", "id": 52196069}, {"name": "Video_games_about_animals", "id": 38703493}], "successors": []}
+{"name": "Fishing_video_games", "id": 9950180, "predecessors": [{"name": "Sports_video_games", "id": 9716925}, {"name": "Hunting", "id": 1067592}, {"name": "Video_games_about_animals", "id": 38703493}], "successors": []}

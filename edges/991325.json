@@ -1,1 +1,1 @@
-{"name": "Wave_mechanics", "id": 991325, "predecessors": [{"name": "Waves", "id": 758467}], "successors": [{"name": "Diffraction", "id": 2919864}]}
+{"name": "Wave_mechanics", "id": 991325, "predecessors": [{"name": "Classical_mechanics", "id": 735875}, {"name": "Waves", "id": 758467}], "successors": [{"name": "Diffraction", "id": 2919864}]}

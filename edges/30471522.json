@@ -1,1 +1,1 @@
-{"name": "Cyclopropanes", "id": 30471522, "predecessors": [{"name": "Atomic_physics", "id": 697256}, {"name": "Fuel_gas", "id": 15245034}], "successors": [{"name": "Cyclopropyl_compounds", "id": 68287554}]}
+{"name": "Cyclopropanes", "id": 30471522, "predecessors": [{"name": "Hydrocarbons", "id": 695870}], "successors": [{"name": "Cyclopropyl_compounds", "id": 68287554}]}

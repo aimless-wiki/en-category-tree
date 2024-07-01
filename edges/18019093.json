@@ -1,1 +1,1 @@
-{"name": "IBM_laptops", "id": 18019093, "predecessors": [{"name": "Office_equipment", "id": 1111733}, {"name": "Personal_computers", "id": 707673}], "successors": []}
+{"name": "IBM_laptops", "id": 18019093, "predecessors": [{"name": "IBM", "id": 768637}], "successors": []}

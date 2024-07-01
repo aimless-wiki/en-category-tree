@@ -1,1 +1,1 @@
-{"name": "Bibliographic_database_providers", "id": 24539027, "predecessors": [{"name": "Bibliographic_databases_and_indexes", "id": 25714470}, {"name": "Data_companies", "id": 52293991}], "successors": [{"name": "Thomson_Reuters", "id": 32947261}, {"name": "IEEE_standards", "id": 718356}]}
+{"name": "Bibliographic_database_providers", "id": 24539027, "predecessors": [{"name": "Bibliographic_databases_and_indexes", "id": 25714470}], "successors": [{"name": "Thomson_Reuters", "id": 32947261}, {"name": "IEEE_standards", "id": 718356}]}

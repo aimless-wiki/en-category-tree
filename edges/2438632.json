@@ -1,1 +1,1 @@
-{"name": "Debian-based_distributions", "id": 2438632, "predecessors": [{"name": "Software_forks", "id": 7457597}, {"name": "Free_software_projects", "id": 703116}], "successors": [{"name": "Ubuntu_derivatives", "id": 17199495}]}
+{"name": "Debian-based_distributions", "id": 2438632, "predecessors": [{"name": "Software_forks", "id": 7457597}, {"name": "Free_software_projects", "id": 703116}], "successors": [{"name": "Ubuntu", "id": 17199393}, {"name": "Ubuntu_derivatives", "id": 17199495}]}

@@ -1,1 +1,1 @@
-{"name": "Bat_genera", "id": 13857711, "predecessors": [{"name": "Mammal_genera", "id": 39031277}, {"name": "Branches_of_biology", "id": 37535091}], "successors": [{"name": "Monotypic_bat_genera", "id": 49514647}]}
+{"name": "Bat_genera", "id": 13857711, "predecessors": [{"name": "Animal_communication", "id": 945435}], "successors": [{"name": "Monotypic_bat_genera", "id": 49514647}]}

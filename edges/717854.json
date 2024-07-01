@@ -1,1 +1,1 @@
-{"name": "Tricyclic_antidepressants", "id": 717854, "predecessors": [{"name": "Antidepressants", "id": 717801}, {"name": "Atomic_physics", "id": 697256}], "successors": []}
+{"name": "Tricyclic_antidepressants", "id": 717854, "predecessors": [{"name": "Antidepressants", "id": 717801}, {"name": "Tricyclic_compounds", "id": 52796637}, {"name": "Neurology", "id": 714324}], "successors": []}

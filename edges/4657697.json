@@ -1,1 +1,1 @@
-{"name": "Logic_gates", "id": 4657697, "predecessors": [{"name": "Digital_electronics", "id": 969487}, {"name": "History_of_computing", "id": 1506937}], "successors": []}
+{"name": "Logic_gates", "id": 4657697, "predecessors": [{"name": "Digital_circuits", "id": 4588517}, {"name": "Digital_electronics", "id": 969487}, {"name": "20th_century_in_science", "id": 17453026}], "successors": []}

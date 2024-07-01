@@ -1,1 +1,1 @@
-{"name": "Australian_pastoralists", "id": 23024469, "predecessors": [{"name": "Pastoralists", "id": 5154571}, {"name": "Agriculture", "id": 694871}, {"name": "Livestock", "id": 917009}], "successors": [{"name": "Australian_stockmen", "id": 34839192}]}
+{"name": "Australian_pastoralists", "id": 23024469, "predecessors": [{"name": "Pastoralists", "id": 5154571}, {"name": "Agriculture", "id": 694871}, {"name": "Monarchy", "id": 1238063}, {"name": "Livestock", "id": 917009}], "successors": [{"name": "Australian_stockmen", "id": 34839192}]}

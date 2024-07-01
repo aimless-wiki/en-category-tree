@@ -1,1 +1,1 @@
-{"name": "Italian_classical_violinists", "id": 7322782, "predecessors": [{"name": "Music_genres", "id": 4826123}], "successors": [{"name": "Italian_male_classical_violinists", "id": 76519342}]}
+{"name": "Italian_classical_violinists", "id": 7322782, "predecessors": [{"name": "Italian_violinists", "id": 1096441}, {"name": "Musical_instruments", "id": 691595}], "successors": [{"name": "Italian_male_classical_violinists", "id": 76519342}]}

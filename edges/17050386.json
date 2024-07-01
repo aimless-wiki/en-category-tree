@@ -1,1 +1,1 @@
-{"name": "Royal_Navy_chaplains", "id": 17050386, "predecessors": [{"name": "Royal_Navy_officers", "id": 788299}, {"name": "Belief", "id": 956054}, {"name": "Occupations", "id": 787658}], "successors": []}
+{"name": "Royal_Navy_chaplains", "id": 17050386, "predecessors": [{"name": "Royal_Navy_officers", "id": 788299}, {"name": "Occupations", "id": 787658}, {"name": "Government_occupations", "id": 1006059}], "successors": []}

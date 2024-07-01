@@ -1,1 +1,1 @@
-{"name": "Mexican_male_singers", "id": 12269045, "predecessors": [{"name": "Mexican_musicians", "id": 724519}, {"name": "Latin_America", "id": 1327770}], "successors": [{"name": "Mexican_male_singer-songwriters", "id": 47702883}]}
+{"name": "Mexican_male_singers", "id": 12269045, "predecessors": [{"name": "Mexican_musicians", "id": 724519}, {"name": "Culture", "id": 694861}, {"name": "Latin_America", "id": 1327770}], "successors": [{"name": "Mexican_male_singer-songwriters", "id": 47702883}]}

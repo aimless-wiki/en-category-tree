@@ -1,1 +1,1 @@
-{"name": "EC_1.1.1_stubs", "id": 14230584, "predecessors": [{"name": "EC_1.1.1", "id": 733579}, {"name": "EC_1.1_stubs", "id": 14230741}, {"name": "Contents", "id": 14105005}], "successors": []}
+{"name": "EC_1.1.1_stubs", "id": 14230584, "predecessors": [{"name": "EC_1.1_stubs", "id": 14230741}, {"name": "Contents", "id": 14105005}], "successors": []}

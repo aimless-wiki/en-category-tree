@@ -1,1 +1,1 @@
-{"name": "Train_protection_systems", "id": 14849175, "predecessors": [{"name": "Safety_equipment", "id": 1206445}, {"name": "Rail_transport_operations", "id": 5361620}, {"name": "Control_engineering", "id": 9935559}], "successors": []}
+{"name": "Train_protection_systems", "id": 14849175, "predecessors": [{"name": "Safety_equipment", "id": 1206445}, {"name": "Rail_technologies", "id": 1239654}], "successors": []}

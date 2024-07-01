@@ -1,1 +1,1 @@
-{"name": "Fixed_income_analysis", "id": 1662040, "predecessors": [{"name": "Valuation_(finance)", "id": 36077327}, {"name": "Financial_markets", "id": 1654788}], "successors": [{"name": "Bond_valuation", "id": 62257933}, {"name": "Swaps_(finance)", "id": 62321005}]}
+{"name": "Fixed_income_analysis", "id": 1662040, "predecessors": [{"name": "Valuation_(finance)", "id": 36077327}], "successors": [{"name": "Bond_valuation", "id": 62257933}, {"name": "Swaps_(finance)", "id": 62321005}]}

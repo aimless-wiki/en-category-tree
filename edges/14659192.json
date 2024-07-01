@@ -1,1 +1,1 @@
-{"name": "Remote_sensing", "id": 14659192, "predecessors": [{"name": "Space_technology", "id": 7406479}, {"name": "Data", "id": 16989227}], "successors": [{"name": "Satellite_meteorology", "id": 4165580}, {"name": "Synthetic_aperture_radar", "id": 42348105}]}
+{"name": "Remote_sensing", "id": 14659192, "predecessors": [{"name": "Space_technology", "id": 7406479}, {"name": "Data", "id": 16989227}, {"name": "Technical_communication", "id": 1222842}], "successors": [{"name": "Satellite_meteorology", "id": 4165580}, {"name": "Synthetic_aperture_radar", "id": 42348105}]}

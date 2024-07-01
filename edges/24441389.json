@@ -1,1 +1,1 @@
-{"name": "Cancer_hospitals", "id": 24441389, "predecessors": [{"name": "Health_care", "id": 35880954}], "successors": [{"name": "University_of_Texas_MD_Anderson_Cancer_Center_faculty", "id": 47635294}]}
+{"name": "Cancer_hospitals", "id": 24441389, "predecessors": [{"name": "Health_care", "id": 35880954}], "successors": [{"name": "NCI-designated_cancer_centers", "id": 52567886}, {"name": "University_of_Texas_MD_Anderson_Cancer_Center_faculty", "id": 47635294}]}

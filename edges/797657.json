@@ -1,1 +1,1 @@
-{"name": "Nicotinic_antagonists", "id": 797657, "predecessors": [{"name": "Signal_transduction", "id": 754106}], "successors": []}
+{"name": "Nicotinic_antagonists", "id": 797657, "predecessors": [{"name": "Signal_transduction", "id": 754106}, {"name": "Neurotransmitters", "id": 717823}], "successors": []}

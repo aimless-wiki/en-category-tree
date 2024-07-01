@@ -1,1 +1,1 @@
-{"name": "Model_rail_stubs", "id": 13032055, "predecessors": [{"name": "Rail_transport_stubs", "id": 33226596}, {"name": "Toy_stubs", "id": 31121299}, {"name": "Human_behavior", "id": 2524202}, {"name": "Contents", "id": 14105005}], "successors": []}
+{"name": "Model_rail_stubs", "id": 13032055, "predecessors": [{"name": "Rail_transport_stubs", "id": 33226596}, {"name": "Toy_stubs", "id": 31121299}, {"name": "Culture", "id": 694861}, {"name": "Contents", "id": 14105005}], "successors": []}

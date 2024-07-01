@@ -1,1 +1,1 @@
-{"name": "Book_publishing_companies_of_Germany", "id": 3934625, "predecessors": [{"name": "German_literature", "id": 724505}, {"name": "Publishing_companies_of_Germany", "id": 5726336}, {"name": "Publishing", "id": 1001911}], "successors": []}
+{"name": "Book_publishing_companies_of_Germany", "id": 3934625, "predecessors": [{"name": "German_literature", "id": 724505}, {"name": "Publishing_companies_of_Germany", "id": 5726336}, {"name": "Book_publishing", "id": 5666524}], "successors": []}

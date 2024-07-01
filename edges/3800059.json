@@ -1,1 +1,1 @@
-{"name": "Airport_operators", "id": 3800059, "predecessors": [{"name": "Property_management_companies", "id": 32155437}, {"name": "Management_by_type", "id": 36812489}, {"name": "Tourism", "id": 698284}], "successors": [{"name": "Avinor_airports", "id": 24289574}]}
+{"name": "Airport_operators", "id": 3800059, "predecessors": [{"name": "Property_management_companies", "id": 32155437}, {"name": "Tourism", "id": 698284}], "successors": [{"name": "Avinor_airports", "id": 24289574}]}

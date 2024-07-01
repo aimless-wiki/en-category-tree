@@ -1,1 +1,1 @@
-{"name": "Australian_male_songwriters", "id": 72741644, "predecessors": [{"name": "Australian_composers", "id": 1141615}, {"name": "Australian_writers", "id": 715501}, {"name": "Male_composers", "id": 44858637}], "successors": []}
+{"name": "Australian_male_songwriters", "id": 72741644, "predecessors": [{"name": "Australian_male_composers", "id": 44858663}, {"name": "Australian_composers", "id": 1141615}, {"name": "Australian_writers", "id": 715501}, {"name": "Male_composers", "id": 44858637}], "successors": [{"name": "Australian_male_singer-songwriters", "id": 49526422}]}

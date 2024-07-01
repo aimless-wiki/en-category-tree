@@ -1,1 +1,1 @@
-{"name": "Ligase_stubs", "id": 14350099, "predecessors": [{"name": "Enzyme_stubs", "id": 3246637}, {"name": "Contents", "id": 14105005}], "successors": []}
+{"name": "Ligase_stubs", "id": 14350099, "predecessors": [{"name": "Enzyme_stubs", "id": 3246637}, {"name": "Enzymes", "id": 702815}, {"name": "Contents", "id": 14105005}], "successors": []}

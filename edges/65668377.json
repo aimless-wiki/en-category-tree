@@ -1,1 +1,1 @@
-{"name": "Deaths_from_cancer_in_Lombardy", "id": 65668377, "predecessors": [{"name": "Deaths_from_cancer", "id": 18669378}], "successors": []}
+{"name": "Deaths_from_cancer_in_Lombardy", "id": 65668377, "predecessors": [{"name": "Cancer", "id": 999635}, {"name": "Death", "id": 921954}], "successors": []}

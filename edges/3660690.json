@@ -1,1 +1,1 @@
-{"name": "Italian_newspaper_editors", "id": 3660690, "predecessors": [{"name": "Mass_media", "id": 696790}, {"name": "Culture", "id": 694861}, {"name": "Italian_journalists", "id": 1057013}], "successors": []}
+{"name": "Italian_newspaper_editors", "id": 3660690, "predecessors": [{"name": "Newspaper_editors", "id": 1322387}, {"name": "Mass_media", "id": 696790}, {"name": "Occupations", "id": 787658}, {"name": "Italian_journalists", "id": 1057013}], "successors": []}

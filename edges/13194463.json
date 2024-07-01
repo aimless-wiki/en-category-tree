@@ -1,1 +1,1 @@
-{"name": "Stars_with_proper_names", "id": 13194463, "predecessors": [{"name": "Astronomy", "id": 692915}], "successors": [{"name": "Sun", "id": 887873}]}
+{"name": "Stars_with_proper_names", "id": 13194463, "predecessors": [{"name": "Stars", "id": 694492}, {"name": "Astronomy", "id": 692915}], "successors": [{"name": "Sun", "id": 887873}]}

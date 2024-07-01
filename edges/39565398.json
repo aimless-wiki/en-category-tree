@@ -1,1 +1,1 @@
-{"name": "Eating_parties", "id": 39565398, "predecessors": [{"name": "Parties", "id": 698265}, {"name": "Food_technology", "id": 7320176}, {"name": "Culture", "id": 694861}, {"name": "Eating_behaviors", "id": 1476452}], "successors": []}
+{"name": "Eating_parties", "id": 39565398, "predecessors": [{"name": "Parties", "id": 698265}, {"name": "Food_technology", "id": 7320176}, {"name": "Culture", "id": 694861}, {"name": "Political_ideologies", "id": 6243762}], "successors": []}

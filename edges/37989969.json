@@ -1,1 +1,1 @@
-{"name": "American_coal_miners", "id": 37989969, "predecessors": [{"name": "American_miners", "id": 8849715}, {"name": "Coal", "id": 1103533}, {"name": "Minerals", "id": 708104}], "successors": []}
+{"name": "American_coal_miners", "id": 37989969, "predecessors": [{"name": "American_miners", "id": 8849715}, {"name": "Coal", "id": 1103533}, {"name": "Mining", "id": 843521}], "successors": []}

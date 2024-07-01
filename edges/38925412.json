@@ -1,1 +1,1 @@
-{"name": "Assembly_language_software", "id": 38925412, "predecessors": [{"name": "Programming_languages", "id": 690571}], "successors": []}
+{"name": "Assembly_language_software", "id": 38925412, "predecessors": [{"name": "Procedural_programming_languages", "id": 911358}, {"name": "Programming_languages", "id": 690571}], "successors": []}

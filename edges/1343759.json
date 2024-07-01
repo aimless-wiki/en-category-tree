@@ -1,1 +1,1 @@
-{"name": "Applied_genetics", "id": 1343759, "predecessors": [{"name": "Academic_disciplines", "id": 693763}], "successors": [{"name": "Plant_breeding", "id": 34173013}, {"name": "Animal_breeding", "id": 36659941}]}
+{"name": "Applied_genetics", "id": 1343759, "predecessors": [{"name": "Genetics", "id": 696008}, {"name": "Academic_disciplines", "id": 693763}], "successors": [{"name": "Plant_breeding", "id": 34173013}, {"name": "Animal_breeding", "id": 36659941}, {"name": "Hybrid_plants", "id": 18930823}, {"name": "Interspecific_plant_hybrids", "id": 52547201}]}

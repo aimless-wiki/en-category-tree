@@ -1,1 +1,1 @@
-{"name": "Agricultural_journals", "id": 8719522, "predecessors": [{"name": "Agricultural_research", "id": 19866745}, {"name": "Agriculture", "id": 694871}], "successors": []}
+{"name": "Agricultural_journals", "id": 8719522, "predecessors": [{"name": "Agricultural_research", "id": 19866745}, {"name": "Biology_journals", "id": 1190560}, {"name": "Agriculture", "id": 694871}], "successors": []}

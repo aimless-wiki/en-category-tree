@@ -1,1 +1,1 @@
-{"name": "Cheminformatics", "id": 5438220, "predecessors": [{"name": "Computational_chemistry", "id": 743353}, {"name": "Information_science", "id": 1009204}, {"name": "Chemistry", "id": 691185}], "successors": []}
+{"name": "Cheminformatics", "id": 5438220, "predecessors": [{"name": "Computational_chemistry", "id": 743353}, {"name": "Information_science", "id": 1009204}, {"name": "Chemistry", "id": 691185}], "successors": [{"name": "Chemical_databases", "id": 8874890}, {"name": "Computational_chemistry_software", "id": 2016510}]}

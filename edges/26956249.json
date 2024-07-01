@@ -1,1 +1,1 @@
-{"name": "Dutch_newspaper_editors", "id": 26956249, "predecessors": [{"name": "Culture", "id": 694861}, {"name": "Dutch-language_newspapers", "id": 2670367}], "successors": []}
+{"name": "Dutch_newspaper_editors", "id": 26956249, "predecessors": [{"name": "Newspaper_editors", "id": 1322387}, {"name": "Dutch-language_newspapers", "id": 2670367}, {"name": "Occupations", "id": 787658}], "successors": []}

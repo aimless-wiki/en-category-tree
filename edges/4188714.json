@@ -1,1 +1,1 @@
-{"name": "Free_science_software", "id": 4188714, "predecessors": [{"name": "Open_science", "id": 34403011}, {"name": "Science_software", "id": 4076421}, {"name": "Application_software", "id": 708063}], "successors": [{"name": "Free_mathematics_software", "id": 4188745}, {"name": "Free_TeX_software", "id": 4209207}]}
+{"name": "Free_science_software", "id": 4188714, "predecessors": [{"name": "Open_science", "id": 34403011}, {"name": "Science_software", "id": 4076421}, {"name": "Application_software", "id": 708063}], "successors": [{"name": "Free_TeX_software", "id": 4209207}]}

@@ -1,1 +1,1 @@
-{"name": "Special_hypergeometric_functions", "id": 2162533, "predecessors": [{"name": "Automorphic_forms", "id": 971791}], "successors": []}
+{"name": "Special_hypergeometric_functions", "id": 2162533, "predecessors": [{"name": "Special_functions", "id": 1021856}, {"name": "Automorphic_forms", "id": 971791}], "successors": []}

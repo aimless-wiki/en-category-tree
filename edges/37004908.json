@@ -1,1 +1,1 @@
-{"name": "Book_designers", "id": 37004908, "predecessors": [{"name": "Book_design", "id": 2790112}, {"name": "Design", "id": 999651}, {"name": "The_arts", "id": 4892515}], "successors": []}
+{"name": "Book_designers", "id": 37004908, "predecessors": [{"name": "Book_design", "id": 2790112}, {"name": "Design", "id": 999651}, {"name": "Book_publishing", "id": 5666524}], "successors": []}

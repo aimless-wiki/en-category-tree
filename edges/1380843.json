@@ -1,1 +1,1 @@
-{"name": "Fictional_wolves", "id": 1380843, "predecessors": [{"name": "Animals_and_humans", "id": 52196069}, {"name": "Wolves", "id": 2499005}], "successors": [{"name": "Fictional_werewolves", "id": 1946900}]}
+{"name": "Fictional_wolves", "id": 1380843, "predecessors": [{"name": "Eating_behaviors", "id": 1476452}], "successors": [{"name": "Fictional_werewolves", "id": 1946900}]}

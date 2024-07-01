@@ -1,1 +1,1 @@
-{"name": "Explosives_stubs", "id": 1991359, "predecessors": [{"name": "Energy_stubs", "id": 42878619}, {"name": "Contents", "id": 14105005}], "successors": [{"name": "Explosive_weapon_stubs", "id": 69974678}]}
+{"name": "Explosives_stubs", "id": 1991359, "predecessors": [{"name": "Energy_stubs", "id": 42878619}, {"name": "Explosives", "id": 726215}, {"name": "Contents", "id": 14105005}], "successors": [{"name": "Explosive_weapon_stubs", "id": 69974678}]}

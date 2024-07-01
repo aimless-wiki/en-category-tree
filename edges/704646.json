@@ -1,1 +1,1 @@
-{"name": "Specific_calendars", "id": 704646, "predecessors": [{"name": "Calendars", "id": 698466}], "successors": [{"name": "Julian_calendar", "id": 2777131}, {"name": "Hindu_calendar", "id": 3507475}, {"name": "Gregorian_calendar", "id": 15851360}, {"name": "Ancient_Roman_festivals", "id": 868390}]}
+{"name": "Specific_calendars", "id": 704646, "predecessors": [{"name": "Calendars", "id": 698466}], "successors": [{"name": "Julian_calendar", "id": 2777131}, {"name": "Hindu_calendar", "id": 3507475}]}

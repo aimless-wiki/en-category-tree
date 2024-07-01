@@ -1,1 +1,1 @@
-{"name": "Embedded_microprocessors", "id": 7992704, "predecessors": [{"name": "Embedded_systems", "id": 852879}, {"name": "Electrical_engineering", "id": 706415}], "successors": []}
+{"name": "Embedded_microprocessors", "id": 7992704, "predecessors": [{"name": "Central_processing_unit", "id": 5834555}], "successors": []}

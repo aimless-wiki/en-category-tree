@@ -1,1 +1,1 @@
-{"name": "Radio_manufacturers", "id": 70474849, "predecessors": [{"name": "Radio_electronics", "id": 1474255}, {"name": "Audio_engineering", "id": 936702}], "successors": []}
+{"name": "Radio_manufacturers", "id": 70474849, "predecessors": [{"name": "Radio_electronics", "id": 1474255}, {"name": "Signal_processing", "id": 763505}], "successors": []}

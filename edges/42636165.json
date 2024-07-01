@@ -1,1 +1,1 @@
-{"name": "Process_safety", "id": 42636165, "predecessors": [{"name": "Safety_engineering", "id": 2220705}, {"name": "Chemical_engineering", "id": 1147083}, {"name": "Management_by_type", "id": 36812489}], "successors": [{"name": "Gas_explosions", "id": 1919734}]}
+{"name": "Process_safety", "id": 42636165, "predecessors": [{"name": "Safety_engineering", "id": 2220705}, {"name": "Business_process_management", "id": 24925024}], "successors": []}

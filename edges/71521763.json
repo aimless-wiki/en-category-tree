@@ -1,1 +1,1 @@
-{"name": "Cat_folklore", "id": 71521763, "predecessors": [{"name": "Folklore", "id": 728925}], "successors": []}
+{"name": "Cat_folklore", "id": 71521763, "predecessors": [{"name": "Folklore", "id": 728925}, {"name": "Domesticated_animals", "id": 706779}], "successors": [{"name": "Fictional_cats", "id": 709188}]}

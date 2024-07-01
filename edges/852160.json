@@ -1,1 +1,1 @@
-{"name": "Vauxhall_vehicles", "id": 852160, "predecessors": [{"name": "Automotive_industry", "id": 1338498}, {"name": "Car_manufacturers_of_the_United_Kingdom", "id": 19478279}], "successors": [{"name": "Bedford_vehicles", "id": 1213492}]}
+{"name": "Vauxhall_vehicles", "id": 852160, "predecessors": [{"name": "Automotive_industry", "id": 1338498}, {"name": "Cars_of_England", "id": 8357578}], "successors": [{"name": "Bedford_vehicles", "id": 1213492}]}

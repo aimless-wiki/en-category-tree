@@ -1,1 +1,1 @@
-{"name": "Queen_mothers", "id": 14551438, "predecessors": [{"name": "Mothers_of_monarchs", "id": 71875137}, {"name": "Social_classes", "id": 2984555}], "successors": [{"name": "Henrietta_Maria_of_France", "id": 72998965}]}
+{"name": "Queen_mothers", "id": 14551438, "predecessors": [{"name": "Mothers_of_monarchs", "id": 71875137}, {"name": "Monarchy", "id": 1238063}], "successors": [{"name": "Henrietta_Maria_of_France", "id": 72998965}]}

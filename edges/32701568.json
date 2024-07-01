@@ -1,1 +1,1 @@
-{"name": "Toei_Company_films", "id": 32701568, "predecessors": [{"name": "Film_production_companies_of_Japan", "id": 15747926}, {"name": "Video_game_companies_of_Japan", "id": 30728817}], "successors": [{"name": "Toei_Animation_films", "id": 39353289}]}
+{"name": "Toei_Company_films", "id": 32701568, "predecessors": [{"name": "Film_distributors", "id": 1139888}, {"name": "Video_game_companies_of_Japan", "id": 30728817}], "successors": [{"name": "Toei_Animation_films", "id": 39353289}]}

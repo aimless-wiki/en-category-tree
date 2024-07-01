@@ -1,1 +1,1 @@
-{"name": "Energy_storage", "id": 1847555, "predecessors": [{"name": "Energy", "id": 865456}], "successors": [{"name": "Capacitors", "id": 1408322}, {"name": "Fuel_cells", "id": 1475382}, {"name": "Battery_(electricity)", "id": 28080434}, {"name": "Oil_terminals", "id": 17974661}]}
+{"name": "Energy_storage", "id": 1847555, "predecessors": [{"name": "Energy", "id": 865456}], "successors": [{"name": "Battery_(electricity)", "id": 28080434}, {"name": "Oil_terminals", "id": 17974661}]}

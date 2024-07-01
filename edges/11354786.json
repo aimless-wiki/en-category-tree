@@ -1,1 +1,1 @@
-{"name": "Instrument_amplifiers", "id": 11354786, "predecessors": [{"name": "Electronic_musical_instruments", "id": 32662293}, {"name": "Audio_engineering", "id": 936702}], "successors": []}
+{"name": "Instrument_amplifiers", "id": 11354786, "predecessors": [{"name": "Electronic_musical_instruments", "id": 32662293}, {"name": "Signal_processing", "id": 763505}], "successors": []}

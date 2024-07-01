@@ -1,1 +1,1 @@
-{"name": "Teratogens", "id": 733800, "predecessors": [{"name": "Congenital_disorders", "id": 966400}, {"name": "Embryology", "id": 1524726}, {"name": "Poisons", "id": 7628523}], "successors": [{"name": "Selective_estrogen_receptor_modulators", "id": 1085920}]}
+{"name": "Teratogens", "id": 733800, "predecessors": [{"name": "Congenital_disorders", "id": 966400}, {"name": "Embryology", "id": 1524726}, {"name": "Poisons", "id": 7628523}, {"name": "Manufacturing", "id": 867519}], "successors": [{"name": "Selective_estrogen_receptor_modulators", "id": 1085920}]}

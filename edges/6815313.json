@@ -1,1 +1,1 @@
-{"name": "Laser_science", "id": 6815313, "predecessors": [{"name": "Quantum_optics", "id": 1635593}, {"name": "Light_sources", "id": 3522320}], "successors": [{"name": "Laser_researchers", "id": 28982304}]}
+{"name": "Laser_science", "id": 6815313, "predecessors": [{"name": "Quantum_optics", "id": 1635593}, {"name": "Optical_devices", "id": 1835556}], "successors": [{"name": "Laser_researchers", "id": 28982304}]}

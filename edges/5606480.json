@@ -1,1 +1,1 @@
-{"name": "British_conscientious_objectors", "id": 5606480, "predecessors": [{"name": "British_pacifists", "id": 5606271}, {"name": "Activism", "id": 905806}, {"name": "Nationalism", "id": 846456}], "successors": [{"name": "English_conscientious_objectors", "id": 18540965}]}
+{"name": "British_conscientious_objectors", "id": 5606480, "predecessors": [{"name": "British_pacifists", "id": 5606271}, {"name": "Activism", "id": 905806}, {"name": "Conscription_by_country", "id": 5314750}], "successors": [{"name": "English_conscientious_objectors", "id": 18540965}]}

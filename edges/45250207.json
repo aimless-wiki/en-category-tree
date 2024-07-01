@@ -1,1 +1,1 @@
-{"name": "Books_critical_of_capitalism", "id": 45250207, "predecessors": [{"name": "Capitalism", "id": 1775609}], "successors": [{"name": "Books_about_socialism", "id": 36452975}]}
+{"name": "Books_critical_of_capitalism", "id": 45250207, "predecessors": [{"name": "Books_about_capitalism", "id": 22883659}, {"name": "Capitalism", "id": 1775609}], "successors": [{"name": "Books_about_socialism", "id": 36452975}]}

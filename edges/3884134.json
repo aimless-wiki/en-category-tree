@@ -1,1 +1,1 @@
-{"name": "Riddles", "id": 3884134, "predecessors": [{"name": "Puzzles", "id": 1013641}, {"name": "Party_games", "id": 776242}, {"name": "Ceremonial_magic", "id": 42136480}], "successors": []}
+{"name": "Riddles", "id": 3884134, "predecessors": [{"name": "Puzzles", "id": 1013641}, {"name": "Ceremonial_magic", "id": 42136480}, {"name": "Cognition", "id": 1055995}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "AMD_x86_microprocessors", "id": 18040169, "predecessors": [{"name": "X86_architecture", "id": 2299258}, {"name": "AMD_products", "id": 8712206}], "successors": []}
+{"name": "AMD_x86_microprocessors", "id": 18040169, "predecessors": [{"name": "Central_processing_unit", "id": 5834555}], "successors": []}

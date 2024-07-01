@@ -1,1 +1,1 @@
-{"name": "Food_markets", "id": 10614502, "predecessors": [{"name": "Retail_formats", "id": 60643813}, {"name": "Standards", "id": 724561}], "successors": [{"name": "Food_halls", "id": 43557139}, {"name": "Food_markets_in_the_United_States", "id": 21552614}]}
+{"name": "Food_markets", "id": 10614502, "predecessors": [{"name": "Food_industry", "id": 3540193}, {"name": "Retail_formats", "id": 60643813}], "successors": [{"name": "Food_markets_in_the_United_States", "id": 21552614}]}

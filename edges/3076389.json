@@ -1,1 +1,1 @@
-{"name": "Plant_taxonomy", "id": 3076389, "predecessors": [{"name": "Botanical_nomenclature", "id": 2776838}, {"name": "Branches_of_biology", "id": 37535091}, {"name": "Contents", "id": 14105005}], "successors": [{"name": "Botanical_nomenclature", "id": 2776838}]}
+{"name": "Plant_taxonomy", "id": 3076389, "predecessors": [{"name": "Botanical_nomenclature", "id": 2776838}, {"name": "Plants", "id": 867260}, {"name": "Botany", "id": 693494}, {"name": "Contents", "id": 14105005}], "successors": [{"name": "Botanical_nomenclature", "id": 2776838}]}

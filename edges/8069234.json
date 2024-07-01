@@ -1,1 +1,1 @@
-{"name": "Religious_occupations", "id": 8069234, "predecessors": [{"name": "Belief", "id": 956054}, {"name": "Employment", "id": 1798901}], "successors": [{"name": "Religious_leadership_roles", "id": 4246036}]}
+{"name": "Religious_occupations", "id": 8069234, "predecessors": [{"name": "Belief", "id": 956054}, {"name": "Community_development", "id": 6056685}, {"name": "Employment", "id": 1798901}], "successors": [{"name": "Religious_leadership_roles", "id": 4246036}, {"name": "Christian_religious_occupations", "id": 22515372}]}

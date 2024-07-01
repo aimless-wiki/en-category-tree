@@ -1,1 +1,1 @@
-{"name": "Subaru_vehicles", "id": 857916, "predecessors": [{"name": "Automotive_industry", "id": 1338498}], "successors": []}
+{"name": "Subaru_vehicles", "id": 857916, "predecessors": [{"name": "Automotive_industry", "id": 1338498}, {"name": "Banking", "id": 1245386}], "successors": []}

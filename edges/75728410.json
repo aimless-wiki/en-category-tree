@@ -1,1 +1,1 @@
-{"name": "NBC_television_dramas", "id": 75728410, "predecessors": [{"name": "NBC_original_programming", "id": 796477}, {"name": "Broadcasting", "id": 765733}], "successors": [{"name": "Star_Trek:_The_Original_Series_characters", "id": 3013118}, {"name": "Novels_based_on_Star_Trek:_The_Original_Series", "id": 57082706}]}
+{"name": "NBC_television_dramas", "id": 75728410, "predecessors": [{"name": "NBC_original_programming", "id": 796477}, {"name": "Drama", "id": 709071}, {"name": "Broadcasting", "id": 765733}], "successors": []}

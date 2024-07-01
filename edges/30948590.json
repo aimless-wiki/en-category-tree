@@ -1,1 +1,1 @@
-{"name": "Admiralty_law", "id": 30948590, "predecessors": [{"name": "Law_of_the_sea", "id": 763003}, {"name": "Maritime_transport", "id": 56494593}, {"name": "Human_behavior", "id": 2524202}], "successors": [{"name": "Admiralty_law_treaties", "id": 39276621}]}
+{"name": "Admiralty_law", "id": 30948590, "predecessors": [{"name": "Law_of_the_sea", "id": 763003}, {"name": "Maritime_transport", "id": 56494593}, {"name": "Politics", "id": 695027}], "successors": [{"name": "Admiralty_law_treaties", "id": 39276621}]}

@@ -1,1 +1,1 @@
-{"name": "Rock_music_duos", "id": 19429338, "predecessors": [{"name": "Duos", "id": 3815961}], "successors": [{"name": "Heavy_metal_duos", "id": 40778258}, {"name": "American_rock_music_duos", "id": 75203380}]}
+{"name": "Rock_music_duos", "id": 19429338, "predecessors": [{"name": "Duos", "id": 3815961}, {"name": "Entertainment", "id": 693016}], "successors": [{"name": "Heavy_metal_duos", "id": 40778258}, {"name": "American_rock_music_duos", "id": 75203380}]}

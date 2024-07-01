@@ -1,1 +1,1 @@
-{"name": "Electrical_safety", "id": 2506285, "predecessors": [{"name": "Occupational_safety_and_health", "id": 1215289}], "successors": [{"name": "Electromagnetic_compatibility", "id": 21284271}, {"name": "DIN_standards", "id": 1052629}]}
+{"name": "Electrical_safety", "id": 2506285, "predecessors": [{"name": "Electricity", "id": 959298}, {"name": "Occupational_safety_and_health", "id": 1215289}], "successors": [{"name": "Electromagnetic_compatibility", "id": 21284271}, {"name": "IEC_standards", "id": 865344}, {"name": "DIN_standards", "id": 1052629}]}

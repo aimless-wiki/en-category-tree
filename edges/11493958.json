@@ -1,1 +1,1 @@
-{"name": "German_choirs", "id": 11493958, "predecessors": [{"name": "Music_genres", "id": 4826123}], "successors": []}
+{"name": "German_choirs", "id": 11493958, "predecessors": [{"name": "German_musical_groups", "id": 708481}, {"name": "Singing", "id": 940526}], "successors": []}

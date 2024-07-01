@@ -1,1 +1,1 @@
-{"name": "Patrol_boat_classes", "id": 50717430, "predecessors": [{"name": "Boats", "id": 765931}, {"name": "Classification_systems", "id": 3615452}], "successors": [{"name": "Point-class_cutters", "id": 38760520}]}
+{"name": "Patrol_boat_classes", "id": 50717430, "predecessors": [{"name": "Boats", "id": 765931}], "successors": [{"name": "Point-class_cutters", "id": 38760520}]}

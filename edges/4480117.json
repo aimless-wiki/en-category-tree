@@ -1,1 +1,1 @@
-{"name": "Naphthalenes", "id": 4480117, "predecessors": [{"name": "Aromatic_compounds", "id": 1369194}, {"name": "Atomic_physics", "id": 697256}], "successors": [{"name": "1-Naphthyl_compounds", "id": 72210947}]}
+{"name": "Naphthalenes", "id": 4480117, "predecessors": [{"name": "Aromatic_compounds", "id": 1369194}, {"name": "Hydrogen_compounds", "id": 1675024}], "successors": [{"name": "1-Naphthyl_compounds", "id": 72210947}]}

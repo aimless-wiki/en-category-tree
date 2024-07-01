@@ -1,1 +1,1 @@
-{"name": "Swedish_pop_music_groups", "id": 7199231, "predecessors": [{"name": "Swedish_musical_groups", "id": 700864}, {"name": "Music_genres", "id": 4826123}], "successors": []}
+{"name": "Swedish_pop_music_groups", "id": 7199231, "predecessors": [{"name": "Music_genres", "id": 4826123}], "successors": [{"name": "ABBA_songs", "id": 2507466}, {"name": "ABBA_album_covers", "id": 55319258}]}

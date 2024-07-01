@@ -1,1 +1,1 @@
-{"name": "Carcinogens", "id": 984223, "predecessors": [{"name": "Carcinogenesis", "id": 32586538}, {"name": "Toxicology", "id": 1043816}, {"name": "Risk", "id": 1257366}], "successors": []}
+{"name": "Carcinogens", "id": 984223, "predecessors": [{"name": "Carcinogenesis", "id": 32586538}, {"name": "Toxicology", "id": 1043816}, {"name": "Manufacturing", "id": 867519}, {"name": "Risk", "id": 1257366}], "successors": []}

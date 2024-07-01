@@ -1,1 +1,1 @@
-{"name": "Hotels_in_New_South_Wales", "id": 26632327, "predecessors": [{"name": "Tourism", "id": 698284}, {"name": "Cartography", "id": 716309}], "successors": []}
+{"name": "Hotels_in_New_South_Wales", "id": 26632327, "predecessors": [{"name": "Cartography", "id": 716309}], "successors": [{"name": "Pubs_in_Sydney", "id": 24588365}]}

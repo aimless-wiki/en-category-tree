@@ -1,1 +1,1 @@
-{"name": "FK_Vojvodina_managers", "id": 22675044, "predecessors": [{"name": "States_and_territories_established_in_1944", "id": 22448904}, {"name": "Wikipedia_categorization", "id": 1036222}], "successors": []}
+{"name": "FK_Vojvodina_managers", "id": 22675044, "predecessors": [{"name": "States_and_territories_established_in_1944", "id": 22448904}, {"name": "Cultural_lists", "id": 9592135}], "successors": []}

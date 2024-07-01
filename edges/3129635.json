@@ -1,1 +1,1 @@
-{"name": "Liquid_crystals", "id": 3129635, "predecessors": [{"name": "Crystals", "id": 3129600}], "successors": [{"name": "Liquid_crystal_displays", "id": 3129766}]}
+{"name": "Liquid_crystals", "id": 3129635, "predecessors": [{"name": "Crystals", "id": 3129600}, {"name": "Phases_of_matter", "id": 1914140}], "successors": [{"name": "Liquid_crystal_displays", "id": 3129766}]}

@@ -1,1 +1,1 @@
-{"name": "Papermaking", "id": 8850248, "predecessors": [{"name": "Book_arts", "id": 9228357}, {"name": "Crafts", "id": 3061643}, {"name": "Industrial_processes", "id": 1186213}, {"name": "Paper", "id": 1918311}, {"name": "Forestry", "id": 996757}], "successors": [{"name": "Papermakers", "id": 6417612}]}
+{"name": "Papermaking", "id": 8850248, "predecessors": [{"name": "Book_arts", "id": 9228357}, {"name": "Crafts", "id": 3061643}, {"name": "Industrial_processes", "id": 1186213}, {"name": "Paper", "id": 1918311}], "successors": [{"name": "Papermakers", "id": 6417612}]}

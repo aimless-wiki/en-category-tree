@@ -1,1 +1,1 @@
-{"name": "Orientation_(geometry)", "id": 44363014, "predecessors": [{"name": "Geometry", "id": 691466}, {"name": "Navigation", "id": 716308}, {"name": "Topology", "id": 691921}], "successors": [{"name": "Astronomical_coordinate_systems", "id": 956484}]}
+{"name": "Orientation_(geometry)", "id": 44363014, "predecessors": [{"name": "Geometry", "id": 691466}, {"name": "Navigation", "id": 716308}, {"name": "Topology", "id": 691921}], "successors": [{"name": "Astronomical_coordinate_systems", "id": 956484}, {"name": "Tactical_formations", "id": 1660432}]}

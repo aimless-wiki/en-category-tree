@@ -1,1 +1,1 @@
-{"name": "French_male_jazz_musicians", "id": 67093919, "predecessors": [{"name": "Male_jazz_musicians", "id": 44810711}, {"name": "Culture_of_Europe", "id": 709679}, {"name": "Culture_of_France", "id": 715456}], "successors": [{"name": "French_male_jazz_pianists", "id": 76511271}]}
+{"name": "French_male_jazz_musicians", "id": 67093919, "predecessors": [{"name": "Culture_of_Europe", "id": 709679}, {"name": "Culture_of_France", "id": 715456}, {"name": "Male_jazz_musicians", "id": 44810711}], "successors": [{"name": "French_male_jazz_pianists", "id": 76511271}]}
