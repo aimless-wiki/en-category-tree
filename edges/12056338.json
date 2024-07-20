@@ -1,1 +1,1 @@
-{"name": "Deaths_by_firearm_in_India", "id": 12056338, "predecessors": [{"name": "Crime", "id": 1183180}, {"name": "Firearms", "id": 739385}], "successors": [{"name": "People_shot_dead_by_law_enforcement_officers_in_India", "id": 22135747}]}
+{"name": "Deaths_by_firearm_in_India", "id": 12056338, "predecessors": [{"name": "Causes_of_death", "id": 5271061}, {"name": "Law_of_India", "id": 38350546}], "successors": [{"name": "People_shot_dead_by_law_enforcement_officers_in_India", "id": 22135747}]}

@@ -1,1 +1,1 @@
-{"name": "Manga_series", "id": 4096794, "predecessors": [{"name": "Series_of_books", "id": 936033}, {"name": "Art_by_country", "id": 1001486}, {"name": "Japanese_popular_culture", "id": 35371982}], "successors": []}
+{"name": "Manga_series", "id": 4096794, "predecessors": [{"name": "Series_of_books", "id": 936033}, {"name": "Publishing", "id": 1001911}, {"name": "Japanese_popular_culture", "id": 35371982}], "successors": [{"name": "Lists_of_manga_volumes_and_chapters", "id": 23881028}]}

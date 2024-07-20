@@ -1,1 +1,1 @@
-{"name": "Brazilian_male_television_actors", "id": 41021965, "predecessors": [{"name": "Culture", "id": 694861}, {"name": "Brazilian_male_actors", "id": 40388615}], "successors": [{"name": "Brazilian_male_telenovela_actors", "id": 41304226}]}
+{"name": "Brazilian_male_television_actors", "id": 41021965, "predecessors": [{"name": "Mass_media", "id": 696790}, {"name": "Brazilian_male_actors", "id": 40388615}, {"name": "Culture", "id": 694861}], "successors": [{"name": "Brazilian_male_telenovela_actors", "id": 41304226}]}

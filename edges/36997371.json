@@ -1,1 +1,1 @@
-{"name": "Radiation_therapy", "id": 36997371, "predecessors": [{"name": "Cancer_treatments", "id": 694971}, {"name": "Medical_physics", "id": 8811012}, {"name": "Radiology", "id": 695053}], "successors": []}
+{"name": "Radiation_therapy", "id": 36997371, "predecessors": [{"name": "Cancer_treatments", "id": 694971}, {"name": "Medical_physics", "id": 8811012}], "successors": []}

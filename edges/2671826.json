@@ -1,1 +1,1 @@
-{"name": "Hydrates", "id": 2671826, "predecessors": [{"name": "Hydrogen_compounds", "id": 1675024}, {"name": "Water_chemistry", "id": 3187464}, {"name": "Phases_of_matter", "id": 1914140}, {"name": "Periodic_table", "id": 727142}], "successors": []}
+{"name": "Hydrates", "id": 2671826, "predecessors": [{"name": "Hydrogen_compounds", "id": 1675024}, {"name": "Water_chemistry", "id": 3187464}, {"name": "Phases_of_matter", "id": 1914140}, {"name": "Manufacturing", "id": 867519}, {"name": "Periodic_table", "id": 727142}], "successors": []}

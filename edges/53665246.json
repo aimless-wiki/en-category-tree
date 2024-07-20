@@ -1,1 +1,1 @@
-{"name": "Prehistoric_bird_genera", "id": 53665246, "predecessors": [{"name": "Birds", "id": 953524}, {"name": "Animal_welfare", "id": 991706}], "successors": []}
+{"name": "Prehistoric_bird_genera", "id": 53665246, "predecessors": [{"name": "Bird_genera", "id": 39314878}, {"name": "Birds", "id": 953524}, {"name": "Science_fiction_themes", "id": 786868}], "successors": [{"name": "Extinct_monotypic_bird_genera", "id": 68711320}]}

@@ -1,1 +1,1 @@
-{"name": "Data_synchronization", "id": 7645825, "predecessors": [{"name": "Data_management", "id": 762162}, {"name": "Fault-tolerant_computer_systems", "id": 30302080}, {"name": "Synchronization", "id": 923143}, {"name": "Computational_complexity_theory", "id": 693727}], "successors": []}
+{"name": "Data_synchronization", "id": 7645825, "predecessors": [{"name": "Fault-tolerant_computer_systems", "id": 30302080}, {"name": "Synchronization", "id": 923143}, {"name": "Distributed_computing", "id": 957605}, {"name": "Quality", "id": 2675045}], "successors": []}

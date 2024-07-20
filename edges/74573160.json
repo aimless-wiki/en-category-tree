@@ -1,1 +1,1 @@
-{"name": "Metric_geometry_stubs", "id": 74573160, "predecessors": [{"name": "Geometry_stubs", "id": 1539535}, {"name": "Contents", "id": 14105005}], "successors": [{"name": "Riemannian_geometry_stubs", "id": 74573092}]}
+{"name": "Metric_geometry_stubs", "id": 74573160, "predecessors": [{"name": "Geometry_stubs", "id": 1539535}, {"name": "Metric_geometry", "id": 697516}, {"name": "Contents", "id": 14105005}], "successors": [{"name": "Riemannian_geometry_stubs", "id": 74573092}]}

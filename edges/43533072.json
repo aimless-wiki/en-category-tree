@@ -1,1 +1,1 @@
-{"name": "Insects_described_in_1925", "id": 43533072, "predecessors": [{"name": "Animals_described_in_1925", "id": 23244968}], "successors": [{"name": "Moths_described_in_1925", "id": 43532941}, {"name": "Beetles_described_in_1925", "id": 43533028}]}
+{"name": "Insects_described_in_1925", "id": 43533072, "predecessors": [{"name": "Animals_described_in_1925", "id": 23244968}, {"name": "Contents", "id": 14105005}], "successors": [{"name": "Moths_described_in_1925", "id": 43532941}, {"name": "Beetles_described_in_1925", "id": 43533028}]}

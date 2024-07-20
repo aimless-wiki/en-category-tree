@@ -1,1 +1,1 @@
-{"name": "Bird_mascots", "id": 36384461, "predecessors": [{"name": "Fictional_birds", "id": 854612}, {"name": "Theatrical_genres", "id": 1231826}, {"name": "Animals_and_humans", "id": 52196069}], "successors": []}
+{"name": "Bird_mascots", "id": 36384461, "predecessors": [{"name": "Animal_mascots", "id": 36383174}, {"name": "Fictional_birds", "id": 854612}], "successors": []}

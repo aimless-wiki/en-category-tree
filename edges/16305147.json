@@ -1,1 +1,1 @@
-{"name": "Mechanical_power_control", "id": 16305147, "predecessors": [{"name": "Mechanics", "id": 1028577}, {"name": "Force", "id": 1770374}], "successors": []}
+{"name": "Mechanical_power_control", "id": 16305147, "predecessors": [{"name": "Mechanics", "id": 1028577}, {"name": "Energy", "id": 865456}], "successors": []}

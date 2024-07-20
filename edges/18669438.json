@@ -1,1 +1,1 @@
-{"name": "Deaths_from_breast_cancer", "id": 18669438, "predecessors": [{"name": "Breast_cancer", "id": 17092958}, {"name": "Deaths_from_cancer", "id": 18669378}], "successors": [{"name": "Deaths_from_breast_cancer_in_the_United_States", "id": 75601436}]}
+{"name": "Deaths_from_breast_cancer", "id": 18669438, "predecessors": [{"name": "Breast_cancer", "id": 17092958}], "successors": [{"name": "Deaths_from_breast_cancer_in_the_United_States", "id": 75601436}, {"name": "Deaths_from_breast_cancer_in_England", "id": 75675044}]}

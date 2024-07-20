@@ -1,1 +1,1 @@
-{"name": "Animatronic_attractions", "id": 33908513, "predecessors": [{"name": "Entertainment", "id": 693016}, {"name": "Wikipedia_categorization", "id": 1036222}], "successors": [{"name": "Audio-Animatronic_attractions", "id": 33899907}]}
+{"name": "Animatronic_attractions", "id": 33908513, "predecessors": [{"name": "Amusement_rides", "id": 954048}, {"name": "Entertainment", "id": 693016}], "successors": [{"name": "Audio-Animatronic_attractions", "id": 33899907}]}

@@ -1,1 +1,1 @@
-{"name": "BBC_television_comedy", "id": 6218438, "predecessors": [{"name": "British_comedy_television_shows", "id": 36417956}, {"name": "BBC", "id": 698718}], "successors": [{"name": "BBC_television_sitcoms", "id": 4589531}, {"name": "BBC_television_sketch_shows", "id": 49287346}]}
+{"name": "BBC_television_comedy", "id": 6218438, "predecessors": [{"name": "British_comedy_television_shows", "id": 36417956}], "successors": [{"name": "BBC_television_sketch_shows", "id": 49287346}]}

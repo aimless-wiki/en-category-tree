@@ -1,1 +1,1 @@
-{"name": "RWE", "id": 27711876, "predecessors": [{"name": "Essen", "id": 5574588}, {"name": "Nuclear_power", "id": 8388255}], "successors": []}
+{"name": "RWE", "id": 27711876, "predecessors": [{"name": "Nuclear_power", "id": 8388255}, {"name": "Rhineland", "id": 27913017}], "successors": []}

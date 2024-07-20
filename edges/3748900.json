@@ -1,1 +1,1 @@
-{"name": "German_neuroscientists", "id": 3748900, "predecessors": [{"name": "German_medical_researchers", "id": 14076575}, {"name": "Contents", "id": 14105005}, {"name": "Occupations", "id": 787658}], "successors": [{"name": "German_neurologists", "id": 9575936}]}
+{"name": "German_neuroscientists", "id": 3748900, "predecessors": [{"name": "German_medical_researchers", "id": 14076575}, {"name": "Contents", "id": 14105005}, {"name": "Occupations", "id": 787658}, {"name": "Neuroscience", "id": 714648}], "successors": [{"name": "German_neurologists", "id": 9575936}]}

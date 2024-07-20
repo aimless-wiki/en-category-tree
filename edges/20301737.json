@@ -1,1 +1,1 @@
-{"name": "French_columnists", "id": 20301737, "predecessors": [{"name": "French_journalists", "id": 1433945}, {"name": "Mass_media_by_country", "id": 1039160}], "successors": []}
+{"name": "French_columnists", "id": 20301737, "predecessors": [{"name": "French_journalists", "id": 1433945}, {"name": "Journalism", "id": 698307}], "successors": [{"name": "French_editorial_cartoonists", "id": 64205127}]}

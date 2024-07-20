@@ -1,1 +1,1 @@
-{"name": "152_mm_artillery", "id": 1301334, "predecessors": [{"name": "Cannon", "id": 11381901}], "successors": []}
+{"name": "152_mm_artillery", "id": 1301334, "predecessors": [{"name": "Ballistics", "id": 981903}], "successors": []}

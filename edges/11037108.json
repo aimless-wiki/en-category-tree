@@ -1,1 +1,1 @@
-{"name": "Cat_diseases", "id": 11037108, "predecessors": [{"name": "Domesticated_animals", "id": 706779}, {"name": "Eating_behaviors", "id": 1476452}], "successors": []}
+{"name": "Cat_diseases", "id": 11037108, "predecessors": [{"name": "Zoology", "id": 694590}, {"name": "Integers", "id": 736448}], "successors": []}

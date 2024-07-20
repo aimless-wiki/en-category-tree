@@ -1,1 +1,1 @@
-{"name": "Science_fiction_board_games", "id": 3545837, "predecessors": [{"name": "Science_fiction_games", "id": 4472543}, {"name": "Board_games", "id": 9205892}], "successors": [{"name": "Science_fiction_board_wargames", "id": 67683551}]}
+{"name": "Science_fiction_board_games", "id": 3545837, "predecessors": [{"name": "Science_fiction_games", "id": 4472543}], "successors": [{"name": "Science_fiction_board_wargames", "id": 67683551}]}

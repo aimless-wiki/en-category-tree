@@ -1,1 +1,1 @@
-{"name": "Individual_cars", "id": 50560293, "predecessors": [{"name": "Land_tenure", "id": 49153374}], "successors": [{"name": "Fictional_cars", "id": 1648074}, {"name": "Concept_cars", "id": 4929536}]}
+{"name": "Individual_cars", "id": 50560293, "predecessors": [{"name": "Land_tenure", "id": 49153374}, {"name": "Culture", "id": 694861}], "successors": [{"name": "Fictional_cars", "id": 1648074}, {"name": "Concept_cars", "id": 4929536}]}

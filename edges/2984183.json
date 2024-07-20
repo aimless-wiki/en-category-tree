@@ -1,1 +1,1 @@
-{"name": "Restaurants_in_Paris", "id": 2984183, "predecessors": [{"name": "Tourist_attractions_in_Paris", "id": 4569477}, {"name": "Architecture", "id": 708984}, {"name": "Culture_of_France", "id": 715456}, {"name": "Buildings_and_structures_by_type", "id": 6884364}], "successors": []}
+{"name": "Restaurants_in_Paris", "id": 2984183, "predecessors": [{"name": "Tourist_attractions_in_Paris", "id": 4569477}, {"name": "Buildings_and_structures_by_type", "id": 6884364}, {"name": "Culture_of_France", "id": 715456}], "successors": []}

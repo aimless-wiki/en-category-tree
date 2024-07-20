@@ -1,1 +1,1 @@
-{"name": "Nepenthes", "id": 5417684, "predecessors": [{"name": "Eating_behaviors", "id": 1476452}], "successors": [{"name": "Nepenthes_stubs", "id": 14461406}, {"name": "Nepenthes_by_synonymy", "id": 26415262}, {"name": "Nepenthes_by_common_name", "id": 28811399}]}
+{"name": "Nepenthes", "id": 5417684, "predecessors": [{"name": "Caryophyllales", "id": 1368981}, {"name": "Plants", "id": 867260}], "successors": [{"name": "Nepenthes_stubs", "id": 14461406}, {"name": "Nepenthes_by_synonymy", "id": 26415262}, {"name": "Nepenthes_by_common_name", "id": 28811399}]}

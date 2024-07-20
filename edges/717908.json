@@ -1,1 +1,1 @@
-{"name": "Catalysts", "id": 717908, "predecessors": [{"name": "Catalysis", "id": 19328571}, {"name": "Chemical_kinetics", "id": 1922903}], "successors": [{"name": "Enzymes", "id": 702815}]}
+{"name": "Catalysts", "id": 717908, "predecessors": [{"name": "Catalysis", "id": 19328571}, {"name": "Chemical_kinetics", "id": 1922903}, {"name": "Manufacturing", "id": 867519}], "successors": [{"name": "Enzymes", "id": 702815}]}

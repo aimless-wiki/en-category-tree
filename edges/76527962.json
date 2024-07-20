@@ -1,1 +1,1 @@
-{"name": "Frogs_of_Brazil", "id": 76527962, "predecessors": [{"name": "Animal_anatomy", "id": 3120301}, {"name": "Wikipedia_categorization", "id": 1036222}], "successors": [{"name": "Endemic_frogs_of_Brazil", "id": 76546731}]}
+{"name": "Frogs_of_Brazil", "id": 76527962, "predecessors": [{"name": "Frogs_of_South_America", "id": 44210353}, {"name": "Evolutionary_biology", "id": 714501}, {"name": "Plate_tectonics", "id": 717341}], "successors": [{"name": "Endemic_frogs_of_Brazil", "id": 76546731}]}

@@ -1,1 +1,1 @@
-{"name": "Tile-matching_video_games", "id": 34535185, "predecessors": [{"name": "Puzzle_video_games", "id": 10615049}, {"name": "Entertainment", "id": 693016}], "successors": [{"name": "Falling_block_puzzle_games", "id": 7034581}]}
+{"name": "Tile-matching_video_games", "id": 34535185, "predecessors": [{"name": "Puzzle_video_games", "id": 10615049}, {"name": "Computer_graphics", "id": 735771}], "successors": [{"name": "Falling_block_puzzle_games", "id": 7034581}]}

@@ -1,1 +1,1 @@
-{"name": "Conditions_diagnosed_by_stool_test", "id": 9046250, "predecessors": [{"name": "Gastroenterology", "id": 701879}, {"name": "Feces", "id": 5120590}, {"name": "Causes_of_death", "id": 5271061}], "successors": [{"name": "People_with_ulcerative_colitis", "id": 75108529}]}
+{"name": "Conditions_diagnosed_by_stool_test", "id": 9046250, "predecessors": [{"name": "Feces", "id": 5120590}, {"name": "Causes_of_death", "id": 5271061}], "successors": [{"name": "People_with_ulcerative_colitis", "id": 75108529}]}

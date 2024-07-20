@@ -1,1 +1,1 @@
-{"name": "Phenols", "id": 725874, "predecessors": [{"name": "Aromatic_compounds", "id": 1369194}], "successors": [{"name": "Polyphenols", "id": 24201958}]}
+{"name": "Phenols", "id": 725874, "predecessors": [{"name": "Aromatic_compounds", "id": 1369194}], "successors": [{"name": "Polyphenols", "id": 24201958}, {"name": "Catechols", "id": 28878002}, {"name": "Resorcinols", "id": 29145312}]}

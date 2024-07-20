@@ -1,1 +1,1 @@
-{"name": "Deaths_from_liver_failure", "id": 69410726, "predecessors": [{"name": "Deaths_from_liver_disease", "id": 19627544}, {"name": "Anatomy", "id": 692380}], "successors": []}
+{"name": "Deaths_from_liver_failure", "id": 69410726, "predecessors": [{"name": "Deaths_from_liver_disease", "id": 19627544}, {"name": "Causes_of_death", "id": 5271061}], "successors": []}

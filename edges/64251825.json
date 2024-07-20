@@ -1,1 +1,1 @@
-{"name": "Mixed_anion_compounds", "id": 64251825, "predecessors": [{"name": "Chemical_bonding", "id": 1922892}], "successors": [{"name": "Oxyfluorides", "id": 71528627}]}
+{"name": "Mixed_anion_compounds", "id": 64251825, "predecessors": [{"name": "Condensed_matter_physics", "id": 692176}, {"name": "Manufacturing", "id": 867519}], "successors": [{"name": "Oxyfluorides", "id": 71528627}]}

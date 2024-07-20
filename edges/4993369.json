@@ -1,1 +1,1 @@
-{"name": "Executed_royalty", "id": 4993369, "predecessors": [{"name": "Monarchy", "id": 1238063}, {"name": "Capital_punishment", "id": 3519519}], "successors": [{"name": "Executed_monarchs", "id": 19009627}]}
+{"name": "Executed_royalty", "id": 4993369, "predecessors": [{"name": "Monarchy", "id": 1238063}], "successors": [{"name": "Executed_monarchs", "id": 19009627}]}

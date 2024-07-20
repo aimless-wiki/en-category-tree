@@ -1,1 +1,1 @@
-{"name": "Costs", "id": 1656617, "predecessors": [{"name": "Management_accounting", "id": 1228633}, {"name": "Pricing", "id": 1227023}, {"name": "Corporate_finance", "id": 1654984}], "successors": []}
+{"name": "Costs", "id": 1656617, "predecessors": [{"name": "Management_accounting", "id": 1228633}, {"name": "Pricing", "id": 1227023}, {"name": "Production_economics", "id": 28228085}, {"name": "Corporate_finance", "id": 1654984}], "successors": []}

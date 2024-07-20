@@ -1,1 +1,1 @@
-{"name": "Industrial_computing", "id": 14236835, "predecessors": [{"name": "Industrial_engineering", "id": 11034627}, {"name": "Academic_disciplines", "id": 693763}], "successors": [{"name": "3D_printing", "id": 33961970}]}
+{"name": "Industrial_computing", "id": 14236835, "predecessors": [{"name": "Industrial_engineering", "id": 11034627}, {"name": "Control_engineering", "id": 9935559}, {"name": "Academic_disciplines", "id": 693763}], "successors": [{"name": "3D_printing", "id": 33961970}]}

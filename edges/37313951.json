@@ -1,1 +1,1 @@
-{"name": "Indian_materials_scientists", "id": 37313951, "predecessors": [{"name": "Indian_scientists", "id": 1066053}], "successors": [{"name": "Indian_condensed_matter_physicists", "id": 55533783}]}
+{"name": "Indian_materials_scientists", "id": 37313951, "predecessors": [{"name": "Indian_scientists", "id": 1066053}, {"name": "Materials_scientists_and_engineers", "id": 4195315}], "successors": [{"name": "Indian_condensed_matter_physicists", "id": 55533783}]}

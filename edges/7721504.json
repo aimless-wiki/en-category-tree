@@ -1,1 +1,1 @@
-{"name": "Botany_books", "id": 7721504, "predecessors": [{"name": "Natural_history_books", "id": 25214614}], "successors": [{"name": "Botany_book_stubs", "id": 42193870}, {"name": "Florae_(publication)", "id": 44386502}]}
+{"name": "Botany_books", "id": 7721504, "predecessors": [{"name": "Biology_books", "id": 1224374}, {"name": "Natural_history_books", "id": 25214614}, {"name": "Academic_disciplines", "id": 693763}], "successors": [{"name": "Botany_book_stubs", "id": 42193870}, {"name": "Florae_(publication)", "id": 44386502}]}

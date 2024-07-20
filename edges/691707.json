@@ -1,1 +1,1 @@
-{"name": "Spacecraft_propulsion", "id": 691707, "predecessors": [{"name": "Astrodynamics", "id": 976577}, {"name": "Rocketry", "id": 1421160}], "successors": [{"name": "Expendable_space_launch_systems", "id": 33617537}]}
+{"name": "Spacecraft_propulsion", "id": 691707, "predecessors": [{"name": "Astrodynamics", "id": 976577}, {"name": "Energy", "id": 865456}, {"name": "Rocketry", "id": 1421160}], "successors": [{"name": "Expendable_space_launch_systems", "id": 33617537}]}

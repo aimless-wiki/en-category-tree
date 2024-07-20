@@ -1,1 +1,1 @@
-{"name": "Deaths_from_throat_cancer_in_California", "id": 75613893, "predecessors": [{"name": "Deaths_from_cancer_in_California", "id": 19530072}, {"name": "Deaths_from_throat_cancer_in_the_United_States", "id": 75613897}], "successors": [{"name": "Deaths_from_esophageal_cancer_in_California", "id": 76517919}]}
+{"name": "Deaths_from_throat_cancer_in_California", "id": 75613893, "predecessors": [{"name": "Deaths_from_throat_cancer_in_the_United_States", "id": 75613897}], "successors": [{"name": "Deaths_from_esophageal_cancer_in_California", "id": 76517919}]}

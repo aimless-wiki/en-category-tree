@@ -1,1 +1,1 @@
-{"name": "Birds_of_New_Zealand", "id": 9368118, "predecessors": [{"name": "Birds", "id": 953524}, {"name": "Biogeography", "id": 1902120}], "successors": [{"name": "Extinct_birds_of_New_Zealand", "id": 27237450}]}
+{"name": "Birds_of_New_Zealand", "id": 9368118, "predecessors": [{"name": "Birds_of_Oceania", "id": 24666679}, {"name": "Birds", "id": 953524}, {"name": "Biogeography", "id": 1902120}], "successors": [{"name": "Extinct_birds_of_New_Zealand", "id": 27237450}, {"name": "Endemic_birds_of_New_Zealand", "id": 64390348}]}

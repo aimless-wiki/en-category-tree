@@ -1,1 +1,1 @@
-{"name": "Coastal_engineering", "id": 13398091, "predecessors": [{"name": "Coastal_geography", "id": 2667953}], "successors": []}
+{"name": "Coastal_engineering", "id": 13398091, "predecessors": [{"name": "Civil_engineering", "id": 905890}, {"name": "Coastal_geography", "id": 2667953}], "successors": []}

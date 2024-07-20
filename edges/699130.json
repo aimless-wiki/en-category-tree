@@ -1,1 +1,1 @@
-{"name": "Ring_theory", "id": 699130, "predecessors": [{"name": "Abstract_algebra", "id": 690672}], "successors": [{"name": "Integers", "id": 736448}, {"name": "Module_theory", "id": 763574}]}
+{"name": "Ring_theory", "id": 699130, "predecessors": [{"name": "Abstract_algebra", "id": 690672}], "successors": [{"name": "Field_(mathematics)", "id": 699129}, {"name": "Integers", "id": 736448}, {"name": "Module_theory", "id": 763574}, {"name": "Modular_arithmetic", "id": 702183}, {"name": "Finite_fields", "id": 7044225}]}

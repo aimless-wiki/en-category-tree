@@ -1,1 +1,1 @@
-{"name": "Index_numbers", "id": 5150530, "predecessors": [{"name": "Measurement", "id": 734262}, {"name": "Academic_disciplines", "id": 693763}], "successors": [{"name": "Economic_indicators", "id": 1019094}]}
+{"name": "Index_numbers", "id": 5150530, "predecessors": [{"name": "Measurement", "id": 734262}, {"name": "Data", "id": 16989227}, {"name": "Academic_disciplines", "id": 693763}], "successors": [{"name": "Economic_indicators", "id": 1019094}]}

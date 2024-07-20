@@ -1,1 +1,1 @@
-{"name": "Air_navigation_service_providers", "id": 37983318, "predecessors": [{"name": "Air_navigation", "id": 42462833}, {"name": "Government", "id": 697609}], "successors": []}
+{"name": "Air_navigation_service_providers", "id": 37983318, "predecessors": [{"name": "Air_navigation", "id": 42462833}, {"name": "Government", "id": 697609}, {"name": "Aviation_safety", "id": 38196030}], "successors": []}

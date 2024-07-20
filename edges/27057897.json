@@ -1,1 +1,1 @@
-{"name": "Revenue_services", "id": 27057897, "predecessors": [{"name": "Government", "id": 697609}, {"name": "Legal_entities", "id": 1125732}, {"name": "Public_administration", "id": 4108738}], "successors": [{"name": "Internal_Revenue_Service", "id": 3546477}]}
+{"name": "Revenue_services", "id": 27057897, "predecessors": [{"name": "Government", "id": 697609}, {"name": "Public_administration", "id": 4108738}], "successors": [{"name": "Internal_Revenue_Service", "id": 3546477}]}

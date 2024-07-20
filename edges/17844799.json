@@ -1,1 +1,1 @@
-{"name": "Multiplication", "id": 17844799, "predecessors": [{"name": "Elementary_arithmetic", "id": 1755138}, {"name": "Arithmetic", "id": 705736}], "successors": []}
+{"name": "Multiplication", "id": 17844799, "predecessors": [{"name": "Elementary_arithmetic", "id": 1755138}, {"name": "Abstract_algebra", "id": 690672}], "successors": []}

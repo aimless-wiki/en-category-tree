@@ -1,1 +1,1 @@
-{"name": "Residential_heating_appliances", "id": 39533330, "predecessors": [{"name": "Home_appliances", "id": 1392560}, {"name": "Building_automation", "id": 22863047}], "successors": []}
+{"name": "Residential_heating_appliances", "id": 39533330, "predecessors": [{"name": "Home_appliances", "id": 1392560}, {"name": "Heating", "id": 21742755}, {"name": "Building_automation", "id": 22863047}], "successors": []}

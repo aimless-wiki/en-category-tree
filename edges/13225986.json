@@ -1,1 +1,1 @@
-{"name": "Crime_novel_series", "id": 13225986, "predecessors": [{"name": "Crime_novels", "id": 3897163}, {"name": "Series_of_books", "id": 936033}], "successors": [{"name": "Maigret_novels", "id": 6911165}]}
+{"name": "Crime_novel_series", "id": 13225986, "predecessors": [{"name": "Crime_novels", "id": 3897163}, {"name": "Novel_series", "id": 5770301}], "successors": [{"name": "Maigret_novels", "id": 6911165}]}

@@ -1,1 +1,1 @@
-{"name": "Mechanical_vibrations", "id": 13532645, "predecessors": [{"name": "Mechanics", "id": 1028577}, {"name": "Cognition", "id": 1055995}], "successors": []}
+{"name": "Mechanical_vibrations", "id": 13532645, "predecessors": [{"name": "Mechanics", "id": 1028577}, {"name": "Structural_engineering", "id": 1600827}, {"name": "Cognition", "id": 1055995}, {"name": "Classical_mechanics", "id": 735875}], "successors": []}

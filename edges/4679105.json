@@ -1,1 +1,1 @@
-{"name": "Bengali_singers", "id": 4679105, "predecessors": [{"name": "Bengali_musicians", "id": 1471478}, {"name": "Singing", "id": 940526}], "successors": [{"name": "Bengali_playback_singers", "id": 37398894}]}
+{"name": "Bengali_singers", "id": 4679105, "predecessors": [{"name": "Bengali_musicians", "id": 1471478}, {"name": "Entertainment", "id": 693016}], "successors": [{"name": "Bengali_playback_singers", "id": 37398894}]}

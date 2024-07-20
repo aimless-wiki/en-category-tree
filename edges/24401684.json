@@ -1,1 +1,1 @@
-{"name": "Motor_yachts", "id": 24401684, "predecessors": [{"name": "Boat_types", "id": 886322}, {"name": "Culture", "id": 694861}], "successors": []}
+{"name": "Motor_yachts", "id": 24401684, "predecessors": [{"name": "Boat_types", "id": 886322}, {"name": "Maritime_culture", "id": 18335592}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Tourist_attractions_in_Paris", "id": 4569477, "predecessors": [{"name": "Wikipedia_categorization", "id": 1036222}], "successors": [{"name": "Restaurants_in_Paris", "id": 2984183}, {"name": "Theatres_in_Paris", "id": 3420611}]}
+{"name": "Tourist_attractions_in_Paris", "id": 4569477, "predecessors": [{"name": "Wikipedia_categorization", "id": 1036222}], "successors": [{"name": "Restaurants_in_Paris", "id": 2984183}, {"name": "Museums_in_Paris", "id": 2987763}, {"name": "Theatres_in_Paris", "id": 3420611}, {"name": "Squares_in_Paris", "id": 10610408}]}

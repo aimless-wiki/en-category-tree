@@ -1,1 +1,1 @@
-{"name": "Pyrrolidines", "id": 5253178, "predecessors": [{"name": "Amines", "id": 725878}, {"name": "Nitrogen_heterocycles", "id": 3197412}, {"name": "Hydrogen_compounds", "id": 1675024}], "successors": [{"name": "1-Pyrrolidinyl_compounds", "id": 74581453}]}
+{"name": "Pyrrolidines", "id": 5253178, "predecessors": [{"name": "Amines", "id": 725878}, {"name": "Nitrogen_heterocycles", "id": 3197412}, {"name": "Manufacturing", "id": 867519}], "successors": [{"name": "1-Pyrrolidinyl_compounds", "id": 74581453}]}

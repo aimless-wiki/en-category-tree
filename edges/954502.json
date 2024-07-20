@@ -1,1 +1,1 @@
-{"name": "Baseball_rules", "id": 954502, "predecessors": [{"name": "Games_of_physical_skill", "id": 8429269}, {"name": "Sports_rules_and_regulations", "id": 14543951}], "successors": [{"name": "Major_League_Baseball_draft", "id": 13610641}]}
+{"name": "Baseball_rules", "id": 954502, "predecessors": [{"name": "Games_of_physical_skill", "id": 8429269}], "successors": [{"name": "Major_League_Baseball_draft", "id": 13610641}]}

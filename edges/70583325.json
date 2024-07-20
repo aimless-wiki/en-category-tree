@@ -1,1 +1,1 @@
-{"name": "IBM_PS/2", "id": 70583325, "predecessors": [{"name": "IBM", "id": 768637}], "successors": []}
+{"name": "IBM_PS/2", "id": 70583325, "predecessors": [{"name": "IBM_PC_compatibles", "id": 1094042}], "successors": []}

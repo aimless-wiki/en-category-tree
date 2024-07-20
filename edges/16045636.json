@@ -1,1 +1,1 @@
-{"name": "Italian_horror_films", "id": 16045636, "predecessors": [{"name": "Film_genres", "id": 3008852}, {"name": "Fiction", "id": 692981}, {"name": "Culture_of_Europe", "id": 709679}], "successors": []}
+{"name": "Italian_horror_films", "id": 16045636, "predecessors": [{"name": "Film_genres", "id": 3008852}, {"name": "Fiction", "id": 692981}, {"name": "Culture_of_Europe", "id": 709679}], "successors": [{"name": "Italian_slasher_films", "id": 52021142}, {"name": "Italian_supernatural_horror_films", "id": 60374813}, {"name": "Italian_splatter_films", "id": 71255501}]}

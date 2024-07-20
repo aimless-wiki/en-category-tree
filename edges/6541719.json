@@ -1,1 +1,1 @@
-{"name": "Economic_planning", "id": 6541719, "predecessors": [{"name": "Planning", "id": 7297152}, {"name": "Socialism", "id": 724437}, {"name": "Contents", "id": 14105005}], "successors": [{"name": "Price_controls", "id": 39402112}]}
+{"name": "Economic_planning", "id": 6541719, "predecessors": [{"name": "Planning", "id": 7297152}, {"name": "Socialism", "id": 724437}, {"name": "Capitalism", "id": 1775609}, {"name": "Apex_predators", "id": 45401087}], "successors": [{"name": "Price_controls", "id": 39402112}]}

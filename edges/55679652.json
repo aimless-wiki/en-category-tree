@@ -1,1 +1,1 @@
-{"name": "Cotton_industry_in_England", "id": 55679652, "predecessors": [{"name": "Agriculture", "id": 694871}, {"name": "British_fashion", "id": 10213906}], "successors": []}
+{"name": "Cotton_industry_in_England", "id": 55679652, "predecessors": [{"name": "Agriculture", "id": 694871}, {"name": "British_fashion", "id": 10213906}, {"name": "Textile_arts", "id": 945184}], "successors": [{"name": "Textile_mills_owned_by_the_Lancashire_Cotton_Corporation", "id": 25998809}]}

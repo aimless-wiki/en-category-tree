@@ -1,1 +1,1 @@
-{"name": "MSX_games", "id": 729526, "predecessors": [{"name": "Computer_architecture", "id": 869984}, {"name": "Microsoft", "id": 695113}, {"name": "Personal_computers", "id": 707673}, {"name": "Computing_platforms", "id": 973745}], "successors": [{"name": "MSX_game_covers", "id": 5581066}]}
+{"name": "MSX_games", "id": 729526, "predecessors": [{"name": "Computer_architecture", "id": 869984}, {"name": "Personal_computers", "id": 707673}, {"name": "Computing_platforms", "id": 973745}], "successors": [{"name": "MSX_game_covers", "id": 5581066}]}

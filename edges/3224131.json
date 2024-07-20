@@ -1,1 +1,1 @@
-{"name": "Convex_analysis", "id": 3224131, "predecessors": [{"name": "Convex_geometry", "id": 1708097}], "successors": []}
+{"name": "Convex_analysis", "id": 3224131, "predecessors": [{"name": "Convex_geometry", "id": 1708097}, {"name": "Calculus_of_variations", "id": 1241293}], "successors": [{"name": "Convex_optimization", "id": 29130720}]}

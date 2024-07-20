@@ -1,1 +1,1 @@
-{"name": "Communist_books", "id": 3109241, "predecessors": [{"name": "Documents", "id": 694072}], "successors": [{"name": "Marxist_books", "id": 34665315}]}
+{"name": "Communist_books", "id": 3109241, "predecessors": [{"name": "Communism", "id": 722710}, {"name": "Documents", "id": 694072}], "successors": [{"name": "Marxist_books", "id": 34665315}]}

@@ -1,1 +1,1 @@
-{"name": "Inflatable_manufactured_goods", "id": 22730571, "predecessors": [{"name": "Goods_(economics)", "id": 1625839}, {"name": "Furniture", "id": 965851}], "successors": [{"name": "Tires", "id": 2341191}]}
+{"name": "Inflatable_manufactured_goods", "id": 22730571, "predecessors": [{"name": "Gas_technologies", "id": 19500591}, {"name": "Portable_furniture", "id": 67804434}, {"name": "Goods_(economics)", "id": 1625839}], "successors": [{"name": "Tires", "id": 2341191}]}

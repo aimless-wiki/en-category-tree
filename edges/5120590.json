@@ -1,1 +1,1 @@
-{"name": "Feces", "id": 5120590, "predecessors": [{"name": "Body_fluids", "id": 4878515}, {"name": "Animal_physiology", "id": 1648315}, {"name": "Animals_and_humans", "id": 52196069}], "successors": [{"name": "Conditions_diagnosed_by_stool_test", "id": 9046250}, {"name": "Scarabaeinae", "id": 22085967}]}
+{"name": "Feces", "id": 5120590, "predecessors": [{"name": "Body_fluids", "id": 4878515}, {"name": "Animal_physiology", "id": 1648315}, {"name": "Animals_and_humans", "id": 52196069}], "successors": [{"name": "Conditions_diagnosed_by_stool_test", "id": 9046250}]}

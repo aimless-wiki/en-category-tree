@@ -1,1 +1,1 @@
-{"name": "Matrices", "id": 821959, "predecessors": [{"name": "Linear_algebra", "id": 690777}, {"name": "Linear_operators", "id": 22834535}, {"name": "Abstraction", "id": 902386}], "successors": [{"name": "Matrix_stubs", "id": 74577775}]}
+{"name": "Matrices", "id": 821959, "predecessors": [{"name": "Linear_algebra", "id": 690777}, {"name": "Linear_operators", "id": 22834535}, {"name": "Matrix_theory", "id": 692453}, {"name": "Abstraction", "id": 902386}], "successors": [{"name": "Matrix_stubs", "id": 74577775}]}

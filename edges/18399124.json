@@ -1,1 +1,1 @@
-{"name": "French_autobiographers", "id": 18399124, "predecessors": [{"name": "Autobiographers", "id": 1814282}], "successors": [{"name": "French_memoirists", "id": 2679658}]}
+{"name": "French_autobiographers", "id": 18399124, "predecessors": [{"name": "French_biographers", "id": 2679395}, {"name": "Autobiographies", "id": 1088199}, {"name": "Autobiographers", "id": 1814282}], "successors": [{"name": "French_memoirists", "id": 2679658}]}

@@ -1,1 +1,1 @@
-{"name": "Actinides", "id": 944451, "predecessors": [{"name": "Metals", "id": 744693}], "successors": [{"name": "Uranium", "id": 4133461}, {"name": "Uranium(VI)_minerals", "id": 60818851}]}
+{"name": "Actinides", "id": 944451, "predecessors": [{"name": "Metals", "id": 744693}, {"name": "Chemical_elements", "id": 691255}], "successors": [{"name": "Uranium", "id": 4133461}, {"name": "Uranium(VI)_minerals", "id": 60818851}]}

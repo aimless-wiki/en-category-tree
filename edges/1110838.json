@@ -1,1 +1,1 @@
-{"name": "Finite_groups", "id": 1110838, "predecessors": [{"name": "Algebraic_structures", "id": 20103544}, {"name": "Group_theory", "id": 23087655}], "successors": []}
+{"name": "Finite_groups", "id": 1110838, "predecessors": [{"name": "Algebraic_structures", "id": 20103544}, {"name": "Group_theory", "id": 23087655}], "successors": [{"name": "Sporadic_groups", "id": 1188329}]}

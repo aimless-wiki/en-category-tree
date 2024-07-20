@@ -1,1 +1,1 @@
-{"name": "Artist-run_centres", "id": 5731141, "predecessors": [{"name": "Visual_arts_exhibitions", "id": 1708860}, {"name": "Cultural_lists", "id": 9592135}, {"name": "Design", "id": 999651}, {"name": "The_arts", "id": 4892515}], "successors": []}
+{"name": "Artist-run_centres", "id": 5731141, "predecessors": [{"name": "Visual_arts_exhibitions", "id": 1708860}, {"name": "Cultural_lists", "id": 9592135}, {"name": "The_arts", "id": 4892515}, {"name": "Occupations", "id": 787658}], "successors": []}

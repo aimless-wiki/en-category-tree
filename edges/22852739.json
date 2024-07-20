@@ -1,1 +1,1 @@
-{"name": "Miocene_volcanism", "id": 22852739, "predecessors": [{"name": "Humanitarian_aid", "id": 1064501}], "successors": []}
+{"name": "Miocene_volcanism", "id": 22852739, "predecessors": [{"name": "Earth", "id": 754965}, {"name": "Chronology", "id": 1013214}, {"name": "Igneous_petrology", "id": 33026446}, {"name": "Humanitarian_aid", "id": 1064501}], "successors": [{"name": "Miocene_volcanoes", "id": 22579561}]}

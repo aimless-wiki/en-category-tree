@@ -1,1 +1,1 @@
-{"name": "Numerical_analysts", "id": 5328853, "predecessors": [{"name": "Academic_disciplines", "id": 693763}], "successors": []}
+{"name": "Numerical_analysts", "id": 5328853, "predecessors": [{"name": "Numerical_analysis", "id": 697506}, {"name": "Computational_science", "id": 1903566}, {"name": "Academic_disciplines", "id": 693763}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Art_pop_albums", "id": 51061645, "predecessors": [{"name": "Music_genres", "id": 4826123}, {"name": "Pop_art", "id": 707618}], "successors": []}
+{"name": "Art_pop_albums", "id": 51061645, "predecessors": [{"name": "Pop_art", "id": 707618}], "successors": []}

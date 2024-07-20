@@ -1,1 +1,1 @@
-{"name": "Deaths_by_stabbing_in_the_United_States", "id": 37997219, "predecessors": [{"name": "Stabbing_attacks_in_the_United_States", "id": 55339339}, {"name": "Deaths_by_stabbing", "id": 16014545}, {"name": "Crime", "id": 1183180}], "successors": [{"name": "Deaths_by_stabbing_in_California", "id": 54176594}]}
+{"name": "Deaths_by_stabbing_in_the_United_States", "id": 37997219, "predecessors": [{"name": "Stabbing_attacks_in_the_United_States", "id": 55339339}, {"name": "Homicide", "id": 11692544}], "successors": [{"name": "Deaths_by_stabbing_in_California", "id": 54176594}]}

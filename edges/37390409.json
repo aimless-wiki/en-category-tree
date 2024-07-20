@@ -1,1 +1,1 @@
-{"name": "Solar_power_in_the_United_States_by_state_or_territory", "id": 37390409, "predecessors": [{"name": "Energy_in_the_United_States", "id": 7100993}], "successors": []}
+{"name": "Solar_power_in_the_United_States_by_state_or_territory", "id": 37390409, "predecessors": [{"name": "Solar_power", "id": 11720193}, {"name": "Energy_in_the_United_States", "id": 7100993}], "successors": []}

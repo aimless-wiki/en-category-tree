@@ -1,1 +1,1 @@
-{"name": "Artillery_tractors", "id": 3877103, "predecessors": [{"name": "Tractors", "id": 883796}, {"name": "Firearms", "id": 739385}, {"name": "Culture", "id": 694861}], "successors": []}
+{"name": "Artillery_tractors", "id": 3877103, "predecessors": [{"name": "Tractors", "id": 883796}, {"name": "Ballistics", "id": 981903}, {"name": "Culture", "id": 694861}], "successors": []}

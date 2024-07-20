@@ -1,1 +1,1 @@
-{"name": "Computer_printers", "id": 726997, "predecessors": [{"name": "Office_equipment", "id": 1111733}, {"name": "Machines", "id": 7810459}, {"name": "Engineering_disciplines", "id": 9930194}], "successors": []}
+{"name": "Computer_printers", "id": 726997, "predecessors": [{"name": "Office_equipment", "id": 1111733}, {"name": "Machines", "id": 7810459}, {"name": "Electrical_engineering", "id": 706415}], "successors": []}

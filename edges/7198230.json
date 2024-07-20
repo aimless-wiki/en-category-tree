@@ -1,1 +1,1 @@
-{"name": "Parasitic_plants", "id": 7198230, "predecessors": [{"name": "Microbiology", "id": 726300}], "successors": [{"name": "Myco-heterotrophic_orchids", "id": 41549188}]}
+{"name": "Parasitic_plants", "id": 7198230, "predecessors": [{"name": "Plants", "id": 867260}, {"name": "Microbiology", "id": 726300}], "successors": [{"name": "Myco-heterotrophic_orchids", "id": 41549188}]}

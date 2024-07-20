@@ -1,1 +1,1 @@
-{"name": "Eocene_birds", "id": 3666169, "predecessors": [{"name": "Animal_anatomy", "id": 3120301}], "successors": []}
+{"name": "Eocene_birds", "id": 3666169, "predecessors": [{"name": "Earth", "id": 754965}, {"name": "Integers", "id": 736448}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Cosmetics_chemicals", "id": 28553073, "predecessors": [{"name": "Cosmetics", "id": 1952489}, {"name": "Household_chemicals", "id": 1015680}, {"name": "Atomic_physics", "id": 697256}], "successors": [{"name": "Perfume_ingredients", "id": 15358804}]}
+{"name": "Cosmetics_chemicals", "id": 28553073, "predecessors": [{"name": "Household_chemicals", "id": 1015680}, {"name": "Manufacturing", "id": 867519}], "successors": [{"name": "Perfume_ingredients", "id": 15358804}]}

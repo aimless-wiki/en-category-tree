@@ -1,1 +1,1 @@
-{"name": "Bass_Strait", "id": 21074405, "predecessors": [{"name": "Bodies_of_water", "id": 2699217}], "successors": []}
+{"name": "Bass_Strait", "id": 21074405, "predecessors": [{"name": "Water", "id": 977553}, {"name": "Coastal_and_oceanic_landforms", "id": 11062641}], "successors": [{"name": "Islands_of_Bass_Strait", "id": 45344279}]}

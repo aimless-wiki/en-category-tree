@@ -1,1 +1,1 @@
-{"name": "Integral_calculus", "id": 1830068, "predecessors": [{"name": "Area", "id": 1777289}], "successors": []}
+{"name": "Integral_calculus", "id": 1830068, "predecessors": [{"name": "Area", "id": 1777289}, {"name": "Calculus", "id": 690803}], "successors": [{"name": "Stochastic_differential_equations", "id": 7139162}]}

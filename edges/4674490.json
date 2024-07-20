@@ -1,1 +1,1 @@
-{"name": "Accounting_systems", "id": 4674490, "predecessors": [{"name": "Information_systems", "id": 2978151}], "successors": [{"name": "Management_accounting", "id": 1228633}]}
+{"name": "Accounting_systems", "id": 4674490, "predecessors": [{"name": "Information_systems", "id": 2978151}, {"name": "Financial_services", "id": 1653309}], "successors": [{"name": "Management_accounting", "id": 1228633}]}

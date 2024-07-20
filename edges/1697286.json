@@ -1,1 +1,1 @@
-{"name": "Pneumatic_weapons", "id": 1697286, "predecessors": [{"name": "Fluid_mechanics", "id": 1162560}, {"name": "Military_education_and_training", "id": 1054901}], "successors": []}
+{"name": "Pneumatic_weapons", "id": 1697286, "predecessors": [{"name": "Gas_technologies", "id": 19500591}, {"name": "Military_education_and_training", "id": 1054901}], "successors": []}

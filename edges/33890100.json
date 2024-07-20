@@ -1,1 +1,1 @@
-{"name": "Grand_Prix_motorcycle_circuits", "id": 33890100, "predecessors": [{"name": "Grand_Prix_motorcycle_racing", "id": 4705140}], "successors": [{"name": "Isle_of_Man_TT", "id": 14672261}]}
+{"name": "Grand_Prix_motorcycle_circuits", "id": 33890100, "predecessors": [{"name": "Grand_Prix_motorcycle_racing", "id": 4705140}, {"name": "Culture", "id": 694861}], "successors": [{"name": "Isle_of_Man_TT", "id": 14672261}]}

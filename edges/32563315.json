@@ -1,1 +1,1 @@
-{"name": "Cardiovascular_physiology", "id": 32563315, "predecessors": [{"name": "Physiology", "id": 702173}, {"name": "Angiology", "id": 1482803}], "successors": [{"name": "Cardiac_electrophysiology", "id": 699213}]}
+{"name": "Cardiovascular_physiology", "id": 32563315, "predecessors": [{"name": "Physiology", "id": 702173}], "successors": [{"name": "Cardiac_electrophysiology", "id": 699213}]}

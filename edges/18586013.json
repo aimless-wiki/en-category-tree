@@ -1,1 +1,1 @@
-{"name": "Executed_prime_ministers", "id": 18586013, "predecessors": [{"name": "Legal_entities", "id": 1125732}, {"name": "Executed_politicians", "id": 1660227}], "successors": []}
+{"name": "Executed_prime_ministers", "id": 18586013, "predecessors": [{"name": "Government", "id": 697609}, {"name": "Executed_politicians", "id": 1660227}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Covariance_and_correlation", "id": 6535800, "predecessors": [{"name": "Summary_statistics", "id": 6537978}, {"name": "Probability_theory", "id": 693985}, {"name": "Data_analysis", "id": 14482748}], "successors": []}
+{"name": "Covariance_and_correlation", "id": 6535800, "predecessors": [{"name": "Probability_theory", "id": 693985}, {"name": "Data_analysis", "id": 14482748}], "successors": []}

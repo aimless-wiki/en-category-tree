@@ -1,1 +1,1 @@
-{"name": "Modal_logic", "id": 744034, "predecessors": [{"name": "Mathematical_logic", "id": 693685}, {"name": "Non-classical_logic", "id": 22166736}, {"name": "Linguistics", "id": 693798}], "successors": []}
+{"name": "Modal_logic", "id": 744034, "predecessors": [{"name": "Logic_in_computer_science", "id": 1010631}, {"name": "Mathematical_logic", "id": 693685}], "successors": []}
