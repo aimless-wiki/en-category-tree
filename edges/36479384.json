@@ -1,1 +1,1 @@
-{"name": "Equations_of_physics", "id": 36479384, "predecessors": [{"name": "Concepts_in_physics", "id": 36477012}], "successors": [{"name": "Equations_of_fluid_dynamics", "id": 8113698}, {"name": "Eponymous_equations_of_physics", "id": 75105898}]}
+{"name": "Equations_of_physics", "id": 36479384, "predecessors": [{"name": "Concepts_in_physics", "id": 36477012}, {"name": "Equations", "id": 1013712}], "successors": [{"name": "Equations_of_fluid_dynamics", "id": 8113698}, {"name": "Eponymous_equations_of_physics", "id": 75105898}]}

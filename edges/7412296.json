@@ -1,1 +1,1 @@
-{"name": "Cuneiform", "id": 7412296, "predecessors": [{"name": "Clay_tablets", "id": 29925718}, {"name": "Communication", "id": 709243}], "successors": [{"name": "Cuneiform_signs", "id": 40054155}]}
+{"name": "Cuneiform", "id": 7412296, "predecessors": [{"name": "Clay_tablets", "id": 29925718}, {"name": "Communication", "id": 709243}, {"name": "Writing_systems", "id": 694776}], "successors": [{"name": "Cuneiform_signs", "id": 40054155}]}

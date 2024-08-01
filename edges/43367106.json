@@ -1,1 +1,1 @@
-{"name": "Ranchers_from_California", "id": 43367106, "predecessors": [{"name": "Farmers_from_California", "id": 43366269}, {"name": "Agriculture", "id": 694871}], "successors": []}
+{"name": "Ranchers_from_California", "id": 43367106, "predecessors": [{"name": "Farmers_from_California", "id": 43366269}, {"name": "Agricultural_buildings", "id": 4145201}], "successors": []}

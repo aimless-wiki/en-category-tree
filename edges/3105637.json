@@ -1,1 +1,1 @@
-{"name": "Australian_newspaper_editors", "id": 3105637, "predecessors": [{"name": "Australian_journalists", "id": 839948}, {"name": "Newspaper_editors", "id": 1322387}], "successors": []}
+{"name": "Australian_newspaper_editors", "id": 3105637, "predecessors": [{"name": "Australian_editors", "id": 11520866}, {"name": "Australian_journalists", "id": 839948}, {"name": "Newspaper_editors", "id": 1322387}, {"name": "Wikipedia_categorization", "id": 1036222}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Health_effects_of_alcohol", "id": 47240138, "predecessors": [{"name": "Alcohol_and_health", "id": 41965046}, {"name": "Nutrition", "id": 9936002}, {"name": "Neuroscience", "id": 714648}], "successors": []}
+{"name": "Health_effects_of_alcohol", "id": 47240138, "predecessors": [{"name": "Alcohol_and_health", "id": 41965046}, {"name": "Drugs_acting_on_the_nervous_system", "id": 22001763}, {"name": "Nutrition", "id": 9936002}], "successors": []}

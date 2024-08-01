@@ -1,1 +1,1 @@
-{"name": "LG_Electronics_mobile_phones", "id": 10719122, "predecessors": [{"name": "Mobile_phones", "id": 1089542}, {"name": "Goods_(economics)", "id": 1625839}], "successors": [{"name": "LG_Electronics_smartphones", "id": 73047524}]}
+{"name": "LG_Electronics_mobile_phones", "id": 10719122, "predecessors": [{"name": "Mobile_phones", "id": 1089542}, {"name": "Goods_(economics)", "id": 1625839}, {"name": "Standards", "id": 724561}], "successors": [{"name": "LG_Electronics_smartphones", "id": 73047524}]}

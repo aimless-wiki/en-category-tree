@@ -1,1 +1,1 @@
-{"name": "Rolling_stock_leasing_companies", "id": 21212157, "predecessors": [{"name": "Land_tenure", "id": 49153374}], "successors": []}
+{"name": "Rolling_stock_leasing_companies", "id": 21212157, "predecessors": [{"name": "Transport_economics", "id": 3646902}, {"name": "Wheels", "id": 8982003}, {"name": "Renting", "id": 13682390}], "successors": []}

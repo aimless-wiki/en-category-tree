@@ -1,1 +1,1 @@
-{"name": "Uniform_polyhedra", "id": 2932702, "predecessors": [{"name": "Polyhedra", "id": 731400}], "successors": []}
+{"name": "Uniform_polyhedra", "id": 2932702, "predecessors": [{"name": "Polyhedra", "id": 731400}, {"name": "Polytopes", "id": 1216104}], "successors": [{"name": "Uniform_tilings", "id": 44206025}]}

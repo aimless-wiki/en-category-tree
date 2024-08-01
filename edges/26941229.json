@@ -1,1 +1,1 @@
-{"name": "Mythological_mountains", "id": 26941229, "predecessors": [{"name": "Cartography", "id": 716309}, {"name": "Landforms", "id": 705424}], "successors": [{"name": "Mount_Ararat", "id": 67076974}]}
+{"name": "Mythological_mountains", "id": 26941229, "predecessors": [{"name": "Landforms", "id": 705424}, {"name": "Earth", "id": 754965}], "successors": [{"name": "Mount_Ararat", "id": 67076974}]}

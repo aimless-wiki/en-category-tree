@@ -1,1 +1,1 @@
-{"name": "2015_suicides", "id": 62145091, "predecessors": [{"name": "2015_deaths", "id": 44870370}, {"name": "21st_century", "id": 884422}], "successors": [{"name": "Suicide_bombings_in_2015", "id": 61731277}]}
+{"name": "2015_suicides", "id": 62145091, "predecessors": [{"name": "2015_deaths", "id": 44870370}, {"name": "Causes_of_death", "id": 5271061}, {"name": "21st_century", "id": 884422}], "successors": [{"name": "Suicide_bombings_in_2015", "id": 61731277}]}

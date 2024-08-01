@@ -1,1 +1,1 @@
-{"name": "Sirius_XM_Radio_channels", "id": 64695372, "predecessors": [{"name": "Broadcasting", "id": 765733}, {"name": "Communications_satellite_operators", "id": 22178661}], "successors": []}
+{"name": "Sirius_XM_Radio_channels", "id": 64695372, "predecessors": [{"name": "Digital-only_radio_stations", "id": 40366699}, {"name": "Radio_technology", "id": 2959298}, {"name": "Communications_satellite_operators", "id": 22178661}], "successors": []}

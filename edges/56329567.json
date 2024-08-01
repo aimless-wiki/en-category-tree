@@ -1,1 +1,1 @@
-{"name": "Trauma_centers", "id": 56329567, "predecessors": [{"name": "Emergency_medicine", "id": 846798}, {"name": "Health_care", "id": 35880954}], "successors": []}
+{"name": "Trauma_centers", "id": 56329567, "predecessors": [{"name": "Emergency_medicine", "id": 846798}, {"name": "Health_care", "id": 35880954}], "successors": [{"name": "Pediatric_trauma_centers", "id": 66065169}]}

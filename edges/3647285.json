@@ -1,1 +1,1 @@
-{"name": "Dutch_art_collectors", "id": 3647285, "predecessors": [{"name": "Collecting", "id": 1053587}, {"name": "Dutch_language", "id": 2392492}], "successors": [{"name": "Art_collectors_from_Amsterdam", "id": 67820056}]}
+{"name": "Dutch_art_collectors", "id": 3647285, "predecessors": [{"name": "Collecting", "id": 1053587}, {"name": "Dutch_language", "id": 2392492}, {"name": "Culture", "id": 694861}], "successors": [{"name": "Art_collectors_from_Amsterdam", "id": 67820056}]}

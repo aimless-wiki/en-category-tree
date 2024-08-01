@@ -1,1 +1,1 @@
-{"name": "Medical_sign_stubs", "id": 3740605, "predecessors": [{"name": "Medicine_stubs", "id": 1258736}, {"name": "Contents", "id": 14105005}], "successors": []}
+{"name": "Medical_sign_stubs", "id": 3740605, "predecessors": [{"name": "Medical_signs", "id": 3738824}, {"name": "Medicine_stubs", "id": 1258736}, {"name": "Contents", "id": 14105005}], "successors": []}

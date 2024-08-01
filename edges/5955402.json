@@ -1,1 +1,1 @@
-{"name": "Bow_makers", "id": 5955402, "predecessors": [{"name": "Bowed_instruments", "id": 2754791}, {"name": "Musical_instruments", "id": 691595}], "successors": []}
+{"name": "Bow_makers", "id": 5955402, "predecessors": [{"name": "String_instrument_construction", "id": 2634956}, {"name": "Bowed_instruments", "id": 2754791}], "successors": []}

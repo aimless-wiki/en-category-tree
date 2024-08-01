@@ -1,1 +1,1 @@
-{"name": "Finance_ministries", "id": 8850231, "predecessors": [{"name": "Finance", "id": 718764}, {"name": "Legal_entities", "id": 1125732}], "successors": [{"name": "United_States_Department_of_the_Treasury", "id": 2099227}, {"name": "HM_Treasury", "id": 17478999}]}
+{"name": "Finance_ministries", "id": 8850231, "predecessors": [{"name": "Legal_entities", "id": 1125732}], "successors": [{"name": "United_States_Department_of_the_Treasury", "id": 2099227}, {"name": "HM_Treasury", "id": 17478999}]}

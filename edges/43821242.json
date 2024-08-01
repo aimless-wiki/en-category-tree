@@ -1,1 +1,1 @@
-{"name": "Deaths_by_stabbing_in_England", "id": 43821242, "predecessors": [{"name": "Homicide", "id": 11692544}], "successors": [{"name": "Deaths_by_stabbing_in_London", "id": 58138759}]}
+{"name": "Deaths_by_stabbing_in_England", "id": 43821242, "predecessors": [{"name": "Emergency_services", "id": 1318794}, {"name": "Countries_in_Europe", "id": 37691805}], "successors": [{"name": "Deaths_by_stabbing_in_London", "id": 58138759}]}

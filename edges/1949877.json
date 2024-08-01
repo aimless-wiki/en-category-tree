@@ -1,1 +1,1 @@
-{"name": "Dutch_sculptors", "id": 1949877, "predecessors": [{"name": "Dutch_artists", "id": 1032700}], "successors": [{"name": "Dutch_male_sculptors", "id": 52123613}]}
+{"name": "Dutch_sculptors", "id": 1949877, "predecessors": [{"name": "Dutch_artists", "id": 1032700}, {"name": "Sculpture", "id": 728026}], "successors": [{"name": "Dutch_male_sculptors", "id": 52123613}]}

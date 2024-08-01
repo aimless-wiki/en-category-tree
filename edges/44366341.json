@@ -1,1 +1,1 @@
-{"name": "GABAA_receptor_positive_allosteric_modulators", "id": 44366341, "predecessors": [{"name": "Neurotransmitters", "id": 717823}], "successors": [{"name": "Benzodiazepines", "id": 718005}, {"name": "Barbiturates", "id": 718202}]}
+{"name": "GABAA_receptor_positive_allosteric_modulators", "id": 44366341, "predecessors": [{"name": "Drugs", "id": 1325883}, {"name": "Neurotransmitters", "id": 717823}], "successors": [{"name": "Benzodiazepines", "id": 718005}, {"name": "Barbiturates", "id": 718202}]}

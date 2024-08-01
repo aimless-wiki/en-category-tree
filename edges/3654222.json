@@ -1,1 +1,1 @@
-{"name": "Herbal_and_fungal_hallucinogens", "id": 3654222, "predecessors": [{"name": "Entheogens", "id": 717783}, {"name": "Neuroscience", "id": 714648}, {"name": "Drugs", "id": 1325883}], "successors": [{"name": "Psychedelic_tryptamine_carriers", "id": 2004742}]}
+{"name": "Herbal_and_fungal_hallucinogens", "id": 3654222, "predecessors": [{"name": "Entheogens", "id": 717783}, {"name": "Biologically_based_therapies", "id": 5717653}, {"name": "Drugs_acting_on_the_nervous_system", "id": 22001763}], "successors": [{"name": "Psychedelic_tryptamine_carriers", "id": 2004742}]}

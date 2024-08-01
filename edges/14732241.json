@@ -1,1 +1,1 @@
-{"name": "Champagne_producers", "id": 14732241, "predecessors": [{"name": "Wineries_of_France", "id": 3725148}, {"name": "French_wine", "id": 6042284}], "successors": []}
+{"name": "Champagne_producers", "id": 14732241, "predecessors": [{"name": "Wineries_of_France", "id": 3725148}, {"name": "French_wine", "id": 6042284}, {"name": "NUTS_1_statistical_regions_of_the_European_Union", "id": 10955792}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Wine_brands", "id": 25069205, "predecessors": [{"name": "Fermented_drinks", "id": 4193389}, {"name": "Hydrogen_compounds", "id": 1675024}], "successors": []}
+{"name": "Wine_brands", "id": 25069205, "predecessors": [{"name": "Fermented_drinks", "id": 4193389}, {"name": "Food_industry", "id": 3540193}], "successors": []}

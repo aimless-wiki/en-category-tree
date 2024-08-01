@@ -1,1 +1,1 @@
-{"name": "Video_storage", "id": 764184, "predecessors": [{"name": "Video", "id": 7513737}, {"name": "Information_science", "id": 1009204}], "successors": [{"name": "DVD", "id": 1391301}, {"name": "Video_hosting", "id": 5141336}, {"name": "Compact_disc", "id": 40376857}]}
+{"name": "Video_storage", "id": 764184, "predecessors": [{"name": "Video", "id": 7513737}, {"name": "Mass_media_technology", "id": 14787852}], "successors": [{"name": "DVD", "id": 1391301}, {"name": "Video_hosting", "id": 5141336}, {"name": "Compact_disc", "id": 40376857}]}

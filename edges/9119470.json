@@ -1,1 +1,1 @@
-{"name": "Inventory", "id": 9119470, "predecessors": [{"name": "Logistics", "id": 1865158}, {"name": "Supply_chain_management", "id": 1229089}, {"name": "Corporate_finance", "id": 1654984}], "successors": [{"name": "Lean_manufacturing", "id": 42433975}]}
+{"name": "Inventory", "id": 9119470, "predecessors": [{"name": "Supply_chain_management", "id": 1229089}, {"name": "Corporate_finance", "id": 1654984}], "successors": [{"name": "Lean_manufacturing", "id": 42433975}]}

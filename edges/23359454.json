@@ -1,1 +1,1 @@
-{"name": "American_dermatologists", "id": 23359454, "predecessors": [{"name": "Dermatologists", "id": 1352188}], "successors": []}
+{"name": "American_dermatologists", "id": 23359454, "predecessors": [{"name": "American_physicians", "id": 1114283}, {"name": "Dermatologists", "id": 1352188}], "successors": []}

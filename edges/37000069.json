@@ -1,1 +1,1 @@
-{"name": "Circadian_rhythm", "id": 37000069, "predecessors": [{"name": "Physiology", "id": 702173}, {"name": "Sleep", "id": 910767}, {"name": "Branches_of_biology", "id": 37535091}], "successors": []}
+{"name": "Circadian_rhythm", "id": 37000069, "predecessors": [{"name": "Physiology", "id": 702173}, {"name": "Sleep", "id": 910767}, {"name": "Branches_of_biology", "id": 37535091}, {"name": "Chronology", "id": 1013214}], "successors": []}

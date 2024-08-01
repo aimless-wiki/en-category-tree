@@ -1,1 +1,1 @@
-{"name": "FK_Partizan_non-playing_staff", "id": 44121734, "predecessors": [{"name": "Football_clubs_in_Belgrade", "id": 39408858}, {"name": "Former_countries_in_Europe", "id": 2570727}], "successors": []}
+{"name": "FK_Partizan_non-playing_staff", "id": 44121734, "predecessors": [{"name": "Football_clubs_in_Belgrade", "id": 39408858}], "successors": []}

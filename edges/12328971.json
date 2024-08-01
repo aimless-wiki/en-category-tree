@@ -1,1 +1,1 @@
-{"name": "People_murdered_in_Mexico", "id": 12328971, "predecessors": [{"name": "Homicide", "id": 11692544}], "successors": [{"name": "Journalists_killed_in_the_Mexican_Drug_War", "id": 46620754}]}
+{"name": "People_murdered_in_Mexico", "id": 12328971, "predecessors": [{"name": "Murder", "id": 1167833}, {"name": "American_studies", "id": 11134134}, {"name": "Crime", "id": 1183180}], "successors": [{"name": "Journalists_killed_in_the_Mexican_Drug_War", "id": 46620754}]}

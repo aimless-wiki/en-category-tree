@@ -1,1 +1,1 @@
-{"name": "Equity_securities", "id": 1661503, "predecessors": [{"name": "Corporate_finance", "id": 1654984}], "successors": [{"name": "Stock_market", "id": 988245}, {"name": "Private_equity", "id": 1345705}]}
+{"name": "Equity_securities", "id": 1661503, "predecessors": [{"name": "Corporate_finance", "id": 1654984}, {"name": "Securities_(finance)", "id": 41030240}], "successors": [{"name": "Stock_market", "id": 988245}, {"name": "Private_equity", "id": 1345705}]}

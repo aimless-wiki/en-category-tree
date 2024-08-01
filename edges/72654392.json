@@ -1,1 +1,1 @@
-{"name": "Attacks_on_buildings_and_structures_in_2023", "id": 72654392, "predecessors": [{"name": "Crimes", "id": 694944}, {"name": "Conflicts_in_2023", "id": 72575591}], "successors": [{"name": "2023_building_bombings", "id": 73462119}]}
+{"name": "Attacks_on_buildings_and_structures_in_2023", "id": 72654392, "predecessors": [{"name": "Violence", "id": 692173}, {"name": "2020s_conflicts", "id": 62786810}, {"name": "Conflicts_in_2023", "id": 72575591}], "successors": [{"name": "2023_building_bombings", "id": 73462119}]}

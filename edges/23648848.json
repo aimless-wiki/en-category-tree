@@ -1,1 +1,1 @@
-{"name": "Mountain_bike_orienteers", "id": 23648848, "predecessors": [{"name": "Geopositioning", "id": 65171883}, {"name": "Cycling", "id": 841814}], "successors": []}
+{"name": "Mountain_bike_orienteers", "id": 23648848, "predecessors": [{"name": "Hiking", "id": 965797}], "successors": []}

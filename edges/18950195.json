@@ -1,1 +1,1 @@
-{"name": "British_solicitors", "id": 18950195, "predecessors": [{"name": "Justice", "id": 2388327}], "successors": [{"name": "English_solicitors", "id": 10132361}, {"name": "Scottish_solicitors", "id": 10132402}, {"name": "Welsh_solicitors", "id": 18117801}]}
+{"name": "British_solicitors", "id": 18950195, "predecessors": [{"name": "British_lawyers", "id": 2857875}, {"name": "Justice", "id": 2388327}], "successors": [{"name": "English_solicitors", "id": 10132361}, {"name": "Scottish_solicitors", "id": 10132402}, {"name": "Welsh_solicitors", "id": 18117801}]}

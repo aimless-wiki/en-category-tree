@@ -1,1 +1,1 @@
-{"name": "Reagents_for_organic_chemistry", "id": 2060926, "predecessors": [{"name": "Organic_chemistry", "id": 693273}, {"name": "Manufacturing", "id": 867519}], "successors": []}
+{"name": "Reagents_for_organic_chemistry", "id": 2060926, "predecessors": [{"name": "Organic_chemistry", "id": 693273}, {"name": "Manufacturing", "id": 867519}], "successors": [{"name": "Alkylating_agents", "id": 13091224}]}

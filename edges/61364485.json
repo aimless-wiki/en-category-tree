@@ -1,1 +1,1 @@
-{"name": "Public_health_researchers", "id": 61364485, "predecessors": [{"name": "Health_care_occupations", "id": 1006080}, {"name": "Public_health", "id": 1311467}, {"name": "Social_ethics", "id": 1063774}], "successors": []}
+{"name": "Public_health_researchers", "id": 61364485, "predecessors": [{"name": "Medical_researchers", "id": 2986153}, {"name": "Public_health", "id": 1311467}, {"name": "Social_ethics", "id": 1063774}], "successors": []}

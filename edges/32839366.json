@@ -1,1 +1,1 @@
-{"name": "Vesta_asteroids", "id": 32839366, "predecessors": [{"name": "Astrophysics", "id": 698070}], "successors": []}
+{"name": "Vesta_asteroids", "id": 32839366, "predecessors": [{"name": "Astrophysics", "id": 698070}, {"name": "Solar_System", "id": 7473633}], "successors": []}

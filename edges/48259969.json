@@ -1,1 +1,1 @@
-{"name": "Video_games_based_on_board_games", "id": 48259969, "predecessors": [{"name": "Entertainment", "id": 693016}], "successors": [{"name": "Chess_software", "id": 13304230}]}
+{"name": "Video_games_based_on_board_games", "id": 48259969, "predecessors": [{"name": "Digital_board_games", "id": 70615245}, {"name": "Entertainment", "id": 693016}], "successors": [{"name": "Chess_software", "id": 13304230}]}

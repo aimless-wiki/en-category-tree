@@ -1,1 +1,1 @@
-{"name": "Machining", "id": 2687049, "predecessors": [{"name": "Industrial_processes", "id": 1186213}, {"name": "Metalworking", "id": 1069682}], "successors": [{"name": "Machine_tool_builders", "id": 19762290}, {"name": "Amalgamated_Engineering_Union-sponsored_MPs", "id": 58663740}]}
+{"name": "Machining", "id": 2687049, "predecessors": [{"name": "Industrial_processes", "id": 1186213}, {"name": "Metalworking", "id": 1069682}], "successors": [{"name": "Engineering_trade_unions", "id": 4059994}, {"name": "Machine_tool_builders", "id": 19762290}]}

@@ -1,1 +1,1 @@
-{"name": "Antihistamines", "id": 718523, "predecessors": [{"name": "Neurochemistry", "id": 4351941}, {"name": "Imidazoles", "id": 4488532}, {"name": "Neuroscience", "id": 714648}], "successors": [{"name": "H1_receptor_antagonists", "id": 797731}]}
+{"name": "Antihistamines", "id": 718523, "predecessors": [{"name": "Neurochemistry", "id": 4351941}, {"name": "Drugs_acting_on_the_nervous_system", "id": 22001763}, {"name": "Imidazoles", "id": 4488532}], "successors": [{"name": "H1_receptor_antagonists", "id": 797731}]}

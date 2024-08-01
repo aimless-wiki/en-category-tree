@@ -1,1 +1,1 @@
-{"name": "Youth_model_government", "id": 44261361, "predecessors": [{"name": "Childhood", "id": 1517600}, {"name": "Youth", "id": 6913424}, {"name": "Legal_entities", "id": 1125732}], "successors": []}
+{"name": "Youth_model_government", "id": 44261361, "predecessors": [{"name": "Legal_entities", "id": 1125732}, {"name": "Childhood", "id": 1517600}, {"name": "Youth", "id": 6913424}], "successors": []}

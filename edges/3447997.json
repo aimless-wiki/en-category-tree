@@ -1,1 +1,1 @@
-{"name": "Chamber_music_groups", "id": 3447997, "predecessors": [{"name": "Chamber_music", "id": 1392355}, {"name": "Entertainment", "id": 693016}], "successors": [{"name": "String_quartets", "id": 805724}, {"name": "Chamber_orchestras", "id": 5397007}, {"name": "Chamber_choirs", "id": 19123964}]}
+{"name": "Chamber_music_groups", "id": 3447997, "predecessors": [{"name": "Chamber_music", "id": 1392355}], "successors": [{"name": "String_quartets", "id": 805724}, {"name": "Chamber_orchestras", "id": 5397007}, {"name": "Chamber_choirs", "id": 19123964}]}

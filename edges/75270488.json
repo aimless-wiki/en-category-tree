@@ -1,1 +1,1 @@
-{"name": "Innkeepers", "id": 75270488, "predecessors": [{"name": "Drinking_establishment_owners", "id": 38704428}, {"name": "Hoteliers", "id": 7961319}, {"name": "Food_industry", "id": 3540193}, {"name": "Employment", "id": 1798901}], "successors": []}
+{"name": "Innkeepers", "id": 75270488, "predecessors": [{"name": "Drinking_establishment_owners", "id": 38704428}, {"name": "Hoteliers", "id": 7961319}, {"name": "Food_industry", "id": 3540193}, {"name": "Employment_classifications", "id": 15387066}], "successors": []}

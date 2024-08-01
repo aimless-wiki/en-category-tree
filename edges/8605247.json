@@ -1,1 +1,1 @@
-{"name": "Lists_of_films_by_genre", "id": 8605247, "predecessors": [{"name": "Film_genres", "id": 3008852}], "successors": [{"name": "Lists_of_historical_films", "id": 69472395}]}
+{"name": "Lists_of_films_by_genre", "id": 8605247, "predecessors": [{"name": "Lists_of_films", "id": 739034}, {"name": "Film_genres", "id": 3008852}, {"name": "Copyright_law", "id": 702268}], "successors": [{"name": "Lists_of_historical_films", "id": 69472395}]}

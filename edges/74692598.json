@@ -1,1 +1,1 @@
-{"name": "Congenital_amputees", "id": 74692598, "predecessors": [{"name": "Body_modification", "id": 735335}, {"name": "Mutation", "id": 860079}, {"name": "Congenital_disorders_of_musculoskeletal_system", "id": 26120967}], "successors": []}
+{"name": "Congenital_amputees", "id": 74692598, "predecessors": [{"name": "Body_modification", "id": 735335}, {"name": "Human_anatomy", "id": 2294735}, {"name": "Congenital_disorders_of_musculoskeletal_system", "id": 26120967}], "successors": []}

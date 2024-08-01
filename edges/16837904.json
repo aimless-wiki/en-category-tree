@@ -1,1 +1,1 @@
-{"name": "Aquaculture", "id": 16837904, "predecessors": [{"name": "Fishing_industry", "id": 11967701}, {"name": "Maritime_culture", "id": 18335592}, {"name": "Agriculture", "id": 694871}, {"name": "Culture", "id": 694861}], "successors": [{"name": "Fish_hatcheries_in_the_United_States", "id": 31586696}]}
+{"name": "Aquaculture", "id": 16837904, "predecessors": [{"name": "Maritime_culture", "id": 18335592}, {"name": "Agriculture", "id": 694871}, {"name": "Meat", "id": 757474}], "successors": [{"name": "Fish_hatcheries_in_the_United_States", "id": 31586696}]}

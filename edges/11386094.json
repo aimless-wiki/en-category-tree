@@ -1,1 +1,1 @@
-{"name": "Artist_families", "id": 11386094, "predecessors": [{"name": "Family", "id": 706788}, {"name": "Occupations", "id": 787658}], "successors": []}
+{"name": "Artist_families", "id": 11386094, "predecessors": [{"name": "Family", "id": 706788}, {"name": "Employment_classifications", "id": 15387066}], "successors": [{"name": "Sibling_artists", "id": 59201351}, {"name": "Paintings_by_Pierre-Auguste_Renoir", "id": 35325022}, {"name": "Frans_Hals", "id": 39085210}]}

@@ -1,1 +1,1 @@
-{"name": "Wikipedian_swimmers", "id": 10924351, "predecessors": [{"name": "Wikipedians", "id": 872572}], "successors": [{"name": "Wikipedian_lifeguards", "id": 5943723}]}
+{"name": "Wikipedian_swimmers", "id": 10924351, "predecessors": [{"name": "Wikipedians_interested_in_swimming", "id": 65161642}, {"name": "Wikipedians", "id": 872572}], "successors": [{"name": "Wikipedian_lifeguards", "id": 5943723}]}

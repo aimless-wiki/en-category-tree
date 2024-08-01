@@ -1,1 +1,1 @@
-{"name": "American_football_video_games", "id": 10067234, "predecessors": [{"name": "Sports_video_games", "id": 9716925}, {"name": "Games_of_physical_skill", "id": 8429269}], "successors": [{"name": "American_football_video_game_stubs", "id": 22381053}]}
+{"name": "American_football_video_games", "id": 10067234, "predecessors": [{"name": "Sports_video_games", "id": 9716925}, {"name": "Ball_games", "id": 996038}], "successors": [{"name": "American_football_video_game_stubs", "id": 22381053}, {"name": "Madden_NFL", "id": 7443206}]}

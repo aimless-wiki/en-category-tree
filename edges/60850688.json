@@ -1,1 +1,1 @@
-{"name": "Holiday_horror_films", "id": 60850688, "predecessors": [{"name": "Film_genres", "id": 3008852}, {"name": "Fiction", "id": 692981}], "successors": [{"name": "Halloween_horror_films", "id": 61043414}, {"name": "American_Christmas_horror_films", "id": 64429765}]}
+{"name": "Holiday_horror_films", "id": 60850688, "predecessors": [{"name": "Film_genres", "id": 3008852}], "successors": [{"name": "Halloween_horror_films", "id": 61043414}, {"name": "American_Christmas_horror_films", "id": 64429765}]}

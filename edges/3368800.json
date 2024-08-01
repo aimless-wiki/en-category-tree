@@ -1,1 +1,1 @@
-{"name": "Imagination", "id": 3368800, "predecessors": [{"name": "Cognition", "id": 1055995}, {"name": "Learning", "id": 1055691}], "successors": [{"name": "Fantasy_worlds", "id": 4264985}, {"name": "Tall_tales", "id": 28654349}, {"name": "Dream", "id": 38277172}]}
+{"name": "Imagination", "id": 3368800, "predecessors": [{"name": "Cognition", "id": 1055995}, {"name": "Logic", "id": 693678}], "successors": [{"name": "Fantasy_worlds", "id": 4264985}, {"name": "Tall_tales", "id": 28654349}, {"name": "Dream", "id": 38277172}]}

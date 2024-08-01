@@ -1,1 +1,1 @@
-{"name": "M-type_main-sequence_stars", "id": 39079984, "predecessors": [{"name": "Star_types", "id": 3177479}], "successors": [{"name": "Flare_stars", "id": 1761490}, {"name": "Red_dwarf_star_stubs", "id": 45643217}]}
+{"name": "M-type_main-sequence_stars", "id": 39079984, "predecessors": [{"name": "Stars", "id": 694492}, {"name": "Star_types", "id": 3177479}], "successors": [{"name": "Flare_stars", "id": 1761490}, {"name": "Red_dwarf_star_stubs", "id": 45643217}]}

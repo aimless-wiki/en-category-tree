@@ -1,1 +1,1 @@
-{"name": "Canadian_bankers", "id": 5496691, "predecessors": [{"name": "Banking", "id": 1245386}, {"name": "Canadian_businesspeople", "id": 1052033}], "successors": []}
+{"name": "Canadian_bankers", "id": 5496691, "predecessors": [{"name": "Banking", "id": 1245386}, {"name": "Canadian_businesspeople", "id": 1052033}], "successors": [{"name": "Canadian_bank_presidents", "id": 17685832}]}

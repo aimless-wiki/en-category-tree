@@ -1,1 +1,1 @@
-{"name": "Insecticides", "id": 1099869, "predecessors": [{"name": "Insect_ecology", "id": 4264463}, {"name": "Manufacturing", "id": 867519}], "successors": [{"name": "Organophosphate_insecticides", "id": 3632089}]}
+{"name": "Insecticides", "id": 1099869, "predecessors": [{"name": "Insect_ecology", "id": 4264463}, {"name": "Manufacturing", "id": 867519}, {"name": "Pesticides", "id": 1891566}], "successors": [{"name": "Organophosphate_insecticides", "id": 3632089}]}

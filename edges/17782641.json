@@ -1,1 +1,1 @@
-{"name": "American_escapees", "id": 17782641, "predecessors": [{"name": "Prison_escapes", "id": 40240122}, {"name": "Crime", "id": 1183180}], "successors": [{"name": "Fugitive_American_slaves", "id": 59920086}]}
+{"name": "American_escapees", "id": 17782641, "predecessors": [{"name": "American_prisoners_and_detainees", "id": 3196973}, {"name": "Imprisonment_and_detention", "id": 2395825}, {"name": "Crime", "id": 1183180}], "successors": [{"name": "Fugitive_American_slaves", "id": 59920086}]}

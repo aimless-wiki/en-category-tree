@@ -1,1 +1,1 @@
-{"name": "Working_time", "id": 4595730, "predecessors": [{"name": "Timekeeping", "id": 935244}, {"name": "Working_conditions", "id": 4595727}, {"name": "Government", "id": 697609}], "successors": [{"name": "Shabbat", "id": 4091614}]}
+{"name": "Working_time", "id": 4595730, "predecessors": [{"name": "Timekeeping", "id": 935244}, {"name": "Government", "id": 697609}], "successors": [{"name": "Shabbat", "id": 4091614}]}

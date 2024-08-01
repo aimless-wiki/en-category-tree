@@ -1,1 +1,1 @@
-{"name": "Anxiolytics", "id": 719510, "predecessors": [{"name": "Anxiety_disorders", "id": 1394400}, {"name": "Neuroscience", "id": 714648}], "successors": [{"name": "Barbiturates", "id": 718202}]}
+{"name": "Anxiolytics", "id": 719510, "predecessors": [{"name": "Anxiety_disorders", "id": 1394400}, {"name": "Drugs_acting_on_the_nervous_system", "id": 22001763}], "successors": [{"name": "Barbiturates", "id": 718202}]}

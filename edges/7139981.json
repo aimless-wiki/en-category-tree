@@ -1,1 +1,1 @@
-{"name": "Byzantine_literature", "id": 7139981, "predecessors": [{"name": "Medieval_literature", "id": 744716}, {"name": "Greek_language", "id": 4842064}, {"name": "Culture_of_Europe", "id": 709679}], "successors": [{"name": "Byzantine_theologians", "id": 1729167}]}
+{"name": "Byzantine_literature", "id": 7139981, "predecessors": [{"name": "Medieval_literature", "id": 744716}, {"name": "Culture", "id": 694861}, {"name": "Greek_language", "id": 4842064}, {"name": "Culture_of_Europe", "id": 709679}], "successors": [{"name": "Byzantine_theologians", "id": 1729167}]}

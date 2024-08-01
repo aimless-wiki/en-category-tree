@@ -1,1 +1,1 @@
-{"name": "Graph_families", "id": 7312579, "predecessors": [{"name": "Graph_theory", "id": 691898}], "successors": [{"name": "Parametric_families_of_graphs", "id": 19653568}, {"name": "Regular_graphs", "id": 25730156}, {"name": "Trees_(data_structures)", "id": 34403994}]}
+{"name": "Graph_families", "id": 7312579, "predecessors": [{"name": "Graph_theory", "id": 691898}], "successors": [{"name": "Trees_(graph_theory)", "id": 17606898}, {"name": "Parametric_families_of_graphs", "id": 19653568}, {"name": "Regular_graphs", "id": 25730156}]}

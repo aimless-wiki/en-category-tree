@@ -1,1 +1,1 @@
-{"name": "Art_fairs", "id": 41272532, "predecessors": [{"name": "Visual_arts_exhibitions", "id": 1708860}, {"name": "The_arts", "id": 4892515}], "successors": []}
+{"name": "Art_fairs", "id": 41272532, "predecessors": [{"name": "Visual_arts_exhibitions", "id": 1708860}, {"name": "Exhibitions", "id": 1473785}, {"name": "The_arts", "id": 4892515}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Bosphorus", "id": 30411793, "predecessors": [{"name": "Bodies_of_water", "id": 2699217}, {"name": "International_straits", "id": 25437727}, {"name": "Countries_in_Asia", "id": 37691781}], "successors": []}
+{"name": "Bosphorus", "id": 30411793, "predecessors": [{"name": "International_straits", "id": 25437727}, {"name": "Countries_in_Asia", "id": 37691781}, {"name": "Bodies_of_water", "id": 2699217}], "successors": []}

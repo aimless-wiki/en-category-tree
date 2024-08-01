@@ -1,1 +1,1 @@
-{"name": "American_radiologists", "id": 38504235, "predecessors": [{"name": "Health_care_occupations", "id": 1006080}], "successors": []}
+{"name": "American_radiologists", "id": 38504235, "predecessors": [{"name": "American_physicians", "id": 1114283}, {"name": "Health_care_occupations", "id": 1006080}], "successors": []}

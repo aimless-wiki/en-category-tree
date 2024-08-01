@@ -1,1 +1,1 @@
-{"name": "Deaths_from_lung_cancer_in_California", "id": 70813735, "predecessors": [{"name": "Respiratory_disease_deaths_in_California", "id": 70778578}, {"name": "Deaths_from_lung_cancer", "id": 18669531}], "successors": []}
+{"name": "Deaths_from_lung_cancer_in_California", "id": 70813735, "predecessors": [{"name": "Deaths_from_cancer_in_California", "id": 19530072}, {"name": "Respiratory_disease_deaths_in_California", "id": 70778578}, {"name": "Deaths_from_lung_cancer", "id": 18669531}], "successors": []}

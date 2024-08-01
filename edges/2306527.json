@@ -1,1 +1,1 @@
-{"name": "Monetary_reform", "id": 2306527, "predecessors": [{"name": "Politics", "id": 695027}], "successors": [{"name": "Islamic_banking", "id": 7756753}, {"name": "Local_currencies", "id": 43148213}]}
+{"name": "Monetary_reform", "id": 2306527, "predecessors": [{"name": "Monetary_policy", "id": 2062676}, {"name": "Politics", "id": 695027}], "successors": [{"name": "Islamic_banking", "id": 7756753}, {"name": "Local_currencies", "id": 43148213}]}

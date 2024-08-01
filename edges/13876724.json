@@ -1,1 +1,1 @@
-{"name": "South_African_diplomats", "id": 13876724, "predecessors": [{"name": "South_African_civil_servants", "id": 21153995}, {"name": "Government_of_South_Africa", "id": 2679567}, {"name": "Government", "id": 697609}, {"name": "Interpersonal_relationships", "id": 1055603}], "successors": []}
+{"name": "South_African_diplomats", "id": 13876724, "predecessors": [{"name": "South_African_civil_servants", "id": 21153995}, {"name": "Interpersonal_relationships", "id": 1055603}, {"name": "Government_occupations", "id": 1006059}], "successors": []}

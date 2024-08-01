@@ -1,1 +1,1 @@
-{"name": "Yale_University_staff", "id": 20971712, "predecessors": [{"name": "Human_behavior", "id": 2524202}], "successors": [{"name": "Yale_Bulldogs_football_coaches", "id": 3893279}]}
+{"name": "Yale_University_staff", "id": 20971712, "predecessors": [{"name": "Human_behavior", "id": 2524202}, {"name": "American_studies", "id": 11134134}], "successors": [{"name": "Yale_Bulldogs_football_coaches", "id": 3893279}]}

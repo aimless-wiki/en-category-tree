@@ -1,1 +1,1 @@
-{"name": "Clothing_manufacturers", "id": 1543143, "predecessors": [{"name": "Textile_workers", "id": 36629935}, {"name": "Wikipedia_categorization", "id": 1036222}], "successors": [{"name": "Swimwear_manufacturers", "id": 1487517}, {"name": "Suit_makers", "id": 28602687}]}
+{"name": "Clothing_manufacturers", "id": 1543143, "predecessors": [{"name": "Textile_workers", "id": 36629935}, {"name": "Standards", "id": 724561}], "successors": [{"name": "Swimwear_manufacturers", "id": 1487517}, {"name": "Suit_makers", "id": 28602687}]}

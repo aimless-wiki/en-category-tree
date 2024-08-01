@@ -1,1 +1,1 @@
-{"name": "Subscription_services", "id": 52548614, "predecessors": [{"name": "E-commerce", "id": 38191116}, {"name": "Goods_(economics)", "id": 1625839}], "successors": [{"name": "Subscription_video_on_demand_services", "id": 57597593}, {"name": "Apple_Arcade_games", "id": 61793593}, {"name": "Netflix_games", "id": 74442489}]}
+{"name": "Subscription_services", "id": 52548614, "predecessors": [{"name": "E-commerce", "id": 38191116}, {"name": "Goods_(economics)", "id": 1625839}], "successors": [{"name": "Subscription_video_on_demand_services", "id": 57597593}]}

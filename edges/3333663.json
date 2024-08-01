@@ -1,1 +1,1 @@
-{"name": "City_museums", "id": 3333663, "predecessors": [{"name": "Community_building", "id": 3704881}, {"name": "Buildings_and_structures_by_type", "id": 6884364}, {"name": "Communication_studies", "id": 36983214}, {"name": "Human_geography", "id": 1111700}], "successors": []}
+{"name": "City_museums", "id": 3333663, "predecessors": [{"name": "Community_building", "id": 3704881}, {"name": "Buildings_and_structures_by_type", "id": 6884364}, {"name": "Types_of_communities", "id": 5933524}, {"name": "Communication_studies", "id": 36983214}], "successors": []}

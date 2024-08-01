@@ -1,1 +1,1 @@
-{"name": "Deaths_from_bladder_cancer", "id": 18669411, "predecessors": [{"name": "Causes_of_death", "id": 5271061}], "successors": [{"name": "Deaths_from_bladder_cancer_in_the_United_States", "id": 76413923}]}
+{"name": "Deaths_from_bladder_cancer", "id": 18669411, "predecessors": [{"name": "Deaths_from_cancer", "id": 18669378}, {"name": "Causes_of_death", "id": 5271061}], "successors": [{"name": "Deaths_from_bladder_cancer_in_the_United_States", "id": 76413923}]}

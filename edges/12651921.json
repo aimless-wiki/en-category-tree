@@ -1,1 +1,1 @@
-{"name": "Amphibians_of_China", "id": 12651921, "predecessors": [{"name": "Evolutionary_biology", "id": 714501}, {"name": "Integers", "id": 736448}], "successors": [{"name": "Frogs_of_China", "id": 57199252}]}
+{"name": "Amphibians_of_China", "id": 12651921, "predecessors": [{"name": "Amphibians_of_Asia", "id": 9295949}, {"name": "Evolutionary_biology", "id": 714501}, {"name": "Integers", "id": 736448}], "successors": [{"name": "Frogs_of_China", "id": 57199252}]}

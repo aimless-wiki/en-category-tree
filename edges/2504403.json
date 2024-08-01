@@ -1,1 +1,1 @@
-{"name": "Accounting_software", "id": 2504403, "predecessors": [{"name": "Financial_software", "id": 8733307}, {"name": "Financial_services", "id": 1653309}], "successors": []}
+{"name": "Accounting_software", "id": 2504403, "predecessors": [{"name": "Financial_software", "id": 8733307}, {"name": "Financial_economics", "id": 4818599}], "successors": []}

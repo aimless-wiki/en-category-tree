@@ -1,1 +1,1 @@
-{"name": "Steam_locomotive_technologies", "id": 3676576, "predecessors": [{"name": "Engine_technology", "id": 1124196}, {"name": "Land_tenure", "id": 49153374}], "successors": [{"name": "Compound_locomotives", "id": 20580471}]}
+{"name": "Steam_locomotive_technologies", "id": 3676576, "predecessors": [{"name": "Steam_engines", "id": 4270833}, {"name": "Engine_technology", "id": 1124196}], "successors": [{"name": "Compound_locomotives", "id": 20580471}]}

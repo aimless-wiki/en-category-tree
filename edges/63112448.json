@@ -1,1 +1,1 @@
-{"name": "Wheelchair_users", "id": 63112448, "predecessors": [{"name": "Mobility_devices", "id": 16920105}, {"name": "Causes_of_death", "id": 5271061}], "successors": [{"name": "Wheelchair_category_Paralympic_competitors", "id": 35167715}]}
+{"name": "Wheelchair_users", "id": 63112448, "predecessors": [{"name": "Chairs", "id": 2181348}, {"name": "Causes_of_death", "id": 5271061}], "successors": [{"name": "Wheelchair_category_Paralympic_competitors", "id": 35167715}]}

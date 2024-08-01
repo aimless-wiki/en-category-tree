@@ -1,1 +1,1 @@
-{"name": "Ritual_animal_disguise", "id": 30911207, "predecessors": [{"name": "Animal_festival_or_ritual", "id": 47230804}, {"name": "Rituals", "id": 3987698}, {"name": "Theatre", "id": 698600}, {"name": "Folklore", "id": 728925}], "successors": []}
+{"name": "Ritual_animal_disguise", "id": 30911207, "predecessors": [{"name": "Animal_festival_or_ritual", "id": 47230804}, {"name": "Rituals", "id": 3987698}, {"name": "Theatre", "id": 698600}, {"name": "Comparative_mythology", "id": 12589261}], "successors": []}

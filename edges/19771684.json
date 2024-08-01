@@ -1,1 +1,1 @@
-{"name": "Artillery_operation", "id": 19771684, "predecessors": [{"name": "Military_tactics", "id": 1074382}, {"name": "Firearms", "id": 739385}], "successors": []}
+{"name": "Artillery_operation", "id": 19771684, "predecessors": [{"name": "Ballistics", "id": 981903}, {"name": "Military_tactics", "id": 1074382}], "successors": []}

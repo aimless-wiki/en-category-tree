@@ -1,1 +1,1 @@
-{"name": "Interpolation", "id": 987553, "predecessors": [{"name": "Image_processing", "id": 962413}], "successors": [{"name": "Regression_analysis", "id": 6534587}]}
+{"name": "Interpolation", "id": 987553, "predecessors": [{"name": "Image_processing", "id": 962413}, {"name": "Numerical_analysis", "id": 697506}], "successors": [{"name": "Regression_analysis", "id": 6534587}]}

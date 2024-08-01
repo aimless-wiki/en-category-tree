@@ -1,1 +1,1 @@
-{"name": "Southern_Pacific_Railroad_locomotives", "id": 3798673, "predecessors": [{"name": "Southern_Pacific_Railroad", "id": 2464723}, {"name": "Land_tenure", "id": 49153374}], "successors": []}
+{"name": "Southern_Pacific_Railroad_locomotives", "id": 3798673, "predecessors": [{"name": "Southern_Pacific_Railroad", "id": 2464723}, {"name": "Wheels", "id": 8982003}, {"name": "Land_tenure", "id": 49153374}], "successors": []}

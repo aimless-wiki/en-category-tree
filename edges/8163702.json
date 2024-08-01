@@ -1,1 +1,1 @@
-{"name": "Types_of_insurance", "id": 8163702, "predecessors": [{"name": "Insurance", "id": 873395}], "successors": [{"name": "Life_insurance", "id": 23037626}, {"name": "Health_insurance", "id": 23120838}, {"name": "Reinsurance_companies", "id": 2214003}, {"name": "Vehicle_insurance", "id": 13564827}]}
+{"name": "Types_of_insurance", "id": 8163702, "predecessors": [{"name": "Insurance", "id": 873395}], "successors": [{"name": "Life_insurance", "id": 23037626}, {"name": "Health_insurance", "id": 23120838}]}

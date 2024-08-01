@@ -1,1 +1,1 @@
-{"name": "Films_based_on_fantasy_novels", "id": 19442462, "predecessors": [{"name": "Fiction_by_genre", "id": 5740366}, {"name": "Films_based_on_novels", "id": 19084923}], "successors": []}
+{"name": "Films_based_on_fantasy_novels", "id": 19442462, "predecessors": [{"name": "Fiction_by_genre", "id": 5740366}, {"name": "Films_based_on_books", "id": 2197179}], "successors": []}

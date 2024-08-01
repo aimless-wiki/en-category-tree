@@ -1,1 +1,1 @@
-{"name": "Mythological_human_hybrids", "id": 34029965, "predecessors": [{"name": "Mythological_hybrids", "id": 2593179}, {"name": "Anthropology", "id": 694863}], "successors": [{"name": "Centaurs", "id": 918812}]}
+{"name": "Mythological_human_hybrids", "id": 34029965, "predecessors": [{"name": "Mythic_humanoids", "id": 22624752}, {"name": "Mythological_hybrids", "id": 2593179}, {"name": "Classical_genetics", "id": 987078}], "successors": [{"name": "Centaurs", "id": 918812}, {"name": "Avian_humanoids", "id": 71561430}, {"name": "Baphomet", "id": 74207970}]}

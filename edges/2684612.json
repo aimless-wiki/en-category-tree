@@ -1,1 +1,1 @@
-{"name": "French_food_writers", "id": 2684612, "predecessors": [{"name": "French_non-fiction_writers", "id": 4465146}, {"name": "Culture", "id": 694861}], "successors": []}
+{"name": "French_food_writers", "id": 2684612, "predecessors": [{"name": "French_cuisine", "id": 707216}, {"name": "French_non-fiction_writers", "id": 4465146}, {"name": "Nutrition", "id": 9936002}], "successors": []}

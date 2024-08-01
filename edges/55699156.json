@@ -1,1 +1,1 @@
-{"name": "Monogenea_genera", "id": 55699156, "predecessors": [{"name": "Ectoparasites", "id": 40051537}, {"name": "Platyhelminthes", "id": 13755294}], "successors": []}
+{"name": "Monogenea_genera", "id": 55699156, "predecessors": [{"name": "Platyhelminthes", "id": 13755294}, {"name": "Animal_parasites_of_fish", "id": 55638068}], "successors": []}

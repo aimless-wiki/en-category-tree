@@ -1,1 +1,1 @@
-{"name": "Art_biennials", "id": 12931007, "predecessors": [{"name": "Visual_arts_exhibitions", "id": 1708860}], "successors": [{"name": "Venice_Film_Festival", "id": 2376369}, {"name": "Venice_Biennale_exhibitions", "id": 60884213}]}
+{"name": "Art_biennials", "id": 12931007, "predecessors": [{"name": "Biennial_events", "id": 41597918}, {"name": "Visual_arts_exhibitions", "id": 1708860}], "successors": [{"name": "Venice_Film_Festival", "id": 2376369}, {"name": "Venice_Biennale_exhibitions", "id": 60884213}]}

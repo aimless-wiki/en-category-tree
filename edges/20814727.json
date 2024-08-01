@@ -1,1 +1,1 @@
-{"name": "Indian_Hindu_missionaries", "id": 20814727, "predecessors": [{"name": "Indian_Hindus", "id": 14461062}], "successors": [{"name": "Monks_of_the_Ramakrishna_Mission", "id": 13248885}]}
+{"name": "Indian_Hindu_missionaries", "id": 20814727, "predecessors": [{"name": "Belief", "id": 956054}, {"name": "Indian_Hindus", "id": 14461062}, {"name": "Wikipedia_categorization", "id": 1036222}], "successors": [{"name": "Monks_of_the_Ramakrishna_Mission", "id": 13248885}]}

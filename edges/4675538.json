@@ -1,1 +1,1 @@
-{"name": "Barbecue", "id": 4675538, "predecessors": [{"name": "Cooking_techniques", "id": 757512}, {"name": "Meat_dishes", "id": 18237845}], "successors": [{"name": "Hamburgers_(food)", "id": 6044907}]}
+{"name": "Barbecue", "id": 4675538, "predecessors": [{"name": "Cooking_techniques", "id": 757512}, {"name": "Meat_dishes", "id": 18237845}], "successors": [{"name": "Hamburgers_(food)", "id": 6044907}, {"name": "Barbecue_restaurants_in_the_United_States", "id": 70504945}]}

@@ -1,1 +1,1 @@
-{"name": "Game_fish", "id": 17553254, "predecessors": [{"name": "Recreational_fishing", "id": 1151879}], "successors": []}
+{"name": "Game_fish", "id": 17553254, "predecessors": [{"name": "Recreational_fishing", "id": 1151879}, {"name": "Land_use", "id": 6233419}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Industrial_automation", "id": 30944101, "predecessors": [{"name": "Industrial_engineering", "id": 11034627}, {"name": "Control_engineering", "id": 9935559}, {"name": "Business_process_management", "id": 24925024}], "successors": [{"name": "3D_printing", "id": 33961970}]}
+{"name": "Industrial_automation", "id": 30944101, "predecessors": [{"name": "Automation", "id": 885076}, {"name": "Industrial_engineering", "id": 11034627}, {"name": "Business_process_management", "id": 24925024}], "successors": [{"name": "3D_printing", "id": 33961970}]}

@@ -1,1 +1,1 @@
-{"name": "Theatres_in_Munich", "id": 33895113, "predecessors": [{"name": "Tourist_attractions_in_Munich", "id": 3247427}, {"name": "Culture", "id": 694861}], "successors": []}
+{"name": "Theatres_in_Munich", "id": 33895113, "predecessors": [{"name": "Culture_in_Munich", "id": 37952578}, {"name": "Tourist_attractions_in_Munich", "id": 3247427}, {"name": "Architecture", "id": 708984}], "successors": []}

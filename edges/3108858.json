@@ -1,1 +1,1 @@
-{"name": "Lymphocytes", "id": 3108858, "predecessors": [{"name": "Animal_anatomy", "id": 3120301}, {"name": "Blood_cells", "id": 3108835}], "successors": [{"name": "T_cells", "id": 3116292}]}
+{"name": "Lymphocytes", "id": 3108858, "predecessors": [{"name": "Angiology", "id": 1482803}, {"name": "Blood_cells", "id": 3108835}], "successors": [{"name": "T_cells", "id": 3116292}]}

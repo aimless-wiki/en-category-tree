@@ -1,1 +1,1 @@
-{"name": "Tulane_University_faculty", "id": 7759719, "predecessors": [{"name": "Tulane_University", "id": 2152517}, {"name": "Educators_from_Louisiana", "id": 42760941}], "successors": [{"name": "Tulane_University_Law_School_faculty", "id": 20913666}]}
+{"name": "Tulane_University_faculty", "id": 7759719, "predecessors": [{"name": "Educators_from_Louisiana", "id": 42760941}, {"name": "American_studies", "id": 11134134}], "successors": [{"name": "Tulane_University_Law_School_faculty", "id": 20913666}]}

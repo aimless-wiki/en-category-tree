@@ -1,1 +1,1 @@
-{"name": "Motor_vehicle_user_templates", "id": 69345317, "predecessors": [{"name": "Transport_user_templates", "id": 30136124}], "successors": [{"name": "Audi_user_templates", "id": 65478574}, {"name": "Ford_user_templates", "id": 67276842}]}
+{"name": "Motor_vehicle_user_templates", "id": 69345317, "predecessors": [{"name": "Transport_user_templates", "id": 30136124}], "successors": [{"name": "Audi_user_templates", "id": 65478574}, {"name": "Ford_user_templates", "id": 67276842}, {"name": "Chrysler_user_templates", "id": 72597012}]}

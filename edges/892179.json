@@ -1,1 +1,1 @@
-{"name": "Nissan_vehicles", "id": 892179, "predecessors": [{"name": "Nissan", "id": 892180}, {"name": "Automotive_industry", "id": 1338498}], "successors": [{"name": "Datsun_vehicles", "id": 1136203}]}
+{"name": "Nissan_vehicles", "id": 892179, "predecessors": [{"name": "Nissan", "id": 892180}, {"name": "Economy_of_Japan", "id": 1448803}, {"name": "Goods_(economics)", "id": 1625839}], "successors": [{"name": "Datsun_vehicles", "id": 1136203}]}

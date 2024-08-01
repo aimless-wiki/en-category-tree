@@ -1,1 +1,1 @@
-{"name": "Novels_set_in_prehistory", "id": 31433744, "predecessors": [{"name": "Literary_genres", "id": 1286193}, {"name": "Copyright_law", "id": 702268}, {"name": "Adventure_fiction", "id": 5741107}], "successors": [{"name": "Conan_the_Barbarian_novels", "id": 7421985}]}
+{"name": "Novels_set_in_prehistory", "id": 31433744, "predecessors": [{"name": "Fiction", "id": 692981}, {"name": "Literary_genres", "id": 1286193}, {"name": "Copyright_law", "id": 702268}], "successors": [{"name": "Conan_the_Barbarian_novels", "id": 7421985}]}

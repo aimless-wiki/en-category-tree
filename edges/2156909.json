@@ -1,1 +1,1 @@
-{"name": "Canadian_fashion_designers", "id": 2156909, "predecessors": [{"name": "Fashion", "id": 1000816}, {"name": "Culture_of_Canada", "id": 713767}, {"name": "Occupations", "id": 787658}], "successors": []}
+{"name": "Canadian_fashion_designers", "id": 2156909, "predecessors": [{"name": "Culture_of_Canada", "id": 713767}, {"name": "Design", "id": 999651}], "successors": [{"name": "Canadian_women_fashion_designers", "id": 72298999}]}
