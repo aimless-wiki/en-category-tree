@@ -1,1 +1,1 @@
-{"name": "User_batch", "id": 2853697, "predecessors": [{"name": "Wikipedians", "id": 872572}], "successors": [{"name": "User_batch-4", "id": 3238129}, {"name": "User_batch-3", "id": 3288713}, {"name": "User_batch-1", "id": 4315311}, {"name": "User_batch-2", "id": 4315336}]}
+{"name": "User_batch", "id": 2853697, "predecessors": [{"name": "Wikipedia_features", "id": 3051002}], "successors": [{"name": "User_batch-4", "id": 3238129}, {"name": "User_batch-3", "id": 3288713}, {"name": "User_batch-1", "id": 4315311}, {"name": "User_batch-2", "id": 4315336}]}

@@ -1,1 +1,1 @@
-{"name": "Card_game_publishing_companies", "id": 3934978, "predecessors": [{"name": "Game_manufacturers", "id": 776124}, {"name": "Entertainment", "id": 693016}], "successors": [{"name": "Mattel", "id": 4683817}]}
+{"name": "Card_game_publishing_companies", "id": 3934978, "predecessors": [{"name": "Game_manufacturers", "id": 776124}, {"name": "Board_games", "id": 9205892}], "successors": [{"name": "Mattel", "id": 4683817}, {"name": "Bushiroad", "id": 42433858}]}

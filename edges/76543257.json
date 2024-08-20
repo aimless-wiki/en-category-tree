@@ -1,1 +1,1 @@
-{"name": "American_dietitians", "id": 76543257, "predecessors": [{"name": "Dietitians", "id": 12823627}, {"name": "Healthcare_in_the_United_States", "id": 37436126}], "successors": []}
+{"name": "American_dietitians", "id": 76543257, "predecessors": [{"name": "American_nutritionists", "id": 7842331}, {"name": "Dietitians", "id": 12823627}], "successors": []}

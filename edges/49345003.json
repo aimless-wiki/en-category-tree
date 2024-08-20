@@ -1,1 +1,1 @@
-{"name": "Australian_male_poets", "id": 49345003, "predecessors": [{"name": "Australian_poets", "id": 839000}, {"name": "Australian_writers", "id": 715501}, {"name": "Male_poets", "id": 45649335}], "successors": []}
+{"name": "Australian_male_poets", "id": 49345003, "predecessors": [{"name": "Australian_male_writers", "id": 46211957}, {"name": "Australian_poets", "id": 839000}, {"name": "Male_poets", "id": 45649335}], "successors": []}

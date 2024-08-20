@@ -1,1 +1,1 @@
-{"name": "Buildings_and_structures_on_U.S._Route_66", "id": 13499224, "predecessors": [{"name": "U.S._Route_66", "id": 4732590}, {"name": "Architecture", "id": 708984}], "successors": [{"name": "Tourist_attractions_along_U.S._Route_66", "id": 17944280}]}
+{"name": "Buildings_and_structures_on_U.S._Route_66", "id": 13499224, "predecessors": [{"name": "U.S._Route_66", "id": 4732590}, {"name": "Geography", "id": 693800}, {"name": "Cartography", "id": 716309}], "successors": [{"name": "Tourist_attractions_along_U.S._Route_66", "id": 17944280}]}

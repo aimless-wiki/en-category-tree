@@ -1,1 +1,1 @@
-{"name": "Skeletal_disorders", "id": 2840427, "predecessors": [{"name": "Musculoskeletal_disorders", "id": 2900721}, {"name": "Skeletal_system", "id": 723122}], "successors": [{"name": "Bone_fractures", "id": 15255181}]}
+{"name": "Skeletal_disorders", "id": 2840427, "predecessors": [{"name": "Musculoskeletal_disorders", "id": 2900721}, {"name": "Skeletal_system", "id": 723122}], "successors": [{"name": "Bone_fractures", "id": 15255181}, {"name": "Deaths_from_bone_cancer", "id": 18669423}]}

@@ -1,1 +1,1 @@
-{"name": "Deaths_from_pneumonia_in_England", "id": 68846269, "predecessors": [{"name": "Infectious_disease_deaths_in_England", "id": 19409079}, {"name": "Causes_of_death", "id": 5271061}], "successors": []}
+{"name": "Deaths_from_pneumonia_in_England", "id": 68846269, "predecessors": [{"name": "Infectious_disease_deaths_in_England", "id": 19409079}, {"name": "Deaths_from_lung_disease", "id": 14244764}, {"name": "Regions_of_Europe", "id": 1023050}], "successors": []}

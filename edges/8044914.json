@@ -1,1 +1,1 @@
-{"name": "Inuit_artists", "id": 8044914, "predecessors": [{"name": "Art_history", "id": 707612}, {"name": "Visual_arts", "id": 1081533}, {"name": "Ethnicity", "id": 787548}], "successors": [{"name": "Inuit_sculptors", "id": 31213355}]}
+{"name": "Inuit_artists", "id": 8044914, "predecessors": [{"name": "Art_by_country", "id": 1001486}, {"name": "Occupations", "id": 787658}], "successors": [{"name": "Inuit_sculptors", "id": 31213355}]}

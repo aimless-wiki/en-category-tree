@@ -1,1 +1,1 @@
-{"name": "Black_Sea_energy", "id": 41451951, "predecessors": [{"name": "Energy", "id": 865456}, {"name": "Bodies_of_water", "id": 2699217}], "successors": []}
+{"name": "Black_Sea_energy", "id": 41451951, "predecessors": [{"name": "Water", "id": 977553}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Civil_aviation", "id": 18408174, "predecessors": [{"name": "Atmosphere", "id": 1136015}], "successors": []}
+{"name": "Civil_aviation", "id": 18408174, "predecessors": [{"name": "Atmosphere", "id": 1136015}], "successors": [{"name": "Ultralight_aircraft", "id": 4585860}]}

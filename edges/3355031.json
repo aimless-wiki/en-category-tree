@@ -1,1 +1,1 @@
-{"name": "Failed_assassins", "id": 3355031, "predecessors": [{"name": "Crime", "id": 1183180}, {"name": "Extrajudicial_killings", "id": 4994735}], "successors": [{"name": "Failed_regicides", "id": 31837442}]}
+{"name": "Failed_assassins", "id": 3355031, "predecessors": [{"name": "Crime", "id": 1183180}, {"name": "Crimes", "id": 694944}], "successors": [{"name": "Failed_regicides", "id": 31837442}]}

@@ -1,1 +1,1 @@
-{"name": "Edible_crustaceans", "id": 4946094, "predecessors": [{"name": "Meat", "id": 757474}, {"name": "Animals_and_humans", "id": 52196069}], "successors": [{"name": "Commercial_crustaceans", "id": 17539326}]}
+{"name": "Edible_crustaceans", "id": 4946094, "predecessors": [{"name": "Meat", "id": 757474}, {"name": "Culture", "id": 694861}], "successors": [{"name": "Commercial_crustaceans", "id": 17539326}]}

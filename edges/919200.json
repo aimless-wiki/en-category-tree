@@ -1,1 +1,1 @@
-{"name": "Credit_cards", "id": 919200, "predecessors": [{"name": "Credit", "id": 2171374}, {"name": "Exonumia", "id": 3373669}, {"name": "Personal_finance", "id": 1655037}, {"name": "Political_economy", "id": 2021121}], "successors": []}
+{"name": "Credit_cards", "id": 919200, "predecessors": [{"name": "Credit", "id": 2171374}, {"name": "Exonumia", "id": 3373669}, {"name": "Financial_services", "id": 1653309}, {"name": "Political_economy", "id": 2021121}], "successors": []}

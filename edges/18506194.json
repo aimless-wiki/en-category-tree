@@ -1,1 +1,1 @@
-{"name": "Zoology_books", "id": 18506194, "predecessors": [{"name": "Biology_books", "id": 1224374}, {"name": "Documents", "id": 694072}, {"name": "Literary_genres", "id": 1286193}], "successors": [{"name": "Zoology_book_stubs", "id": 38874194}]}
+{"name": "Zoology_books", "id": 18506194, "predecessors": [{"name": "Biology_books", "id": 1224374}, {"name": "Literature", "id": 692008}, {"name": "Literary_genres", "id": 1286193}], "successors": [{"name": "Zoology_book_stubs", "id": 38874194}]}

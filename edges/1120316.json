@@ -1,1 +1,1 @@
-{"name": "Audio_effects", "id": 1120316, "predecessors": [{"name": "Audio_engineering", "id": 936702}, {"name": "Sound_recording", "id": 2497458}], "successors": [{"name": "Effects_units", "id": 2116316}]}
+{"name": "Audio_effects", "id": 1120316, "predecessors": [{"name": "Abstraction", "id": 902386}, {"name": "Audio_engineering", "id": 936702}, {"name": "Sound_recording", "id": 2497458}], "successors": [{"name": "Effects_units", "id": 2116316}]}

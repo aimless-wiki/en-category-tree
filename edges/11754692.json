@@ -1,1 +1,1 @@
-{"name": "Waltzes", "id": 11754692, "predecessors": [{"name": "Ballroom_dance", "id": 975718}], "successors": [{"name": "Waltzes_by_Johann_Strauss_II", "id": 20401523}]}
+{"name": "Waltzes", "id": 11754692, "predecessors": [{"name": "Ballroom_dance", "id": 975718}, {"name": "Music_theory", "id": 736492}], "successors": [{"name": "Waltzes_by_Johann_Strauss_II", "id": 20401523}]}

@@ -1,1 +1,1 @@
-{"name": "Clinical_trials_related_to_COVID-19", "id": 74662714, "predecessors": [{"name": "Clinical_trials", "id": 1067749}, {"name": "Drug_discovery", "id": 10435830}], "successors": []}
+{"name": "Clinical_trials_related_to_COVID-19", "id": 74662714, "predecessors": [{"name": "COVID-19_drug_development", "id": 65605480}, {"name": "Clinical_trials", "id": 1067749}], "successors": []}

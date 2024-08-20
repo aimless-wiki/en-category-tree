@@ -1,1 +1,1 @@
-{"name": "Jewellery_making", "id": 2336491, "predecessors": [{"name": "Jewellery", "id": 805647}, {"name": "Metalworking", "id": 1069682}, {"name": "Standards", "id": 724561}], "successors": [{"name": "Beadwork", "id": 3592629}]}
+{"name": "Jewellery_making", "id": 2336491, "predecessors": [{"name": "Decorative_arts", "id": 15917611}, {"name": "Jewellery", "id": 805647}, {"name": "Metalworking", "id": 1069682}, {"name": "Wikipedia_categorization", "id": 1036222}], "successors": [{"name": "Beadwork", "id": 3592629}]}

@@ -1,1 +1,1 @@
-{"name": "Public_transport_in_Brisbane", "id": 986247, "predecessors": [{"name": "Tourism", "id": 698284}, {"name": "Geography", "id": 693800}], "successors": [{"name": "Railway_stations_in_Brisbane", "id": 3480778}]}
+{"name": "Public_transport_in_Brisbane", "id": 986247, "predecessors": [{"name": "Tourism", "id": 698284}, {"name": "Government", "id": 697609}], "successors": [{"name": "Railway_stations_in_Brisbane", "id": 3480778}]}

@@ -1,1 +1,1 @@
-{"name": "Gambling_games", "id": 8949287, "predecessors": [{"name": "Addiction", "id": 870031}, {"name": "Dimensionless_numbers", "id": 1179887}], "successors": [{"name": "Dice_games", "id": 784347}]}
+{"name": "Gambling_games", "id": 8949287, "predecessors": [{"name": "Addiction", "id": 870031}, {"name": "Dimensionless_numbers", "id": 1179887}], "successors": [{"name": "Dice_games", "id": 784347}, {"name": "Lotteries", "id": 1141704}, {"name": "Bingo", "id": 4849822}, {"name": "Rummy", "id": 27115342}, {"name": "Banking_games", "id": 59585212}]}

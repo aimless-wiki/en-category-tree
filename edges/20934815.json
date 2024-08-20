@@ -1,1 +1,1 @@
-{"name": "Non-profit_organisations_based_in_Switzerland", "id": 20934815, "predecessors": [{"name": "Legal_entities", "id": 1125732}], "successors": [{"name": "Foundations_based_in_Switzerland", "id": 14650589}, {"name": "YMCA", "id": 9027683}]}
+{"name": "Non-profit_organisations_based_in_Switzerland", "id": 20934815, "predecessors": [{"name": "Non-profit_organizations", "id": 44988149}, {"name": "Countries_in_Europe", "id": 37691805}], "successors": [{"name": "Foundations_based_in_Switzerland", "id": 14650589}]}

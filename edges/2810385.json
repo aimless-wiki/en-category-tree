@@ -1,1 +1,1 @@
-{"name": "Lecture_series", "id": 2810385, "predecessors": [{"name": "Academia", "id": 853425}, {"name": "Culture", "id": 694861}, {"name": "Human_behavior", "id": 2524202}], "successors": []}
+{"name": "Lecture_series", "id": 2810385, "predecessors": [{"name": "Academia", "id": 853425}, {"name": "Culture", "id": 694861}, {"name": "Human_behavior", "id": 2524202}], "successors": [{"name": "Science_lecture_series", "id": 52148687}, {"name": "University_and_college_lecture_series", "id": 73880340}]}

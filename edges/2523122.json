@@ -1,1 +1,1 @@
-{"name": "Pakistani_judges", "id": 2523122, "predecessors": [{"name": "Pakistani_lawyers", "id": 2825412}, {"name": "Government", "id": 697609}], "successors": [{"name": "Justices_of_the_Supreme_Court_of_Pakistan", "id": 35333998}]}
+{"name": "Pakistani_judges", "id": 2523122, "predecessors": [{"name": "Pakistani_lawyers", "id": 2825412}, {"name": "Government_of_Pakistan", "id": 994467}, {"name": "Government", "id": 697609}], "successors": [{"name": "Justices_of_the_Supreme_Court_of_Pakistan", "id": 35333998}, {"name": "Judges_of_the_Lahore_High_Court", "id": 53684086}]}

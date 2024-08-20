@@ -1,1 +1,1 @@
-{"name": "Women_neurologists", "id": 42149778, "predecessors": [{"name": "Women_physicians", "id": 3903758}, {"name": "Health_care_occupations", "id": 1006080}], "successors": []}
+{"name": "Women_neurologists", "id": 42149778, "predecessors": [{"name": "Health_care_occupations", "id": 1006080}], "successors": [{"name": "American_women_neurologists", "id": 76543041}]}

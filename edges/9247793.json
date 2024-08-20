@@ -1,1 +1,1 @@
-{"name": "Thiophenes", "id": 9247793, "predecessors": [{"name": "Manufacturing", "id": 867519}], "successors": []}
+{"name": "Thiophenes", "id": 9247793, "predecessors": [{"name": "Sulfur_heterocycles", "id": 3217722}, {"name": "Manufacturing", "id": 867519}], "successors": []}

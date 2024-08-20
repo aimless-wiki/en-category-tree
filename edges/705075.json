@@ -1,1 +1,1 @@
-{"name": "Baseball_pitching", "id": 705075, "predecessors": [{"name": "Physical_exercise", "id": 34955640}, {"name": "Entertainment_occupations", "id": 1003616}], "successors": [{"name": "Baseball_pitchers", "id": 23808789}, {"name": "Pitching_statistics", "id": 24753723}]}
+{"name": "Baseball_pitching", "id": 705075, "predecessors": [{"name": "Games_of_physical_skill", "id": 8429269}, {"name": "Physical_exercise", "id": 34955640}], "successors": [{"name": "Pitching_statistics", "id": 24753723}]}

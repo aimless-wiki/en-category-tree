@@ -1,1 +1,1 @@
-{"name": "Schizophrenia_researchers", "id": 30480064, "predecessors": [{"name": "Medical_researchers", "id": 2986153}, {"name": "Schizophrenia", "id": 718525}], "successors": []}
+{"name": "Schizophrenia_researchers", "id": 30480064, "predecessors": [{"name": "Medical_researchers", "id": 2986153}, {"name": "Health_care_quality", "id": 16191835}], "successors": []}

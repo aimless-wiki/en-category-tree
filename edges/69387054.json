@@ -1,1 +1,1 @@
-{"name": "Organic_gardeners", "id": 69387054, "predecessors": [{"name": "Organic_farmers", "id": 63531435}, {"name": "Organic_gardening", "id": 1355407}, {"name": "Gardening", "id": 740309}], "successors": []}
+{"name": "Organic_gardeners", "id": 69387054, "predecessors": [{"name": "Organic_farmers", "id": 63531435}, {"name": "Organic_gardening", "id": 1355407}, {"name": "Horticulture", "id": 2213176}], "successors": []}

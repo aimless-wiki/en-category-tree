@@ -1,1 +1,1 @@
-{"name": "JTBC_television_dramas", "id": 34397326, "predecessors": [{"name": "JTBC_original_programming", "id": 37919286}, {"name": "Drama", "id": 709071}, {"name": "Broadcasting", "id": 765733}], "successors": []}
+{"name": "JTBC_television_dramas", "id": 34397326, "predecessors": [{"name": "JTBC_original_programming", "id": 37919286}, {"name": "Television_genres", "id": 1259802}, {"name": "Drama", "id": 709071}], "successors": []}

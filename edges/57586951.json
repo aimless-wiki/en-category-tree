@@ -1,1 +1,1 @@
-{"name": "7.62×51mm_NATO_rifles", "id": 57586951, "predecessors": [{"name": "Mechanical_standards", "id": 8273307}], "successors": [{"name": "7.62×51mm_NATO_battle_rifles", "id": 57586958}]}
+{"name": "7.62×51mm_NATO_rifles", "id": 57586951, "predecessors": [{"name": "Firearms", "id": 739385}], "successors": [{"name": "7.62×51mm_NATO_battle_rifles", "id": 57586958}]}

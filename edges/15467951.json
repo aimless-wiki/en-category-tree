@@ -1,1 +1,1 @@
-{"name": "Drink_company_stubs", "id": 15467951, "predecessors": [{"name": "Company_stubs", "id": 43019023}, {"name": "Drink_stubs", "id": 2211759}, {"name": "Culture_stubs", "id": 1865685}, {"name": "Contents", "id": 14105005}], "successors": []}
+{"name": "Drink_company_stubs", "id": 15467951, "predecessors": [{"name": "Company_stubs", "id": 43019023}, {"name": "Drink_stubs", "id": 2211759}, {"name": "Culture_stubs", "id": 1865685}, {"name": "Food_industry", "id": 3540193}, {"name": "Contents", "id": 14105005}], "successors": []}

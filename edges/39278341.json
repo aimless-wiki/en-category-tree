@@ -1,1 +1,1 @@
-{"name": "Conspiracist_media", "id": 39278341, "predecessors": [{"name": "Conspiracy_theories", "id": 874184}, {"name": "Mass_media", "id": 696790}], "successors": [{"name": "Fake_news_websites", "id": 66934794}, {"name": "RT_(TV_network)_people", "id": 57837710}]}
+{"name": "Conspiracist_media", "id": 39278341, "predecessors": [{"name": "Conspiracy_theories", "id": 874184}], "successors": [{"name": "Fake_news_websites", "id": 66934794}, {"name": "RT_(TV_network)_people", "id": 57837710}]}

@@ -1,1 +1,1 @@
-{"name": "Diplomatic_missions_in_Moscow", "id": 18002313, "predecessors": [{"name": "Buildings_and_structures_in_Moscow", "id": 3051357}, {"name": "Buildings_and_structures_by_type", "id": 6884364}], "successors": []}
+{"name": "Diplomatic_missions_in_Moscow", "id": 18002313, "predecessors": [{"name": "Diplomacy", "id": 911551}], "successors": []}

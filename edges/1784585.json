@@ -1,1 +1,1 @@
-{"name": "Poker_tournaments", "id": 1784585, "predecessors": [{"name": "Gambling_games", "id": 8949287}, {"name": "Comparisons", "id": 984353}], "successors": [{"name": "World_Series_of_Poker", "id": 3709095}]}
+{"name": "Poker_tournaments", "id": 1784585, "predecessors": [{"name": "American_card_games", "id": 69613434}, {"name": "Comparisons", "id": 984353}], "successors": [{"name": "World_Series_of_Poker", "id": 3709095}]}

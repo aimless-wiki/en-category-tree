@@ -1,1 +1,1 @@
-{"name": "9mm_Parabellum_submachine_guns", "id": 50957153, "predecessors": [{"name": "Firearm_actions", "id": 1033181}, {"name": "Mechanical_standards", "id": 8273307}], "successors": []}
+{"name": "9mm_Parabellum_submachine_guns", "id": 50957153, "predecessors": [{"name": "Firearm_actions", "id": 1033181}, {"name": "Firearms", "id": 739385}], "successors": []}

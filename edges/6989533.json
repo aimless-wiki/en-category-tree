@@ -1,1 +1,1 @@
-{"name": "Trading_companies", "id": 6989533, "predecessors": [{"name": "Business_process", "id": 2608613}, {"name": "Standards", "id": 724561}], "successors": [{"name": "Chartered_companies", "id": 3729208}]}
+{"name": "Trading_companies", "id": 6989533, "predecessors": [{"name": "Cultural_exchange", "id": 23508439}, {"name": "Wikipedia_categorization", "id": 1036222}], "successors": [{"name": "Chartered_companies", "id": 3729208}]}

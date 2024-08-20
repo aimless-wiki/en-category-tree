@@ -1,1 +1,1 @@
-{"name": "Tuberculosis_deaths_in_California", "id": 64969553, "predecessors": [{"name": "Infectious_disease_deaths_in_California", "id": 19409014}, {"name": "Respiratory_disease_deaths_in_California", "id": 70778578}, {"name": "Respiratory_diseases", "id": 19827264}], "successors": []}
+{"name": "Tuberculosis_deaths_in_California", "id": 64969553, "predecessors": [{"name": "Infectious_disease_deaths_in_California", "id": 19409014}, {"name": "Respiratory_disease_deaths_in_California", "id": 70778578}, {"name": "Deaths_from_lung_disease", "id": 14244764}], "successors": []}

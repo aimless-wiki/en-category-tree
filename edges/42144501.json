@@ -1,1 +1,1 @@
-{"name": "Anime_musicians", "id": 42144501, "predecessors": [{"name": "Entertainment", "id": 693016}], "successors": [{"name": "Anime_composers", "id": 5306512}, {"name": "Anime_musical_groups", "id": 42144516}, {"name": "Anime_singers", "id": 42752497}]}
+{"name": "Anime_musicians", "id": 42144501, "predecessors": [{"name": "Entertainment", "id": 693016}, {"name": "Occupations", "id": 787658}], "successors": [{"name": "Anime_composers", "id": 5306512}, {"name": "Anime_musical_groups", "id": 42144516}, {"name": "Anime_singers", "id": 42752497}]}

@@ -1,1 +1,1 @@
-{"name": "Lynching_deaths", "id": 38087399, "predecessors": [{"name": "Murder", "id": 1167833}, {"name": "Crime", "id": 1183180}, {"name": "Extrajudicial_killings", "id": 4994735}, {"name": "Causes_of_death", "id": 5271061}], "successors": []}
+{"name": "Lynching_deaths", "id": 38087399, "predecessors": [{"name": "Homicide", "id": 11692544}, {"name": "Crime", "id": 1183180}, {"name": "Extrajudicial_killings", "id": 4994735}, {"name": "Causes_of_death", "id": 5271061}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Mediterranean_islands", "id": 9248765, "predecessors": [{"name": "Mediterranean", "id": 727169}, {"name": "Bodies_of_water", "id": 2699217}, {"name": "Atlantic_Ocean", "id": 900478}], "successors": [{"name": "Islands_of_Greece", "id": 767789}, {"name": "Islands_of_the_Adriatic_Sea", "id": 21326478}]}
+{"name": "Mediterranean_islands", "id": 9248765, "predecessors": [{"name": "Mediterranean", "id": 727169}, {"name": "Bodies_of_water", "id": 2699217}], "successors": [{"name": "Islands_of_Greece", "id": 767789}, {"name": "Islands_of_the_Adriatic_Sea", "id": 21326478}]}

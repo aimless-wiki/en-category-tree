@@ -1,1 +1,1 @@
-{"name": "Primary_alcohols", "id": 38716815, "predecessors": [{"name": "Alcohols", "id": 713775}], "successors": [{"name": "Hydroxymethyl_compounds", "id": 66980625}]}
+{"name": "Primary_alcohols", "id": 38716815, "predecessors": [{"name": "Alcohols", "id": 713775}], "successors": [{"name": "Ethanolamines", "id": 53947588}, {"name": "Hydroxymethyl_compounds", "id": 66980625}]}

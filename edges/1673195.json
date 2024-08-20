@@ -1,1 +1,1 @@
-{"name": "Military_insignia", "id": 1673195, "predecessors": [{"name": "Military_uniforms", "id": 3007201}, {"name": "Culture", "id": 694861}], "successors": [{"name": "Royal_Navy_ship's_badges", "id": 33849573}, {"name": "RAF_Station_crests", "id": 12266337}]}
+{"name": "Military_insignia", "id": 1673195, "predecessors": [{"name": "Military_uniforms", "id": 3007201}, {"name": "Culture", "id": 694861}, {"name": "Symbols", "id": 738565}], "successors": [{"name": "Royal_Navy_ship's_badges", "id": 33849573}, {"name": "RAF_Station_crests", "id": 12266337}]}

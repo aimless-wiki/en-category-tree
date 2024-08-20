@@ -1,1 +1,1 @@
-{"name": "Parasitology", "id": 1106661, "predecessors": [{"name": "Microbiology", "id": 726300}, {"name": "Predation", "id": 10473271}, {"name": "Branches_of_biology", "id": 37535091}], "successors": []}
+{"name": "Parasitology", "id": 1106661, "predecessors": [{"name": "Microbiology", "id": 726300}, {"name": "Predation", "id": 10473271}, {"name": "Branches_of_biology", "id": 37535091}], "successors": [{"name": "Veterinary_helminthology", "id": 12311559}]}

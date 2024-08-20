@@ -1,1 +1,1 @@
-{"name": "Bridge_engineers", "id": 1722177, "predecessors": [{"name": "Structural_engineers", "id": 4141601}, {"name": "Civil_engineering", "id": 905890}, {"name": "Architectural_design", "id": 14869671}], "successors": [{"name": "British_bridge_engineers", "id": 49072072}, {"name": "American_bridge_engineers", "id": 49072137}]}
+{"name": "Bridge_engineers", "id": 1722177, "predecessors": [{"name": "Structural_engineers", "id": 4141601}, {"name": "Civil_engineering", "id": 905890}, {"name": "Architectural_design", "id": 14869671}], "successors": []}

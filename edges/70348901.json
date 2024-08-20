@@ -1,1 +1,1 @@
-{"name": "Fish_processing_companies", "id": 70348901, "predecessors": [{"name": "Food_processing", "id": 39100244}, {"name": "Standards", "id": 724561}], "successors": []}
+{"name": "Fish_processing_companies", "id": 70348901, "predecessors": [{"name": "Fishing_industry", "id": 11967701}, {"name": "Maritime_organizations", "id": 13919467}], "successors": []}

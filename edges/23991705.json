@@ -1,1 +1,1 @@
-{"name": "Colonial_Service_officers", "id": 23991705, "predecessors": [{"name": "People_from_the_British_Empire", "id": 23228393}], "successors": [{"name": "Colonial_Administrative_Service_officers", "id": 23991693}]}
+{"name": "Colonial_Service_officers", "id": 23991705, "predecessors": [{"name": "British_colonial_officials", "id": 40029330}], "successors": [{"name": "Colonial_Administrative_Service_officers", "id": 23991693}, {"name": "British_colonial_governors_and_administrators_in_Africa", "id": 51480430}]}

@@ -1,1 +1,1 @@
-{"name": "European_Tour", "id": 4342819, "predecessors": [{"name": "European_integration", "id": 47766463}], "successors": [{"name": "European_Tour_events", "id": 2386157}, {"name": "European_Tour_golfers", "id": 4220299}, {"name": "European_Tour_seasons", "id": 36129320}]}
+{"name": "European_Tour", "id": 4342819, "predecessors": [{"name": "Earth", "id": 754965}], "successors": [{"name": "European_Tour_events", "id": 2386157}, {"name": "European_Tour_golfers", "id": 4220299}, {"name": "European_Tour_seasons", "id": 36129320}]}

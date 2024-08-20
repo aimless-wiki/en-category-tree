@@ -1,1 +1,1 @@
-{"name": "Women_art_dealers", "id": 47652672, "predecessors": [{"name": "Art_museum_people", "id": 47161633}, {"name": "The_arts", "id": 4892515}, {"name": "Women_in_society", "id": 35074971}], "successors": [{"name": "American_women_art_dealers", "id": 77387811}]}
+{"name": "Women_art_dealers", "id": 47652672, "predecessors": [{"name": "Literature", "id": 692008}, {"name": "The_arts", "id": 4892515}], "successors": [{"name": "American_women_art_dealers", "id": 77387811}]}

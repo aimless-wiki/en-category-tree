@@ -1,1 +1,1 @@
-{"name": "Signal_cables", "id": 1721024, "predecessors": [{"name": "Electrical_components", "id": 709571}, {"name": "Hardware_(mechanical)", "id": 921931}], "successors": []}
+{"name": "Signal_cables", "id": 1721024, "predecessors": [{"name": "Electrical_components", "id": 709571}, {"name": "Telecommunications_equipment", "id": 1952309}, {"name": "Hardware_(mechanical)", "id": 921931}], "successors": []}

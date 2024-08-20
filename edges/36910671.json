@@ -1,1 +1,1 @@
-{"name": "Poetry_publishers", "id": 36910671, "predecessors": [{"name": "Literary_publishing_companies", "id": 44992518}, {"name": "Literary_genres", "id": 1286193}], "successors": [{"name": "Poetry_literary_magazines", "id": 25739362}]}
+{"name": "Poetry_publishers", "id": 36910671, "predecessors": [{"name": "Literary_publishing_companies", "id": 44992518}], "successors": []}

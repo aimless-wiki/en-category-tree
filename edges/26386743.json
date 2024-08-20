@@ -1,1 +1,1 @@
-{"name": "FK_Pelister_players", "id": 26386743, "predecessors": [{"name": "Ethnic_groups_in_Greece", "id": 3477629}, {"name": "Apex_predators", "id": 45401087}], "successors": []}
+{"name": "FK_Pelister_players", "id": 26386743, "predecessors": [{"name": "Ethnic_groups_in_Greece", "id": 3477629}, {"name": "Regions_of_Europe", "id": 1023050}], "successors": []}

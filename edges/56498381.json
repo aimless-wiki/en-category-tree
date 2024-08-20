@@ -1,1 +1,1 @@
-{"name": "Tuberculosis_deaths_in_Australia", "id": 56498381, "predecessors": [{"name": "Causes_of_death", "id": 5271061}, {"name": "Respiratory_diseases", "id": 19827264}], "successors": []}
+{"name": "Tuberculosis_deaths_in_Australia", "id": 56498381, "predecessors": [{"name": "Deaths_from_lung_disease", "id": 14244764}], "successors": []}

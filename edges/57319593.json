@@ -1,1 +1,1 @@
-{"name": ".40_S&W_semi-automatic_pistols", "id": 57319593, "predecessors": [{"name": "Firearm_actions", "id": 1033181}, {"name": "Mechanical_standards", "id": 8273307}], "successors": []}
+{"name": ".40_S&W_semi-automatic_pistols", "id": 57319593, "predecessors": [{"name": "Firearm_actions", "id": 1033181}, {"name": "Firearms", "id": 739385}], "successors": []}

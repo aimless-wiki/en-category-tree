@@ -1,1 +1,1 @@
-{"name": "Hypnotics", "id": 2479561, "predecessors": [{"name": "Sleep", "id": 910767}, {"name": "Medical_treatments", "id": 694975}, {"name": "Drugs_acting_on_the_nervous_system", "id": 22001763}], "successors": [{"name": "Barbiturates", "id": 718202}]}
+{"name": "Hypnotics", "id": 2479561, "predecessors": [{"name": "Sleep", "id": 910767}, {"name": "Sleep_disorders", "id": 910773}, {"name": "Drugs_acting_on_the_nervous_system", "id": 22001763}], "successors": [{"name": "Barbiturates", "id": 718202}]}

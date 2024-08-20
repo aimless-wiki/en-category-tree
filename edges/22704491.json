@@ -1,1 +1,1 @@
-{"name": "Ships_sunk_by_mines", "id": 22704491, "predecessors": [{"name": "International_maritime_incidents", "id": 3510440}, {"name": "Shipwrecks", "id": 739221}, {"name": "Area_denial_weapons", "id": 1156264}], "successors": [{"name": "U-boats_sunk_by_mines", "id": 5866306}]}
+{"name": "Ships_sunk_by_mines", "id": 22704491, "predecessors": [{"name": "International_maritime_incidents", "id": 3510440}, {"name": "Explosive_weapons", "id": 1150760}, {"name": "Shipwrecks", "id": 739221}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Syndromes_affecting_hearing", "id": 53611846, "predecessors": [{"name": "Hearing", "id": 1060985}, {"name": "Audiology", "id": 8890978}, {"name": "Causes_of_death", "id": 5271061}], "successors": []}
+{"name": "Syndromes_affecting_hearing", "id": 53611846, "predecessors": [{"name": "Hearing", "id": 1060985}, {"name": "Audiology", "id": 8890978}, {"name": "Syndromes", "id": 4678438}], "successors": []}

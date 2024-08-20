@@ -1,1 +1,1 @@
-{"name": "FK_Javor_Ivanjica_players", "id": 28742838, "predecessors": [{"name": "Apex_predators", "id": 45401087}], "successors": []}
+{"name": "FK_Javor_Ivanjica_players", "id": 28742838, "predecessors": [{"name": "Football_clubs_in_Serbia", "id": 34432988}, {"name": "Culture_of_Serbia", "id": 724300}], "successors": []}

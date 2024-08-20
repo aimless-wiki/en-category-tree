@@ -1,1 +1,1 @@
-{"name": "Jazz_films", "id": 17904454, "predecessors": [{"name": "African-American_music", "id": 35955810}], "successors": [{"name": "Documentary_films_about_jazz_music_and_musicians", "id": 31694009}]}
+{"name": "Jazz_films", "id": 17904454, "predecessors": [{"name": "Films_about_music_and_musicians", "id": 2180817}, {"name": "African-American_music", "id": 35955810}, {"name": "Music_genres", "id": 4826123}], "successors": [{"name": "Documentary_films_about_jazz_music_and_musicians", "id": 31694009}]}

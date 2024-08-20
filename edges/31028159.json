@@ -1,1 +1,1 @@
-{"name": "Systemic_risk", "id": 31028159, "predecessors": [{"name": "Financial_markets", "id": 1654788}, {"name": "Apex_predators", "id": 45401087}, {"name": "Anthropology", "id": 694863}], "successors": []}
+{"name": "Systemic_risk", "id": 31028159, "predecessors": [{"name": "Financial_markets", "id": 1654788}, {"name": "Financial_risk", "id": 27856255}, {"name": "Apex_predators", "id": 45401087}, {"name": "Anthropology", "id": 694863}], "successors": []}

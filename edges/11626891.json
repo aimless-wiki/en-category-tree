@@ -1,1 +1,1 @@
-{"name": "Marketing_techniques", "id": 11626891, "predecessors": [{"name": "Marketing", "id": 784409}], "successors": [{"name": "Viral_marketing", "id": 1117643}]}
+{"name": "Marketing_techniques", "id": 11626891, "predecessors": [{"name": "Marketing", "id": 784409}, {"name": "Media_studies", "id": 1733859}], "successors": [{"name": "Viral_marketing", "id": 1117643}, {"name": "Advertising_techniques", "id": 11626916}]}

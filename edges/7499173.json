@@ -1,1 +1,1 @@
-{"name": "Go_stubs", "id": 7499173, "predecessors": [{"name": "Board_game_stubs", "id": 2092408}, {"name": "Non-cooperative_games", "id": 10253107}, {"name": "Contents", "id": 14105005}], "successors": [{"name": "Go_biography_stubs", "id": 26306645}]}
+{"name": "Go_stubs", "id": 7499173, "predecessors": [{"name": "Board_game_stubs", "id": 2092408}, {"name": "Abstract_strategy_games", "id": 3290901}, {"name": "Contents", "id": 14105005}], "successors": [{"name": "Go_biography_stubs", "id": 26306645}]}

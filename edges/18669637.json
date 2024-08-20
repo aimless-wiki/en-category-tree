@@ -1,1 +1,1 @@
-{"name": "Deaths_from_stomach_cancer", "id": 18669637, "predecessors": [{"name": "Deaths_from_cancer", "id": 18669378}, {"name": "Causes_of_death", "id": 5271061}], "successors": [{"name": "Deaths_from_stomach_cancer_in_the_United_States", "id": 75601369}]}
+{"name": "Deaths_from_stomach_cancer", "id": 18669637, "predecessors": [{"name": "Deaths_from_cancer", "id": 18669378}, {"name": "Stomach", "id": 35879163}], "successors": [{"name": "Deaths_from_stomach_cancer_in_the_United_States", "id": 75601369}, {"name": "Deaths_from_stomach_cancer_in_England", "id": 76427905}]}

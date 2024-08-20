@@ -1,1 +1,1 @@
-{"name": "Helicopter_airlines", "id": 7463956, "predecessors": [{"name": "Legal_entities", "id": 1125732}, {"name": "Atmosphere", "id": 1136015}, {"name": "Aerospace_companies", "id": 760233}], "successors": []}
+{"name": "Helicopter_airlines", "id": 7463956, "predecessors": [{"name": "Helicopters", "id": 751767}, {"name": "Atmosphere", "id": 1136015}, {"name": "Aerospace_companies", "id": 760233}], "successors": []}

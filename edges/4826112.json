@@ -1,1 +1,1 @@
-{"name": "Luck", "id": 4826112, "predecessors": [{"name": "Superstitions", "id": 737226}, {"name": "Dimensionless_numbers", "id": 1179887}], "successors": [{"name": "Curses", "id": 1149577}]}
+{"name": "Luck", "id": 4826112, "predecessors": [{"name": "Superstitions", "id": 737226}, {"name": "Dimensionless_numbers", "id": 1179887}], "successors": [{"name": "Curses", "id": 1149577}, {"name": "Fortune_gods", "id": 772477}]}

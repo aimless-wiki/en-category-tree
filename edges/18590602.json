@@ -1,1 +1,1 @@
-{"name": "Military_music", "id": 18590602, "predecessors": [{"name": "Music_genres", "id": 4826123}, {"name": "Safety", "id": 902977}], "successors": [{"name": "Songs_about_the_military", "id": 9347214}, {"name": "Military_bands", "id": 14657281}]}
+{"name": "Military_music", "id": 18590602, "predecessors": [{"name": "Music_genres", "id": 4826123}, {"name": "Safety", "id": 902977}], "successors": [{"name": "Songs_about_the_military", "id": 9347214}, {"name": "Military_bands", "id": 14657281}, {"name": "Military_music_composers", "id": 70097519}]}

@@ -1,1 +1,1 @@
-{"name": "Swimming_pools", "id": 16713703, "predecessors": [{"name": "Garden_features", "id": 25138706}, {"name": "Swimming", "id": 691570}], "successors": [{"name": "Water_filters", "id": 12433052}]}
+{"name": "Swimming_pools", "id": 16713703, "predecessors": [{"name": "Garden_features", "id": 25138706}, {"name": "Wikipedia_categorization", "id": 1036222}], "successors": [{"name": "Water_filters", "id": 12433052}]}

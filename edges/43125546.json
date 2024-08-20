@@ -1,1 +1,1 @@
-{"name": "Local_Bubble", "id": 43125546, "predecessors": [{"name": "Astronomy", "id": 692915}, {"name": "Open_clusters", "id": 936321}], "successors": [{"name": "Ursa_Major_moving_group", "id": 32180939}, {"name": "Fiction_set_around_Alpha_Centauri", "id": 40087335}, {"name": "Solar_System", "id": 7473633}]}
+{"name": "Local_Bubble", "id": 43125546, "predecessors": [{"name": "Astronomy", "id": 692915}], "successors": [{"name": "Ursa_Major_moving_group", "id": 32180939}]}

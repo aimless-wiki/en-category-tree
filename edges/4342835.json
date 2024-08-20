@@ -1,1 +1,1 @@
-{"name": "Japan_Golf_Tour", "id": 4342835, "predecessors": [{"name": "Professional_golf_tours", "id": 1324713}, {"name": "Culture_of_Japan", "id": 692609}, {"name": "Wikipedia_categorization", "id": 1036222}], "successors": [{"name": "Japan_Golf_Tour_golfers", "id": 4220376}]}
+{"name": "Japan_Golf_Tour", "id": 4342835, "predecessors": [{"name": "Culture_of_Japan", "id": 692609}], "successors": [{"name": "Japan_Golf_Tour_golfers", "id": 4220376}]}

@@ -1,1 +1,1 @@
-{"name": "British_art_collectors", "id": 1492945, "predecessors": [{"name": "Culture", "id": 694861}, {"name": "Wikipedia_categorization", "id": 1036222}], "successors": [{"name": "English_art_collectors", "id": 1492934}]}
+{"name": "British_art_collectors", "id": 1492945, "predecessors": [{"name": "British_art", "id": 4173215}, {"name": "Art_by_country", "id": 1001486}, {"name": "Patrons_of_the_arts", "id": 40834601}], "successors": [{"name": "English_art_collectors", "id": 1492934}]}

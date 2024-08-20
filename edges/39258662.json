@@ -1,1 +1,1 @@
-{"name": "Soyuz_program", "id": 39258662, "predecessors": [{"name": "Science_and_technology_in_Russia", "id": 2939931}, {"name": "20th_century_in_science", "id": 17453026}], "successors": [{"name": "Crewed_Soyuz_missions", "id": 7177539}]}
+{"name": "Soyuz_program", "id": 39258662, "predecessors": [{"name": "Human_spaceflight_programs", "id": 43562977}, {"name": "Crewed_spacecraft", "id": 786264}], "successors": [{"name": "Crewed_Soyuz_missions", "id": 7177539}]}

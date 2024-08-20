@@ -1,1 +1,1 @@
-{"name": "Naval_architecture", "id": 6283855, "predecessors": [{"name": "Shipbuilding", "id": 38000490}, {"name": "Engineering_disciplines", "id": 9930194}, {"name": "Design", "id": 999651}], "successors": [{"name": "Boat_and_ship_designers", "id": 11859426}]}
+{"name": "Naval_architecture", "id": 6283855, "predecessors": [{"name": "Shipbuilding", "id": 38000490}, {"name": "Engineering_disciplines", "id": 9930194}, {"name": "Design", "id": 999651}], "successors": [{"name": "Ship_measurements", "id": 27204283}, {"name": "Boat_and_ship_designers", "id": 11859426}]}

@@ -1,1 +1,1 @@
-{"name": "Cartography_stubs", "id": 3203585, "predecessors": [{"name": "Geography_stubs", "id": 931823}, {"name": "Contents", "id": 14105005}, {"name": "Design_stubs", "id": 8411205}], "successors": [{"name": "Geodesy_stubs", "id": 65516722}]}
+{"name": "Cartography_stubs", "id": 3203585, "predecessors": [{"name": "Cartography", "id": 716309}, {"name": "Geography", "id": 693800}, {"name": "Contents", "id": 14105005}, {"name": "Design_stubs", "id": 8411205}], "successors": [{"name": "Geodesy_stubs", "id": 65516722}]}

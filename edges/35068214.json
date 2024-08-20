@@ -1,1 +1,1 @@
-{"name": "Mass_poisoning", "id": 35068214, "predecessors": [{"name": "Poisons", "id": 7628523}, {"name": "Murder", "id": 1167833}, {"name": "Public_health", "id": 1311467}], "successors": []}
+{"name": "Mass_poisoning", "id": 35068214, "predecessors": [{"name": "Poisons", "id": 7628523}, {"name": "Public_health", "id": 1311467}], "successors": []}

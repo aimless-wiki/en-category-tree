@@ -1,1 +1,1 @@
-{"name": "Trolleybus_manufacturers", "id": 17562928, "predecessors": [{"name": "Electric_vehicle_industry", "id": 42810122}, {"name": "Electric_vehicles", "id": 961956}, {"name": "Standards", "id": 724561}], "successors": []}
+{"name": "Trolleybus_manufacturers", "id": 17562928, "predecessors": [{"name": "Electric_vehicle_industry", "id": 42810122}, {"name": "Automotive_industry", "id": 1338498}, {"name": "Electric_vehicles", "id": 961956}], "successors": []}

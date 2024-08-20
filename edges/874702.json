@@ -1,1 +1,1 @@
-{"name": "Explosive_chemicals", "id": 874702, "predecessors": [{"name": "Chemical_safety", "id": 4062420}, {"name": "Explosives", "id": 726215}, {"name": "Manufacturing", "id": 867519}], "successors": []}
+{"name": "Explosive_chemicals", "id": 874702, "predecessors": [{"name": "Chemical_safety", "id": 4062420}, {"name": "Explosives", "id": 726215}, {"name": "Manufacturing", "id": 867519}, {"name": "Wikipedia_categorization", "id": 1036222}], "successors": []}

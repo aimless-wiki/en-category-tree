@@ -1,1 +1,1 @@
-{"name": "Guided_bombs", "id": 3954498, "predecessors": [{"name": "Bombs", "id": 762472}], "successors": []}
+{"name": "Guided_bombs", "id": 3954498, "predecessors": [{"name": "Bombs", "id": 762472}, {"name": "Causes_of_death", "id": 5271061}], "successors": []}

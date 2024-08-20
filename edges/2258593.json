@@ -1,1 +1,1 @@
-{"name": "Pork", "id": 2258593, "predecessors": [{"name": "Meat", "id": 757474}, {"name": "Domesticated_animals", "id": 706779}], "successors": [{"name": "Pork_dishes", "id": 18238186}, {"name": "Pork_stubs", "id": 25959968}, {"name": "Bacon_dishes", "id": 21853919}]}
+{"name": "Pork", "id": 2258593, "predecessors": [{"name": "Meat", "id": 757474}, {"name": "Domesticated_animals", "id": 706779}, {"name": "Culture", "id": 694861}], "successors": [{"name": "Pork_dishes", "id": 18238186}, {"name": "Pork_stubs", "id": 25959968}]}

@@ -1,1 +1,1 @@
-{"name": "Women_bankers", "id": 36970543, "predecessors": [{"name": "Banking", "id": 1245386}, {"name": "Women_in_society", "id": 35074971}], "successors": [{"name": "American_women_bankers", "id": 36970538}]}
+{"name": "Women_bankers", "id": 36970543, "predecessors": [{"name": "Banking", "id": 1245386}, {"name": "Financial_services", "id": 1653309}], "successors": [{"name": "American_women_bankers", "id": 36970538}]}

@@ -1,1 +1,1 @@
-{"name": "Oxidizing_agents", "id": 13304159, "predecessors": [{"name": "Manufacturing", "id": 867519}, {"name": "Chemical_properties", "id": 743292}], "successors": [{"name": "Nitrates", "id": 695991}, {"name": "Perchlorates", "id": 695984}]}
+{"name": "Oxidizing_agents", "id": 13304159, "predecessors": [{"name": "Manufacturing", "id": 867519}, {"name": "Chemical_properties", "id": 743292}, {"name": "Wikipedia_categorization", "id": 1036222}], "successors": [{"name": "Nitrates", "id": 695991}, {"name": "Perchlorates", "id": 695984}]}

@@ -1,1 +1,1 @@
-{"name": "7.62×39mm_assault_rifles", "id": 61201602, "predecessors": [{"name": "Infantry", "id": 1661306}, {"name": "Mechanical_standards", "id": 8273307}], "successors": []}
+{"name": "7.62×39mm_assault_rifles", "id": 61201602, "predecessors": [{"name": "Infantry", "id": 1661306}, {"name": "Firearms", "id": 739385}], "successors": []}

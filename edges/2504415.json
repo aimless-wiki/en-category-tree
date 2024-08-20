@@ -1,1 +1,1 @@
-{"name": "ERP_software", "id": 2504415, "predecessors": [{"name": "Business_software", "id": 1744470}], "successors": [{"name": "Enterprise_application_integration", "id": 3502238}, {"name": "ERP_software_companies", "id": 12840698}]}
+{"name": "ERP_software", "id": 2504415, "predecessors": [{"name": "Business_software", "id": 1744470}, {"name": "Enterprise_architecture", "id": 12120882}], "successors": [{"name": "Enterprise_application_integration", "id": 3502238}]}

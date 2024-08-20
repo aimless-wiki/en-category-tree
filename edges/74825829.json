@@ -1,1 +1,1 @@
-{"name": "FK_Kokand_1912_players", "id": 74825829, "predecessors": [{"name": "Legal_entities", "id": 1125732}, {"name": "Countries_in_Asia", "id": 37691781}], "successors": []}
+{"name": "FK_Kokand_1912_players", "id": 74825829, "predecessors": [{"name": "Countries_in_Asia", "id": 37691781}], "successors": []}

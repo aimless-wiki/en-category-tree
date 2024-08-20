@@ -1,1 +1,1 @@
-{"name": "Online_grocers", "id": 29545907, "predecessors": [{"name": "Food_retailers", "id": 21550842}, {"name": "E-commerce", "id": 38191116}], "successors": []}
+{"name": "Online_grocers", "id": 29545907, "predecessors": [{"name": "Food_retailers", "id": 21550842}, {"name": "E-commerce", "id": 38191116}, {"name": "Logistics", "id": 1865158}], "successors": []}
