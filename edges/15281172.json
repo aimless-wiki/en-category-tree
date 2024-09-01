@@ -1,1 +1,1 @@
-{"name": "FK_Rabotnički_players", "id": 15281172, "predecessors": [{"name": "Football_clubs_in_North_Macedonia", "id": 34431534}, {"name": "Regions_of_Europe", "id": 1023050}], "successors": []}
+{"name": "FK_Rabotnički_players", "id": 15281172, "predecessors": [{"name": "Football_clubs_in_North_Macedonia", "id": 34431534}, {"name": "Countries_in_Europe", "id": 37691805}], "successors": []}

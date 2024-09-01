@@ -1,1 +1,1 @@
-{"name": "Legendary_mammals", "id": 10433225, "predecessors": [{"name": "Animals_and_humans", "id": 52196069}, {"name": "Folklore", "id": 728925}], "successors": []}
+{"name": "Legendary_mammals", "id": 10433225, "predecessors": [{"name": "Integers", "id": 736448}, {"name": "Legendary_mammals", "id": 10433225}, {"name": "Wikipedia_categorization", "id": 1036222}], "successors": [{"name": "Bigfoot", "id": 2037881}, {"name": "Legendary_mammals", "id": 10433225}, {"name": "Mythological_felines", "id": 29250225}, {"name": "Mythological_canines", "id": 29360581}]}

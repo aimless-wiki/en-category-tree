@@ -1,1 +1,1 @@
-{"name": "Submarines_sunk_by_aircraft", "id": 33653970, "predecessors": [{"name": "Shipwrecks", "id": 739221}], "successors": [{"name": "U-boats_sunk_by_British_aircraft", "id": 44014564}, {"name": "U-boats_sunk_by_US_aircraft", "id": 44014894}]}
+{"name": "Submarines_sunk_by_aircraft", "id": 33653970, "predecessors": [{"name": "International_maritime_incidents", "id": 3510440}, {"name": "Shipwrecks", "id": 739221}], "successors": [{"name": "U-boats_sunk_by_British_aircraft", "id": 44014564}, {"name": "U-boats_sunk_by_US_aircraft", "id": 44014894}]}

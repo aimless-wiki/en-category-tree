@@ -1,1 +1,1 @@
-{"name": "Copper", "id": 3726228, "predecessors": [{"name": "Chemical_elements", "id": 691255}, {"name": "Metals", "id": 744693}, {"name": "Transition_metals", "id": 694948}], "successors": [{"name": "Copper_alloys", "id": 3314734}]}
+{"name": "Copper", "id": 3726228, "predecessors": [{"name": "Chemical_elements", "id": 691255}, {"name": "Metals", "id": 744693}, {"name": "Transition_metals", "id": 694948}], "successors": [{"name": "Isotopes_of_copper", "id": 23204718}]}

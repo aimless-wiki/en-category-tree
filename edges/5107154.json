@@ -1,1 +1,1 @@
-{"name": "X-ray_binaries", "id": 5107154, "predecessors": [{"name": "Astronomical_X-ray_sources", "id": 22304124}, {"name": "Binary_stars", "id": 948379}, {"name": "Science_fiction_themes", "id": 786868}], "successors": []}
+{"name": "X-ray_binaries", "id": 5107154, "predecessors": [{"name": "Astronomical_X-ray_sources", "id": 22304124}, {"name": "Binary_stars", "id": 948379}, {"name": "Science_fiction_themes", "id": 786868}, {"name": "Star_types", "id": 3177479}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "African_slave_traders", "id": 39730854, "predecessors": [{"name": "Merchants", "id": 14286453}, {"name": "African_diaspora", "id": 4248630}, {"name": "Crime", "id": 1183180}], "successors": []}
+{"name": "African_slave_traders", "id": 39730854, "predecessors": [{"name": "African_diaspora", "id": 4248630}, {"name": "Slavery_in_Africa", "id": 12732992}, {"name": "Occupations", "id": 787658}, {"name": "Crime", "id": 1183180}], "successors": []}

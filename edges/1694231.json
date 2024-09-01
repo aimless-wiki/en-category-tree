@@ -1,1 +1,1 @@
-{"name": "British_theatre_directors", "id": 1694231, "predecessors": [{"name": "Theatre", "id": 698600}], "successors": [{"name": "English_theatre_directors", "id": 1224841}, {"name": "British_women_theatre_directors", "id": 73581177}]}
+{"name": "British_theatre_directors", "id": 1694231, "predecessors": [{"name": "British_artists", "id": 722169}, {"name": "Culture", "id": 694861}, {"name": "Occupations", "id": 787658}], "successors": [{"name": "English_theatre_directors", "id": 1224841}, {"name": "British_women_theatre_directors", "id": 73581177}]}

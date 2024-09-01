@@ -1,1 +1,1 @@
-{"name": "Urban_decay", "id": 8706679, "predecessors": [{"name": "Human_habitats", "id": 4404631}, {"name": "Urban_planning", "id": 705232}, {"name": "Politics", "id": 695027}, {"name": "Apex_predators", "id": 45401087}], "successors": []}
+{"name": "Urban_decay", "id": 8706679, "predecessors": [{"name": "Human_habitats", "id": 4404631}, {"name": "Urban_planning", "id": 705232}, {"name": "Politics", "id": 695027}, {"name": "Human_geography", "id": 1111700}], "successors": [{"name": "Urban_decay_in_the_United_States", "id": 31548010}]}

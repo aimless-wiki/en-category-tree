@@ -1,1 +1,1 @@
-{"name": "Australian_fashion_designers", "id": 5751321, "predecessors": [{"name": "Design", "id": 999651}], "successors": [{"name": "Australian_women_fashion_designers", "id": 72292702}]}
+{"name": "Australian_fashion_designers", "id": 5751321, "predecessors": [{"name": "Australian_artists", "id": 739186}, {"name": "Design", "id": 999651}, {"name": "Culture_of_Australia", "id": 699831}], "successors": [{"name": "Australian_women_fashion_designers", "id": 72292702}]}

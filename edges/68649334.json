@@ -1,1 +1,1 @@
-{"name": "Neurological_disease_deaths_in_Massachusetts", "id": 68649334, "predecessors": [{"name": "Death", "id": 921954}], "successors": []}
+{"name": "Neurological_disease_deaths_in_Massachusetts", "id": 68649334, "predecessors": [{"name": "New_England", "id": 2387944}, {"name": "Death", "id": 921954}], "successors": []}

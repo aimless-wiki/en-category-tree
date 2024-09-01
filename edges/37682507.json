@@ -1,1 +1,1 @@
-{"name": "Entrepreneurship_organizations", "id": 37682507, "predecessors": [{"name": "Entrepreneurship", "id": 4535976}, {"name": "Legal_entities", "id": 1125732}], "successors": []}
+{"name": "Entrepreneurship_organizations", "id": 37682507, "predecessors": [{"name": "Legal_entities", "id": 1125732}], "successors": [{"name": "Startup_accelerators", "id": 50498776}]}

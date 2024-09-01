@@ -1,1 +1,1 @@
-{"name": "New_Zealand_potters", "id": 20962752, "predecessors": [{"name": "Art_by_country", "id": 1001486}, {"name": "Occupations", "id": 787658}], "successors": []}
+{"name": "New_Zealand_potters", "id": 20962752, "predecessors": [{"name": "New_Zealand_artists", "id": 952019}, {"name": "Art_by_country", "id": 1001486}, {"name": "Culture", "id": 694861}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "FK_Vojvodina_managers", "id": 22675044, "predecessors": [{"name": "Culture_of_Serbia", "id": 724300}, {"name": "Culture", "id": 694861}], "successors": []}
+{"name": "FK_Vojvodina_managers", "id": 22675044, "predecessors": [{"name": "Culture", "id": 694861}], "successors": []}

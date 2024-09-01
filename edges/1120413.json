@@ -1,1 +1,1 @@
-{"name": "Polish_Army_officers", "id": 1120413, "predecessors": [{"name": "Polish_soldiers", "id": 7672771}, {"name": "Positions_of_authority", "id": 910633}, {"name": "Occupations", "id": 787658}], "successors": [{"name": "Polish_commanders_of_the_Napoleonic_Wars", "id": 4394746}]}
+{"name": "Polish_Army_officers", "id": 1120413, "predecessors": [{"name": "Polish_Land_Forces", "id": 1415399}, {"name": "Occupations", "id": 787658}, {"name": "Government_occupations", "id": 1006059}], "successors": [{"name": "Polish_commanders_of_the_Napoleonic_Wars", "id": 4394746}]}

@@ -1,1 +1,1 @@
-{"name": "Prostate_cancer", "id": 43026011, "predecessors": [{"name": "Andrology", "id": 692358}, {"name": "Glands", "id": 2487650}], "successors": [{"name": "Deaths_from_prostate_cancer", "id": 18669615}]}
+{"name": "Prostate_cancer", "id": 43026011, "predecessors": [{"name": "Glands", "id": 2487650}, {"name": "Branches_of_biology", "id": 37535091}], "successors": [{"name": "Deaths_from_prostate_cancer", "id": 18669615}]}

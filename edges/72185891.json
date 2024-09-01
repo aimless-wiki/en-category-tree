@@ -1,1 +1,1 @@
-{"name": "War_scare", "id": 72185891, "predecessors": [{"name": "Social_phenomena", "id": 10838466}, {"name": "Politics", "id": 695027}, {"name": "Human_behavior", "id": 2524202}, {"name": "Apex_predators", "id": 45401087}, {"name": "Diplomatic_incidents", "id": 4036931}], "successors": []}
+{"name": "War_scare", "id": 72185891, "predecessors": [{"name": "Social_phenomena", "id": 10838466}, {"name": "Government", "id": 697609}, {"name": "Politics", "id": 695027}, {"name": "Diplomatic_incidents", "id": 4036931}], "successors": []}

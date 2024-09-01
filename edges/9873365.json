@@ -1,1 +1,1 @@
-{"name": "People_with_Parkinson's_disease", "id": 9873365, "predecessors": [{"name": "Parkinson's_disease", "id": 5850920}, {"name": "Causes_of_death", "id": 5271061}], "successors": [{"name": "Deaths_from_Parkinson's_disease", "id": 10933265}]}
+{"name": "People_with_Parkinson's_disease", "id": 9873365, "predecessors": [{"name": "Parkinson's_disease", "id": 5850920}, {"name": "Branches_of_biology", "id": 37535091}], "successors": [{"name": "Deaths_from_Parkinson's_disease", "id": 10933265}]}

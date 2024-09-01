@@ -1,1 +1,1 @@
-{"name": "Swiss_diplomats", "id": 7687243, "predecessors": [{"name": "Government", "id": 697609}, {"name": "Negotiation", "id": 7750683}, {"name": "Occupations", "id": 787658}], "successors": [{"name": "Foreign_ministers_of_Switzerland", "id": 53585870}]}
+{"name": "Swiss_diplomats", "id": 7687243, "predecessors": [{"name": "Government", "id": 697609}, {"name": "Countries_in_Europe", "id": 37691805}, {"name": "Occupations", "id": 787658}], "successors": [{"name": "Foreign_ministers_of_Switzerland", "id": 53585870}]}

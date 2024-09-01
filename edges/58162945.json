@@ -1,1 +1,1 @@
-{"name": "FK_Železničar_Pančevo_players", "id": 58162945, "predecessors": [{"name": "Culture_of_Serbia", "id": 724300}, {"name": "Football_clubs_in_Serbia", "id": 34432988}], "successors": []}
+{"name": "FK_Železničar_Pančevo_players", "id": 58162945, "predecessors": [{"name": "Games_of_physical_skill", "id": 8429269}], "successors": []}

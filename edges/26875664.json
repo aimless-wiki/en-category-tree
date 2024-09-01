@@ -1,1 +1,1 @@
-{"name": "Wikipedia_rollbackers", "id": 26875664, "predecessors": [{"name": "Wikipedia_rollback_feature", "id": 15176502}, {"name": "Wikipedia_features", "id": 3051002}], "successors": []}
+{"name": "Wikipedia_rollbackers", "id": 26875664, "predecessors": [{"name": "Wikipedia_counter-vandalism_tools", "id": 7438291}, {"name": "Wikipedia_features", "id": 3051002}], "successors": []}

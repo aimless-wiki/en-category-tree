@@ -1,1 +1,1 @@
-{"name": "EFL_Trophy_finals", "id": 22798695, "predecessors": [{"name": "Time", "id": 744728}], "successors": []}
+{"name": "EFL_Trophy_finals", "id": 22798695, "predecessors": [{"name": "EFL_Trophy", "id": 53504588}, {"name": "Meetings", "id": 1261738}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Screen_Awards", "id": 42060336, "predecessors": [{"name": "Hindi_cinema", "id": 1311518}], "successors": []}
+{"name": "Screen_Awards", "id": 42060336, "predecessors": [{"name": "Indian_film_awards", "id": 10012051}, {"name": "Hindi_cinema", "id": 1311518}], "successors": [{"name": "Screen_Awards_winners", "id": 42135821}]}

@@ -1,1 +1,1 @@
-{"name": "FK_Leotar_players", "id": 23863924, "predecessors": [{"name": "Football_clubs_in_Bosnia_and_Herzegovina", "id": 34428248}, {"name": "Culture_of_Bosnia_and_Herzegovina", "id": 15765122}], "successors": []}
+{"name": "FK_Leotar_players", "id": 23863924, "predecessors": [{"name": "Football_clubs_in_Bosnia_and_Herzegovina", "id": 34428248}, {"name": "Games_of_physical_skill", "id": 8429269}], "successors": []}

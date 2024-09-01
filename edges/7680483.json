@@ -1,1 +1,1 @@
-{"name": "Northeastern_University_faculty", "id": 7680483, "predecessors": [{"name": "Regions_of_the_United_States", "id": 692378}, {"name": "Educators_from_Massachusetts", "id": 39243221}], "successors": [{"name": "Mills_College_faculty", "id": 27119367}]}
+{"name": "Northeastern_University_faculty", "id": 7680483, "predecessors": [{"name": "Educators_from_Massachusetts", "id": 39243221}, {"name": "Culture", "id": 694861}], "successors": [{"name": "Mills_College_faculty", "id": 27119367}]}

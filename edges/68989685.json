@@ -1,1 +1,1 @@
-{"name": "United_Kingdom_school_user_templates", "id": 68989685, "predecessors": [{"name": "Education_user_templates", "id": 5964352}], "successors": [{"name": "United_Kingdom_university_user_templates", "id": 68920168}]}
+{"name": "United_Kingdom_school_user_templates", "id": 68989685, "predecessors": [{"name": "United_Kingdom_user_templates", "id": 32115862}, {"name": "Education_user_templates", "id": 5964352}], "successors": [{"name": "United_Kingdom_university_user_templates", "id": 68920168}]}

@@ -1,1 +1,1 @@
-{"name": "Automation_software", "id": 42864368, "predecessors": [{"name": "Automation", "id": 885076}, {"name": "Digital_media", "id": 1017992}], "successors": [{"name": "Build_automation", "id": 7896281}]}
+{"name": "Automation_software", "id": 42864368, "predecessors": [{"name": "Control_engineering", "id": 9935559}, {"name": "Digital_media", "id": 1017992}], "successors": [{"name": "Build_automation", "id": 7896281}]}

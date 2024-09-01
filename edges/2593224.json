@@ -1,1 +1,1 @@
-{"name": "Japanese_legendary_creatures", "id": 2593224, "predecessors": [{"name": "Japanese_folklore", "id": 969935}], "successors": [{"name": "Shinto_kami", "id": 2659833}, {"name": "Yōkai", "id": 34746057}]}
+{"name": "Japanese_legendary_creatures", "id": 2593224, "predecessors": [{"name": "Japanese_folklore", "id": 969935}, {"name": "Culture", "id": 694861}, {"name": "Japanese_mythology", "id": 704956}], "successors": [{"name": "Shinto_kami", "id": 2659833}, {"name": "Yōkai", "id": 34746057}]}

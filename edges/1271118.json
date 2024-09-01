@@ -1,1 +1,1 @@
-{"name": "Gang_members", "id": 1271118, "predecessors": [{"name": "Crime", "id": 1183180}], "successors": [{"name": "Gang_members_of_New_York_City", "id": 11940952}]}
+{"name": "Gang_members", "id": 1271118, "predecessors": [{"name": "Street_gangs", "id": 1697488}, {"name": "Crime", "id": 1183180}], "successors": [{"name": "Fictional_gang_members", "id": 23447821}]}

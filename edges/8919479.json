@@ -1,1 +1,1 @@
-{"name": "Accidental_deaths_from_falls", "id": 8919479, "predecessors": [{"name": "Deaths_from_falls", "id": 19267759}, {"name": "Causes_of_death", "id": 5271061}], "successors": [{"name": "Deaths_by_horse-riding_accident_in_the_United_States", "id": 67683298}, {"name": "Deaths_by_horse-riding_accident_in_England", "id": 67683176}]}
+{"name": "Accidental_deaths_from_falls", "id": 8919479, "predecessors": [{"name": "Injuries", "id": 10158091}], "successors": [{"name": "Deaths_by_horse-riding_accident_in_the_United_States", "id": 67683298}]}

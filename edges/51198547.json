@@ -1,1 +1,1 @@
-{"name": "British_female_long_jumpers", "id": 51198547, "predecessors": [{"name": "Individual_sports", "id": 862248}], "successors": [{"name": "English_female_long_jumpers", "id": 51198553}]}
+{"name": "British_female_long_jumpers", "id": 51198547, "predecessors": [{"name": "Events_in_track_and_field", "id": 19650184}, {"name": "Individual_sports", "id": 862248}, {"name": "Occupations", "id": 787658}], "successors": [{"name": "English_female_long_jumpers", "id": 51198553}]}

@@ -1,1 +1,1 @@
-{"name": "Daughters_of_counts", "id": 76545402, "predecessors": [{"name": "Daughters_of_monarchs", "id": 62451311}, {"name": "Social_classes", "id": 2984555}, {"name": "Noble_titles", "id": 2205740}], "successors": []}
+{"name": "Daughters_of_counts", "id": 76545402, "predecessors": [{"name": "Daughters_of_monarchs", "id": 62451311}, {"name": "Social_classes", "id": 2984555}, {"name": "Types_of_administrative_division", "id": 29492692}], "successors": [{"name": "Daughters_of_British_earls", "id": 24625540}]}

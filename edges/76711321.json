@@ -1,1 +1,1 @@
-{"name": "Deaths_from_kidney_failure_in_the_United_States", "id": 76711321, "predecessors": [{"name": "Deaths_from_kidney_failure", "id": 10948355}, {"name": "Causes_of_death", "id": 5271061}], "successors": [{"name": "Deaths_from_kidney_failure_in_California", "id": 76865827}]}
+{"name": "Deaths_from_kidney_failure_in_the_United_States", "id": 76711321, "predecessors": [{"name": "Deaths_from_kidney_failure", "id": 10948355}, {"name": "Death", "id": 921954}], "successors": [{"name": "Deaths_from_kidney_failure_in_California", "id": 76865827}]}

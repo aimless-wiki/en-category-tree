@@ -1,1 +1,1 @@
-{"name": "Cardiac_surgery", "id": 8392971, "predecessors": [{"name": "Surgical_procedures_and_techniques", "id": 3464652}], "successors": [{"name": "American_cardiac_surgeons", "id": 55581430}]}
+{"name": "Cardiac_surgery", "id": 8392971, "predecessors": [{"name": "Surgical_procedures_and_techniques", "id": 3464652}, {"name": "Surgery", "id": 804789}, {"name": "Cardiology", "id": 692364}], "successors": [{"name": "American_cardiac_surgeons", "id": 55581430}]}

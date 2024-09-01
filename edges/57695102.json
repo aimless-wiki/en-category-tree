@@ -1,1 +1,1 @@
-{"name": "Used_car_market", "id": 57695102, "predecessors": [{"name": "Reuse", "id": 33445743}, {"name": "Transport_economics", "id": 3646902}, {"name": "Land_tenure", "id": 49153374}], "successors": []}
+{"name": "Used_car_market", "id": 57695102, "predecessors": [{"name": "Transport_economics", "id": 3646902}, {"name": "Land_tenure", "id": 49153374}], "successors": []}

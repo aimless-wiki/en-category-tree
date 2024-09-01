@@ -1,1 +1,1 @@
-{"name": "Coal_hulks", "id": 27594443, "predecessors": [{"name": "Coal", "id": 1103533}, {"name": "Sailing_ships", "id": 920129}], "successors": []}
+{"name": "Coal_hulks", "id": 27594443, "predecessors": [{"name": "Barges", "id": 3757773}, {"name": "Coal", "id": 1103533}, {"name": "Sailing_ships", "id": 920129}, {"name": "Boats", "id": 765931}], "successors": []}

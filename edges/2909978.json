@@ -1,1 +1,1 @@
-{"name": "Sonar", "id": 2909978, "predecessors": [{"name": "Navigational_equipment", "id": 1409413}, {"name": "Surveillance", "id": 998678}, {"name": "Acoustics", "id": 796718}], "successors": []}
+{"name": "Sonar", "id": 2909978, "predecessors": [{"name": "Navigational_equipment", "id": 1409413}, {"name": "Surveillance", "id": 998678}, {"name": "Ultrasound", "id": 4735530}, {"name": "Acoustics", "id": 796718}], "successors": []}

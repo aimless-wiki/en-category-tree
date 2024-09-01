@@ -1,1 +1,1 @@
-{"name": "World_Indoor_Bowls_Championship", "id": 38433942, "predecessors": [{"name": "Ball_games", "id": 996038}, {"name": "International_sports_organizations", "id": 27503244}], "successors": []}
+{"name": "World_Indoor_Bowls_Championship", "id": 38433942, "predecessors": [{"name": "International_sports_organizations", "id": 27503244}, {"name": "Earth", "id": 754965}], "successors": [{"name": "Indoor_Bowls_World_Champions", "id": 56376226}]}

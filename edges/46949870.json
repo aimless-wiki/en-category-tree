@@ -1,1 +1,1 @@
-{"name": "Kue", "id": 46949870, "predecessors": [{"name": "Cookies", "id": 1864543}, {"name": "Pastries", "id": 41673232}, {"name": "European_cuisine", "id": 1259768}, {"name": "Nutrition", "id": 9936002}], "successors": []}
+{"name": "Kue", "id": 46949870, "predecessors": [{"name": "Cakes", "id": 1786895}, {"name": "Cookies", "id": 1864543}, {"name": "Pastries", "id": 41673232}, {"name": "Baked_foods", "id": 65696059}, {"name": "Indonesian_cuisine", "id": 1356327}], "successors": []}

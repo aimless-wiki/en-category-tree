@@ -1,1 +1,1 @@
-{"name": "Conscientious_objection", "id": 5066470, "predecessors": [{"name": "Anti-war_movement", "id": 1854571}, {"name": "Civil_disobedience", "id": 1526235}, {"name": "Military_law", "id": 915728}, {"name": "Government", "id": 697609}], "successors": []}
+{"name": "Conscientious_objection", "id": 5066470, "predecessors": [{"name": "Anti-war_movement", "id": 1854571}, {"name": "Civil_disobedience", "id": 1526235}, {"name": "Military_law", "id": 915728}, {"name": "Political_concepts", "id": 34181261}], "successors": [{"name": "Peace", "id": 1243099}]}

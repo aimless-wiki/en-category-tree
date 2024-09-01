@@ -1,1 +1,1 @@
-{"name": "German_film_score_composers", "id": 2308760, "predecessors": [{"name": "Culture", "id": 694861}], "successors": []}
+{"name": "German_film_score_composers", "id": 2308760, "predecessors": [{"name": "Literature", "id": 692008}, {"name": "Culture", "id": 694861}, {"name": "German_composers", "id": 1137451}], "successors": [{"name": "German_male_film_score_composers", "id": 76505803}]}

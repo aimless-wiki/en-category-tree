@@ -1,1 +1,1 @@
-{"name": "Russian_male_composers", "id": 50534295, "predecessors": [{"name": "Russian_male_musicians", "id": 50534303}, {"name": "Culture_of_Russia", "id": 724483}], "successors": [{"name": "Russian_male_classical_composers", "id": 50534290}]}
+{"name": "Russian_male_composers", "id": 50534295, "predecessors": [{"name": "Russian_male_musicians", "id": 50534303}, {"name": "Performing_arts", "id": 991222}, {"name": "Culture", "id": 694861}], "successors": [{"name": "Russian_male_classical_composers", "id": 50534290}]}

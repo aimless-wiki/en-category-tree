@@ -1,1 +1,1 @@
-{"name": "Spanish_male_singers", "id": 7925656, "predecessors": [{"name": "Spanish_male_musicians", "id": 68222660}, {"name": "Singing", "id": 940526}, {"name": "Musical_instruments", "id": 691595}], "successors": [{"name": "Spanish_male_singer-songwriters", "id": 49452080}]}
+{"name": "Spanish_male_singers", "id": 7925656, "predecessors": [{"name": "Spanish_male_musicians", "id": 68222660}, {"name": "Singing", "id": 940526}, {"name": "Culture", "id": 694861}], "successors": [{"name": "Spanish_male_singer-songwriters", "id": 49452080}]}

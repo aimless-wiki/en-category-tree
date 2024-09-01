@@ -1,1 +1,1 @@
-{"name": "Accidental_deaths_in_Italy", "id": 27352598, "predecessors": [{"name": "Causes_of_death", "id": 5271061}, {"name": "Death", "id": 921954}], "successors": [{"name": "Road_incident_deaths_in_Italy", "id": 14707708}, {"name": "Sport_deaths_in_Italy", "id": 19017847}]}
+{"name": "Accidental_deaths_in_Italy", "id": 27352598, "predecessors": [{"name": "Injuries", "id": 10158091}, {"name": "Death", "id": 921954}], "successors": [{"name": "Road_incident_deaths_in_Italy", "id": 14707708}, {"name": "Sport_deaths_in_Italy", "id": 19017847}]}

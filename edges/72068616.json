@@ -1,1 +1,1 @@
-{"name": "Deaths_from_surgical_complications", "id": 72068616, "predecessors": [{"name": "Causes_of_death", "id": 5271061}, {"name": "Poisons", "id": 7628523}], "successors": []}
+{"name": "Deaths_from_surgical_complications", "id": 72068616, "predecessors": [{"name": "Medical_treatments", "id": 694975}], "successors": []}

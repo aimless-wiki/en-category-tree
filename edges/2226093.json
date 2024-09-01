@@ -1,1 +1,1 @@
-{"name": "Portuguese_painters", "id": 2226093, "predecessors": [{"name": "Portuguese_artists", "id": 1573892}, {"name": "Painting", "id": 707606}], "successors": [{"name": "Portuguese_male_painters", "id": 60485228}]}
+{"name": "Portuguese_painters", "id": 2226093, "predecessors": [{"name": "Painting", "id": 707606}, {"name": "Art_by_country", "id": 1001486}], "successors": [{"name": "Portuguese_male_painters", "id": 60485228}]}

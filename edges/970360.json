@@ -1,1 +1,1 @@
-{"name": "Dog_training_and_behavior", "id": 970360, "predecessors": [{"name": "Behavior_modification", "id": 9430658}, {"name": "Zoology", "id": 694590}, {"name": "Animals_and_humans", "id": 52196069}], "successors": [{"name": "Dog_actors", "id": 56656356}]}
+{"name": "Dog_training_and_behavior", "id": 970360, "predecessors": [{"name": "Behavior_modification", "id": 9430658}, {"name": "Integers", "id": 736448}], "successors": [{"name": "Dog_trainers", "id": 11606621}, {"name": "Dog_actors", "id": 56656356}]}

@@ -1,1 +1,1 @@
-{"name": "Theropod_stubs", "id": 18962299, "predecessors": [{"name": "Dinosaur_stubs", "id": 2370358}, {"name": "Contents", "id": 14105005}], "successors": [{"name": "Bird_stubs", "id": 1834035}]}
+{"name": "Theropod_stubs", "id": 18962299, "predecessors": [{"name": "Dinosaur_stubs", "id": 2370358}, {"name": "Contents", "id": 14105005}, {"name": "Integers", "id": 736448}], "successors": [{"name": "Bird_stubs", "id": 1834035}]}

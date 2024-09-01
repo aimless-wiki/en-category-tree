@@ -1,1 +1,1 @@
-{"name": "Bus_bombings_in_Asia", "id": 61482204, "predecessors": [{"name": "Causes_of_death", "id": 5271061}, {"name": "Emergency_management", "id": 5047412}], "successors": []}
+{"name": "Bus_bombings_in_Asia", "id": 61482204, "predecessors": [{"name": "Causes_of_death", "id": 5271061}, {"name": "Road_transport", "id": 700964}, {"name": "Public_transport", "id": 700497}], "successors": []}

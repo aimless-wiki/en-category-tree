@@ -1,1 +1,1 @@
-{"name": "Deaths_from_cancer_in_Germany", "id": 19530689, "predecessors": [{"name": "Cancer", "id": 999635}, {"name": "Countries_in_Europe", "id": 37691805}], "successors": [{"name": "Deaths_from_lung_cancer_in_Germany", "id": 70882715}]}
+{"name": "Deaths_from_cancer_in_Germany", "id": 19530689, "predecessors": [{"name": "Cancer", "id": 999635}, {"name": "Death", "id": 921954}], "successors": [{"name": "Deaths_from_lung_cancer_in_Germany", "id": 70882715}]}

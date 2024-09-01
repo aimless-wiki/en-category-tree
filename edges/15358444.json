@@ -1,1 +1,1 @@
-{"name": "Bacteriophages", "id": 15358444, "predecessors": [{"name": "Viruses", "id": 1582253}], "successors": [{"name": "Myoviridae", "id": 37026492}]}
+{"name": "Bacteriophages", "id": 15358444, "predecessors": [{"name": "Bacteriology", "id": 1095014}, {"name": "Viruses", "id": 1582253}], "successors": [{"name": "Myoviridae", "id": 37026492}]}

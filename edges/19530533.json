@@ -1,1 +1,1 @@
-{"name": "Deaths_from_cancer_in_Japan", "id": 19530533, "predecessors": [{"name": "Deaths_from_cancer", "id": 18669378}, {"name": "Causes_of_death", "id": 5271061}], "successors": [{"name": "Deaths_from_lung_cancer_in_Japan", "id": 70814040}]}
+{"name": "Deaths_from_cancer_in_Japan", "id": 19530533, "predecessors": [{"name": "Cancer", "id": 999635}, {"name": "Death", "id": 921954}], "successors": [{"name": "Deaths_from_lung_cancer_in_Japan", "id": 70814040}]}

@@ -1,1 +1,1 @@
-{"name": "Spanish_army_officers", "id": 31486127, "predecessors": [{"name": "Positions_of_authority", "id": 910633}, {"name": "Spanish_military_personnel", "id": 3358430}], "successors": []}
+{"name": "Spanish_army_officers", "id": 31486127, "predecessors": [{"name": "Spanish_military_personnel", "id": 3358430}, {"name": "Government_occupations", "id": 1006059}], "successors": []}

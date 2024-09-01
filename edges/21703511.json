@@ -1,1 +1,1 @@
-{"name": "Articulated_passenger_trains", "id": 21703511, "predecessors": [{"name": "Land_tenure", "id": 49153374}, {"name": "Passenger_rail_transport", "id": 5356605}], "successors": []}
+{"name": "Articulated_passenger_trains", "id": 21703511, "predecessors": [{"name": "Passenger_rail_transport", "id": 5356605}], "successors": []}

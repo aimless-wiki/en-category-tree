@@ -1,1 +1,1 @@
-{"name": "Parachuting", "id": 1172127, "predecessors": [{"name": "Aerodynamics", "id": 1303037}, {"name": "Gravity", "id": 16212316}, {"name": "Atmosphere", "id": 1136015}], "successors": [{"name": "Paratroopers", "id": 55355586}, {"name": "American_skydivers", "id": 7133843}]}
+{"name": "Parachuting", "id": 1172127, "predecessors": [{"name": "Aerodynamics", "id": 1303037}, {"name": "Atmosphere", "id": 1136015}], "successors": [{"name": "Paratroopers", "id": 55355586}, {"name": "American_skydivers", "id": 7133843}]}

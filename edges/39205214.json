@@ -1,1 +1,1 @@
-{"name": "Geology_of_Mars", "id": 39205214, "predecessors": [{"name": "Planetary_geology", "id": 5509296}, {"name": "Planetary_science", "id": 1600702}], "successors": []}
+{"name": "Geology_of_Mars", "id": 39205214, "predecessors": [{"name": "Mars", "id": 740294}, {"name": "Planetary_geology", "id": 5509296}, {"name": "Planetary_science", "id": 1600702}], "successors": []}

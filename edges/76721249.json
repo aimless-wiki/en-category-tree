@@ -1,1 +1,1 @@
-{"name": "Sports_podcasters", "id": 76721249, "predecessors": [{"name": "Sports_commentators", "id": 2344107}, {"name": "Sports_podcasts", "id": 38752990}, {"name": "Culture", "id": 694861}, {"name": "Internet_broadcasting", "id": 12481347}], "successors": []}
+{"name": "Sports_podcasters", "id": 76721249, "predecessors": [{"name": "Sports_commentators", "id": 2344107}, {"name": "Sports_podcasts", "id": 38752990}, {"name": "Culture", "id": 694861}, {"name": "Occupations", "id": 787658}], "successors": [{"name": "Professional_wrestling_podcasters", "id": 67104473}]}

@@ -1,1 +1,1 @@
-{"name": "Integrated_development_environments", "id": 1220346, "predecessors": [{"name": "Programming_tools", "id": 846161}], "successors": [{"name": "Free_integrated_development_environments", "id": 34474771}]}
+{"name": "Integrated_development_environments", "id": 1220346, "predecessors": [{"name": "Programming_tools", "id": 846161}], "successors": [{"name": "Linux_integrated_development_environments", "id": 10144248}, {"name": "Free_integrated_development_environments", "id": 34474771}]}

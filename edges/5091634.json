@@ -1,1 +1,1 @@
-{"name": "Valleys_and_canyons_on_Mars", "id": 5091634, "predecessors": [{"name": "Erosion_landforms", "id": 11063669}], "successors": []}
+{"name": "Valleys_and_canyons_on_Mars", "id": 5091634, "predecessors": [{"name": "Surface_features_of_Mars", "id": 4954752}, {"name": "Erosion_landforms", "id": 11063669}, {"name": "Landforms", "id": 705424}], "successors": []}

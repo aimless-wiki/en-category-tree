@@ -1,1 +1,1 @@
-{"name": "FA_Cup_seasons", "id": 13010083, "predecessors": [{"name": "Time", "id": 744728}], "successors": []}
+{"name": "FA_Cup_seasons", "id": 13010083, "predecessors": [{"name": "National_association_football_cups", "id": 29030566}, {"name": "Time", "id": 744728}], "successors": [{"name": "FA_Cup_finals", "id": 5177339}, {"name": "FA_Cup_qualifying_rounds", "id": 46216814}]}

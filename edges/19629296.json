@@ -1,1 +1,1 @@
-{"name": "Deaths_from_bleeding", "id": 19629296, "predecessors": [{"name": "Causes_of_death", "id": 5271061}, {"name": "Blood", "id": 968308}], "successors": [{"name": "Deaths_from_aneurysm", "id": 25159790}, {"name": "Deaths_from_intracranial_haemorrhage", "id": 72345699}]}
+{"name": "Deaths_from_bleeding", "id": 19629296, "predecessors": [{"name": "Blood", "id": 968308}], "successors": [{"name": "Deaths_from_aneurysm", "id": 25159790}]}

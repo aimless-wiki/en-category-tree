@@ -1,1 +1,1 @@
-{"name": "Diagnostic_cardiology", "id": 71476105, "predecessors": [{"name": "Medical_diagnosis", "id": 16705234}], "successors": []}
+{"name": "Diagnostic_cardiology", "id": 71476105, "predecessors": [{"name": "Medical_diagnosis", "id": 16705234}, {"name": "Cardiology", "id": 692364}], "successors": []}

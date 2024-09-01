@@ -1,1 +1,1 @@
-{"name": "Video_game_designers", "id": 9568387, "predecessors": [{"name": "Video_game_developers", "id": 9568425}, {"name": "Design", "id": 999651}, {"name": "Computer_art", "id": 1209729}], "successors": [{"name": "Women_video_game_designers", "id": 45205698}]}
+{"name": "Video_game_designers", "id": 9568387, "predecessors": [{"name": "Video_game_developers", "id": 9568425}, {"name": "Design", "id": 999651}, {"name": "Video_game_development", "id": 9254238}], "successors": [{"name": "Women_video_game_designers", "id": 45205698}]}

@@ -1,1 +1,1 @@
-{"name": "Russian_singer-songwriters", "id": 10839251, "predecessors": [{"name": "Musical_instruments", "id": 691595}, {"name": "Culture", "id": 694861}, {"name": "Singing", "id": 940526}], "successors": [{"name": "Russian_bards", "id": 3000772}, {"name": "Russian_male_singer-songwriters", "id": 44858874}]}
+{"name": "Russian_singer-songwriters", "id": 10839251, "predecessors": [{"name": "Performing_arts", "id": 991222}, {"name": "Culture", "id": 694861}], "successors": [{"name": "Russian_bards", "id": 3000772}, {"name": "Russian_male_singer-songwriters", "id": 44858874}]}

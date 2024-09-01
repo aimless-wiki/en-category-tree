@@ -1,1 +1,1 @@
-{"name": "Sloop_classes", "id": 24622916, "predecessors": [{"name": "Sailing_ships", "id": 920129}], "successors": [{"name": "Cruizer-class_brig-sloops", "id": 38757347}]}
+{"name": "Sloop_classes", "id": 24622916, "predecessors": [{"name": "Corvette_classes", "id": 3708575}, {"name": "Sailing_ships", "id": 920129}, {"name": "Classification_systems", "id": 3615452}], "successors": [{"name": "Cruizer-class_brig-sloops", "id": 38757347}]}

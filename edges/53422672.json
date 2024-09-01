@@ -1,1 +1,1 @@
-{"name": "Sports_competitions_in_Prague", "id": 53422672, "predecessors": [{"name": "Sport_in_Prague", "id": 3301617}, {"name": "Culture", "id": 694861}], "successors": [{"name": "Prague_Open", "id": 39870376}]}
+{"name": "Sports_competitions_in_Prague", "id": 53422672, "predecessors": [{"name": "Sport_in_Prague", "id": 3301617}, {"name": "Culture", "id": 694861}, {"name": "Culture_of_Europe", "id": 709679}, {"name": "History_of_Europe", "id": 1673222}], "successors": [{"name": "Prague_Open", "id": 39870376}]}

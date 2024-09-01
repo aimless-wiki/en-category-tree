@@ -1,1 +1,1 @@
-{"name": "Accidental_deaths_in_India", "id": 27352581, "predecessors": [{"name": "Law_of_India", "id": 38350546}], "successors": [{"name": "Road_incident_deaths_in_India", "id": 14707701}]}
+{"name": "Accidental_deaths_in_India", "id": 27352581, "predecessors": [{"name": "Injuries", "id": 10158091}, {"name": "Law_of_India", "id": 38350546}, {"name": "Death", "id": 921954}], "successors": [{"name": "Road_incident_deaths_in_India", "id": 14707701}]}

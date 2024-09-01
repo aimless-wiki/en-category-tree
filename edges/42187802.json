@@ -1,1 +1,1 @@
-{"name": "Wine_merchants", "id": 42187802, "predecessors": [{"name": "Merchants", "id": 14286453}, {"name": "Food_industry", "id": 3540193}], "successors": []}
+{"name": "Wine_merchants", "id": 42187802, "predecessors": [{"name": "Food_industry", "id": 3540193}, {"name": "Commodity_markets", "id": 42311854}], "successors": []}

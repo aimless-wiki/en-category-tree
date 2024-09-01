@@ -1,1 +1,1 @@
-{"name": "Recombinant_proteins", "id": 4692155, "predecessors": [{"name": "Biotechnology", "id": 888826}], "successors": []}
+{"name": "Recombinant_proteins", "id": 4692155, "predecessors": [{"name": "Biotechnology", "id": 888826}, {"name": "Proteins", "id": 717889}], "successors": []}

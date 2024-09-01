@@ -1,1 +1,1 @@
-{"name": "FK_Slavija_Sarajevo_players", "id": 18214839, "predecessors": [{"name": "Cities_and_towns_in_Republika_Srpska", "id": 3040429}, {"name": "Football_clubs_in_Bosnia_and_Herzegovina", "id": 34428248}, {"name": "Culture_of_Bosnia_and_Herzegovina", "id": 15765122}], "successors": []}
+{"name": "FK_Slavija_Sarajevo_players", "id": 18214839, "predecessors": [{"name": "Cities_and_towns_in_Republika_Srpska", "id": 3040429}, {"name": "Football_clubs_in_Bosnia_and_Herzegovina", "id": 34428248}, {"name": "Games_of_physical_skill", "id": 8429269}], "successors": []}

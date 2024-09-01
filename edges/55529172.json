@@ -1,1 +1,1 @@
-{"name": "Energy_regulatory_authorities", "id": 55529172, "predecessors": [{"name": "Energy_law", "id": 19941699}, {"name": "Regulation", "id": 35504121}, {"name": "Energy_organizations", "id": 18605597}], "successors": []}
+{"name": "Energy_regulatory_authorities", "id": 55529172, "predecessors": [{"name": "Energy_law", "id": 19941699}, {"name": "Government", "id": 697609}, {"name": "Energy_organizations", "id": 18605597}], "successors": []}

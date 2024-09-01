@@ -1,1 +1,1 @@
-{"name": "Bird_diseases", "id": 1223536, "predecessors": [{"name": "Aviculture", "id": 1097161}, {"name": "Animal_diseases", "id": 2992388}, {"name": "Birds", "id": 953524}, {"name": "Animal_welfare", "id": 991706}], "successors": []}
+{"name": "Bird_diseases", "id": 1223536, "predecessors": [{"name": "Aviculture", "id": 1097161}, {"name": "Animal_diseases", "id": 2992388}, {"name": "Birds", "id": 953524}, {"name": "Animal_welfare", "id": 991706}], "successors": [{"name": "Poultry_diseases", "id": 2721371}, {"name": "Parasites_of_birds", "id": 40223209}]}

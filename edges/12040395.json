@@ -1,1 +1,1 @@
-{"name": "Deaths_by_firearm_in_Spain", "id": 12040395, "predecessors": [{"name": "Contents", "id": 14105005}, {"name": "Firearms", "id": 739385}], "successors": [{"name": "People_executed_by_Spain_by_firing_squad", "id": 39008186}]}
+{"name": "Deaths_by_firearm_in_Spain", "id": 12040395, "predecessors": [{"name": "Death", "id": 921954}, {"name": "Firearms", "id": 739385}], "successors": [{"name": "People_executed_by_Spain_by_firing_squad", "id": 39008186}]}

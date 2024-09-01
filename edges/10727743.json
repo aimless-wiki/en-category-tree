@@ -1,1 +1,1 @@
-{"name": "FK_Atlantas_players", "id": 10727743, "predecessors": [{"name": "Academic_disciplines", "id": 693763}], "successors": []}
+{"name": "FK_Atlantas_players", "id": 10727743, "predecessors": [{"name": "Academic_disciplines", "id": 693763}, {"name": "Games_of_physical_skill", "id": 8429269}], "successors": []}

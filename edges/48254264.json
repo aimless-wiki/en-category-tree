@@ -1,1 +1,1 @@
-{"name": "Animal_superfamilies", "id": 48254264, "predecessors": [{"name": "Academic_disciplines", "id": 693763}, {"name": "Biological_classification", "id": 41221871}], "successors": [{"name": "Gastropod_superfamilies", "id": 49734314}, {"name": "Arthropod_superfamilies", "id": 48866992}]}
+{"name": "Animal_superfamilies", "id": 48254264, "predecessors": [{"name": "Academic_disciplines", "id": 693763}], "successors": [{"name": "Gastropod_superfamilies", "id": 49734314}, {"name": "Arthropod_superfamilies", "id": 48866992}]}

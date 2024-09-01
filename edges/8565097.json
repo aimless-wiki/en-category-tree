@@ -1,1 +1,1 @@
-{"name": "FK_Pobeda_players", "id": 8565097, "predecessors": [{"name": "Football_clubs_in_North_Macedonia", "id": 34431534}, {"name": "Regions_of_Europe", "id": 1023050}], "successors": []}
+{"name": "FK_Pobeda_players", "id": 8565097, "predecessors": [{"name": "Games_of_physical_skill", "id": 8429269}, {"name": "Countries_in_Europe", "id": 37691805}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Medium_machine_guns", "id": 5404375, "predecessors": [{"name": "Firearms", "id": 739385}], "successors": []}
+{"name": "Medium_machine_guns", "id": 5404375, "predecessors": [{"name": "Firearm_actions", "id": 1033181}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Bookbinding", "id": 12401642, "predecessors": [{"name": "Book_arts", "id": 9228357}, {"name": "Book_design", "id": 2790112}, {"name": "Book_publishing", "id": 5666524}, {"name": "Office_equipment", "id": 1111733}, {"name": "Paper_art", "id": 2328835}], "successors": []}
+{"name": "Bookbinding", "id": 12401642, "predecessors": [{"name": "Book_design", "id": 2790112}, {"name": "Book_publishing", "id": 5666524}, {"name": "Office_equipment", "id": 1111733}, {"name": "Paper_art", "id": 2328835}], "successors": [{"name": "Bookbinders", "id": 5588607}]}

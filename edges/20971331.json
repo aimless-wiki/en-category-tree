@@ -1,1 +1,1 @@
-{"name": "Learning_disabilities", "id": 20971331, "predecessors": [{"name": "Developmental_disabilities", "id": 16304657}, {"name": "Learning", "id": 1055691}], "successors": []}
+{"name": "Learning_disabilities", "id": 20971331, "predecessors": [{"name": "Developmental_disabilities", "id": 16304657}, {"name": "Learning", "id": 1055691}], "successors": [{"name": "People_with_dyslexia", "id": 49672372}]}
