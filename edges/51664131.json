@@ -1,1 +1,1 @@
-{"name": "Cnidarian_families", "id": 51664131, "predecessors": [{"name": "Academic_disciplines", "id": 693763}, {"name": "Evolutionary_biology", "id": 714501}], "successors": [{"name": "Monogeneric_cnidarian_families", "id": 52956882}]}
+{"name": "Cnidarian_families", "id": 51664131, "predecessors": [{"name": "Evolutionary_biology", "id": 714501}, {"name": "Biological_classification", "id": 41221871}], "successors": [{"name": "Monogeneric_cnidarian_families", "id": 52956882}]}

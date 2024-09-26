@@ -1,1 +1,1 @@
-{"name": "Zoological_collectors", "id": 28866758, "predecessors": [{"name": "Zoology", "id": 694590}, {"name": "Natural_history_museums", "id": 707018}], "successors": [{"name": "Conchologists", "id": 1702947}]}
+{"name": "Zoological_collectors", "id": 28866758, "predecessors": [{"name": "Natural_history_collectors", "id": 34290073}, {"name": "Zoology", "id": 694590}], "successors": [{"name": "Conchologists", "id": 1702947}]}

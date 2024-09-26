@@ -1,1 +1,1 @@
-{"name": "Food_combinations", "id": 48411838, "predecessors": [{"name": "Culture", "id": 694861}], "successors": []}
+{"name": "Food_combinations", "id": 48411838, "predecessors": [{"name": "Culture", "id": 694861}], "successors": [{"name": "Meat_and_potatoes_dishes", "id": 53194171}]}

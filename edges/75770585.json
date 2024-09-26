@@ -1,1 +1,1 @@
-{"name": "Fungus_species", "id": 75770585, "predecessors": [{"name": "Academic_disciplines", "id": 693763}, {"name": "Biological_classification", "id": 41221871}], "successors": [{"name": "Lichen_species", "id": 71503773}]}
+{"name": "Fungus_species", "id": 75770585, "predecessors": [{"name": "Biological_classification", "id": 41221871}], "successors": [{"name": "Lichen_species", "id": 71503773}]}

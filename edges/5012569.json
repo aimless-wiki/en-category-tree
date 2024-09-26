@@ -1,1 +1,1 @@
-{"name": "FK_Teplice_players", "id": 5012569, "predecessors": [{"name": "Football_clubs_in_the_Czech_Republic", "id": 34429210}, {"name": "Games_of_physical_skill", "id": 8429269}], "successors": []}
+{"name": "FK_Teplice_players", "id": 5012569, "predecessors": [{"name": "Football_clubs_in_the_Czech_Republic", "id": 34429210}, {"name": "Wikipedia_categorization", "id": 1036222}], "successors": []}

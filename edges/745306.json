@@ -1,1 +1,1 @@
-{"name": "Military_historians", "id": 745306, "predecessors": [{"name": "Government", "id": 697609}, {"name": "Academic_disciplines", "id": 693763}, {"name": "Historiography", "id": 895940}], "successors": [{"name": "Cold_War_historians", "id": 5352006}]}
+{"name": "Military_historians", "id": 745306, "predecessors": [{"name": "Academic_disciplines", "id": 693763}, {"name": "Historiography", "id": 895940}, {"name": "Safety", "id": 902977}], "successors": [{"name": "Cold_War_historians", "id": 5352006}]}

@@ -1,1 +1,1 @@
-{"name": "Tea_culture", "id": 6138937, "predecessors": [{"name": "Eating_behaviors", "id": 1476452}, {"name": "Drugs_acting_on_the_nervous_system", "id": 22001763}], "successors": [{"name": "Tea_houses", "id": 2732224}, {"name": "Chadō", "id": 5123421}]}
+{"name": "Tea_culture", "id": 6138937, "predecessors": [{"name": "Drinks", "id": 1000234}, {"name": "Eating_behaviors", "id": 1476452}], "successors": [{"name": "Tea_houses", "id": 2732224}, {"name": "Chadō", "id": 5123421}]}

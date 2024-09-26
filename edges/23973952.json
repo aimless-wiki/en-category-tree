@@ -1,1 +1,1 @@
-{"name": "Inline_cleanup_templates", "id": 23973952, "predecessors": [{"name": "Inline_templates", "id": 10653661}], "successors": [{"name": "Inline_citation_cleanup_templates", "id": 25994050}]}
+{"name": "Inline_cleanup_templates", "id": 23973952, "predecessors": [{"name": "Cleanup_templates", "id": 6368050}, {"name": "Inline_templates", "id": 10653661}], "successors": [{"name": "Inline_citation_cleanup_templates", "id": 25994050}]}

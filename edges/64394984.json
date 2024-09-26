@@ -1,1 +1,1 @@
-{"name": "Animal_deaths_by_euthanasia", "id": 64394984, "predecessors": [{"name": "Animal_welfare", "id": 991706}, {"name": "Animal_testing", "id": 12895827}], "successors": []}
+{"name": "Animal_deaths_by_euthanasia", "id": 64394984, "predecessors": [{"name": "Deaths_by_euthanasia", "id": 11013714}, {"name": "Causes_of_death", "id": 5271061}, {"name": "Animal_testing", "id": 12895827}], "successors": []}

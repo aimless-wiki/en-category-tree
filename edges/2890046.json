@@ -1,1 +1,1 @@
-{"name": "Credit_rating_agencies", "id": 2890046, "predecessors": [{"name": "Credit_risk", "id": 52546814}, {"name": "Credit", "id": 2171374}, {"name": "Wikipedia_categorization", "id": 1036222}], "successors": [{"name": "S&P_Dow_Jones_Indices", "id": 40394582}]}
+{"name": "Credit_rating_agencies", "id": 2890046, "predecessors": [{"name": "Credit_risk", "id": 52546814}, {"name": "Financial_data_vendors", "id": 27399409}, {"name": "Credit", "id": 2171374}], "successors": [{"name": "S&P_Dow_Jones_Indices", "id": 40394582}]}

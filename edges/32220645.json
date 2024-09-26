@@ -1,1 +1,1 @@
-{"name": "LGBT_physicians", "id": 32220645, "predecessors": [{"name": "Health_care_occupations", "id": 1006080}, {"name": "Occupations", "id": 787658}, {"name": "Human_behavior", "id": 2524202}], "successors": []}
+{"name": "LGBTQ_physicians", "id": 32220645, "predecessors": [{"name": "Health_care_occupations", "id": 1006080}, {"name": "LGBTQ_academics", "id": 52886365}, {"name": "Occupations", "id": 787658}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Virtualization", "id": 70403953, "predecessors": [{"name": "Computer_networking", "id": 4677693}, {"name": "Operating_system_technology", "id": 1956884}], "successors": [{"name": "Virtualization_software", "id": 1135181}]}
+{"name": "Virtualization", "id": 70403953, "predecessors": [{"name": "Computer_networking", "id": 4677693}, {"name": "Booting", "id": 6254572}], "successors": [{"name": "Virtualization_software", "id": 1135181}]}

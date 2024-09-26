@@ -1,1 +1,1 @@
-{"name": "Fish_dishes", "id": 16096793, "predecessors": [{"name": "Seafood_dishes", "id": 18237842}, {"name": "Meat", "id": 757474}], "successors": []}
+{"name": "Fish_dishes", "id": 16096793, "predecessors": [{"name": "Meat_dishes", "id": 18237845}, {"name": "Animals_and_humans", "id": 52196069}], "successors": [{"name": "Anchovy_dishes", "id": 53980222}]}

@@ -1,1 +1,1 @@
-{"name": "Military_art", "id": 994423, "predecessors": [{"name": "Visual_arts_genres", "id": 1209735}, {"name": "Government", "id": 697609}, {"name": "The_arts", "id": 4892515}], "successors": []}
+{"name": "Military_art", "id": 994423, "predecessors": [{"name": "Visual_arts_genres", "id": 1209735}, {"name": "The_arts", "id": 4892515}, {"name": "Safety", "id": 902977}], "successors": [{"name": "War_paintings", "id": 43023012}]}

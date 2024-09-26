@@ -1,1 +1,1 @@
-{"name": "Price_indices", "id": 18385089, "predecessors": [{"name": "Inflation", "id": 2020934}, {"name": "Macroeconomic_indicators", "id": 51623587}], "successors": []}
+{"name": "Price_indices", "id": 18385089, "predecessors": [{"name": "Inflation", "id": 2020934}, {"name": "Macroeconomic_indicators", "id": 51623587}, {"name": "Pricing", "id": 1227023}], "successors": []}

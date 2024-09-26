@@ -1,1 +1,1 @@
-{"name": "Sky_News", "id": 5602832, "predecessors": [{"name": "Sky_television_channels", "id": 59348198}, {"name": "Mass_media", "id": 696790}], "successors": [{"name": "Sky_News_newsreaders_and_journalists", "id": 14822921}]}
+{"name": "Sky_News", "id": 5602832, "predecessors": [{"name": "Sky_television_channels", "id": 59348198}, {"name": "Journalism", "id": 698307}], "successors": [{"name": "Sky_News_newsreaders_and_journalists", "id": 14822921}]}

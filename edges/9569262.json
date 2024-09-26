@@ -1,1 +1,1 @@
-{"name": "Video_game_musicians", "id": 9569262, "predecessors": [{"name": "Sound_production_technology", "id": 2028879}, {"name": "Academic_disciplines", "id": 693763}], "successors": [{"name": "Chiptune_and_tracker_musicians", "id": 10705223}]}
+{"name": "Video_game_musicians", "id": 9569262, "predecessors": [{"name": "Entertainment", "id": 693016}, {"name": "Academic_disciplines", "id": 693763}], "successors": [{"name": "Video_game_musician_stubs", "id": 9569240}, {"name": "Chiptune_and_tracker_musicians", "id": 10705223}]}

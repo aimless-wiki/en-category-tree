@@ -1,1 +1,1 @@
-{"name": "Planetary_transit_variables", "id": 5112925, "predecessors": [{"name": "Celestial_mechanics", "id": 881380}, {"name": "Star_types", "id": 3177479}], "successors": []}
+{"name": "Planetary_transit_variables", "id": 5112925, "predecessors": [{"name": "Variable_stars", "id": 972177}, {"name": "Celestial_mechanics", "id": 881380}], "successors": []}

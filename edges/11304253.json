@@ -1,1 +1,1 @@
-{"name": "Medical_educators", "id": 11304253, "predecessors": [{"name": "Medical_education", "id": 1427229}, {"name": "Academic_disciplines", "id": 693763}], "successors": []}
+{"name": "Medical_educators", "id": 11304253, "predecessors": [{"name": "Medical_education", "id": 1427229}, {"name": "Academic_disciplines", "id": 693763}], "successors": [{"name": "Celebrity_doctors", "id": 51676112}]}

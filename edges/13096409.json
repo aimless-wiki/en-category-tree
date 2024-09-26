@@ -1,1 +1,1 @@
-{"name": "Restoration_comedy", "id": 13096409, "predecessors": [{"name": "Theatrical_genres", "id": 1231826}, {"name": "English_plays", "id": 3258485}, {"name": "Charles_II_of_England", "id": 33253317}], "successors": []}
+{"name": "Restoration_comedy", "id": 13096409, "predecessors": [{"name": "Comedy_plays", "id": 14640707}, {"name": "Theatrical_genres", "id": 1231826}, {"name": "English_plays", "id": 3258485}, {"name": "Charles_II_of_England", "id": 33253317}], "successors": []}

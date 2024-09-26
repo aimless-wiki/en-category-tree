@@ -1,1 +1,1 @@
-{"name": "Medical_scoring_system", "id": 11867211, "predecessors": [{"name": "Medical_diagnosis", "id": 16705234}, {"name": "Medical_scales", "id": 5993801}, {"name": "Decision-making", "id": 51600594}], "successors": []}
+{"name": "Medical_scoring_system", "id": 11867211, "predecessors": [{"name": "Medical_diagnosis", "id": 16705234}, {"name": "Medical_scales", "id": 5993801}, {"name": "Analysis", "id": 25448614}], "successors": []}

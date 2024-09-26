@@ -1,1 +1,1 @@
-{"name": "Philippine_television_news_shows", "id": 8495036, "predecessors": [{"name": "Philippine_television_shows", "id": 44803384}, {"name": "Journalism", "id": 698307}], "successors": [{"name": "Philippine_news_shows_title_cards", "id": 77345630}]}
+{"name": "Philippine_television_news_shows", "id": 8495036, "predecessors": [{"name": "Journalism", "id": 698307}], "successors": [{"name": "Philippine_news_shows_title_cards", "id": 77345630}]}

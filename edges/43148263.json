@@ -1,1 +1,1 @@
-{"name": "Currency_stubs", "id": 43148263, "predecessors": [{"name": "Currency", "id": 1626296}, {"name": "Money_stubs", "id": 8877371}, {"name": "Contents", "id": 14105005}], "successors": [{"name": "Coin_stubs", "id": 8338868}, {"name": "Banknote_stubs", "id": 54605946}]}
+{"name": "Currency_stubs", "id": 43148263, "predecessors": [{"name": "Currency", "id": 1626296}, {"name": "Money_stubs", "id": 8877371}, {"name": "Wikipedia_maintenance", "id": 738040}], "successors": [{"name": "Coin_stubs", "id": 8338868}, {"name": "Banknote_stubs", "id": 54605946}]}

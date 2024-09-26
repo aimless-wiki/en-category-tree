@@ -1,1 +1,1 @@
-{"name": "FK_Partizani_Tirana_players", "id": 20386696, "predecessors": [{"name": "Football_clubs_in_Albania", "id": 34427636}, {"name": "Games_of_physical_skill", "id": 8429269}], "successors": []}
+{"name": "FK_Partizani_Tirana_players", "id": 20386696, "predecessors": [{"name": "Football_clubs_in_Albania", "id": 34427636}, {"name": "Wikipedia_categorization", "id": 1036222}], "successors": []}

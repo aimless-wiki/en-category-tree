@@ -1,1 +1,1 @@
-{"name": "Virgo_Supercluster", "id": 902058, "predecessors": [{"name": "Meteorological_phenomena", "id": 38779805}], "successors": [{"name": "Virgo_Cluster", "id": 953909}]}
+{"name": "Virgo_Supercluster", "id": 902058, "predecessors": [{"name": "Astronomy", "id": 692915}], "successors": [{"name": "Virgo_Cluster", "id": 953909}]}

@@ -1,1 +1,1 @@
-{"name": "FK_Vojvodina_managers", "id": 22675044, "predecessors": [{"name": "Culture", "id": 694861}], "successors": []}
+{"name": "FK_Vojvodina_managers", "id": 22675044, "predecessors": [{"name": "Populated_places_in_Serbia", "id": 27456826}, {"name": "Culture", "id": 694861}], "successors": []}

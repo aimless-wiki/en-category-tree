@@ -1,1 +1,1 @@
-{"name": "Agricultural_goddesses", "id": 709663, "predecessors": [{"name": "Nature_goddesses", "id": 710005}, {"name": "Agriculture", "id": 694871}, {"name": "Folklore", "id": 728925}], "successors": []}
+{"name": "Agricultural_goddesses", "id": 709663, "predecessors": [{"name": "Agriculture", "id": 694871}, {"name": "Mythological_characters", "id": 4650460}], "successors": [{"name": "Isis", "id": 48572830}]}

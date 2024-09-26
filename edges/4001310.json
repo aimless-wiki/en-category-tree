@@ -1,1 +1,1 @@
-{"name": "Logarithms", "id": 4001310, "predecessors": [{"name": "Special_functions", "id": 1021856}, {"name": "Mathematical_constants", "id": 976746}, {"name": "Abstract_algebra", "id": 690672}], "successors": []}
+{"name": "Logarithms", "id": 4001310, "predecessors": [{"name": "Mathematical_constants", "id": 976746}, {"name": "Arithmetic", "id": 705736}], "successors": []}

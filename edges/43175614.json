@@ -1,1 +1,1 @@
-{"name": "Round_buildings", "id": 43175614, "predecessors": [{"name": "Geometric_shapes", "id": 1470457}], "successors": [{"name": "Round_towers", "id": 52798349}]}
+{"name": "Round_buildings", "id": 43175614, "predecessors": [{"name": "Geometric_shapes", "id": 1470457}], "successors": [{"name": "Round_towers", "id": 52798349}, {"name": "Round_barns_in_Iowa", "id": 30358225}]}

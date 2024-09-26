@@ -1,1 +1,1 @@
-{"name": "British_Rail_diesel_locomotives", "id": 1936096, "predecessors": [], "successors": []}
+{"name": "British_Rail_diesel_locomotives", "id": 1936096, "predecessors": [{"name": "Fuels", "id": 770810}, {"name": "Wikipedia_categorization", "id": 1036222}], "successors": []}

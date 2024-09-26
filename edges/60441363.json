@@ -1,1 +1,1 @@
-{"name": "Television_crossover_episodes", "id": 60441363, "predecessors": [{"name": "Broadcasting", "id": 765733}, {"name": "Abstraction", "id": 902386}], "successors": []}
+{"name": "Television_crossover_episodes", "id": 60441363, "predecessors": [{"name": "Crossover_television", "id": 44096721}], "successors": [{"name": "Marvel_Cinematic_Universe_crossover_episodes", "id": 59904306}]}

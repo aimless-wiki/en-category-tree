@@ -1,1 +1,1 @@
-{"name": "Game_show_models", "id": 8701898, "predecessors": [{"name": "Television_genres", "id": 1259802}, {"name": "Advertising", "id": 884913}], "successors": []}
+{"name": "Game_show_models", "id": 8701898, "predecessors": [{"name": "Advertising", "id": 884913}, {"name": "Broadcasting", "id": 765733}], "successors": []}

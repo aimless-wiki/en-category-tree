@@ -1,1 +1,1 @@
-{"name": "American_pop_pianists", "id": 3618643, "predecessors": [{"name": "American_pianists", "id": 1623600}, {"name": "Musical_instruments", "id": 691595}], "successors": []}
+{"name": "American_pop_pianists", "id": 3618643, "predecessors": [{"name": "American_pianists", "id": 1623600}, {"name": "American_musicians", "id": 2384226}, {"name": "Music_genres", "id": 4826123}], "successors": []}

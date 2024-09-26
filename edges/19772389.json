@@ -1,1 +1,1 @@
-{"name": "Siege_artillery", "id": 19772389, "predecessors": [{"name": "Ballistics", "id": 981903}], "successors": []}
+{"name": "Siege_artillery", "id": 19772389, "predecessors": [{"name": "Ballistics", "id": 981903}, {"name": "Causes_of_death", "id": 5271061}], "successors": []}

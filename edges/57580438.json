@@ -1,1 +1,1 @@
-{"name": "Internet_television_streaming_services", "id": 57580438, "predecessors": [{"name": "Streaming_television", "id": 2642274}, {"name": "Application_layer_protocols", "id": 7941457}], "successors": [{"name": "Funimation", "id": 16121147}]}
+{"name": "Internet_television_streaming_services", "id": 57580438, "predecessors": [{"name": "Streaming_television", "id": 2642274}, {"name": "Streaming", "id": 7073231}], "successors": [{"name": "Funimation", "id": 16121147}]}

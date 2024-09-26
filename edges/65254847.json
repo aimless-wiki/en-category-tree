@@ -1,1 +1,1 @@
-{"name": "Tuberculosis_deaths_in_Germany", "id": 65254847, "predecessors": [{"name": "Countries_in_Europe", "id": 37691805}, {"name": "Deaths_from_lung_disease", "id": 14244764}], "successors": []}
+{"name": "Tuberculosis_deaths_in_Germany", "id": 65254847, "predecessors": [{"name": "Death", "id": 921954}, {"name": "Respiratory_diseases", "id": 19827264}], "successors": []}

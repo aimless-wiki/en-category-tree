@@ -1,1 +1,1 @@
-{"name": "Divisaderan", "id": 54833117, "predecessors": [{"name": "Stratigraphy", "id": 1172461}, {"name": "Geological_ages", "id": 47135419}, {"name": "Earth", "id": 754965}], "successors": []}
+{"name": "Divisaderan", "id": 54833117, "predecessors": [{"name": "Geological_epochs", "id": 47136043}, {"name": "Geological_ages", "id": 47135419}, {"name": "Stratigraphy", "id": 1172461}], "successors": []}

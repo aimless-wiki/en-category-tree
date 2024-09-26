@@ -1,1 +1,1 @@
-{"name": "Films_set_on_boats", "id": 58468240, "predecessors": [{"name": "Films_set_on_ships", "id": 42044360}, {"name": "Fiction", "id": 692981}, {"name": "Boats", "id": 765931}], "successors": [{"name": "Submarine_films", "id": 16625099}]}
+{"name": "Films_set_on_boats", "id": 58468240, "predecessors": [{"name": "Films_set_on_ships", "id": 42044360}, {"name": "Boats", "id": 765931}], "successors": [{"name": "Submarine_films", "id": 16625099}]}

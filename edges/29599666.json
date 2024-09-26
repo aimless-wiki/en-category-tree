@@ -1,1 +1,1 @@
-{"name": "Indian_handicrafts", "id": 29599666, "predecessors": [{"name": "Indian_art", "id": 2250685}, {"name": "Culture", "id": 694861}, {"name": "Design", "id": 999651}, {"name": "Crafts", "id": 3061643}], "successors": [{"name": "Saris", "id": 25876160}]}
+{"name": "Indian_handicrafts", "id": 29599666, "predecessors": [{"name": "Indian_art", "id": 2250685}, {"name": "Culture", "id": 694861}, {"name": "Design", "id": 999651}, {"name": "Folk_art", "id": 2941728}, {"name": "Crafts", "id": 3061643}], "successors": [{"name": "Saris", "id": 25876160}]}

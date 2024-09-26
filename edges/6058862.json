@@ -1,1 +1,1 @@
-{"name": "Medical_equipment_stubs", "id": 6058862, "predecessors": [{"name": "Medical_equipment", "id": 799934}, {"name": "Medical_technology_stubs", "id": 74390195}, {"name": "Contents", "id": 14105005}], "successors": [{"name": "Medical_imaging_stubs", "id": 74387555}]}
+{"name": "Medical_equipment_stubs", "id": 6058862, "predecessors": [{"name": "Medical_technology_stubs", "id": 74390195}, {"name": "Wikipedia_maintenance", "id": 738040}], "successors": [{"name": "Medical_imaging_stubs", "id": 74387555}]}

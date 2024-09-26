@@ -1,1 +1,1 @@
-{"name": "British_fantasy_films", "id": 29931791, "predecessors": [{"name": "Speculative_fiction", "id": 1072285}, {"name": "Film_genres", "id": 3008852}], "successors": [{"name": "British_fantasy_adventure_films", "id": 50021702}, {"name": "British_children's_fantasy_films", "id": 50021708}]}
+{"name": "British_fantasy_films", "id": 29931791, "predecessors": [{"name": "Fiction", "id": 692981}, {"name": "Culture", "id": 694861}], "successors": [{"name": "British_fantasy_adventure_films", "id": 50021702}, {"name": "British_children's_fantasy_films", "id": 50021708}]}

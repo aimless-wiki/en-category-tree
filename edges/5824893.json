@@ -1,1 +1,1 @@
-{"name": "Browser_user_templates", "id": 5824893, "predecessors": [{"name": "Internet-related_user_templates", "id": 47476031}, {"name": "Software_user_templates", "id": 65924306}], "successors": []}
+{"name": "Browser_user_templates", "id": 5824893, "predecessors": [{"name": "Internet-related_user_templates", "id": 47476031}, {"name": "Software_user_templates", "id": 65924306}], "successors": [{"name": "Firefox_user_templates", "id": 67700239}]}

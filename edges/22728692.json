@@ -1,1 +1,1 @@
-{"name": "Motor_control", "id": 22728692, "predecessors": [{"name": "Behavior", "id": 737037}, {"name": "Nervous_system", "id": 698571}, {"name": "Entertainment", "id": 693016}], "successors": [{"name": "Sleight_of_hand", "id": 2952834}]}
+{"name": "Motor_control", "id": 22728692, "predecessors": [{"name": "Behavior", "id": 737037}, {"name": "Nervous_system", "id": 698571}, {"name": "Cognitive_science", "id": 957793}, {"name": "Entertainment", "id": 693016}], "successors": [{"name": "Sleight_of_hand", "id": 2952834}]}

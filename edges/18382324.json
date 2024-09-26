@@ -1,1 +1,1 @@
-{"name": "Web_mapping", "id": 18382324, "predecessors": [{"name": "Maps", "id": 894191}, {"name": "Academic_disciplines", "id": 693763}, {"name": "Cartography", "id": 716309}], "successors": []}
+{"name": "Web_mapping", "id": 18382324, "predecessors": [{"name": "Maps", "id": 894191}, {"name": "Academic_disciplines", "id": 693763}, {"name": "Cartography", "id": 716309}], "successors": [{"name": "Web_Map_Services", "id": 9168072}]}

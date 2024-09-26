@@ -1,1 +1,1 @@
-{"name": "Lost_paintings", "id": 24231202, "predecessors": [{"name": "Painting", "id": 707606}, {"name": "Art_history", "id": 707612}], "successors": []}
+{"name": "Lost_paintings", "id": 24231202, "predecessors": [{"name": "Lost_works_of_art", "id": 24231178}, {"name": "Painting", "id": 707606}], "successors": []}

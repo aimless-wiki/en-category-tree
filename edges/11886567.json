@@ -1,1 +1,1 @@
-{"name": "Bus_routes_in_London", "id": 11886567, "predecessors": [{"name": "Bus_routes_in_England", "id": 14531189}, {"name": "Public_transport", "id": 700497}], "successors": []}
+{"name": "Bus_routes_in_London", "id": 11886567, "predecessors": [{"name": "Bus_routes_in_England", "id": 14531189}, {"name": "Economic_geography", "id": 2021084}], "successors": []}

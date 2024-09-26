@@ -1,1 +1,1 @@
-{"name": "Graph_theory_objects", "id": 26304777, "predecessors": [{"name": "Graph_theory", "id": 691898}], "successors": []}
+{"name": "Graph_theory_objects", "id": 26304777, "predecessors": [{"name": "Graph_theory", "id": 691898}], "successors": [{"name": "Spanning_tree", "id": 3039061}]}

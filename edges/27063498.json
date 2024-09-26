@@ -1,1 +1,1 @@
-{"name": "Massage_therapy", "id": 27063498, "predecessors": [{"name": "Manual_therapy", "id": 43968706}], "successors": []}
+{"name": "Massage_therapy", "id": 27063498, "predecessors": [{"name": "Manual_therapy", "id": 43968706}, {"name": "Human_behavior", "id": 2524202}], "successors": []}

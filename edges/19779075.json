@@ -1,1 +1,1 @@
-{"name": "Comedy_book_stubs", "id": 19779075, "predecessors": [{"name": "Comedy_books", "id": 2666058}, {"name": "Comedy_stubs", "id": 2929030}, {"name": "Literature_stubs", "id": 954788}, {"name": "Contents", "id": 14105005}], "successors": [{"name": "Comedy_novel_stubs", "id": 55543125}]}
+{"name": "Comedy_book_stubs", "id": 19779075, "predecessors": [{"name": "Comedy_stubs", "id": 2929030}, {"name": "Literature_stubs", "id": 954788}, {"name": "Wikipedia_maintenance", "id": 738040}], "successors": [{"name": "Comedy_novel_stubs", "id": 55543125}]}

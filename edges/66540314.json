@@ -1,1 +1,1 @@
-{"name": "Cycling_writers", "id": 66540314, "predecessors": [{"name": "Cycling", "id": 841814}, {"name": "Journalism", "id": 698307}], "successors": [{"name": "Cycling_journalists", "id": 19481636}]}
+{"name": "Cycling_writers", "id": 66540314, "predecessors": [{"name": "Sports_journalists", "id": 6023369}, {"name": "Cycling", "id": 841814}], "successors": [{"name": "Cycling_journalists", "id": 19481636}]}

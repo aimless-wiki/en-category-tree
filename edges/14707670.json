@@ -1,1 +1,1 @@
-{"name": "Road_incident_deaths_in_Argentina", "id": 14707670, "predecessors": [{"name": "Injuries", "id": 10158091}, {"name": "Human_behavior", "id": 2524202}, {"name": "Death", "id": 921954}], "successors": []}
+{"name": "Road_incident_deaths_in_Argentina", "id": 14707670, "predecessors": [{"name": "Injuries", "id": 10158091}, {"name": "Human_behavior", "id": 2524202}, {"name": "Death", "id": 921954}, {"name": "Causes_of_death", "id": 5271061}], "successors": []}

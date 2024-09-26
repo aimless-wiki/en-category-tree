@@ -1,1 +1,1 @@
-{"name": "Hoaxers", "id": 65061235, "predecessors": [{"name": "Communication_of_falsehoods", "id": 3313852}], "successors": [{"name": "Impostors", "id": 740877}]}
+{"name": "Hoaxers", "id": 65061235, "predecessors": [{"name": "Communication_of_falsehoods", "id": 3313852}, {"name": "Human_behavior", "id": 2524202}], "successors": [{"name": "Impostors", "id": 740877}]}

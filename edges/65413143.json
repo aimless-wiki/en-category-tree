@@ -1,1 +1,1 @@
-{"name": "Geospace_monitoring_satellites", "id": 65413143, "predecessors": [{"name": "Earth_observation_satellites", "id": 1831416}, {"name": "Meteorological_phenomena", "id": 38779805}, {"name": "Applied_and_interdisciplinary_physics", "id": 1913676}, {"name": "Satellites_orbiting_Earth", "id": 22104819}], "successors": []}
+{"name": "Geospace_monitoring_satellites", "id": 65413143, "predecessors": [{"name": "Earth_observation_satellites", "id": 1831416}, {"name": "Astronomy", "id": 692915}, {"name": "Applied_and_interdisciplinary_physics", "id": 1913676}], "successors": []}

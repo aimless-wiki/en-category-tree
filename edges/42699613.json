@@ -1,1 +1,1 @@
-{"name": "Plant_pathogenic_nematodes", "id": 42699613, "predecessors": [{"name": "Culture", "id": 694861}, {"name": "Evolutionary_biology", "id": 714501}], "successors": [{"name": "Agricultural_pest_nematodes", "id": 30706881}]}
+{"name": "Plant_pathogenic_nematodes", "id": 42699613, "predecessors": [{"name": "Nematodes", "id": 13755307}, {"name": "Gardening", "id": 740309}], "successors": [{"name": "Agricultural_pest_nematodes", "id": 30706881}]}

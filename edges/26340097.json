@@ -1,1 +1,1 @@
-{"name": "Wikipedia_essays_about_deletion", "id": 26340097, "predecessors": [{"name": "Wikipedia_essays", "id": 2080248}], "successors": [{"name": "User_essays_on_deletion", "id": 32360032}]}
+{"name": "Wikipedia_essays_about_deletion", "id": 26340097, "predecessors": [{"name": "Wikipedia_deletion", "id": 1580927}, {"name": "Wikipedia_essays", "id": 2080248}], "successors": [{"name": "User_essays_on_deletion", "id": 32360032}]}

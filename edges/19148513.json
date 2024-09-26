@@ -1,1 +1,1 @@
-{"name": "Comics_retailers", "id": 19148513, "predecessors": [{"name": "Retailers_by_type_of_merchandise_sold", "id": 55586528}, {"name": "Entertainment", "id": 693016}], "successors": []}
+{"name": "Comics_retailers", "id": 19148513, "predecessors": [{"name": "Retailers_by_type_of_merchandise_sold", "id": 55586528}, {"name": "Bookselling", "id": 13123053}, {"name": "Entertainment", "id": 693016}], "successors": []}

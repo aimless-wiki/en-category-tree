@@ -1,1 +1,1 @@
-{"name": "Potato_dishes", "id": 873315, "predecessors": [{"name": "Flora_of_Bolivia", "id": 7012088}, {"name": "Vegetable_dishes", "id": 41995703}], "successors": []}
+{"name": "Potato_dishes", "id": 873315, "predecessors": [{"name": "Potatoes", "id": 1900059}, {"name": "Root_vegetables", "id": 1657049}], "successors": [{"name": "Meat_and_potatoes_dishes", "id": 53194171}]}

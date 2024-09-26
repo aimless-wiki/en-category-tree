@@ -1,1 +1,1 @@
-{"name": "Deaths_from_hyperthermia", "id": 19631012, "predecessors": [{"name": "Animal_physiology", "id": 1648315}], "successors": []}
+{"name": "Deaths_from_hyperthermia", "id": 19631012, "predecessors": [{"name": "Causes_of_death", "id": 5271061}, {"name": "Animal_physiology", "id": 1648315}], "successors": []}

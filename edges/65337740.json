@@ -1,1 +1,1 @@
-{"name": "Satellite_series", "id": 65337740, "predecessors": [{"name": "Culture", "id": 694861}, {"name": "Satellites", "id": 787571}], "successors": [{"name": "Kosmos_satellites", "id": 33189687}, {"name": "Television_Infrared_Observation_Satellites", "id": 68388385}]}
+{"name": "Satellite_series", "id": 65337740, "predecessors": [{"name": "Culture", "id": 694861}], "successors": [{"name": "Television_Infrared_Observation_Satellites", "id": 68388385}]}

@@ -1,1 +1,1 @@
-{"name": "Sales", "id": 4536131, "predecessors": [{"name": "Marketing", "id": 784409}, {"name": "Production_economics", "id": 28228085}], "successors": [{"name": "Bookselling", "id": 13123053}, {"name": "Retail_processes_and_techniques", "id": 60643898}]}
+{"name": "Sales", "id": 4536131, "predecessors": [{"name": "Marketing", "id": 784409}, {"name": "Production_economics", "id": 28228085}], "successors": [{"name": "Sales_occupations", "id": 1006161}, {"name": "Bookselling", "id": 13123053}, {"name": "Fish_markets", "id": 6229656}, {"name": "Revenue_stamps", "id": 23801622}]}

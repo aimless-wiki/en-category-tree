@@ -1,1 +1,1 @@
-{"name": "Comedy-drama_films_based_on_actual_events", "id": 70992654, "predecessors": [{"name": "Comedy_films_based_on_actual_events", "id": 42377810}, {"name": "Drama_films_based_on_actual_events", "id": 42377813}, {"name": "Film_genres", "id": 3008852}], "successors": []}
+{"name": "Comedy-drama_films_based_on_actual_events", "id": 70992654, "predecessors": [{"name": "Drama_films_based_on_actual_events", "id": 42377813}, {"name": "Drama", "id": 709071}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Comic_science_fiction_novels", "id": 28528095, "predecessors": [{"name": "Science_fiction_comedy", "id": 12697824}, {"name": "Comedy_books", "id": 2666058}, {"name": "Science_fiction_genres", "id": 1935083}], "successors": []}
+{"name": "Comic_science_fiction_novels", "id": 28528095, "predecessors": [{"name": "Science_fiction_comedy", "id": 12697824}, {"name": "Comedy", "id": 696823}, {"name": "Science_fiction_genres", "id": 1935083}], "successors": []}

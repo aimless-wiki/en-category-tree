@@ -1,1 +1,1 @@
-{"name": "Kana", "id": 1491418, "predecessors": [{"name": "Japanese_writing_system", "id": 2638280}, {"name": "Orthography", "id": 5278974}], "successors": [{"name": "Specific_kana", "id": 11927332}]}
+{"name": "Kana", "id": 1491418, "predecessors": [{"name": "Japanese_writing_system", "id": 2638280}, {"name": "Writing_systems", "id": 694776}, {"name": "Chinese_characters", "id": 6524051}], "successors": [{"name": "Specific_kana", "id": 11927332}]}

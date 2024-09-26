@@ -1,1 +1,1 @@
-{"name": "Language_maintenance_templates", "id": 9552169, "predecessors": [{"name": "Contents", "id": 14105005}], "successors": [{"name": "Non-English_user_warning_templates", "id": 4258156}, {"name": "Expand_by_language_Wikipedia_templates", "id": 20583449}, {"name": "Citation_Style_1_translation_templates", "id": 68527038}]}
+{"name": "Language_maintenance_templates", "id": 9552169, "predecessors": [{"name": "Wikipedia_maintenance", "id": 738040}, {"name": "Contents", "id": 14105005}], "successors": [{"name": "Wikipedia_translation_templates", "id": 8763320}]}

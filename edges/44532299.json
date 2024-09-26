@@ -1,1 +1,1 @@
-{"name": "Implants_(medicine)", "id": 44532299, "predecessors": [{"name": "Body_modification", "id": 735335}, {"name": "Medical_devices", "id": 41242589}, {"name": "Surgery", "id": 804789}], "successors": [{"name": "Biomaterials", "id": 27575392}, {"name": "Brain–computer_interface", "id": 35896842}]}
+{"name": "Implants_(medicine)", "id": 44532299, "predecessors": [{"name": "Body_modification", "id": 735335}, {"name": "Surgery", "id": 804789}], "successors": [{"name": "Biomaterials", "id": 27575392}, {"name": "Brain–computer_interface", "id": 35896842}]}

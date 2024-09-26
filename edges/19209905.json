@@ -1,1 +1,1 @@
-{"name": "AIDS-related_deaths_in_California", "id": 19209905, "predecessors": [{"name": "Infectious_disease_deaths_in_California", "id": 19409014}], "successors": []}
+{"name": "AIDS-related_deaths_in_California", "id": 19209905, "predecessors": [{"name": "Infectious_disease_deaths_in_California", "id": 19409014}, {"name": "Death", "id": 921954}], "successors": []}

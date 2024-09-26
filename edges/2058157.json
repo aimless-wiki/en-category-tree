@@ -1,1 +1,1 @@
-{"name": "Detectors", "id": 2058157, "predecessors": [{"name": "Sensors", "id": 5400296}], "successors": [{"name": "Particle_detectors", "id": 1041219}]}
+{"name": "Detectors", "id": 2058157, "predecessors": [{"name": "Sensors", "id": 5400296}], "successors": [{"name": "Particle_detectors", "id": 1041219}, {"name": "Scent_hounds", "id": 2464798}]}

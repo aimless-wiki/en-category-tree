@@ -1,1 +1,1 @@
-{"name": "Pressure", "id": 8398609, "predecessors": [{"name": "Physical_quantities", "id": 18726608}, {"name": "Mechanics", "id": 1028577}], "successors": [{"name": "Pressure_vessels", "id": 3872805}]}
+{"name": "Pressure", "id": 8398609, "predecessors": [{"name": "Mechanical_quantities", "id": 75164219}, {"name": "Physical_quantities", "id": 18726608}], "successors": [{"name": "Vacuum", "id": 2634715}, {"name": "Pressure_vessels", "id": 3872805}]}

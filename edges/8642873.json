@@ -1,1 +1,1 @@
-{"name": "Financial_regulatory_authorities", "id": 8642873, "predecessors": [{"name": "Financial_regulation", "id": 1656832}, {"name": "Government", "id": 697609}, {"name": "Crime_prevention", "id": 3541636}], "successors": []}
+{"name": "Financial_regulatory_authorities", "id": 8642873, "predecessors": [{"name": "Financial_regulation", "id": 1656832}, {"name": "Government", "id": 697609}, {"name": "Administrative_law", "id": 1585095}, {"name": "Crime_prevention", "id": 3541636}], "successors": []}

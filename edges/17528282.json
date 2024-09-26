@@ -1,1 +1,1 @@
-{"name": "Wikipedia_requested_images_of_engineering_subjects", "id": 17528282, "predecessors": [{"name": "Technology_articles_needing_attention", "id": 22820880}], "successors": [{"name": "Wikipedia_requested_computing_diagrams", "id": 48207889}]}
+{"name": "Wikipedia_requested_images_of_engineering_subjects", "id": 17528282, "predecessors": [{"name": "Wikipedia_requested_images_of_technology", "id": 37176785}, {"name": "Technology_articles_needing_attention", "id": 22820880}], "successors": [{"name": "Wikipedia_requested_computing_diagrams", "id": 48207889}]}

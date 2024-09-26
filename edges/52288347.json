@@ -1,1 +1,1 @@
-{"name": "Hypocreales_genera", "id": 52288347, "predecessors": [{"name": "Sordariomycetes_genera", "id": 47661558}], "successors": []}
+{"name": "Hypocreales_genera", "id": 52288347, "predecessors": [{"name": "Sordariomycetes_genera", "id": 47661558}, {"name": "Sordariomycetes", "id": 18437464}], "successors": [{"name": "Nectriaceae_genera", "id": 52288344}]}

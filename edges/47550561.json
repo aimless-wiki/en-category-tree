@@ -1,1 +1,1 @@
-{"name": "Trick_films", "id": 47550561, "predecessors": [{"name": "Film_genres", "id": 3008852}, {"name": "History_of_film", "id": 2260983}, {"name": "Film_theory", "id": 1519596}, {"name": "Copyright_law", "id": 702268}], "successors": []}
+{"name": "Trick_films", "id": 47550561, "predecessors": [{"name": "Film_genres", "id": 3008852}, {"name": "History_of_film", "id": 2260983}, {"name": "Special_effects", "id": 801183}, {"name": "Copyright_law", "id": 702268}], "successors": []}

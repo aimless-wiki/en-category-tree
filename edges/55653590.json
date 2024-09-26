@@ -1,1 +1,1 @@
-{"name": "Horror_drama_television_series", "id": 55653590, "predecessors": [{"name": "Horror_genres", "id": 12301023}, {"name": "Television_genres", "id": 1259802}], "successors": []}
+{"name": "Horror_drama_television_series", "id": 55653590, "predecessors": [{"name": "Horror_genres", "id": 12301023}, {"name": "Drama", "id": 709071}, {"name": "Horror_fiction", "id": 31995985}], "successors": []}

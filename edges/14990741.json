@@ -1,1 +1,1 @@
-{"name": "Television_shows_based_on_plays", "id": 14990741, "predecessors": [{"name": "Literature", "id": 692008}, {"name": "Copyright_law", "id": 702268}], "successors": []}
+{"name": "Television_shows_based_on_plays", "id": 14990741, "predecessors": [{"name": "Literature", "id": 692008}], "successors": [{"name": "Television_series_based_on_plays", "id": 32111890}]}

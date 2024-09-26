@@ -1,1 +1,1 @@
-{"name": "Murders_by_motor_vehicle", "id": 28902925, "predecessors": [{"name": "Killings_by_type", "id": 50222534}, {"name": "Vehicle_law", "id": 7902308}, {"name": "Injuries", "id": 10158091}], "successors": [{"name": "Terrorist_incidents_involving_vehicular_attacks", "id": 44455783}]}
+{"name": "Murders_by_motor_vehicle", "id": 28902925, "predecessors": [{"name": "Killings_by_type", "id": 50222534}, {"name": "Vehicle_law", "id": 7902308}, {"name": "Causes_of_death", "id": 5271061}], "successors": [{"name": "Terrorist_incidents_involving_vehicular_attacks", "id": 44455783}]}

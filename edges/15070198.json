@@ -1,1 +1,1 @@
-{"name": "Medical_journal_editors", "id": 15070198, "predecessors": [{"name": "Health_promotion", "id": 4344045}, {"name": "Academic_journal_editors", "id": 24809747}], "successors": []}
+{"name": "Medical_journal_editors", "id": 15070198, "predecessors": [{"name": "Academic_disciplines", "id": 693763}, {"name": "Academic_journal_editors", "id": 24809747}], "successors": []}

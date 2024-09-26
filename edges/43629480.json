@@ -1,1 +1,1 @@
-{"name": "World_Series_of_Darts", "id": 43629480, "predecessors": [{"name": "Darts_tournaments", "id": 7010947}], "successors": []}
+{"name": "World_Series_of_Darts", "id": 43629480, "predecessors": [{"name": "Sports_competition_series", "id": 42860193}, {"name": "Darts_tournaments", "id": 7010947}], "successors": []}

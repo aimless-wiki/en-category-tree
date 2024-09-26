@@ -1,1 +1,1 @@
-{"name": "Korea_Train_Express_stations", "id": 47608109, "predecessors": [{"name": "Economic_geography", "id": 2021084}], "successors": []}
+{"name": "Korea_Train_Express_stations", "id": 47608109, "predecessors": [{"name": "Passenger_rail_transport", "id": 5356605}, {"name": "Economic_geography", "id": 2021084}], "successors": []}

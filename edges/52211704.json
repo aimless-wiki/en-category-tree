@@ -1,1 +1,1 @@
-{"name": "Films_about_bank_robbery", "id": 52211704, "predecessors": [{"name": "Film_genres", "id": 3008852}, {"name": "Crimes", "id": 694944}, {"name": "Banking", "id": 1245386}], "successors": []}
+{"name": "Films_about_bank_robbery", "id": 52211704, "predecessors": [{"name": "Banking", "id": 1245386}, {"name": "Crime", "id": 1183180}], "successors": []}

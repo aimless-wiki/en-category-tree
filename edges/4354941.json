@@ -1,1 +1,1 @@
-{"name": "Blood_proteins", "id": 4354941, "predecessors": [{"name": "Blood", "id": 968308}, {"name": "Proteins", "id": 717889}], "successors": [{"name": "Coagulation_system", "id": 968318}, {"name": "Complement_system", "id": 1140355}]}
+{"name": "Blood_proteins", "id": 4354941, "predecessors": [{"name": "Blood", "id": 968308}], "successors": [{"name": "Coagulation_system", "id": 968318}, {"name": "Complement_system", "id": 1140355}]}

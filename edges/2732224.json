@@ -1,1 +1,1 @@
-{"name": "Tea_houses", "id": 2732224, "predecessors": [{"name": "Restaurants_by_type", "id": 15748273}, {"name": "Tea_culture", "id": 6138937}, {"name": "Drugs_acting_on_the_nervous_system", "id": 22001763}], "successors": []}
+{"name": "Tea_houses", "id": 2732224, "predecessors": [{"name": "Restaurants_by_type", "id": 15748273}, {"name": "Tea_culture", "id": 6138937}, {"name": "Drinks", "id": 1000234}], "successors": []}

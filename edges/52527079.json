@@ -1,1 +1,1 @@
-{"name": "Animal_subgenera", "id": 52527079, "predecessors": [{"name": "Academic_disciplines", "id": 693763}], "successors": [{"name": "Insect_subgenera", "id": 57381693}, {"name": "Gastropod_subgenera", "id": 71918528}]}
+{"name": "Animal_subgenera", "id": 52527079, "predecessors": [{"name": "Academic_disciplines", "id": 693763}, {"name": "Biological_classification", "id": 41221871}], "successors": [{"name": "Insect_subgenera", "id": 57381693}, {"name": "Gastropod_subgenera", "id": 71918528}]}

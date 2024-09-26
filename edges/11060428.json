@@ -1,1 +1,1 @@
-{"name": "French_horror_films", "id": 11060428, "predecessors": [{"name": "Film_genres", "id": 3008852}, {"name": "European_literature", "id": 1325857}], "successors": [{"name": "French_horror_thriller_films", "id": 62618841}]}
+{"name": "French_horror_films", "id": 11060428, "predecessors": [{"name": "Horror_fiction", "id": 31995985}, {"name": "Culture", "id": 694861}], "successors": [{"name": "French_horror_thriller_films", "id": 62618841}]}

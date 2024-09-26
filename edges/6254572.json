@@ -1,0 +1,1 @@
+{"name": "Booting", "id": 6254572, "predecessors": [{"name": "Operating_system_technology", "id": 1956884}], "successors": [{"name": "BIOS", "id": 3470392}, {"name": "Virtualization_software", "id": 1135181}, {"name": "Virtualization", "id": 70403953}]}
