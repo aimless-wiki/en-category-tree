@@ -1,1 +1,1 @@
-{"name": "Bus_bombings_in_Asia", "id": 61482204, "predecessors": [{"name": "Vehicle_law", "id": 7902308}, {"name": "Public_transport", "id": 700497}, {"name": "Emergency_management", "id": 5047412}], "successors": []}
+{"name": "Bus_bombings_in_Asia", "id": 61482204, "predecessors": [{"name": "Terrorist_incidents_involving_vehicular_attacks", "id": 44455783}, {"name": "Emergency_management", "id": 5047412}], "successors": []}

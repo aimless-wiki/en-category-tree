@@ -1,1 +1,1 @@
-{"name": "Plasma_phenomena", "id": 75311543, "predecessors": [{"name": "Astrophysics", "id": 698070}], "successors": []}
+{"name": "Plasma_phenomena", "id": 75311543, "predecessors": [{"name": "Astrophysics", "id": 698070}], "successors": [{"name": "Lightning", "id": 12425718}, {"name": "Gas_discharge_lamps", "id": 15802367}, {"name": "Electromagnetic_compatibility", "id": 21284271}]}

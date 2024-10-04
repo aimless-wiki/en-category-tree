@@ -1,1 +1,1 @@
-{"name": "Parody_film_directors", "id": 72043722, "predecessors": [{"name": "Comedy_film_directors", "id": 63627242}, {"name": "Parodies", "id": 951020}], "successors": []}
+{"name": "Parody_film_directors", "id": 72043722, "predecessors": [{"name": "Parodies", "id": 951020}, {"name": "Comedy", "id": 696823}], "successors": []}

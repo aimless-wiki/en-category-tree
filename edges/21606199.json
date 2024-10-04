@@ -1,1 +1,1 @@
-{"name": "Light-emitting_diodes", "id": 21606199, "predecessors": [{"name": "Optoelectronics", "id": 4304170}, {"name": "Transducers", "id": 969840}, {"name": "Diodes", "id": 1244175}, {"name": "Sustainable_energy", "id": 14290410}], "successors": []}
+{"name": "Light-emitting_diodes", "id": 21606199, "predecessors": [{"name": "Light_sources", "id": 3522320}, {"name": "Optoelectronics", "id": 4304170}, {"name": "Transducers", "id": 969840}, {"name": "Diodes", "id": 1244175}, {"name": "Sustainable_energy", "id": 14290410}], "successors": []}

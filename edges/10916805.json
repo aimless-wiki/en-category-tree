@@ -1,1 +1,1 @@
-{"name": "Lillooet_Country", "id": 10916805, "predecessors": [{"name": "Lillooet_Land_District", "id": 42443241}, {"name": "Slope_landforms", "id": 11062700}], "successors": []}
+{"name": "Lillooet_Country", "id": 10916805, "predecessors": [{"name": "Slope_landforms", "id": 11062700}], "successors": [{"name": "Bridge_River_Country", "id": 10916822}, {"name": "Lillooet_Ranges", "id": 39516897}]}

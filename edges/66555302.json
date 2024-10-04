@@ -1,1 +1,1 @@
-{"name": "Comedy_literature_characters", "id": 66555302, "predecessors": [{"name": "Comedy", "id": 696823}, {"name": "Fiction", "id": 692981}], "successors": [{"name": "P._G._Wodehouse_characters", "id": 916438}]}
+{"name": "Comedy_literature_characters", "id": 66555302, "predecessors": [{"name": "Comedy_books", "id": 2666058}, {"name": "Comedy", "id": 696823}, {"name": "Fiction", "id": 692981}], "successors": [{"name": "P._G._Wodehouse_characters", "id": 916438}]}

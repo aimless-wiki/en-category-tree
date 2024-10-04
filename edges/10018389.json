@@ -1,1 +1,1 @@
-{"name": "Motor_gliders", "id": 10018389, "predecessors": [{"name": "Glider_aircraft", "id": 751910}, {"name": "Land_tenure", "id": 49153374}, {"name": "Atmosphere", "id": 1136015}], "successors": []}
+{"name": "Motor_gliders", "id": 10018389, "predecessors": [{"name": "Glider_aircraft", "id": 751910}, {"name": "Academic_disciplines", "id": 693763}, {"name": "Atmosphere", "id": 1136015}], "successors": []}

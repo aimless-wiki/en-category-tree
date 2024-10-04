@@ -1,1 +1,1 @@
-{"name": "Peace_awards", "id": 14868714, "predecessors": [{"name": "Peace", "id": 1243099}, {"name": "Belief", "id": 956054}, {"name": "Philanthropy", "id": 879812}], "successors": []}
+{"name": "Peace_awards", "id": 14868714, "predecessors": [{"name": "Peace", "id": 1243099}, {"name": "Belief", "id": 956054}, {"name": "Philanthropy", "id": 879812}], "successors": [{"name": "Nobel_Peace_Prize_laureates", "id": 7324884}, {"name": "Ramon_Magsaysay_Award_winners", "id": 15637186}, {"name": "Recipients_of_the_Lenin_Peace_Prize", "id": 24869090}]}

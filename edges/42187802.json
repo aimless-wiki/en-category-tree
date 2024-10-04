@@ -1,1 +1,1 @@
-{"name": "Wine_merchants", "id": 42187802, "predecessors": [{"name": "Food_industry", "id": 3540193}, {"name": "Commodity_markets", "id": 42311854}, {"name": "Drinks", "id": 1000234}], "successors": [{"name": "American_wine_merchants", "id": 76594748}]}
+{"name": "Wine_merchants", "id": 42187802, "predecessors": [{"name": "Food_industry", "id": 3540193}, {"name": "Commodity_markets", "id": 42311854}], "successors": [{"name": "American_wine_merchants", "id": 76594748}]}

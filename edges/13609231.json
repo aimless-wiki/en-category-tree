@@ -1,1 +1,1 @@
-{"name": "Mimicry", "id": 13609231, "predecessors": [{"name": "Biological_evolution", "id": 14828373}, {"name": "Antipredator_adaptations", "id": 28056774}], "successors": []}
+{"name": "Mimicry", "id": 13609231, "predecessors": [{"name": "Biological_evolution", "id": 14828373}, {"name": "Biological_interactions", "id": 10340059}, {"name": "Antipredator_adaptations", "id": 28056774}], "successors": []}

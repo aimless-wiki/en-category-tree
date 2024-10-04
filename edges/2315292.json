@@ -1,1 +1,1 @@
-{"name": "Fare_collection_systems", "id": 2315292, "predecessors": [{"name": "Payment_systems", "id": 1053701}, {"name": "Passenger_rail_transport", "id": 5356605}, {"name": "Legal_documents", "id": 694070}], "successors": []}
+{"name": "Fare_collection_systems", "id": 2315292, "predecessors": [{"name": "Passenger_rail_transport", "id": 5356605}], "successors": []}

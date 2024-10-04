@@ -1,1 +1,1 @@
-{"name": "Riboviria", "id": 60178825, "predecessors": [{"name": "Viruses", "id": 1582253}], "successors": [{"name": "Potyviruses", "id": 39712770}, {"name": "Hantaviridae", "id": 39767012}]}
+{"name": "Riboviria", "id": 60178825, "predecessors": [{"name": "Viruses", "id": 1582253}], "successors": [{"name": "Picornaviridae", "id": 39555607}, {"name": "Potyviruses", "id": 39712770}, {"name": "Hantaviridae", "id": 39767012}]}

@@ -1,1 +1,1 @@
-{"name": "Treatises", "id": 65641141, "predecessors": [{"name": "Literary_genres", "id": 1286193}, {"name": "Abstraction", "id": 902386}], "successors": [{"name": "Talmud", "id": 799587}, {"name": "Military_strategy_books", "id": 8232589}]}
+{"name": "Treatises", "id": 65641141, "predecessors": [{"name": "Literature", "id": 692008}, {"name": "Wikipedia_categorization", "id": 1036222}], "successors": [{"name": "Talmud", "id": 799587}, {"name": "Military_strategy_books", "id": 8232589}]}

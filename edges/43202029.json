@@ -1,1 +1,1 @@
-{"name": "Dystopian_literature", "id": 43202029, "predecessors": [{"name": "Dystopian_fiction", "id": 893157}, {"name": "Literary_genres", "id": 1286193}], "successors": [{"name": "Dystopian_novels", "id": 894194}]}
+{"name": "Dystopian_literature", "id": 43202029, "predecessors": [{"name": "Dystopian_fiction", "id": 893157}, {"name": "Literature", "id": 692008}], "successors": [{"name": "Dystopian_novels", "id": 894194}]}

@@ -1,1 +1,1 @@
-{"name": "Edmonton_Transit_Service_transit_centres", "id": 39557189, "predecessors": [{"name": "Public_transport", "id": 700497}, {"name": "Cartography", "id": 716309}], "successors": []}
+{"name": "Edmonton_Transit_Service_transit_centres", "id": 39557189, "predecessors": [{"name": "Public_transport", "id": 700497}, {"name": "Earth", "id": 754965}], "successors": []}

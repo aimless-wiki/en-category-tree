@@ -1,1 +1,1 @@
-{"name": "Terrorist_incidents_involving_vehicular_attacks", "id": 44455783, "predecessors": [{"name": "Murders_by_motor_vehicle", "id": 28902925}, {"name": "Homicide", "id": 11692544}, {"name": "Human_behavior", "id": 2524202}], "successors": []}
+{"name": "Terrorist_incidents_involving_vehicular_attacks", "id": 44455783, "predecessors": [{"name": "Murders_by_motor_vehicle", "id": 28902925}, {"name": "Homicide", "id": 11692544}, {"name": "Human_behavior", "id": 2524202}], "successors": [{"name": "Bus_bombings_in_Asia", "id": 61482204}]}

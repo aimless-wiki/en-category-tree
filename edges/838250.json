@@ -1,1 +1,1 @@
-{"name": "Antiemetics", "id": 838250, "predecessors": [{"name": "Drugs_acting_on_the_gastrointestinal_system_and_metabolism", "id": 22260378}, {"name": "Body_fluids", "id": 4878515}], "successors": []}
+{"name": "Antiemetics", "id": 838250, "predecessors": [{"name": "Body_fluids", "id": 4878515}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Wheeled_amphibious_vehicles", "id": 30681878, "predecessors": [{"name": "Land_tenure", "id": 49153374}], "successors": [{"name": "Wheeled_amphibious_armoured_fighting_vehicles", "id": 30894574}]}
+{"name": "Wheeled_amphibious_vehicles", "id": 30681878, "predecessors": [{"name": "Off-road_vehicles", "id": 945069}], "successors": [{"name": "Wheeled_amphibious_armoured_fighting_vehicles", "id": 30894574}]}

@@ -1,1 +1,1 @@
-{"name": "Radiologic_signs", "id": 8542401, "predecessors": [{"name": "Medical_signs", "id": 3738824}, {"name": "Radiology", "id": 695053}, {"name": "Medical_diagnosis", "id": 16705234}], "successors": []}
+{"name": "Radiologic_signs", "id": 8542401, "predecessors": [{"name": "Medical_signs", "id": 3738824}, {"name": "Medical_diagnosis", "id": 16705234}], "successors": []}

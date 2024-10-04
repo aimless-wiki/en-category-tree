@@ -1,1 +1,1 @@
-{"name": "Temperate_grasslands,_savannas,_and_shrublands", "id": 2625382, "predecessors": [{"name": "Grasslands", "id": 2564852}, {"name": "Biogeography", "id": 1902120}, {"name": "Ecosystems", "id": 13273551}], "successors": [{"name": "Kazakh_Uplands", "id": 71409663}]}
+{"name": "Temperate_grasslands,_savannas,_and_shrublands", "id": 2625382, "predecessors": [{"name": "Grasslands", "id": 2564852}, {"name": "Biogeography", "id": 1902120}, {"name": "Ecosystems", "id": 13273551}], "successors": [{"name": "Prairies", "id": 1074500}, {"name": "Kazakh_Uplands", "id": 71409663}]}

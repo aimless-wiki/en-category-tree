@@ -1,1 +1,1 @@
-{"name": "Japan_Golf_Tour", "id": 4342835, "predecessors": [{"name": "Professional_golf_tours", "id": 1324713}, {"name": "Culture", "id": 694861}], "successors": [{"name": "Japan_Golf_Tour_golfers", "id": 4220376}]}
+{"name": "Japan_Golf_Tour", "id": 4342835, "predecessors": [{"name": "Countries_in_Asia", "id": 37691781}, {"name": "Culture", "id": 694861}], "successors": [{"name": "Japan_Golf_Tour_golfers", "id": 4220376}]}

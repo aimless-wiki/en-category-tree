@@ -1,1 +1,1 @@
-{"name": "War_adventure_films", "id": 21673160, "predecessors": [{"name": "Film_genres", "id": 3008852}, {"name": "Copyright_law", "id": 702268}], "successors": [{"name": "Macaroni_Combat_films", "id": 34622461}]}
+{"name": "War_adventure_films", "id": 21673160, "predecessors": [{"name": "Military_fiction", "id": 5740481}], "successors": [{"name": "Macaroni_Combat_films", "id": 34622461}, {"name": "English-language_war_adventure_films", "id": 73672470}]}
