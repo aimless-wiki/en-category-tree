@@ -1,1 +1,1 @@
-{"name": "Vegetable_diseases", "id": 42669880, "predecessors": [{"name": "Crops", "id": 694870}, {"name": "Food_plant_pathogens_and_diseases", "id": 42670017}], "successors": [{"name": "Potato_diseases", "id": 9487427}]}
+{"name": "Vegetable_diseases", "id": 42669880, "predecessors": [{"name": "Crops", "id": 694870}, {"name": "Food_plant_pathogens_and_diseases", "id": 42670017}], "successors": [{"name": "Tomato_diseases", "id": 5384780}]}

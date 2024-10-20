@@ -1,1 +1,1 @@
-{"name": "FIS_Ski_Jumping_World_Cup", "id": 25236420, "predecessors": [{"name": "Jumping_sports", "id": 56472570}, {"name": "Sports_competition_series", "id": 42860193}], "successors": [{"name": "Four_Hills_Tournament", "id": 24586106}]}
+{"name": "FIS_Ski_Jumping_World_Cup", "id": 25236420, "predecessors": [{"name": "Sports_rules_and_regulations", "id": 14543951}, {"name": "Sports_competition_series", "id": 42860193}], "successors": [{"name": "Four_Hills_Tournament", "id": 24586106}]}

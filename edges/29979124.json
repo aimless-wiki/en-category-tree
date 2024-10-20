@@ -1,1 +1,1 @@
-{"name": "Cytoskeletal_defects", "id": 29979124, "predecessors": [{"name": "Cytoskeleton", "id": 2614289}, {"name": "Genetic_diseases_and_disorders", "id": 966814}], "successors": [{"name": "People_with_motor_neuron_disease", "id": 30447958}]}
+{"name": "Cytoskeletal_defects", "id": 29979124, "predecessors": [{"name": "Cell_anatomy", "id": 8495675}, {"name": "Genetic_diseases_and_disorders", "id": 966814}], "successors": [{"name": "People_with_motor_neuron_disease", "id": 30447958}]}

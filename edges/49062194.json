@@ -1,1 +1,1 @@
-{"name": "Paintings_in_Venice", "id": 49062194, "predecessors": [{"name": "Italian_paintings", "id": 11613507}, {"name": "Culture", "id": 694861}, {"name": "Painting", "id": 707606}], "successors": [{"name": "Paintings_in_the_Gallerie_dell'Accademia", "id": 71787535}]}
+{"name": "Paintings_in_Venice", "id": 49062194, "predecessors": [{"name": "Italian_paintings", "id": 11613507}, {"name": "Culture", "id": 694861}, {"name": "Visual_arts", "id": 1081533}], "successors": [{"name": "Paintings_in_the_Gallerie_dell'Accademia", "id": 71787535}]}

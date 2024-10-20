@@ -1,1 +1,1 @@
-{"name": "Vascular_surgery", "id": 846989, "predecessors": [{"name": "Angiology", "id": 1482803}], "successors": []}
+{"name": "Vascular_surgery", "id": 846989, "predecessors": [{"name": "Surgery", "id": 804789}, {"name": "Angiology", "id": 1482803}], "successors": []}

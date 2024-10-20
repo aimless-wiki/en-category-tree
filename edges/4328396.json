@@ -1,1 +1,1 @@
-{"name": "Racing_series_for_horses", "id": 4328396, "predecessors": [{"name": "Equestrian_sports", "id": 1086256}], "successors": [{"name": "Breeders'_Cup_Challenge_series", "id": 18689817}, {"name": "British_Champions_Series", "id": 39457785}]}
+{"name": "Racing_series_for_horses", "id": 4328396, "predecessors": [{"name": "Racing", "id": 43030261}], "successors": [{"name": "Breeders'_Cup_Challenge_series", "id": 18689817}, {"name": "British_Champions_Series", "id": 39457785}]}

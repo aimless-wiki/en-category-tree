@@ -1,1 +1,1 @@
-{"name": "Deaths_by_firearm_in_Mexico", "id": 12050851, "predecessors": [{"name": "Death", "id": 921954}, {"name": "Firearms", "id": 739385}], "successors": []}
+{"name": "Deaths_by_firearm_in_Mexico", "id": 12050851, "predecessors": [{"name": "Killings_by_type", "id": 50222534}, {"name": "Death", "id": 921954}, {"name": "Firearms", "id": 739385}], "successors": []}

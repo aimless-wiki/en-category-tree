@@ -1,1 +1,1 @@
-{"name": "Boston_Red_Sox_scouts", "id": 24182786, "predecessors": [{"name": "Culture", "id": 694861}, {"name": "Culture_of_the_United_States", "id": 715315}], "successors": []}
+{"name": "Boston_Red_Sox_scouts", "id": 24182786, "predecessors": [{"name": "Boston_Red_Sox", "id": 1666912}, {"name": "Culture", "id": 694861}], "successors": []}

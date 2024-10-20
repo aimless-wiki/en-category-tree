@@ -1,1 +1,1 @@
-{"name": "German_horror_films", "id": 25503112, "predecessors": [{"name": "Culture", "id": 694861}], "successors": [{"name": "German_splatter_films", "id": 71255641}]}
+{"name": "German_horror_films", "id": 25503112, "predecessors": [{"name": "German_literature", "id": 724505}, {"name": "Culture", "id": 694861}], "successors": [{"name": "German_splatter_films", "id": 71255641}]}

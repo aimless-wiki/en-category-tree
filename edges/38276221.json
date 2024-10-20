@@ -1,1 +1,1 @@
-{"name": "Electronic_funds_transfer", "id": 38276221, "predecessors": [{"name": "E-commerce", "id": 38191116}, {"name": "Political_economy", "id": 2021121}], "successors": [{"name": "Cryptocurrencies", "id": 41684201}]}
+{"name": "Electronic_funds_transfer", "id": 38276221, "predecessors": [{"name": "E-commerce", "id": 38191116}, {"name": "Payment_systems", "id": 1053701}, {"name": "Political_economy", "id": 2021121}], "successors": [{"name": "Cryptocurrencies", "id": 41684201}]}

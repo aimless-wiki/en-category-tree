@@ -1,1 +1,1 @@
-{"name": "Scientists_from_Philadelphia", "id": 51000601, "predecessors": [{"name": "Scientists_from_Pennsylvania", "id": 48843395}, {"name": "Occupations", "id": 787658}, {"name": "American_academics", "id": 1064332}], "successors": []}
+{"name": "Scientists_from_Philadelphia", "id": 51000601, "predecessors": [{"name": "Scientists_from_Pennsylvania", "id": 48843395}, {"name": "Occupations", "id": 787658}, {"name": "American_academics", "id": 1064332}], "successors": [{"name": "Physicians_from_Philadelphia", "id": 51050541}]}

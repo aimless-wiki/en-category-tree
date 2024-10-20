@@ -1,1 +1,1 @@
-{"name": "Fictional_cars", "id": 1648074, "predecessors": [{"name": "Individual_cars", "id": 50560293}, {"name": "Fictional_objects", "id": 1034234}, {"name": "Academic_disciplines", "id": 693763}], "successors": [{"name": "Fiction_about_flying_cars", "id": 41609657}]}
+{"name": "Fictional_cars", "id": 1648074, "predecessors": [{"name": "Fictional_objects", "id": 1034234}], "successors": [{"name": "Fiction_about_flying_cars", "id": 41609657}]}

@@ -1,1 +1,1 @@
-{"name": "Hats", "id": 750958, "predecessors": [{"name": "Headgear", "id": 714883}], "successors": [{"name": "Military_hats", "id": 72836467}, {"name": "Individual_crowns", "id": 42174690}, {"name": "Individual_helmets", "id": 53353845}]}
+{"name": "Hats", "id": 750958, "predecessors": [{"name": "Headgear", "id": 714883}], "successors": [{"name": "Caps", "id": 750920}, {"name": "Military_hats", "id": 72836467}, {"name": "Individual_crowns", "id": 42174690}, {"name": "Individual_helmets", "id": 53353845}]}

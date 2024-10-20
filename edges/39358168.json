@@ -1,1 +1,1 @@
-{"name": "French_art_curators", "id": 39358168, "predecessors": [{"name": "French_art", "id": 3773507}, {"name": "French_curators", "id": 5817977}, {"name": "Art_museum_people", "id": 47161633}, {"name": "Art_by_country", "id": 1001486}], "successors": []}
+{"name": "French_art_curators", "id": 39358168, "predecessors": [{"name": "French_art", "id": 3773507}, {"name": "French_curators", "id": 5817977}, {"name": "Art_curators", "id": 6775268}], "successors": []}

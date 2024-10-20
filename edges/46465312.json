@@ -1,1 +1,1 @@
-{"name": "Coaches_(bus)", "id": 46465312, "predecessors": [{"name": "Buses_by_type", "id": 17199845}], "successors": []}
+{"name": "Coaches_(bus)", "id": 46465312, "predecessors": [{"name": "Buses_by_type", "id": 17199845}, {"name": "Public_transport", "id": 700497}], "successors": []}

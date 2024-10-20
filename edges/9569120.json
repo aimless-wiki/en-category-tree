@@ -1,1 +1,1 @@
-{"name": "Video_game_memes", "id": 9569120, "predecessors": [{"name": "Internet_memes", "id": 902655}, {"name": "Video_game_culture", "id": 9568204}, {"name": "Internet_culture", "id": 716238}], "successors": []}
+{"name": "Video_game_memes", "id": 9569120, "predecessors": [{"name": "Video_game_culture", "id": 9568204}, {"name": "Cultural_trends", "id": 10172577}, {"name": "Internet_culture", "id": 716238}, {"name": "Internet_memes", "id": 902655}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Silk_production", "id": 35302982, "predecessors": [{"name": "Silk", "id": 1723621}, {"name": "Industries_(economics)", "id": 694873}, {"name": "Agriculture", "id": 694871}], "successors": []}
+{"name": "Silk_production", "id": 35302982, "predecessors": [{"name": "Silk", "id": 1723621}, {"name": "Textile_industry", "id": 17136491}, {"name": "Agriculture", "id": 694871}], "successors": []}

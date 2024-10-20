@@ -1,1 +1,1 @@
-{"name": "Plant_toxins", "id": 9507849, "predecessors": [{"name": "Biochemistry", "id": 695996}, {"name": "Pollution", "id": 871522}, {"name": "Wikipedia_categorization", "id": 1036222}], "successors": [{"name": "Plant_toxin_insecticides", "id": 3651318}]}
+{"name": "Plant_toxins", "id": 9507849, "predecessors": [{"name": "Biochemistry", "id": 695996}, {"name": "Pollution", "id": 871522}], "successors": [{"name": "Plant_toxin_insecticides", "id": 3651318}]}

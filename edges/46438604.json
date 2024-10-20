@@ -1,1 +1,1 @@
-{"name": "Railway_accidents_involving_a_signal_passed_at_danger", "id": 46438604, "predecessors": [{"name": "Injuries", "id": 10158091}, {"name": "Rail_infrastructure", "id": 2962895}], "successors": []}
+{"name": "Railway_accidents_involving_a_signal_passed_at_danger", "id": 46438604, "predecessors": [{"name": "Injuries", "id": 10158091}, {"name": "Railway_safety", "id": 17856454}], "successors": []}

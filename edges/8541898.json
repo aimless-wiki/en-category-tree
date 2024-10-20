@@ -1,1 +1,1 @@
-{"name": "Series_of_non-fiction_books", "id": 8541898, "predecessors": [{"name": "Series_of_books", "id": 936033}], "successors": [{"name": "Travel_guide_books", "id": 9384477}]}
+{"name": "Series_of_non-fiction_books", "id": 8541898, "predecessors": [{"name": "Series_of_books", "id": 936033}, {"name": "Documents", "id": 694072}], "successors": [{"name": "Travel_guide_books", "id": 9384477}]}

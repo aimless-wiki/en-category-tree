@@ -1,1 +1,1 @@
-{"name": "Amphibious_armoured_personnel_carriers", "id": 30893411, "predecessors": [{"name": "Off-road_vehicles", "id": 945069}, {"name": "Vehicle_armour", "id": 12934688}], "successors": []}
+{"name": "Amphibious_armoured_personnel_carriers", "id": 30893411, "predecessors": [{"name": "Vehicle_armour", "id": 12934688}, {"name": "Land_tenure", "id": 49153374}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Unfree_labour", "id": 3446631, "predecessors": [{"name": "Labor", "id": 755020}, {"name": "Working_conditions", "id": 4595727}], "successors": [{"name": "Unfree_labor_during_World_War_II", "id": 18937688}]}
+{"name": "Forced_labour", "id": 3446631, "predecessors": [{"name": "Human_rights_abuses", "id": 716087}, {"name": "Labor", "id": 755020}, {"name": "Working_conditions", "id": 4595727}], "successors": [{"name": "Forced_labour_during_World_War_II", "id": 18937688}, {"name": "Conscription_by_country", "id": 5314750}, {"name": "Slavery_by_country", "id": 15875790}]}

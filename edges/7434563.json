@@ -1,1 +1,1 @@
-{"name": "Finance_fraud", "id": 7434563, "predecessors": [{"name": "Fraud", "id": 737192}, {"name": "Commercial_crimes", "id": 1418756}], "successors": []}
+{"name": "Finance_fraud", "id": 7434563, "predecessors": [{"name": "Fraud", "id": 737192}, {"name": "Commercial_crimes", "id": 1418756}], "successors": [{"name": "Tax_evasion", "id": 20886037}]}

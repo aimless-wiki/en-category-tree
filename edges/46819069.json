@@ -1,1 +1,1 @@
-{"name": "Press_secretaries", "id": 46819069, "predecessors": [{"name": "Government_occupations", "id": 1006059}], "successors": [{"name": "American_press_secretaries", "id": 46829212}]}
+{"name": "Press_secretaries", "id": 46819069, "predecessors": [{"name": "Public_relations_people", "id": 11549653}, {"name": "Spokespersons", "id": 33010481}], "successors": [{"name": "American_press_secretaries", "id": 46829212}]}

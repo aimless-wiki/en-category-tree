@@ -1,1 +1,1 @@
-{"name": "Banana_diseases", "id": 9500643, "predecessors": [{"name": "Berries", "id": 17115366}, {"name": "Gardening", "id": 740309}], "successors": []}
+{"name": "Banana_diseases", "id": 9500643, "predecessors": [{"name": "Berries", "id": 17115366}, {"name": "Infectious_diseases", "id": 707355}], "successors": []}

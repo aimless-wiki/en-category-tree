@@ -1,1 +1,1 @@
-{"name": "JAXA", "id": 40967678, "predecessors": [{"name": "Space_agencies", "id": 1031839}, {"name": "Engineering_projects", "id": 10548354}, {"name": "Public_administration", "id": 4108738}], "successors": []}
+{"name": "JAXA", "id": 40967678, "predecessors": [{"name": "Space_agencies", "id": 1031839}, {"name": "Government_of_Japan", "id": 1448683}, {"name": "Engineering_projects", "id": 10548354}], "successors": []}

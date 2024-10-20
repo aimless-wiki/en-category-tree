@@ -1,1 +1,1 @@
-{"name": "Mental_calculators", "id": 34560666, "predecessors": [{"name": "Human_behavior", "id": 2524202}, {"name": "Arithmetic", "id": 705736}, {"name": "Academic_disciplines", "id": 693763}], "successors": []}
+{"name": "Mental_calculators", "id": 34560666, "predecessors": [{"name": "Intelligence", "id": 4942617}, {"name": "Human_behavior", "id": 2524202}, {"name": "Arithmetic", "id": 705736}, {"name": "Academic_disciplines", "id": 693763}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Polyhedron_templates", "id": 55038058, "predecessors": [{"name": "Geometry_templates", "id": 30546866}], "successors": []}
+{"name": "Polyhedron_templates", "id": 55038058, "predecessors": [{"name": "Geometry_templates", "id": 30546866}, {"name": "Polyhedra", "id": 731400}], "successors": []}

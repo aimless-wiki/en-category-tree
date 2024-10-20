@@ -1,1 +1,1 @@
-{"name": "Sulfides", "id": 1682005, "predecessors": [{"name": "Sulfur_compounds", "id": 1869718}, {"name": "Periodic_table", "id": 727142}], "successors": [{"name": "Thioethers", "id": 724528}, {"name": "Sulfide_minerals", "id": 1091065}]}
+{"name": "Sulfides", "id": 1682005, "predecessors": [{"name": "Manufacturing", "id": 867519}, {"name": "Sulfur_compounds", "id": 1869718}], "successors": [{"name": "Thioethers", "id": 724528}, {"name": "Sulfide_minerals", "id": 1091065}]}

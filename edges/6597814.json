@@ -1,1 +1,1 @@
-{"name": "Individual_aircraft", "id": 6597814, "predecessors": [{"name": "Atmosphere", "id": 1136015}, {"name": "Culture", "id": 694861}], "successors": [{"name": "Individual_aircraft_of_World_War_II", "id": 18159530}, {"name": "Missing_aircraft", "id": 32132067}]}
+{"name": "Individual_aircraft", "id": 6597814, "predecessors": [{"name": "Aerospace", "id": 13517230}], "successors": [{"name": "Individual_aircraft_of_World_War_II", "id": 18159530}, {"name": "Missing_aircraft", "id": 32132067}]}

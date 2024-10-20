@@ -1,1 +1,1 @@
-{"name": "Leaves", "id": 33748456, "predecessors": [{"name": "Plant_anatomy", "id": 1894679}], "successors": [{"name": "Leaf_miners", "id": 56569201}, {"name": "Prehistoric_sloths", "id": 22782571}]}
+{"name": "Leaves", "id": 33748456, "predecessors": [{"name": "Plant_anatomy", "id": 1894679}], "successors": [{"name": "Leaf_vegetables", "id": 1616555}, {"name": "Leaf_miners", "id": 56569201}, {"name": "Prehistoric_sloths", "id": 22782571}]}

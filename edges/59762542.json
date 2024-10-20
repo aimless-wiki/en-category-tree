@@ -1,1 +1,1 @@
-{"name": "Deaths_by_stabbing_in_Singapore", "id": 59762542, "predecessors": [{"name": "Crime", "id": 1183180}], "successors": []}
+{"name": "Deaths_by_stabbing_in_Singapore", "id": 59762542, "predecessors": [{"name": "Deaths_by_stabbing", "id": 16014545}, {"name": "Crime", "id": 1183180}], "successors": []}

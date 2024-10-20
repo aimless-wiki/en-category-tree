@@ -1,1 +1,1 @@
-{"name": "Nicotinic_agonists", "id": 890002, "predecessors": [{"name": "Drugs_acting_on_the_nervous_system", "id": 22001763}, {"name": "Cell_signaling", "id": 5754178}], "successors": []}
+{"name": "Nicotinic_agonists", "id": 890002, "predecessors": [{"name": "Drugs_acting_on_the_nervous_system", "id": 22001763}, {"name": "Cell_signaling", "id": 5754178}, {"name": "Drugs", "id": 1325883}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "LQ01_quadrangle", "id": 14722741, "predecessors": [{"name": "Lunar_science", "id": 8907322}], "successors": []}
+{"name": "LQ01_quadrangle", "id": 14722741, "predecessors": [{"name": "Cartography", "id": 716309}, {"name": "Lunar_science", "id": 8907322}], "successors": []}

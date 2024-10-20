@@ -1,1 +1,1 @@
-{"name": "Electric_motor_manufacturers", "id": 61532126, "predecessors": [{"name": "Engines", "id": 743017}, {"name": "Electrical_engineering", "id": 706415}, {"name": "Wikipedia_categorization", "id": 1036222}], "successors": []}
+{"name": "Electric_motor_manufacturers", "id": 61532126, "predecessors": [{"name": "Electric_motors", "id": 1265371}, {"name": "Engines", "id": 743017}, {"name": "Electrical_engineering", "id": 706415}], "successors": []}
