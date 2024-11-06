@@ -1,1 +1,1 @@
-{"name": "Real_estate_valuation", "id": 13375955, "predecessors": [{"name": "Valuation_(finance)", "id": 36077327}, {"name": "Housing", "id": 4152584}], "successors": []}
+{"name": "Real_estate_valuation", "id": 13375955, "predecessors": [{"name": "Real_estate", "id": 984323}, {"name": "Valuation_(finance)", "id": 36077327}], "successors": []}

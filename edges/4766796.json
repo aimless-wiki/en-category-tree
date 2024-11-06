@@ -1,1 +1,1 @@
-{"name": "Vedanta", "id": 4766796, "predecessors": [{"name": "Indian_philosophy", "id": 3885259}, {"name": "Belief", "id": 956054}], "successors": [{"name": "Advaita_Vedanta", "id": 42916939}, {"name": "Neo-Vedanta", "id": 53217891}, {"name": "Dvaita_Vedanta", "id": 67022479}]}
+{"name": "Vedanta", "id": 4766796, "predecessors": [{"name": "Indian_philosophy", "id": 3885259}, {"name": "Hinduism", "id": 708424}], "successors": [{"name": "Advaita_Vedanta", "id": 42916939}, {"name": "Neo-Vedanta", "id": 53217891}, {"name": "Dvaita_Vedanta", "id": 67022479}]}

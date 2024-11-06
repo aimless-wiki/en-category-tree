@@ -1,1 +1,1 @@
-{"name": "Big_band_singers", "id": 753031, "predecessors": [{"name": "Singing", "id": 940526}, {"name": "Jazz_genres", "id": 1762087}], "successors": []}
+{"name": "Big_band_singers", "id": 753031, "predecessors": [{"name": "Big_bands", "id": 7869729}, {"name": "Singing", "id": 940526}, {"name": "Jazz_genres", "id": 1762087}], "successors": []}

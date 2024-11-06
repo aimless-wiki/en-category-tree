@@ -1,1 +1,1 @@
-{"name": "Oil_paintings", "id": 60487263, "predecessors": [{"name": "Painting_materials", "id": 2117028}, {"name": "Oils", "id": 2911226}], "successors": [{"name": "Oil_on_canvas_paintings", "id": 60487326}]}
+{"name": "Oil_paintings", "id": 60487263, "predecessors": [{"name": "Painting_materials", "id": 2117028}, {"name": "Oils", "id": 2911226}], "successors": [{"name": "Oil_on_canvas_paintings", "id": 60487326}, {"name": "Oil_on_panel_paintings", "id": 78221118}]}

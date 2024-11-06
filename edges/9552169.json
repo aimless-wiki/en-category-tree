@@ -1,1 +1,1 @@
-{"name": "Language_maintenance_templates", "id": 9552169, "predecessors": [{"name": "Wikipedia_maintenance_templates", "id": 3409387}, {"name": "Contents", "id": 14105005}], "successors": [{"name": "Wikipedia_translation_templates", "id": 8763320}]}
+{"name": "Language_maintenance_templates", "id": 9552169, "predecessors": [{"name": "Wikipedia_maintenance", "id": 738040}, {"name": "Contents", "id": 14105005}], "successors": [{"name": "Wikipedia_translation_templates", "id": 8763320}]}

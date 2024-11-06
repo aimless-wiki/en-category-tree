@@ -1,1 +1,1 @@
-{"name": "American_gospel_singers", "id": 3618559, "predecessors": [{"name": "American_gospel_musicians", "id": 38599365}, {"name": "Singing", "id": 940526}, {"name": "Music_genres", "id": 4826123}], "successors": []}
+{"name": "American_gospel_singers", "id": 3618559, "predecessors": [{"name": "American_gospel_musicians", "id": 38599365}, {"name": "American_singers", "id": 708599}, {"name": "Music_genres", "id": 4826123}], "successors": []}

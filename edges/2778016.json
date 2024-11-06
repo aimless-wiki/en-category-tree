@@ -1,1 +1,1 @@
-{"name": "Hindu_astronomy", "id": 2778016, "predecessors": [{"name": "Ancient_astronomy", "id": 2007177}, {"name": "Belief", "id": 956054}, {"name": "Circles", "id": 1967267}], "successors": [{"name": "Hindu_calendar", "id": 3507475}]}
+{"name": "Hindu_astronomy", "id": 2778016, "predecessors": [{"name": "Ancient_astronomy", "id": 2007177}, {"name": "Hinduism", "id": 708424}, {"name": "Circles", "id": 1967267}], "successors": [{"name": "Hindu_calendar", "id": 3507475}]}

@@ -1,1 +1,1 @@
-{"name": "Monotypic_prehistoric_mammal_genera", "id": 68395356, "predecessors": [{"name": "Monotypic_mammal_genera", "id": 26832597}, {"name": "Prehistoric_mammal_genera", "id": 49556002}, {"name": "Academic_disciplines", "id": 693763}], "successors": []}
+{"name": "Monotypic_prehistoric_mammal_genera", "id": 68395356, "predecessors": [{"name": "Monotypic_mammal_genera", "id": 26832597}, {"name": "Prehistoric_mammal_genera", "id": 49556002}, {"name": "Academic_disciplines", "id": 693763}], "successors": [{"name": "Monotypic_prehistoric_placental_genera", "id": 78289397}]}

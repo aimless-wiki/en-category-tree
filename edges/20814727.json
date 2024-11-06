@@ -1,1 +1,1 @@
-{"name": "Indian_Hindu_missionaries", "id": 20814727, "predecessors": [{"name": "Indian_Hindus", "id": 14461062}, {"name": "Belief", "id": 956054}, {"name": "Culture_of_India", "id": 33349475}], "successors": [{"name": "Monks_of_the_Ramakrishna_Mission", "id": 13248885}]}
+{"name": "Indian_Hindu_missionaries", "id": 20814727, "predecessors": [{"name": "Hinduism", "id": 708424}, {"name": "Indian_Hindus", "id": 14461062}, {"name": "Culture_of_India", "id": 33349475}], "successors": [{"name": "Monks_of_the_Ramakrishna_Mission", "id": 13248885}]}

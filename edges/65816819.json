@@ -1,1 +1,1 @@
-{"name": "Medical_serial_killers", "id": 65816819, "predecessors": [{"name": "Medical_malpractice", "id": 11891988}, {"name": "Health_care_occupations", "id": 1006080}], "successors": []}
+{"name": "Medical_serial_killers", "id": 65816819, "predecessors": [{"name": "Health_care_occupations", "id": 1006080}, {"name": "Crime", "id": 1183180}], "successors": []}

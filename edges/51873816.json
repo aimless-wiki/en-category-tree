@@ -1,1 +1,1 @@
-{"name": "Wages_and_salaries", "id": 51873816, "predecessors": [{"name": "Employment_compensation", "id": 4595606}], "successors": []}
+{"name": "Wages_and_salaries", "id": 51873816, "predecessors": [{"name": "Employment_compensation", "id": 4595606}], "successors": [{"name": "Minimum_wage_law", "id": 35207589}]}
