@@ -1,1 +1,1 @@
-{"name": "Anti-submarine_warfare", "id": 1034178, "predecessors": [{"name": "Naval_warfare", "id": 1054971}], "successors": []}
+{"name": "Anti-submarine_warfare", "id": 1034178, "predecessors": [{"name": "Naval_warfare", "id": 1054971}, {"name": "Emergency_management", "id": 5047412}], "successors": []}

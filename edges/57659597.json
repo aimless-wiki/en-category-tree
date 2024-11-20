@@ -1,1 +1,1 @@
-{"name": "Conventional_landing_gear", "id": 57659597, "predecessors": [{"name": "Aircraft_components", "id": 2435701}], "successors": []}
+{"name": "Aircraft_with_conventional_landing_gear", "id": 57659597, "predecessors": [{"name": "Aircraft_components", "id": 2435701}], "successors": [{"name": "Aircraft_with_retractable_conventional_landing_gear", "id": 57661246}, {"name": "Aircraft_with_fixed_conventional_landing_gear", "id": 77248547}]}

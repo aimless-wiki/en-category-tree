@@ -1,1 +1,1 @@
-{"name": "Prehistoric_Artiodactyla_genera", "id": 52445777, "predecessors": [{"name": "Prehistoric_placental_genera", "id": 67691621}, {"name": "Mammal_orders", "id": 43534992}], "successors": []}
+{"name": "Prehistoric_Artiodactyla_genera", "id": 52445777, "predecessors": [{"name": "Prehistoric_placental_genera", "id": 67691621}, {"name": "Mammal_orders", "id": 43534992}], "successors": [{"name": "Prehistoric_cetacean_genera", "id": 49579246}, {"name": "Monotypic_prehistoric_Artiodactyla_genera", "id": 78301045}]}

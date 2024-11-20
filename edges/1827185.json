@@ -1,1 +1,1 @@
-{"name": "Motherboard", "id": 1827185, "predecessors": [{"name": "Printed_circuit_board_manufacturing", "id": 47360983}, {"name": "Electrical_engineering", "id": 706415}], "successors": [{"name": "BIOS", "id": 3470392}]}
+{"name": "Motherboard", "id": 1827185, "predecessors": [{"name": "Printed_circuit_board_manufacturing", "id": 47360983}, {"name": "Computer_engineering", "id": 3240726}], "successors": [{"name": "BIOS", "id": 3470392}]}

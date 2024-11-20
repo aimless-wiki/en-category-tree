@@ -1,1 +1,1 @@
-{"name": "Mammal_anatomy", "id": 9963290, "predecessors": [{"name": "Vertebrate_anatomy", "id": 30193803}, {"name": "Early_Triassic_first_appearances", "id": 46772736}], "successors": [{"name": "Horse_anatomy", "id": 3540343}, {"name": "Human_anatomy", "id": 2294735}]}
+{"name": "Mammal_anatomy", "id": 9963290, "predecessors": [{"name": "Vertebrate_anatomy", "id": 30193803}, {"name": "Early_Triassic_first_appearances", "id": 46772736}], "successors": [{"name": "Fur", "id": 2220717}, {"name": "Horse_anatomy", "id": 3540343}, {"name": "Human_anatomy", "id": 2294735}]}

@@ -1,1 +1,1 @@
-{"name": "Military_robots", "id": 3880886, "predecessors": [{"name": "Embedded_systems", "id": 852879}, {"name": "Robotics", "id": 853492}, {"name": "Wikipedia_categorization", "id": 1036222}], "successors": []}
+{"name": "Military_robots", "id": 3880886, "predecessors": [{"name": "Applications_of_computer_vision", "id": 4826208}, {"name": "Robotics", "id": 853492}, {"name": "Wikipedia_categorization", "id": 1036222}], "successors": []}
