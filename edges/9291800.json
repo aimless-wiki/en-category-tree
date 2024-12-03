@@ -1,1 +1,1 @@
-{"name": "Bus_transportation_in_New_Jersey", "id": 9291800, "predecessors": [{"name": "Public_transport", "id": 700497}, {"name": "Administrative_divisions_by_country", "id": 37426256}], "successors": [{"name": "Surface_transportation_in_Greater_New_York", "id": 13827424}, {"name": "NJ_Transit_Rail_Operations", "id": 13913187}]}
+{"name": "Bus_transportation_in_New_Jersey", "id": 9291800, "predecessors": [{"name": "Public_transport", "id": 700497}, {"name": "Administrative_divisions_by_country", "id": 37426256}], "successors": []}

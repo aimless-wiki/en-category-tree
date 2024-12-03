@@ -1,1 +1,1 @@
-{"name": "Shrimp_dishes", "id": 30496746, "predecessors": [{"name": "Caridea", "id": 2112403}, {"name": "Meat_dishes", "id": 18237845}, {"name": "Animals_and_humans", "id": 52196069}], "successors": []}
+{"name": "Shrimp_dishes", "id": 30496746, "predecessors": [{"name": "Caridea", "id": 2112403}, {"name": "Meat_dishes", "id": 18237845}, {"name": "Meat", "id": 757474}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Ottoman_Army_officers", "id": 32459618, "predecessors": [{"name": "Armies_by_country", "id": 11456510}, {"name": "Occupations", "id": 787658}, {"name": "Government_occupations", "id": 1006059}], "successors": []}
+{"name": "Ottoman_Army_officers", "id": 32459618, "predecessors": [{"name": "Armies_by_country", "id": 11456510}, {"name": "Occupations", "id": 787658}, {"name": "Government_occupations", "id": 1006059}], "successors": [{"name": "Ottoman_Army_generals", "id": 32459610}]}

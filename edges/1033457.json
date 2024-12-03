@@ -1,1 +1,1 @@
-{"name": "Fictional_chefs", "id": 1033457, "predecessors": [{"name": "Apprenticeship", "id": 35189993}, {"name": "Food_technology", "id": 7320176}, {"name": "Food_industry", "id": 3540193}], "successors": []}
+{"name": "Fictional_chefs", "id": 1033457, "predecessors": [{"name": "Apprenticeship", "id": 35189993}, {"name": "Food_technology", "id": 7320176}, {"name": "Food_industry", "id": 3540193}], "successors": [{"name": "Fictional_chefs_in_soap_operas", "id": 78443194}]}

@@ -1,1 +1,1 @@
-{"name": "Electrodes", "id": 1508206, "predecessors": [{"name": "Electrochemistry", "id": 698311}, {"name": "Materials", "id": 722279}], "successors": []}
+{"name": "Electrodes", "id": 1508206, "predecessors": [{"name": "Electricity", "id": 959298}, {"name": "Electrochemistry", "id": 698311}], "successors": []}

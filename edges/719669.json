@@ -1,1 +1,1 @@
-{"name": "Tyrosine_kinase_receptors", "id": 719669, "predecessors": [{"name": "Cell_signaling", "id": 5754178}, {"name": "Signal_transduction", "id": 754106}, {"name": "Transferases", "id": 719740}], "successors": []}
+{"name": "Tyrosine_kinase_receptors", "id": 719669, "predecessors": [{"name": "Cell_signaling", "id": 5754178}, {"name": "Signal_transduction", "id": 754106}, {"name": "Single-pass_transmembrane_proteins", "id": 14581995}, {"name": "Transferases", "id": 719740}], "successors": []}

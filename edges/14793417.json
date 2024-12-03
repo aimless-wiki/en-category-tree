@@ -1,1 +1,1 @@
-{"name": "Fossil_trackways", "id": 14793417, "predecessors": [{"name": "Trace_fossils", "id": 12259981}, {"name": "Fossils", "id": 737189}, {"name": "Foot", "id": 3221669}], "successors": [{"name": "Ichnofossiliferous_formations", "id": 62029795}]}
+{"name": "Fossil_trackways", "id": 14793417, "predecessors": [{"name": "Trace_fossils", "id": 12259981}, {"name": "Earth", "id": 754965}, {"name": "Foot", "id": 3221669}], "successors": [{"name": "Ichnofossiliferous_formations", "id": 62029795}]}

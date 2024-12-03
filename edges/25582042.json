@@ -1,1 +1,1 @@
-{"name": "Rock_music_group_discographies", "id": 25582042, "predecessors": [{"name": "Rock_music_discographies", "id": 20652624}, {"name": "Entertainment", "id": 693016}], "successors": [{"name": "Punk_rock_group_discographies", "id": 41832283}, {"name": "Heavy_metal_group_discographies", "id": 41832509}]}
+{"name": "Rock_music_group_discographies", "id": 25582042, "predecessors": [{"name": "Music_genres", "id": 4826123}], "successors": [{"name": "Punk_rock_group_discographies", "id": 41832283}, {"name": "Heavy_metal_group_discographies", "id": 41832509}]}

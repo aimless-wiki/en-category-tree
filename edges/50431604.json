@@ -1,1 +1,1 @@
-{"name": "Prehistoric_cephalopod_genera", "id": 50431604, "predecessors": [{"name": "Prehistoric_protostome_genera", "id": 52957532}], "successors": [{"name": "Ammonite_genera", "id": 51351058}, {"name": "Prehistoric_nautiloid_genera", "id": 53359124}]}
+{"name": "Prehistoric_cephalopod_genera", "id": 50431604, "predecessors": [{"name": "Cephalopod_genera", "id": 44244069}, {"name": "Contents", "id": 14105005}], "successors": [{"name": "Ammonite_genera", "id": 51351058}, {"name": "Prehistoric_nautiloid_genera", "id": 53359124}]}

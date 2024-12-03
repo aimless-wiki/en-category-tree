@@ -1,1 +1,1 @@
-{"name": "Visa_requirements_by_nationality", "id": 26129120, "predecessors": [{"name": "Diplomacy", "id": 911551}], "successors": []}
+{"name": "Visa_requirements_by_nationality", "id": 26129120, "predecessors": [{"name": "Government", "id": 697609}, {"name": "Human_migration", "id": 1206703}], "successors": []}

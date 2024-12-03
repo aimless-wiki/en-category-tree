@@ -1,1 +1,1 @@
-{"name": "Food_paste", "id": 54424166, "predecessors": [{"name": "Spreads_(food)", "id": 38400605}, {"name": "Cooking_techniques", "id": 757512}, {"name": "Culture", "id": 694861}], "successors": []}
+{"name": "Food_paste", "id": 54424166, "predecessors": [{"name": "Spreads_(food)", "id": 38400605}, {"name": "Cooking_techniques", "id": 757512}, {"name": "Food_technology", "id": 7320176}], "successors": []}

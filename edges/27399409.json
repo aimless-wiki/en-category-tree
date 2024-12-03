@@ -1,1 +1,1 @@
-{"name": "Financial_data_vendors", "id": 27399409, "predecessors": [{"name": "Data", "id": 16989227}, {"name": "Wikipedia_categorization", "id": 1036222}], "successors": [{"name": "Credit_rating_agencies", "id": 2890046}, {"name": "Thomson_Reuters", "id": 32947261}]}
+{"name": "Financial_data_vendors", "id": 27399409, "predecessors": [{"name": "Data", "id": 16989227}, {"name": "Standards", "id": 724561}], "successors": [{"name": "Credit_rating_agencies", "id": 2890046}, {"name": "Thomson_Reuters", "id": 32947261}]}

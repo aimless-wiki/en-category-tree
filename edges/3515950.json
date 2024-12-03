@@ -1,1 +1,1 @@
-{"name": "Smuggling", "id": 3515950, "predecessors": [{"name": "Crimes", "id": 694944}, {"name": "Illegal_occupations", "id": 1005451}, {"name": "International_trade", "id": 716236}], "successors": [{"name": "Arms_trafficking", "id": 39546502}]}
+{"name": "Smuggling", "id": 3515950, "predecessors": [{"name": "Crimes", "id": 694944}, {"name": "Crime", "id": 1183180}, {"name": "International_trade", "id": 716236}], "successors": [{"name": "Arms_trafficking", "id": 39546502}]}

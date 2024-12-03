@@ -1,1 +1,1 @@
-{"name": "Images_of_paintings", "id": 10353157, "predecessors": [{"name": "Images_of_art", "id": 1786494}], "successors": [{"name": "Images_of_paintings_by_Jean_Metzinger", "id": 50179742}]}
+{"name": "Images_of_paintings", "id": 10353157, "predecessors": [{"name": "Images_of_art", "id": 1786494}, {"name": "Painting", "id": 707606}], "successors": [{"name": "Images_of_paintings_by_Jean_Metzinger", "id": 50179742}]}

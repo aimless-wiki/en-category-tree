@@ -1,1 +1,1 @@
-{"name": "Italian_magazine_editors", "id": 10001373, "predecessors": [{"name": "Italian_journalists", "id": 1057013}, {"name": "Occupations", "id": 787658}], "successors": []}
+{"name": "Italian_magazine_editors", "id": 10001373, "predecessors": [{"name": "Italian_journalists", "id": 1057013}, {"name": "Occupations", "id": 787658}, {"name": "Magazine_editors", "id": 952108}], "successors": []}

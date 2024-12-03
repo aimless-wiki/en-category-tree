@@ -1,1 +1,1 @@
-{"name": "Cabaret_singers", "id": 12047419, "predecessors": [{"name": "Entertainment", "id": 693016}, {"name": "Singing", "id": 940526}], "successors": [{"name": "American_cabaret_singers", "id": 76564137}]}
+{"name": "Cabaret_singers", "id": 12047419, "predecessors": [{"name": "Entertainment", "id": 693016}, {"name": "Music_genres", "id": 4826123}], "successors": [{"name": "American_cabaret_singers", "id": 76564137}]}

@@ -1,1 +1,1 @@
-{"name": "2021_WTA_Tour", "id": 66157109, "predecessors": [{"name": "WTA_Tour", "id": 12843673}, {"name": "Culture", "id": 694861}, {"name": "Games_of_physical_skill", "id": 8429269}], "successors": []}
+{"name": "2021_WTA_Tour", "id": 66157109, "predecessors": [{"name": "WTA_Tour", "id": 12843673}, {"name": "Culture", "id": 694861}, {"name": "Games_of_physical_skill", "id": 8429269}], "successors": [{"name": "2021_WTA_125_tournaments", "id": 66739890}]}

@@ -1,1 +1,1 @@
-{"name": "Airlifts", "id": 31255637, "predecessors": [{"name": "Air_navigation", "id": 42462833}, {"name": "Warfare_by_type", "id": 4733422}, {"name": "History_of_aviation", "id": 33761794}, {"name": "Aerospace", "id": 13517230}], "successors": []}
+{"name": "Airlifts", "id": 31255637, "predecessors": [{"name": "Air_navigation", "id": 42462833}, {"name": "Warfare_by_type", "id": 4733422}, {"name": "History_of_aviation", "id": 33761794}, {"name": "Freight_transport", "id": 710066}], "successors": []}

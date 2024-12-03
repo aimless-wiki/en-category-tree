@@ -1,1 +1,1 @@
-{"name": "Leather", "id": 2441300, "predecessors": [{"name": "Clothing_and_the_environment", "id": 36778865}, {"name": "Cattle", "id": 972888}], "successors": [{"name": "Leathermaking", "id": 22062039}, {"name": "Leather_manufacturers", "id": 16697066}]}
+{"name": "Leather", "id": 2441300, "predecessors": [{"name": "Clothing_and_the_environment", "id": 36778865}, {"name": "Cattle", "id": 972888}], "successors": [{"name": "Leathermaking", "id": 22062039}, {"name": "Leather_manufacturers", "id": 16697066}, {"name": "Leather_subculture", "id": 37173662}]}

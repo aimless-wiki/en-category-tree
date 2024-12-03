@@ -1,1 +1,1 @@
-{"name": "Procurement", "id": 7540641, "predecessors": [{"name": "Management", "id": 787284}, {"name": "Supply_chain_management", "id": 1229089}], "successors": [{"name": "United_Kingdom_defence_procurement", "id": 2865722}, {"name": "DARPA", "id": 37942742}]}
+{"name": "Procurement", "id": 7540641, "predecessors": [{"name": "Management", "id": 787284}, {"name": "Supply_chain_management", "id": 1229089}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Limnology", "id": 717159, "predecessors": [{"name": "Aquatic_ecology", "id": 6840293}, {"name": "Hydrography", "id": 1101998}], "successors": [{"name": "Proglacial_lakes", "id": 24698130}]}
+{"name": "Limnology", "id": 717159, "predecessors": [{"name": "Aquatic_ecology", "id": 6840293}, {"name": "Hydrography", "id": 1101998}], "successors": [{"name": "Water_streams", "id": 1092107}, {"name": "Proglacial_lakes", "id": 24698130}]}

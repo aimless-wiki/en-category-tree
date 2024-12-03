@@ -1,1 +1,1 @@
-{"name": "Bobtail_squid", "id": 1070477, "predecessors": [{"name": "Squid", "id": 1070484}, {"name": "Animal_welfare", "id": 991706}], "successors": [{"name": "Bobtail_squid_stubs", "id": 30586592}]}
+{"name": "Bobtail_squid", "id": 1070477, "predecessors": [{"name": "Squid", "id": 1070484}, {"name": "Academic_disciplines", "id": 693763}, {"name": "Contents", "id": 14105005}], "successors": [{"name": "Bobtail_squid_stubs", "id": 30586592}]}

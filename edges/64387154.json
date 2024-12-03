@@ -1,1 +1,1 @@
-{"name": "Physicians_from_Oslo", "id": 64387154, "predecessors": [{"name": "Health_care_occupations", "id": 1006080}], "successors": [{"name": "Oslo_University_Hospital_people", "id": 50537301}]}
+{"name": "Physicians_from_Oslo", "id": 64387154, "predecessors": [{"name": "Scientists_from_Oslo", "id": 67954715}, {"name": "Health_care", "id": 35880954}, {"name": "Health_care_occupations", "id": 1006080}], "successors": [{"name": "Oslo_University_Hospital_people", "id": 50537301}]}

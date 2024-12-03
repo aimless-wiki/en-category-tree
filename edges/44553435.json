@@ -1,1 +1,1 @@
-{"name": "Auto_parts_suppliers_of_Germany", "id": 44553435, "predecessors": [{"name": "Manufacturing_companies_of_Germany", "id": 4219678}, {"name": "Automotive_industry", "id": 1338498}, {"name": "Wikipedia_categorization", "id": 1036222}], "successors": []}
+{"name": "Auto_parts_suppliers_of_Germany", "id": 44553435, "predecessors": [{"name": "Manufacturing_companies_of_Germany", "id": 4219678}, {"name": "Auto_parts", "id": 2850556}, {"name": "Automotive_industry", "id": 1338498}], "successors": []}

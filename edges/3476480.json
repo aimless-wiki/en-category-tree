@@ -1,1 +1,1 @@
-{"name": "Hormonal_contraception", "id": 3476480, "predecessors": [{"name": "Sex_hormones", "id": 734391}, {"name": "Hormones", "id": 717945}, {"name": "Drug_culture", "id": 1326113}], "successors": []}
+{"name": "Hormonal_contraception", "id": 3476480, "predecessors": [{"name": "Hormones", "id": 717945}, {"name": "Andrology", "id": 692358}, {"name": "Learning", "id": 1055691}, {"name": "Drug_culture", "id": 1326113}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Comic_book_editors", "id": 1322305, "predecessors": [{"name": "Print_editors", "id": 717632}, {"name": "Entertainment", "id": 693016}], "successors": []}
+{"name": "Comic_book_editors", "id": 1322305, "predecessors": [{"name": "Print_editors", "id": 717632}, {"name": "Entertainment", "id": 693016}], "successors": [{"name": "American_comic_book_editors", "id": 78404690}]}

@@ -1,1 +1,1 @@
-{"name": "Ransomware", "id": 46606629, "predecessors": [{"name": "Cryptography", "id": 692160}, {"name": "Malware", "id": 802145}, {"name": "Abuse", "id": 691808}], "successors": []}
+{"name": "Ransomware", "id": 46606629, "predecessors": [{"name": "Malware", "id": 802145}, {"name": "Abuse", "id": 691808}], "successors": []}

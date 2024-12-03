@@ -1,1 +1,1 @@
-{"name": "Investment_banks", "id": 1441288, "predecessors": [{"name": "Banking", "id": 1245386}], "successors": [{"name": "BNP_Paribas", "id": 15115379}, {"name": "Investment_banks_in_the_United_States", "id": 40414273}]}
+{"name": "Investment_banks", "id": 1441288, "predecessors": [{"name": "Banking", "id": 1245386}], "successors": [{"name": "BNP_Paribas", "id": 15115379}, {"name": "Primary_dealers", "id": 19325038}, {"name": "Investment_banks_in_the_United_States", "id": 40414273}]}

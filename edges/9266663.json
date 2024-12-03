@@ -1,1 +1,1 @@
-{"name": "Aviation_law", "id": 9266663, "predecessors": [{"name": "Aerospace", "id": 13517230}, {"name": "Human_behavior", "id": 2524202}], "successors": [{"name": "Aviation_licenses_and_certifications", "id": 1472164}]}
+{"name": "Aviation_law", "id": 9266663, "predecessors": [{"name": "Atmosphere", "id": 1136015}, {"name": "Politics", "id": 695027}], "successors": [{"name": "Aviation_licenses_and_certifications", "id": 1472164}]}

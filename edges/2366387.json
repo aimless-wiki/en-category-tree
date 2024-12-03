@@ -1,1 +1,1 @@
-{"name": "Teeth", "id": 2366387, "predecessors": [{"name": "Mouth", "id": 1404138}, {"name": "Animal_anatomy", "id": 3120301}, {"name": "Abstraction", "id": 902386}], "successors": [{"name": "Dentistry", "id": 1001629}, {"name": "Chewing_gum", "id": 33362421}]}
+{"name": "Teeth", "id": 2366387, "predecessors": [{"name": "Mouth", "id": 1404138}, {"name": "Animal_anatomy", "id": 3120301}, {"name": "Abstraction", "id": 902386}], "successors": [{"name": "Dentistry", "id": 1001629}]}

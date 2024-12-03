@@ -1,1 +1,1 @@
-{"name": "Fungus_families", "id": 42923849, "predecessors": [{"name": "Academic_disciplines", "id": 693763}], "successors": [{"name": "Monogeneric_fungus_families", "id": 42923542}, {"name": "Ascomycota_families", "id": 47792949}]}
+{"name": "Fungus_families", "id": 42923849, "predecessors": [{"name": "Academic_disciplines", "id": 693763}, {"name": "Biological_classification", "id": 41221871}], "successors": [{"name": "Monogeneric_fungus_families", "id": 42923542}, {"name": "Basidiomycota_families", "id": 45155466}, {"name": "Ascomycota_families", "id": 47792949}]}

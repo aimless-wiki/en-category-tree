@@ -1,1 +1,1 @@
-{"name": "Airline_tickets", "id": 2294654, "predecessors": [{"name": "Book_collecting", "id": 9203521}, {"name": "Aerospace", "id": 13517230}, {"name": "Public_transport", "id": 700497}], "successors": []}
+{"name": "Airline_tickets", "id": 2294654, "predecessors": [{"name": "Book_collecting", "id": 9203521}, {"name": "Transport_economics", "id": 3646902}, {"name": "Public_transport", "id": 700497}], "successors": []}

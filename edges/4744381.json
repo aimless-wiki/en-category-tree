@@ -1,1 +1,1 @@
-{"name": "French_pirates", "id": 4744381, "predecessors": [{"name": "French_sailors", "id": 2147970}, {"name": "Society_of_France", "id": 2663718}, {"name": "Crime", "id": 1183180}], "successors": [{"name": "French_privateers", "id": 58940641}]}
+{"name": "French_pirates", "id": 4744381, "predecessors": [{"name": "French_sailors", "id": 2147970}, {"name": "Countries_in_Europe", "id": 37691805}, {"name": "Crime", "id": 1183180}], "successors": [{"name": "French_privateers", "id": 58940641}]}

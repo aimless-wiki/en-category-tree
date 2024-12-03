@@ -1,1 +1,1 @@
-{"name": "Carriages", "id": 2105771, "predecessors": [{"name": "Animal-powered_vehicles", "id": 15770009}, {"name": "Equestrianism", "id": 1354533}, {"name": "Land_tenure", "id": 49153374}], "successors": []}
+{"name": "Carriages", "id": 2105771, "predecessors": [{"name": "Animal-powered_vehicles", "id": 15770009}, {"name": "Driving", "id": 1022795}, {"name": "Land_tenure", "id": 49153374}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "OSM_Location_map_templates", "id": 53849205, "predecessors": [{"name": "Single-image_insertion_templates", "id": 44415165}, {"name": "Contents", "id": 14105005}], "successors": []}
+{"name": "OSM_Location_map_templates", "id": 53849205, "predecessors": [{"name": "Location_map_templates", "id": 13304998}, {"name": "Single-image_insertion_templates", "id": 44415165}, {"name": "Contents", "id": 14105005}], "successors": []}

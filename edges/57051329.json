@@ -1,1 +1,1 @@
-{"name": "Literary_magazine_cover_images", "id": 57051329, "predecessors": [{"name": "Cultural_magazines", "id": 1328742}], "successors": [{"name": "Science_fiction_magazine_cover_images", "id": 56584189}]}
+{"name": "Literary_magazine_cover_images", "id": 57051329, "predecessors": [{"name": "Literature", "id": 692008}], "successors": [{"name": "Science_fiction_magazine_cover_images", "id": 56584189}]}

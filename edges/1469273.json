@@ -1,1 +1,1 @@
-{"name": "French_plays", "id": 1469273, "predecessors": [{"name": "Culture", "id": 694861}, {"name": "Culture_of_France", "id": 715456}], "successors": [{"name": "French_plays_adapted_into_films", "id": 51477343}, {"name": "Plays_by_Pierre_de_Marivaux", "id": 24291264}]}
+{"name": "French_plays", "id": 1469273, "predecessors": [{"name": "Culture", "id": 694861}, {"name": "French_literature", "id": 894747}, {"name": "Culture_of_France", "id": 715456}], "successors": [{"name": "French_plays_adapted_into_films", "id": 51477343}]}

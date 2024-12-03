@@ -1,1 +1,1 @@
-{"name": "Deaths_from_lightning_strikes", "id": 33868602, "predecessors": [{"name": "Accidental_deaths_by_electrocution", "id": 17956801}, {"name": "Lightning", "id": 12425718}, {"name": "Electrical_safety", "id": 2506285}, {"name": "Causes_of_death", "id": 5271061}], "successors": []}
+{"name": "Deaths_from_lightning_strikes", "id": 33868602, "predecessors": [{"name": "Accidental_deaths_by_electrocution", "id": 17956801}, {"name": "Lightning", "id": 12425718}, {"name": "Electrical_safety", "id": 2506285}, {"name": "Chronology", "id": 1013214}], "successors": []}

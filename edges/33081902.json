@@ -1,1 +1,1 @@
-{"name": "Food_processing_trade_unions", "id": 33081902, "predecessors": [{"name": "Food_processing", "id": 39100244}, {"name": "Manufacturing", "id": 867519}], "successors": []}
+{"name": "Food_processing_trade_unions", "id": 33081902, "predecessors": [{"name": "Food_processing", "id": 39100244}, {"name": "Manufacturing", "id": 867519}, {"name": "Food_industry", "id": 3540193}], "successors": []}

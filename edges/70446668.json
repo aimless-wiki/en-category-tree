@@ -1,1 +1,1 @@
-{"name": "Poet_priests", "id": 70446668, "predecessors": [{"name": "Mammal_orders", "id": 43534992}], "successors": []}
+{"name": "Poet_priests", "id": 70446668, "predecessors": [{"name": "Literary_genres", "id": 1286193}, {"name": "Mammal_orders", "id": 43534992}], "successors": []}

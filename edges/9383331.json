@@ -1,1 +1,1 @@
-{"name": "Toxins", "id": 9383331, "predecessors": [{"name": "Drugs", "id": 1325883}, {"name": "Poisons", "id": 7628523}, {"name": "Toxicology", "id": 1043816}, {"name": "Wikipedia_categorization", "id": 1036222}], "successors": []}
+{"name": "Toxins", "id": 9383331, "predecessors": [{"name": "Drugs", "id": 1325883}, {"name": "Poisons", "id": 7628523}, {"name": "Toxicology", "id": 1043816}, {"name": "Wikipedia_categorization", "id": 1036222}], "successors": [{"name": "Ion_channel_toxins", "id": 7985451}]}

@@ -1,1 +1,1 @@
-{"name": "Physicians_from_Paris", "id": 64695809, "predecessors": [{"name": "Health_care_occupations", "id": 1006080}], "successors": []}
+{"name": "Physicians_from_Paris", "id": 64695809, "predecessors": [{"name": "Scientists_from_Paris", "id": 37583723}, {"name": "Cities_in_France", "id": 1723634}, {"name": "Health_care_occupations", "id": 1006080}], "successors": []}

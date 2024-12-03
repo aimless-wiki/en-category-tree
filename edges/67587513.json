@@ -1,1 +1,1 @@
-{"name": "Vitamin_researchers", "id": 67587513, "predecessors": [{"name": "Medical_researchers", "id": 2986153}, {"name": "Dietary_supplements", "id": 2182265}, {"name": "Food_science", "id": 974555}], "successors": []}
+{"name": "Vitamin_researchers", "id": 67587513, "predecessors": [{"name": "Medical_researchers", "id": 2986153}, {"name": "Food_science", "id": 974555}], "successors": []}

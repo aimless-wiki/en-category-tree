@@ -1,1 +1,1 @@
-{"name": "Freight_rolling_stock", "id": 40390925, "predecessors": [{"name": "Freight_transport", "id": 710066}], "successors": [{"name": "Freight_locomotives", "id": 41498661}]}
+{"name": "Freight_rolling_stock", "id": 40390925, "predecessors": [{"name": "Freight_transport", "id": 710066}, {"name": "Land_tenure", "id": 49153374}], "successors": [{"name": "Freight_locomotives", "id": 41498661}]}

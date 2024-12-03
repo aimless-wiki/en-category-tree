@@ -1,1 +1,1 @@
-{"name": "Aircraft_operations", "id": 34026537, "predecessors": [{"name": "Aerospace", "id": 13517230}, {"name": "Human_behavior", "id": 2524202}], "successors": [{"name": "VTOL_aircraft", "id": 759772}]}
+{"name": "Aircraft_operations", "id": 34026537, "predecessors": [{"name": "Concepts_in_physics", "id": 36477012}, {"name": "Atmosphere", "id": 1136015}], "successors": [{"name": "VTOL_aircraft", "id": 759772}]}

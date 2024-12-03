@@ -1,1 +1,1 @@
-{"name": "Volvo_buses", "id": 44356067, "predecessors": [{"name": "Swedish_brands", "id": 12246605}], "successors": []}
+{"name": "Volvo_buses", "id": 44356067, "predecessors": [{"name": "Buses", "id": 3419172}, {"name": "Swedish_brands", "id": 12246605}], "successors": []}

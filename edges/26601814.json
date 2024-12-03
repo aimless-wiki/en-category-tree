@@ -1,1 +1,1 @@
-{"name": "Mineral_acids", "id": 26601814, "predecessors": [{"name": "Inorganic_compounds", "id": 695962}, {"name": "Acid–base_chemistry", "id": 43484841}], "successors": []}
+{"name": "Mineral_acids", "id": 26601814, "predecessors": [{"name": "Inorganic_compounds", "id": 695962}, {"name": "Acid–base_chemistry", "id": 43484841}], "successors": [{"name": "Carboxylic_acids", "id": 695889}]}

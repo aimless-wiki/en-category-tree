@@ -1,1 +1,1 @@
-{"name": "AMD_products", "id": 8712206, "predecessors": [{"name": "Companies_based_in_Santa_Clara,_California", "id": 23564187}, {"name": "Computer_hardware_companies", "id": 699547}], "successors": [{"name": "AMD_x86_microprocessors", "id": 18040169}]}
+{"name": "AMD_products", "id": 8712206, "predecessors": [{"name": "Companies_based_in_Santa_Clara,_California", "id": 23564187}, {"name": "Computer_hardware_companies", "id": 699547}, {"name": "Goods_(economics)", "id": 1625839}], "successors": [{"name": "AMD_x86_microprocessors", "id": 18040169}]}

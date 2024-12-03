@@ -1,1 +1,1 @@
-{"name": "2023_WTA_Tour", "id": 72179209, "predecessors": [{"name": "WTA_Tour", "id": 12843673}, {"name": "Sports_by_year", "id": 928145}, {"name": "Games_of_physical_skill", "id": 8429269}], "successors": []}
+{"name": "2023_WTA_Tour", "id": 72179209, "predecessors": [{"name": "WTA_Tour", "id": 12843673}, {"name": "Sports_by_year", "id": 928145}, {"name": "Games_of_physical_skill", "id": 8429269}], "successors": [{"name": "2023_WTA_125_tournaments", "id": 72200864}]}

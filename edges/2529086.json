@@ -1,1 +1,1 @@
-{"name": "Atari_8-bit_computer_software", "id": 2529086, "predecessors": [{"name": "Atari_8-bit_computers", "id": 2468960}, {"name": "Home_computers", "id": 707669}], "successors": [{"name": "Atari_8-bit_computer_games", "id": 1589691}]}
+{"name": "Atari_8-bit_computer_software", "id": 2529086, "predecessors": [{"name": "Home_computers", "id": 707669}, {"name": "Classes_of_computers", "id": 2071681}], "successors": [{"name": "Atari_8-bit_computer_games", "id": 1589691}]}

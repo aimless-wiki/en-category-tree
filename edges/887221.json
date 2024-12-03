@@ -1,1 +1,1 @@
-{"name": "Liqueurs", "id": 887221, "predecessors": [{"name": "Alcoholic_drinks", "id": 13294809}], "successors": [{"name": "Herbal_liqueurs", "id": 23207417}, {"name": "Cocktails_with_liqueur", "id": 28362074}, {"name": "Italian_liqueurs", "id": 2848316}]}
+{"name": "Liqueurs", "id": 887221, "predecessors": [{"name": "Distilled_drinks", "id": 1318251}], "successors": [{"name": "Herbal_liqueurs", "id": 23207417}, {"name": "Cocktails_with_liqueur", "id": 28362074}, {"name": "Italian_liqueurs", "id": 2848316}]}

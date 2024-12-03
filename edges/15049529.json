@@ -1,1 +1,1 @@
-{"name": "United_States_Senate_special_elections", "id": 15049529, "predecessors": [{"name": "Elections", "id": 792537}, {"name": "Democracy", "id": 2701500}], "successors": []}
+{"name": "United_States_Senate_special_elections", "id": 15049529, "predecessors": [{"name": "National_upper_houses", "id": 701866}, {"name": "Democracy", "id": 2701500}, {"name": "Elections", "id": 792537}], "successors": []}

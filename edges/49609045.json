@@ -1,1 +1,1 @@
-{"name": "Literary_translation_magazines", "id": 49609045, "predecessors": [{"name": "Cultural_magazines", "id": 1328742}, {"name": "Literature", "id": 692008}, {"name": "Linguistics", "id": 693798}], "successors": []}
+{"name": "Literary_translation_magazines", "id": 49609045, "predecessors": [{"name": "Literature", "id": 692008}, {"name": "Linguistic_research", "id": 13518134}, {"name": "Linguistics", "id": 693798}], "successors": []}

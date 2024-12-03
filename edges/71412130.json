@@ -1,1 +1,1 @@
-{"name": "Women_jewellers", "id": 71412130, "predecessors": [{"name": "Apprenticeship", "id": 35189993}, {"name": "The_arts", "id": 4892515}], "successors": [{"name": "Women_silversmiths", "id": 53543372}, {"name": "American_women_jewellers", "id": 76570713}]}
+{"name": "Women_jewellers", "id": 71412130, "predecessors": [{"name": "Apprenticeship", "id": 35189993}, {"name": "Decorative_arts", "id": 15917611}], "successors": [{"name": "Women_silversmiths", "id": 53543372}, {"name": "American_women_jewellers", "id": 76570713}]}

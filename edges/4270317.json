@@ -1,1 +1,1 @@
-{"name": "Book_review_magazines", "id": 4270317, "predecessors": [{"name": "Cultural_magazines", "id": 1328742}, {"name": "Library_science", "id": 30813411}], "successors": []}
+{"name": "Book_review_magazines", "id": 4270317, "predecessors": [{"name": "Literature", "id": 692008}, {"name": "Library_science", "id": 30813411}], "successors": []}

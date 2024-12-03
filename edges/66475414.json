@@ -1,1 +1,1 @@
-{"name": "FK_IMT_players", "id": 66475414, "predecessors": [{"name": "Wikipedia_categorization", "id": 1036222}], "successors": []}
+{"name": "FK_IMT_players", "id": 66475414, "predecessors": [{"name": "Wikipedia_categorization", "id": 1036222}, {"name": "Football_clubs_in_Serbia", "id": 34432988}], "successors": []}

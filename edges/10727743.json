@@ -1,1 +1,1 @@
-{"name": "FK_Atlantas_players", "id": 10727743, "predecessors": [{"name": "Football_clubs_in_Lithuania", "id": 34431503}, {"name": "Wikipedia_categorization", "id": 1036222}], "successors": []}
+{"name": "FK_Atlantas_players", "id": 10727743, "predecessors": [{"name": "Academic_disciplines", "id": 693763}, {"name": "Wikipedia_categorization", "id": 1036222}], "successors": []}

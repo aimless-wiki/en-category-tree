@@ -1,1 +1,1 @@
-{"name": "Robot_control", "id": 33610958, "predecessors": [{"name": "Robotics", "id": 853492}], "successors": []}
+{"name": "Robot_control", "id": 33610958, "predecessors": [{"name": "Robotics", "id": 853492}, {"name": "Robotics_engineering", "id": 78414022}], "successors": []}

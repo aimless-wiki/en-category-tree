@@ -1,1 +1,1 @@
-{"name": "Pop_record_labels", "id": 8119298, "predecessors": [{"name": "Historical_eras", "id": 925351}], "successors": [{"name": "K-pop_record_labels", "id": 70651302}, {"name": "Minos_EMI_albums", "id": 17219673}]}
+{"name": "Pop_record_labels", "id": 8119298, "predecessors": [{"name": "Music_genres", "id": 4826123}, {"name": "Historical_eras", "id": 925351}], "successors": [{"name": "K-pop_record_labels", "id": 70651302}]}

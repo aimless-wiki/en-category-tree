@@ -1,1 +1,1 @@
-{"name": "Insecticides", "id": 1099869, "predecessors": [{"name": "Insect_ecology", "id": 4264463}, {"name": "Pesticides", "id": 1891566}, {"name": "Wikipedia_categorization", "id": 1036222}], "successors": [{"name": "Organophosphate_insecticides", "id": 3632089}, {"name": "Plant_toxin_insecticides", "id": 3651318}]}
+{"name": "Insecticides", "id": 1099869, "predecessors": [{"name": "Insect_ecology", "id": 4264463}, {"name": "Wikipedia_categorization", "id": 1036222}], "successors": [{"name": "Organophosphate_insecticides", "id": 3632089}]}

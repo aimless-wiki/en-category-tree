@@ -1,1 +1,1 @@
-{"name": "Jewish_given_names", "id": 16230177, "predecessors": [{"name": "Jewish_culture", "id": 1990854}, {"name": "Culture", "id": 694861}], "successors": [{"name": "Hebrew-language_given_names", "id": 16230594}]}
+{"name": "Jewish_given_names", "id": 16230177, "predecessors": [{"name": "Jewish_culture", "id": 1990854}, {"name": "Given_names", "id": 911440}], "successors": [{"name": "Hebrew-language_given_names", "id": 16230594}]}

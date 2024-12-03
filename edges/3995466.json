@@ -1,1 +1,1 @@
-{"name": "Forklift_truck_manufacturers", "id": 3995466, "predecessors": [{"name": "Materials", "id": 722279}], "successors": []}
+{"name": "Forklift_truck_manufacturers", "id": 3995466, "predecessors": [{"name": "Automotive_industry", "id": 1338498}, {"name": "Materials", "id": 722279}], "successors": []}

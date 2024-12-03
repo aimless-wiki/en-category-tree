@@ -1,1 +1,1 @@
-{"name": "Military_lasers", "id": 945946, "predecessors": [{"name": "Laser_applications", "id": 12901552}, {"name": "Non-lethal_weapons", "id": 29174287}, {"name": "Optical_devices", "id": 1835556}], "successors": []}
+{"name": "Military_lasers", "id": 945946, "predecessors": [{"name": "Laser_applications", "id": 12901552}, {"name": "Energy", "id": 865456}, {"name": "Optical_devices", "id": 1835556}], "successors": []}

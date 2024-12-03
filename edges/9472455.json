@@ -1,1 +1,1 @@
-{"name": "Spy_comics", "id": 9472455, "predecessors": [{"name": "Comics_publications", "id": 19006235}, {"name": "Espionage", "id": 878532}, {"name": "Literary_genres", "id": 1286193}], "successors": []}
+{"name": "Spy_comics", "id": 9472455, "predecessors": [{"name": "Fiction_by_genre", "id": 5740366}, {"name": "Comics_publications", "id": 19006235}, {"name": "Espionage", "id": 878532}], "successors": []}

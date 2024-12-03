@@ -1,1 +1,1 @@
-{"name": "Polychaetes", "id": 16445970, "predecessors": [{"name": "Annelids", "id": 3619058}], "successors": [{"name": "Polychaete_genera", "id": 55786283}, {"name": "Terebellida", "id": 16445944}, {"name": "Sabellida", "id": 23730504}]}
+{"name": "Polychaetes", "id": 16445970, "predecessors": [{"name": "Annelids", "id": 3619058}], "successors": [{"name": "Polychaete_genera", "id": 55786283}, {"name": "Terebellida", "id": 16445944}, {"name": "Sabellida", "id": 23730504}, {"name": "Phyllodocida", "id": 55786310}]}

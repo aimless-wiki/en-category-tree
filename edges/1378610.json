@@ -1,1 +1,1 @@
-{"name": "Satellite_television", "id": 1378610, "predecessors": [{"name": "Satellite_broadcasting", "id": 35745337}, {"name": "Television_technology", "id": 1257870}, {"name": "Broadcasting", "id": 765733}], "successors": [{"name": "Sky_Group", "id": 59347682}]}
+{"name": "Satellite_television", "id": 1378610, "predecessors": [{"name": "Satellite_broadcasting", "id": 35745337}, {"name": "Television_technology", "id": 1257870}, {"name": "Broadcasting", "id": 765733}], "successors": [{"name": "Intelsat_satellites", "id": 36518951}, {"name": "Sky_Group", "id": 59347682}]}

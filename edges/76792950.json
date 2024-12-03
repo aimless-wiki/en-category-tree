@@ -1,1 +1,1 @@
-{"name": "Coconut_desserts", "id": 76792950, "predecessors": [{"name": "Edible_nuts_and_seeds", "id": 6769223}], "successors": []}
+{"name": "Coconut_desserts", "id": 76792950, "predecessors": [{"name": "Foods_containing_coconut", "id": 37393559}, {"name": "Edible_nuts_and_seeds", "id": 6769223}], "successors": []}

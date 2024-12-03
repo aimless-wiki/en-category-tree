@@ -1,1 +1,1 @@
-{"name": "Books_about_spirituality", "id": 34113442, "predecessors": [{"name": "Documents", "id": 694072}], "successors": [{"name": "Books_about_religion", "id": 33987433}]}
+{"name": "Books_about_spirituality", "id": 34113442, "predecessors": [{"name": "Literature", "id": 692008}, {"name": "Documents", "id": 694072}], "successors": [{"name": "Books_about_religion", "id": 33987433}]}
