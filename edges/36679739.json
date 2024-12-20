@@ -1,1 +1,1 @@
-{"name": "Exploration_of_Mars", "id": 36679739, "predecessors": [{"name": "Mars", "id": 740294}, {"name": "Academic_disciplines", "id": 693763}, {"name": "History_of_astronomy", "id": 1619058}], "successors": [{"name": "Missions_to_Mars", "id": 34160413}]}
+{"name": "Exploration_of_Mars", "id": 36679739, "predecessors": [{"name": "Mars", "id": 740294}, {"name": "History_of_astronomy", "id": 1619058}, {"name": "Astronomy", "id": 692915}], "successors": []}

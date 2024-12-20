@@ -1,1 +1,1 @@
-{"name": "Hypnotics", "id": 2479561, "predecessors": [{"name": "Sleep", "id": 910767}, {"name": "Medical_treatments", "id": 694975}], "successors": [{"name": "Barbiturates", "id": 718202}]}
+{"name": "Hypnotics", "id": 2479561, "predecessors": [{"name": "Sleep", "id": 910767}], "successors": [{"name": "Barbiturates", "id": 718202}]}

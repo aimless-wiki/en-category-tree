@@ -1,1 +1,1 @@
-{"name": "Benefit_concerts", "id": 4150106, "predecessors": [{"name": "Concerts", "id": 1172935}], "successors": [{"name": "Benefit_concerts_in_the_United_States", "id": 55599037}]}
+{"name": "Benefit_concerts", "id": 4150106, "predecessors": [{"name": "Charity_fundraisers", "id": 5743331}], "successors": [{"name": "Benefit_concerts_in_the_United_States", "id": 55599037}]}

@@ -1,1 +1,1 @@
-{"name": "COVID-19_vaccine_producers", "id": 69438641, "predecessors": [{"name": "Vaccine_producers", "id": 25149024}, {"name": "COVID-19_drug_development", "id": 65605480}, {"name": "Contents", "id": 14105005}], "successors": []}
+{"name": "COVID-19_vaccine_producers", "id": 69438641, "predecessors": [{"name": "COVID-19_drug_development", "id": 65605480}, {"name": "Contents", "id": 14105005}], "successors": []}

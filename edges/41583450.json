@@ -1,1 +1,1 @@
-{"name": "Cover_bands", "id": 41583450, "predecessors": [{"name": "Music_genres", "id": 4826123}, {"name": "Music_industry", "id": 768384}], "successors": []}
+{"name": "Cover_bands", "id": 41583450, "predecessors": [{"name": "Cover_artists", "id": 40348644}, {"name": "Music_genres", "id": 4826123}], "successors": []}

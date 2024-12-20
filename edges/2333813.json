@@ -1,1 +1,1 @@
-{"name": "Web_frameworks", "id": 2333813, "predecessors": [{"name": "Web_applications", "id": 2333917}, {"name": "Web_development", "id": 7829307}], "successors": [{"name": "Adobe_Flash", "id": 7880628}]}
+{"name": "Web_frameworks", "id": 2333813, "predecessors": [{"name": "Web_applications", "id": 2333917}, {"name": "Web_development", "id": 7829307}, {"name": "Computer_libraries", "id": 7482978}], "successors": [{"name": "Adobe_Flash", "id": 7880628}]}

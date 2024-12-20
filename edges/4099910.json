@@ -1,1 +1,1 @@
-{"name": "Sleep_researchers", "id": 4099910, "predecessors": [{"name": "Medical_researchers", "id": 2986153}, {"name": "Sleep", "id": 910767}, {"name": "Research", "id": 1395115}], "successors": []}
+{"name": "Sleep_researchers", "id": 4099910, "predecessors": [{"name": "Medical_researchers", "id": 2986153}, {"name": "Sleep", "id": 910767}, {"name": "Academic_disciplines", "id": 693763}], "successors": []}

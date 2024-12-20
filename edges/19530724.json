@@ -1,1 +1,1 @@
-{"name": "Deaths_from_cancer_in_Florida", "id": 19530724, "predecessors": [{"name": "Southern_United_States", "id": 3668670}], "successors": [{"name": "Deaths_from_lung_cancer_in_Florida", "id": 70820106}]}
+{"name": "Deaths_from_cancer_in_Florida", "id": 19530724, "predecessors": [{"name": "Cancer", "id": 999635}, {"name": "Southern_United_States", "id": 3668670}], "successors": [{"name": "Deaths_from_lung_cancer_in_Florida", "id": 70820106}]}

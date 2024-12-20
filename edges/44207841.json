@@ -1,1 +1,1 @@
-{"name": "Snake_genera", "id": 44207841, "predecessors": [{"name": "Integers", "id": 736448}, {"name": "Earth", "id": 754965}], "successors": [{"name": "Monotypic_snake_genera", "id": 44208083}]}
+{"name": "Snake_genera", "id": 44207841, "predecessors": [{"name": "Earth", "id": 754965}], "successors": [{"name": "Monotypic_snake_genera", "id": 44208083}]}

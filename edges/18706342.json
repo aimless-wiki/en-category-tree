@@ -1,1 +1,1 @@
-{"name": "Cloud_platforms", "id": 18706342, "predecessors": [{"name": "Cloud_computing", "id": 18667762}, {"name": "Computing_platforms", "id": 973745}], "successors": [{"name": "Amazon_Web_Services", "id": 49480642}]}
+{"name": "Cloud_platforms", "id": 18706342, "predecessors": [{"name": "Cloud_computing", "id": 18667762}], "successors": [{"name": "Amazon_Web_Services", "id": 49480642}]}

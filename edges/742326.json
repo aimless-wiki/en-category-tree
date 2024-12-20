@@ -1,1 +1,1 @@
-{"name": "Orders_of_precedence", "id": 742326, "predecessors": [{"name": "Etiquette", "id": 2236953}, {"name": "Lists_of_office-holders", "id": 695110}, {"name": "Heraldry", "id": 712994}, {"name": "Abstraction", "id": 902386}], "successors": []}
+{"name": "Orders_of_precedence", "id": 742326, "predecessors": [{"name": "Etiquette", "id": 2236953}, {"name": "Lists_of_office-holders", "id": 695110}, {"name": "Heraldry", "id": 712994}, {"name": "Abstraction", "id": 902386}, {"name": "Diplomacy", "id": 911551}], "successors": []}

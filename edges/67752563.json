@@ -1,1 +1,1 @@
-{"name": "Prehistoric_carnivoran_genera", "id": 67752563, "predecessors": [{"name": "Carnivoran_genera", "id": 78288424}, {"name": "Contents", "id": 14105005}], "successors": [{"name": "Monotypic_prehistoric_carnivoran_genera", "id": 78286462}]}
+{"name": "Prehistoric_carnivoran_genera", "id": 67752563, "predecessors": [{"name": "Carnivoran_genera", "id": 78288424}, {"name": "Prehistoric_placental_genera", "id": 67691621}, {"name": "Early_Triassic_first_appearances", "id": 46772736}], "successors": [{"name": "Monotypic_prehistoric_carnivoran_genera", "id": 78286462}]}

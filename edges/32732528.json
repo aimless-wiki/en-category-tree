@@ -1,1 +1,1 @@
-{"name": "Military_raids", "id": 32732528, "predecessors": [{"name": "Military_tactics", "id": 1074382}, {"name": "Warfare_by_type", "id": 4733422}], "successors": [{"name": "Cavalry_raids_of_the_American_Civil_War", "id": 18864744}, {"name": "World_War_II_British_Commando_raids", "id": 719395}]}
+{"name": "Military_raids", "id": 32732528, "predecessors": [{"name": "Military_tactics", "id": 1074382}], "successors": [{"name": "Cavalry_raids_of_the_American_Civil_War", "id": 18864744}]}

@@ -1,1 +1,1 @@
-{"name": "Support_groups", "id": 870150, "predecessors": [{"name": "DIY_culture", "id": 12319523}, {"name": "Legal_entities", "id": 1125732}], "successors": [{"name": "Drug_rehabilitation", "id": 870146}, {"name": "Twelve-step_programs", "id": 5633147}]}
+{"name": "Support_groups", "id": 870150, "predecessors": [{"name": "DIY_culture", "id": 12319523}, {"name": "Legal_entities", "id": 1125732}, {"name": "Charity_fundraisers", "id": 5743331}], "successors": [{"name": "Drug_rehabilitation", "id": 870146}, {"name": "Twelve-step_programs", "id": 5633147}]}

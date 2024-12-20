@@ -1,1 +1,1 @@
-{"name": "Mass_murder_victims", "id": 37115158, "predecessors": [{"name": "Homicide", "id": 11692544}], "successors": []}
+{"name": "Mass_murder_victims", "id": 37115158, "predecessors": [{"name": "Murder", "id": 1167833}, {"name": "Homicide", "id": 11692544}], "successors": [{"name": "Katyn_massacre_victims", "id": 27948062}]}

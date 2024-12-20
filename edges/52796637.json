@@ -1,1 +1,1 @@
-{"name": "Tricyclic_compounds", "id": 52796637, "predecessors": [{"name": "Organic_chemistry", "id": 693273}], "successors": [{"name": "Tricyclic_antidepressants", "id": 717854}, {"name": "Heterocyclic_compounds_with_3_rings", "id": 5202087}, {"name": "Adamantanes", "id": 25820949}]}
+{"name": "Tricyclic_compounds", "id": 52796637, "predecessors": [{"name": "Manufacturing", "id": 867519}], "successors": [{"name": "Tricyclic_antidepressants", "id": 717854}, {"name": "Heterocyclic_compounds_with_3_rings", "id": 5202087}, {"name": "Adamantanes", "id": 25820949}]}

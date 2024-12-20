@@ -1,1 +1,1 @@
-{"name": "Deaths_from_breast_cancer_in_California", "id": 75610653, "predecessors": [{"name": "Deaths_from_cancer_in_California", "id": 19530072}], "successors": []}
+{"name": "Deaths_from_breast_cancer_in_California", "id": 75610653, "predecessors": [{"name": "Deaths_from_cancer_in_California", "id": 19530072}, {"name": "Deaths_from_breast_cancer", "id": 18669438}], "successors": []}

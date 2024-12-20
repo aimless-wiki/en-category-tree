@@ -1,1 +1,1 @@
-{"name": "Twin_piston-engined_tractor_aircraft", "id": 60239352, "predecessors": [{"name": "Twin-engined_tractor_aircraft", "id": 38959462}, {"name": "Atmosphere", "id": 1136015}], "successors": []}
+{"name": "Twin_piston-engined_tractor_aircraft", "id": 60239352, "predecessors": [{"name": "Aircraft_configurations", "id": 1024208}, {"name": "Atmosphere", "id": 1136015}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Tattooing", "id": 12203670, "predecessors": [{"name": "Body_art", "id": 1683772}, {"name": "Body_modification", "id": 735335}], "successors": [{"name": "American_tattoo_artists", "id": 47250020}, {"name": "Male_tattoo_artists", "id": 77336314}]}
+{"name": "Tattooing", "id": 12203670, "predecessors": [{"name": "Body_art", "id": 1683772}, {"name": "Body_modification", "id": 735335}, {"name": "Human_anatomy", "id": 2294735}], "successors": [{"name": "American_tattoo_artists", "id": 47250020}, {"name": "Male_tattoo_artists", "id": 77336314}]}

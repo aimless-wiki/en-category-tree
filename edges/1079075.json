@@ -1,1 +1,1 @@
-{"name": "Isuzu_vehicles", "id": 1079075, "predecessors": [{"name": "Isuzu", "id": 1079079}, {"name": "General_Motors", "id": 857925}, {"name": "Automotive_industry", "id": 1338498}, {"name": "Economy_of_Japan", "id": 1448803}], "successors": []}
+{"name": "Isuzu_vehicles", "id": 1079075, "predecessors": [{"name": "General_Motors", "id": 857925}, {"name": "Automotive_industry", "id": 1338498}, {"name": "Economy_of_Japan", "id": 1448803}], "successors": []}

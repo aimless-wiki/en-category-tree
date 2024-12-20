@@ -1,1 +1,1 @@
-{"name": "Space_access", "id": 6036006, "predecessors": [{"name": "Science_in_society", "id": 2157472}, {"name": "Aerospace", "id": 13517230}], "successors": [{"name": "Spaceplanes", "id": 759740}, {"name": "Private_spaceflight", "id": 1040005}]}
+{"name": "Space_access", "id": 6036006, "predecessors": [{"name": "Science_in_society", "id": 2157472}, {"name": "Industries_(economics)", "id": 694873}], "successors": [{"name": "Spaceplanes", "id": 759740}, {"name": "Private_spaceflight", "id": 1040005}]}

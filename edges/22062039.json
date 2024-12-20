@@ -1,1 +1,1 @@
-{"name": "Leathermaking", "id": 22062039, "predecessors": [{"name": "Leather", "id": 2441300}, {"name": "Standards", "id": 724561}], "successors": []}
+{"name": "Leathermaking", "id": 22062039, "predecessors": [{"name": "Leather", "id": 2441300}, {"name": "Production_and_manufacturing", "id": 1226515}], "successors": [{"name": "Tanners", "id": 38106213}]}

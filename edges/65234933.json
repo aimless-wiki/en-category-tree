@@ -1,1 +1,1 @@
-{"name": "Tuberculosis_deaths_in_France", "id": 65234933, "predecessors": [{"name": "Death", "id": 921954}], "successors": []}
+{"name": "Tuberculosis_deaths_in_France", "id": 65234933, "predecessors": [{"name": "Death", "id": 921954}, {"name": "Respiratory_diseases", "id": 19827264}], "successors": []}

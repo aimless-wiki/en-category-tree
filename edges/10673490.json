@@ -1,1 +1,1 @@
-{"name": "Sportswear_brands", "id": 10673490, "predecessors": [{"name": "Sportswear", "id": 5233828}, {"name": "Clothing_brands", "id": 4473937}, {"name": "Culture", "id": 694861}], "successors": [{"name": "Swimwear_brands", "id": 22962296}, {"name": "Athletic_shoe_brands", "id": 23118548}]}
+{"name": "Sportswear_brands", "id": 10673490, "predecessors": [{"name": "Sportswear", "id": 5233828}, {"name": "Clothing_brands", "id": 4473937}, {"name": "Culture", "id": 694861}], "successors": [{"name": "Swimwear_brands", "id": 22962296}]}

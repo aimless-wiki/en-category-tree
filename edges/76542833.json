@@ -1,1 +1,1 @@
-{"name": "British_lead_guitarists", "id": 76542833, "predecessors": [{"name": "Occupations", "id": 787658}], "successors": [{"name": "English_lead_guitarists", "id": 78377553}]}
+{"name": "British_lead_guitarists", "id": 76542833, "predecessors": [{"name": "Lead_guitarists", "id": 7675550}, {"name": "Musical_instruments", "id": 691595}], "successors": [{"name": "English_lead_guitarists", "id": 78377553}]}

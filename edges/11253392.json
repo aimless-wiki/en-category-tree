@@ -1,1 +1,1 @@
-{"name": "One-shot_comic_titles", "id": 11253392, "predecessors": [{"name": "Comics_publications", "id": 19006235}, {"name": "Book_design", "id": 2790112}], "successors": [{"name": "One-shot_manga", "id": 36726215}, {"name": "DC_Comics_one-shots", "id": 38011551}]}
+{"name": "One-shot_comic_titles", "id": 11253392, "predecessors": [{"name": "Book_design", "id": 2790112}], "successors": [{"name": "One-shot_manga", "id": 36726215}, {"name": "DC_Comics_one-shots", "id": 38011551}]}

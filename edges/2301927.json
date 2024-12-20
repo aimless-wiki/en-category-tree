@@ -1,1 +1,1 @@
-{"name": "Differential_calculus", "id": 2301927, "predecessors": [{"name": "Calculus", "id": 690803}, {"name": "Arithmetic", "id": 705736}], "successors": [{"name": "Differential_equations", "id": 696330}, {"name": "Analytic_functions", "id": 34602074}]}
+{"name": "Differential_calculus", "id": 2301927, "predecessors": [{"name": "Calculus", "id": 690803}, {"name": "Mathematical_terminology", "id": 1098276}], "successors": [{"name": "Differential_equations", "id": 696330}, {"name": "Analytic_functions", "id": 34602074}]}

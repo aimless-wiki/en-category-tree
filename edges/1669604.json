@@ -1,1 +1,1 @@
-{"name": "User_lb", "id": 1669604, "predecessors": [{"name": "Wikipedia_features", "id": 3051002}], "successors": []}
+{"name": "User_lb", "id": 1669604, "predecessors": [{"name": "Wikipedia_features", "id": 3051002}], "successors": [{"name": "User_lb-N", "id": 1670251}]}

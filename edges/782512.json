@@ -1,1 +1,1 @@
-{"name": "Meals", "id": 782512, "predecessors": [{"name": "Culture", "id": 694861}, {"name": "Food_technology", "id": 7320176}], "successors": [{"name": "Breakfast", "id": 705429}, {"name": "Eating_parties", "id": 39565398}, {"name": "Sandwiches", "id": 757471}]}
+{"name": "Meals", "id": 782512, "predecessors": [{"name": "Eating_behaviors", "id": 1476452}, {"name": "Food_technology", "id": 7320176}], "successors": [{"name": "Breakfast", "id": 705429}, {"name": "Eating_parties", "id": 39565398}, {"name": "Sandwiches", "id": 757471}]}

@@ -1,1 +1,1 @@
-{"name": "Chery_vehicles", "id": 5393511, "predecessors": [{"name": "Cars_of_China", "id": 4415809}, {"name": "Automotive_industry", "id": 1338498}], "successors": []}
+{"name": "Chery_vehicles", "id": 5393511, "predecessors": [{"name": "Cars_of_China", "id": 4415809}, {"name": "Automotive_industry", "id": 1338498}, {"name": "Earth", "id": 754965}], "successors": []}

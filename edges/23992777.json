@@ -1,1 +1,1 @@
-{"name": "Sports_at_the_World_Games", "id": 23992777, "predecessors": [{"name": "Multi-sport_events", "id": 944214}, {"name": "Culture", "id": 694861}], "successors": []}
+{"name": "Sports_at_the_World_Games", "id": 23992777, "predecessors": [{"name": "Multi-sport_events", "id": 944214}, {"name": "Time", "id": 744728}], "successors": [{"name": "Events_at_the_2022_World_Games", "id": 63652252}, {"name": "Events_at_the_2025_World_Games", "id": 78536638}]}

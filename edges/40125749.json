@@ -1,1 +1,1 @@
-{"name": "Saccharomyces_cerevisiae_genes", "id": 40125749, "predecessors": [{"name": "Mycology", "id": 1248840}, {"name": "Genetics", "id": 696008}], "successors": []}
+{"name": "Saccharomyces_cerevisiae_genes", "id": 40125749, "predecessors": [{"name": "Saccharomycetes", "id": 18761700}, {"name": "Mycology", "id": 1248840}], "successors": []}

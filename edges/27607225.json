@@ -1,1 +1,1 @@
-{"name": "Bank_regulation", "id": 27607225, "predecessors": [{"name": "Banking", "id": 1245386}, {"name": "Financial_regulation", "id": 1656832}], "successors": [{"name": "Capital_requirement", "id": 53089103}, {"name": "United_States_federal_banking_legislation", "id": 3414799}]}
+{"name": "Bank_regulation", "id": 27607225, "predecessors": [{"name": "Banking", "id": 1245386}, {"name": "Financial_regulation", "id": 1656832}], "successors": [{"name": "Capital_requirement", "id": 53089103}]}

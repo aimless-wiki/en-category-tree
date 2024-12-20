@@ -1,1 +1,1 @@
-{"name": "Deaths_from_cardiomyopathy", "id": 69527236, "predecessors": [{"name": "Deaths_from_heart_disease", "id": 67653370}, {"name": "Heart_diseases", "id": 32535910}, {"name": "Genetic_diseases_and_disorders", "id": 966814}], "successors": []}
+{"name": "Deaths_from_cardiomyopathy", "id": 69527236, "predecessors": [{"name": "Deaths_from_heart_disease", "id": 67653370}, {"name": "Genetic_diseases_and_disorders", "id": 966814}], "successors": []}

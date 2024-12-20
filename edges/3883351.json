@@ -1,1 +1,1 @@
-{"name": "Spanish_literary_critics", "id": 3883351, "predecessors": [{"name": "Literary_genres", "id": 1286193}, {"name": "Literary_criticism", "id": 733855}, {"name": "The_arts", "id": 4892515}], "successors": []}
+{"name": "Spanish_literary_critics", "id": 3883351, "predecessors": [{"name": "Culture", "id": 694861}, {"name": "Literary_genres", "id": 1286193}], "successors": []}

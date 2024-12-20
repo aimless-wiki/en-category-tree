@@ -1,1 +1,1 @@
-{"name": "Lean_manufacturing", "id": 42433975, "predecessors": [{"name": "Engineering_concepts", "id": 11655183}, {"name": "Inventory", "id": 9119470}, {"name": "Quality_control", "id": 5490673}, {"name": "Planning", "id": 7297152}, {"name": "Standards", "id": 724561}], "successors": []}
+{"name": "Lean_manufacturing", "id": 42433975, "predecessors": [{"name": "Engineering_concepts", "id": 11655183}, {"name": "Inventory", "id": 9119470}, {"name": "Wikipedia_categorization", "id": 1036222}], "successors": []}

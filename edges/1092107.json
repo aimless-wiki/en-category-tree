@@ -1,1 +1,1 @@
-{"name": "Water_streams", "id": 1092107, "predecessors": [{"name": "Limnology", "id": 717159}, {"name": "Aquatic_ecology", "id": 6840293}, {"name": "Bodies_of_water", "id": 2699217}], "successors": [{"name": "Rivers", "id": 695393}]}
+{"name": "Water_streams", "id": 1092107, "predecessors": [{"name": "Limnology", "id": 717159}, {"name": "Aquatic_ecology", "id": 6840293}, {"name": "Bodies_of_water", "id": 2699217}], "successors": [{"name": "Rivers", "id": 695393}, {"name": "Riparian_zone", "id": 38559695}]}

@@ -1,1 +1,1 @@
-{"name": "Landing_craft", "id": 772245, "predecessors": [{"name": "Warfare_by_type", "id": 4733422}, {"name": "Amphibious_operations", "id": 52060948}], "successors": []}
+{"name": "Landing_craft", "id": 772245, "predecessors": [{"name": "Naval_warfare", "id": 1054971}, {"name": "Military_tactics", "id": 1074382}], "successors": []}

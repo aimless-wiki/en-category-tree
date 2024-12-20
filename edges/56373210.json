@@ -1,1 +1,1 @@
-{"name": "Winemaking", "id": 56373210, "predecessors": [{"name": "Food_processing", "id": 39100244}, {"name": "Fermented_drinks", "id": 4193389}], "successors": []}
+{"name": "Winemaking", "id": 56373210, "predecessors": [{"name": "Hobbies", "id": 698271}, {"name": "Wine", "id": 1635343}, {"name": "Food_technology", "id": 7320176}], "successors": []}

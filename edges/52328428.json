@@ -1,1 +1,1 @@
-{"name": "Ascomycota_orders", "id": 52328428, "predecessors": [{"name": "Ascomycota", "id": 12118309}, {"name": "Biological_classification", "id": 41221871}], "successors": []}
+{"name": "Ascomycota_orders", "id": 52328428, "predecessors": [{"name": "Mycology", "id": 1248840}], "successors": [{"name": "Graphidaceae", "id": 64645500}, {"name": "Graphidales_genera", "id": 73497481}, {"name": "Gomphillaceae", "id": 73510020}]}

@@ -1,1 +1,1 @@
-{"name": "Turkish_pop_singers", "id": 6031441, "predecessors": [{"name": "Music_genres", "id": 4826123}, {"name": "Singing", "id": 940526}], "successors": [{"name": "Turkish_women_pop_singers", "id": 78031712}]}
+{"name": "Turkish_pop_singers", "id": 6031441, "predecessors": [{"name": "Turkish_musicians", "id": 708513}, {"name": "Musical_instruments", "id": 691595}], "successors": [{"name": "Turkish_women_pop_singers", "id": 78031712}]}

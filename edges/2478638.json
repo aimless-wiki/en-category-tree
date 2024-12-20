@@ -1,1 +1,1 @@
-{"name": "Teaching", "id": 2478638, "predecessors": [{"name": "Human_communication", "id": 709574}, {"name": "Knowledge", "id": 700914}], "successors": [{"name": "Pedagogy", "id": 2477396}, {"name": "Educational_materials", "id": 2488034}, {"name": "Teacher_training", "id": 3311790}]}
+{"name": "Teaching", "id": 2478638, "predecessors": [{"name": "Human_communication", "id": 709574}, {"name": "Human_behavior", "id": 2524202}], "successors": [{"name": "Pedagogy", "id": 2477396}, {"name": "Educational_materials", "id": 2488034}, {"name": "Teacher_training", "id": 3311790}]}

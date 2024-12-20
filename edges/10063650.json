@@ -1,1 +1,1 @@
-{"name": "Whaling_ships", "id": 10063650, "predecessors": [{"name": "Maritime_culture", "id": 18335592}, {"name": "Fishing_industry", "id": 11967701}], "successors": []}
+{"name": "Whaling_ships", "id": 10063650, "predecessors": [{"name": "Fishing_industry", "id": 11967701}, {"name": "Hunting", "id": 1067592}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Wine_terminology", "id": 3772322, "predecessors": [{"name": "Oenology", "id": 859497}, {"name": "Language", "id": 8017451}, {"name": "Fermented_drinks", "id": 4193389}], "successors": []}
+{"name": "Wine_terminology", "id": 3772322, "predecessors": [{"name": "Oenology", "id": 859497}, {"name": "Wine", "id": 1635343}, {"name": "Language", "id": 8017451}], "successors": []}

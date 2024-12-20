@@ -1,1 +1,1 @@
-{"name": "FK_Partizan_non-playing_staff", "id": 44121734, "predecessors": [{"name": "Football_clubs_in_Belgrade", "id": 39408858}, {"name": "Wikipedia_categorization", "id": 1036222}], "successors": []}
+{"name": "FK_Partizan_non-playing_staff", "id": 44121734, "predecessors": [{"name": "Football_clubs_in_Belgrade", "id": 39408858}, {"name": "Geography", "id": 693800}], "successors": []}

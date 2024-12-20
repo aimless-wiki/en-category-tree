@@ -1,1 +1,1 @@
-{"name": "Slave_concubines", "id": 67250753, "predecessors": [{"name": "Demography", "id": 3265614}, {"name": "Crimes_against_women", "id": 38074132}, {"name": "Crime", "id": 1183180}], "successors": [{"name": "Concubines_of_Ottoman_sultans", "id": 75839309}]}
+{"name": "Slave_concubines", "id": 67250753, "predecessors": [{"name": "Demography", "id": 3265614}, {"name": "Women's_history", "id": 40264730}, {"name": "Crimes_against_women", "id": 38074132}], "successors": [{"name": "Concubines_of_Ottoman_sultans", "id": 75839309}, {"name": "Cassandra", "id": 76418807}]}

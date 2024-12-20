@@ -1,1 +1,1 @@
-{"name": "Sulfur_compounds", "id": 1869718, "predecessors": [{"name": "Chemical_compounds_by_element", "id": 1674961}, {"name": "Chemical_elements", "id": 691255}], "successors": [{"name": "Organosulfur_compounds", "id": 4497738}, {"name": "Sulfides", "id": 1682005}]}
+{"name": "Sulfur_compounds", "id": 1869718, "predecessors": [{"name": "Chemical_elements", "id": 691255}], "successors": [{"name": "Organosulfur_compounds", "id": 4497738}, {"name": "Sulfides", "id": 1682005}]}

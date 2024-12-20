@@ -1,1 +1,1 @@
-{"name": "Deaths_from_colorectal_cancer", "id": 18669465, "predecessors": [{"name": "Contents", "id": 14105005}, {"name": "Digestive_system", "id": 703214}], "successors": [{"name": "Deaths_from_colorectal_cancer_in_the_United_States", "id": 75601401}]}
+{"name": "Deaths_from_colorectal_cancer", "id": 18669465, "predecessors": [{"name": "Contents", "id": 14105005}, {"name": "Deaths_from_cancer", "id": 18669378}], "successors": [{"name": "Deaths_from_colorectal_cancer_in_the_United_States", "id": 75601401}]}

@@ -1,1 +1,1 @@
-{"name": "Bakery_cafés", "id": 38675516, "predecessors": [{"name": "Restaurants_by_type", "id": 15748273}, {"name": "Fast_food", "id": 730141}, {"name": "Baking", "id": 1495742}, {"name": "Coffeehouses_and_cafés", "id": 38675732}], "successors": []}
+{"name": "Bakery_cafés", "id": 38675516, "predecessors": [{"name": "Fast-food_restaurants", "id": 730142}, {"name": "Restaurants_by_type", "id": 15748273}, {"name": "Baking", "id": 1495742}, {"name": "Coffeehouses_and_cafés", "id": 38675732}], "successors": []}

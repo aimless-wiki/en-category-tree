@@ -1,1 +1,1 @@
-{"name": "Deaths_from_multiple_organ_failure", "id": 19630444, "predecessors": [{"name": "Deaths_from_sepsis", "id": 18553993}, {"name": "Anatomy", "id": 692380}], "successors": []}
+{"name": "Deaths_from_multiple_organ_failure", "id": 19630444, "predecessors": [{"name": "Deaths_from_sepsis", "id": 18553993}, {"name": "Symptoms_and_signs", "id": 40767698}], "successors": []}

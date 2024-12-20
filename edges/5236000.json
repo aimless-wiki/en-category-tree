@@ -1,1 +1,1 @@
-{"name": "Plastics_industry", "id": 5236000, "predecessors": [{"name": "Manufacturing", "id": 867519}, {"name": "Plastics", "id": 2206328}, {"name": "Standards", "id": 724561}], "successors": [{"name": "Fused_filament_fabrication", "id": 52011814}]}
+{"name": "Plastics_industry", "id": 5236000, "predecessors": [{"name": "Manufacturing", "id": 867519}, {"name": "Plastics", "id": 2206328}, {"name": "Production_and_manufacturing", "id": 1226515}], "successors": [{"name": "Fused_filament_fabrication", "id": 52011814}]}

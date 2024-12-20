@@ -1,1 +1,1 @@
-{"name": "Phosphates", "id": 1934178, "predecessors": [{"name": "Industrial_minerals", "id": 53386996}, {"name": "Salts", "id": 695960}, {"name": "Manufacturing", "id": 867519}], "successors": [{"name": "Phosphate_minerals", "id": 1091200}, {"name": "Organophosphates", "id": 3556880}]}
+{"name": "Phosphates", "id": 1934178, "predecessors": [{"name": "Industrial_minerals", "id": 53386996}, {"name": "Salts", "id": 695960}, {"name": "Oxyanions", "id": 3368648}, {"name": "Chemical_elements", "id": 691255}], "successors": [{"name": "Organophosphates", "id": 3556880}]}

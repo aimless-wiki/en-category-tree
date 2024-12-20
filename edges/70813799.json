@@ -1,1 +1,1 @@
-{"name": "Deaths_from_lung_cancer_in_New_York_(state)", "id": 70813799, "predecessors": [{"name": "Deaths_from_lung_cancer", "id": 18669531}], "successors": []}
+{"name": "Deaths_from_lung_cancer_in_New_York_(state)", "id": 70813799, "predecessors": [{"name": "Deaths_from_cancer_in_New_York_(state)", "id": 19530230}, {"name": "Deaths_from_lung_cancer", "id": 18669531}, {"name": "Regions_of_the_United_States", "id": 692378}], "successors": []}

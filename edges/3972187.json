@@ -1,1 +1,1 @@
-{"name": "Brazilian_diplomats", "id": 3972187, "predecessors": [{"name": "Government", "id": 697609}, {"name": "Occupations", "id": 787658}], "successors": []}
+{"name": "Brazilian_diplomats", "id": 3972187, "predecessors": [{"name": "Government", "id": 697609}, {"name": "Diplomacy", "id": 911551}, {"name": "Occupations", "id": 787658}], "successors": []}

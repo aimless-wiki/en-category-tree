@@ -1,1 +1,1 @@
-{"name": "Lactones", "id": 2248989, "predecessors": [{"name": "Carboxylate_esters", "id": 2441684}, {"name": "Oxygen_heterocycles", "id": 3217714}], "successors": []}
+{"name": "Lactones", "id": 2248989, "predecessors": [{"name": "Carboxylate_esters", "id": 2441684}, {"name": "Oxygen_heterocycles", "id": 3217714}], "successors": [{"name": "Macrolide_antibiotics", "id": 695373}]}

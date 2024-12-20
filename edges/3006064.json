@@ -1,1 +1,1 @@
-{"name": "Tobacco_control", "id": 3006064, "predecessors": [{"name": "Tobacco", "id": 717369}, {"name": "Addiction", "id": 870031}, {"name": "Branches_of_biology", "id": 37535091}], "successors": [{"name": "Anti-smoking_activists", "id": 40653047}]}
+{"name": "Tobacco_control", "id": 3006064, "predecessors": [{"name": "Tobacco", "id": 717369}, {"name": "Contents", "id": 14105005}, {"name": "Addiction", "id": 870031}], "successors": [{"name": "Tobacco_advertising", "id": 3068411}, {"name": "Anti-smoking_activists", "id": 40653047}]}

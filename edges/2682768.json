@@ -1,1 +1,1 @@
-{"name": "Metal_forming", "id": 2682768, "predecessors": [{"name": "Metalworking", "id": 1069682}, {"name": "Industrial_processes", "id": 1186213}], "successors": []}
+{"name": "Metal_forming", "id": 2682768, "predecessors": [{"name": "Metalworking", "id": 1069682}, {"name": "Industrial_processes", "id": 1186213}], "successors": [{"name": "Casting_(manufacturing)", "id": 24160894}]}

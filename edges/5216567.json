@@ -1,1 +1,1 @@
-{"name": "Wine-related_lists", "id": 5216567, "predecessors": [{"name": "Agriculture-related_lists", "id": 35044007}, {"name": "Fermented_drinks", "id": 4193389}, {"name": "Drug-related_lists", "id": 4024971}], "successors": []}
+{"name": "Wine-related_lists", "id": 5216567, "predecessors": [{"name": "Agriculture-related_lists", "id": 35044007}, {"name": "Wine", "id": 1635343}, {"name": "Drug-related_lists", "id": 4024971}], "successors": []}

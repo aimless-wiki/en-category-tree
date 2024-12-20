@@ -1,1 +1,1 @@
-{"name": "Health_insurance", "id": 23120838, "predecessors": [{"name": "Health_care", "id": 35880954}, {"name": "Types_of_insurance", "id": 8163702}], "successors": []}
+{"name": "Health_insurance", "id": 23120838, "predecessors": [{"name": "Health_care", "id": 35880954}], "successors": []}

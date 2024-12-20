@@ -1,1 +1,1 @@
-{"name": "Loudspeakers", "id": 24240774, "predecessors": [{"name": "Computer_engineering", "id": 3240726}, {"name": "Consumer_electronics", "id": 880368}], "successors": [{"name": "Loudspeaker_manufacturers", "id": 1859556}]}
+{"name": "Loudspeakers", "id": 24240774, "predecessors": [{"name": "Computer_engineering", "id": 3240726}, {"name": "Consumer_electronics", "id": 880368}], "successors": [{"name": "Loudspeaker_technology", "id": 13128797}]}

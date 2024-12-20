@@ -1,1 +1,1 @@
-{"name": "World_Championship_Tennis", "id": 17065748, "predecessors": [{"name": "Sports_competition_series", "id": 42860193}, {"name": "Racket_sports", "id": 877611}], "successors": [{"name": "U.S._Pro_Indoor", "id": 21575728}]}
+{"name": "World_Championship_Tennis", "id": 17065748, "predecessors": [{"name": "Culture", "id": 694861}, {"name": "Sports_competition_series", "id": 42860193}], "successors": [{"name": "U.S._Pro_Indoor", "id": 21575728}]}

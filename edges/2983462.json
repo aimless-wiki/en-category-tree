@@ -1,1 +1,1 @@
-{"name": "Phytochemicals", "id": 2983462, "predecessors": [{"name": "Metabolism", "id": 1135134}, {"name": "Manufacturing", "id": 867519}, {"name": "Wikipedia_categorization", "id": 1036222}], "successors": []}
+{"name": "Phytochemicals", "id": 2983462, "predecessors": [{"name": "Metabolism", "id": 1135134}, {"name": "Manufacturing", "id": 867519}, {"name": "Wikipedia_categorization", "id": 1036222}], "successors": [{"name": "Carotenoids", "id": 2983218}, {"name": "Polyphenols", "id": 24201958}]}

@@ -1,1 +1,1 @@
-{"name": "Teaching_hospitals", "id": 2609365, "predecessors": [{"name": "Medical_education", "id": 1427229}, {"name": "Research", "id": 1395115}, {"name": "Buildings_and_structures_by_type", "id": 6884364}], "successors": [{"name": "Teaching_hospitals_in_Australia", "id": 7025866}]}
+{"name": "Teaching_hospitals", "id": 2609365, "predecessors": [{"name": "Medical_education", "id": 1427229}, {"name": "Medical_research", "id": 1169815}, {"name": "Buildings_and_structures_by_type", "id": 6884364}], "successors": [{"name": "Teaching_hospitals_in_Australia", "id": 7025866}]}

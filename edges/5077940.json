@@ -1,1 +1,1 @@
-{"name": "George_Washington_University_faculty", "id": 5077940, "predecessors": [{"name": "People_from_Washington,_D.C.", "id": 1775460}], "successors": [{"name": "George_Washington_University_Law_School_faculty", "id": 20790442}, {"name": "Elliott_School_of_International_Affairs_faculty", "id": 57805029}]}
+{"name": "George_Washington_University_faculty", "id": 5077940, "predecessors": [{"name": "George_Washington_University", "id": 4201050}, {"name": "People_from_Washington,_D.C.", "id": 1775460}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Occupational_diseases", "id": 3803812, "predecessors": [{"name": "Occupational_hazards", "id": 53924025}, {"name": "Contents", "id": 14105005}, {"name": "Occupational_safety_and_health", "id": 1215289}], "successors": [{"name": "Overuse_injuries", "id": 2373011}]}
+{"name": "Occupational_diseases", "id": 3803812, "predecessors": [{"name": "Contents", "id": 14105005}, {"name": "Occupational_safety_and_health", "id": 1215289}], "successors": [{"name": "Overuse_injuries", "id": 2373011}]}

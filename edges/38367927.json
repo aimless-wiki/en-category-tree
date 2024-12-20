@@ -1,1 +1,1 @@
-{"name": "Banknote_printing_companies", "id": 38367927, "predecessors": [{"name": "Engraving", "id": 4303296}, {"name": "Currency", "id": 1626296}, {"name": "Printing", "id": 774014}], "successors": []}
+{"name": "Banknote_printing_companies", "id": 38367927, "predecessors": [{"name": "Currency", "id": 1626296}, {"name": "Printing", "id": 774014}], "successors": []}

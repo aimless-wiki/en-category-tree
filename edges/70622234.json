@@ -1,1 +1,1 @@
-{"name": "Silent_adventure_films", "id": 70622234, "predecessors": [{"name": "Copyright_law", "id": 702268}], "successors": [{"name": "Silent_historical_adventure_films", "id": 72924519}, {"name": "Silent_American_adventure_films", "id": 74379831}, {"name": "Silent_American_adventure_drama_films", "id": 74545631}]}
+{"name": "Silent_adventure_films", "id": 70622234, "predecessors": [{"name": "Film_genres", "id": 3008852}, {"name": "Adventure_fiction", "id": 5741107}], "successors": []}

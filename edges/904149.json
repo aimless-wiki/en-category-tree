@@ -1,1 +1,1 @@
-{"name": "Toyota_vehicles", "id": 904149, "predecessors": [{"name": "Toyota", "id": 904150}, {"name": "Automotive_industry", "id": 1338498}, {"name": "Economy_of_Japan", "id": 1448803}], "successors": [{"name": "Daihatsu_vehicles", "id": 1157762}, {"name": "Toyota_concept_vehicles", "id": 13715612}]}
+{"name": "Toyota_vehicles", "id": 904149, "predecessors": [{"name": "Automotive_industry", "id": 1338498}, {"name": "Economy_of_Japan", "id": 1448803}], "successors": [{"name": "Daihatsu_vehicles", "id": 1157762}, {"name": "Toyota_concept_vehicles", "id": 13715612}]}

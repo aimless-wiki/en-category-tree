@@ -1,1 +1,1 @@
-{"name": "English_pop_keyboardists", "id": 76813877, "predecessors": [{"name": "English_keyboardists", "id": 3895331}, {"name": "Occupations", "id": 787658}, {"name": "Music_genres", "id": 4826123}, {"name": "English_pop_musicians", "id": 7318178}], "successors": []}
+{"name": "English_pop_keyboardists", "id": 76813877, "predecessors": [{"name": "English_keyboardists", "id": 3895331}, {"name": "Musical_instruments", "id": 691595}, {"name": "English_pop_musicians", "id": 7318178}], "successors": []}

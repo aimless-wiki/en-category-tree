@@ -1,1 +1,1 @@
-{"name": "Japanese_action_films", "id": 33348773, "predecessors": [{"name": "Film_genres", "id": 3008852}, {"name": "Culture", "id": 694861}], "successors": [{"name": "Japanese_martial_arts_films", "id": 41272514}, {"name": "Japanese_action_comedy_films", "id": 42661066}, {"name": "Japanese_science_fiction_action_films", "id": 45699447}]}
+{"name": "Japanese_action_films", "id": 33348773, "predecessors": [{"name": "Film_genres", "id": 3008852}], "successors": [{"name": "Japanese_martial_arts_films", "id": 41272514}]}

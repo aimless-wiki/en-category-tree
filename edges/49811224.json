@@ -1,1 +1,1 @@
-{"name": "Soviet_adventure_films", "id": 49811224, "predecessors": [{"name": "Culture", "id": 694861}, {"name": "Copyright_law", "id": 702268}], "successors": [{"name": "Soviet_adventure_drama_films", "id": 62696102}]}
+{"name": "Soviet_adventure_films", "id": 49811224, "predecessors": [{"name": "Film_genres", "id": 3008852}, {"name": "Adventure_fiction", "id": 5741107}], "successors": [{"name": "Soviet_adventure_drama_films", "id": 62696102}]}

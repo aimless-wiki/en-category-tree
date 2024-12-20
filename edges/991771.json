@@ -1,1 +1,1 @@
-{"name": "ATC_codes", "id": 991771, "predecessors": [{"name": "Identifiers", "id": 2019925}], "successors": []}
+{"name": "ATC_codes", "id": 991771, "predecessors": [{"name": "Identifiers", "id": 2019925}], "successors": [{"name": "Drugs_not_assigned_an_ATC_code", "id": 23081954}]}

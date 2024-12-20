@@ -1,1 +1,1 @@
-{"name": "Furans", "id": 987581, "predecessors": [{"name": "Conjugated_dienes", "id": 60929067}, {"name": "Heterocyclic_compounds_with_1_ring", "id": 5235450}, {"name": "Ethers", "id": 749636}], "successors": [{"name": "Benzofurans", "id": 17687459}, {"name": "2-Furyl_compounds", "id": 72122379}]}
+{"name": "Furans", "id": 987581, "predecessors": [{"name": "Conjugated_dienes", "id": 60929067}, {"name": "Heterocyclic_compounds_with_1_ring", "id": 5235450}, {"name": "Ethers", "id": 749636}], "successors": [{"name": "Benzofurans", "id": 17687459}]}

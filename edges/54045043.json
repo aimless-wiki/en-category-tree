@@ -1,1 +1,1 @@
-{"name": "Liver_transplant_recipients", "id": 54045043, "predecessors": [{"name": "Organ_transplantation", "id": 38959574}, {"name": "Abdomen", "id": 1703539}], "successors": []}
+{"name": "Liver_transplant_recipients", "id": 54045043, "predecessors": [{"name": "Digestive_system", "id": 703214}], "successors": []}

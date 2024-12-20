@@ -1,1 +1,1 @@
-{"name": "Wine_classification", "id": 17667648, "predecessors": [{"name": "Fermented_drinks", "id": 4193389}, {"name": "Classification_systems", "id": 3615452}], "successors": [{"name": "Appellations", "id": 1331143}]}
+{"name": "Wine_classification", "id": 17667648, "predecessors": [{"name": "Wine", "id": 1635343}, {"name": "Classification_systems", "id": 3615452}], "successors": [{"name": "Appellations", "id": 1331143}]}

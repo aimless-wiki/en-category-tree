@@ -1,1 +1,1 @@
-{"name": "Stealth_ships", "id": 41055827, "predecessors": [{"name": "Naval_warfare", "id": 1054971}, {"name": "Military_technology", "id": 1073580}, {"name": "Wikipedia_categorization", "id": 1036222}], "successors": []}
+{"name": "Stealth_ships", "id": 41055827, "predecessors": [{"name": "Naval_warfare", "id": 1054971}, {"name": "Ship_types", "id": 712258}, {"name": "Military_technology", "id": 1073580}, {"name": "Wikipedia_categorization", "id": 1036222}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Law_clerks", "id": 35949716, "predecessors": [{"name": "Clerks", "id": 8909890}, {"name": "Legal_professions", "id": 23242540}, {"name": "Justice", "id": 2388327}], "successors": [{"name": "Law_clerks_of_the_Supreme_Court_of_the_United_States", "id": 17564646}]}
+{"name": "Law_clerks", "id": 35949716, "predecessors": [{"name": "Clerks", "id": 8909890}, {"name": "Public_administration", "id": 4108738}], "successors": [{"name": "Law_clerks_of_the_Supreme_Court_of_the_United_States", "id": 17564646}]}
