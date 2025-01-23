@@ -1,1 +1,1 @@
-{"name": "Endocrine_diseases", "id": 19895778, "predecessors": [{"name": "Endocrinology", "id": 694995}], "successors": [{"name": "Thyroid_disease", "id": 5253687}, {"name": "Endocrine-related_cutaneous_conditions", "id": 23221728}, {"name": "Diabetes", "id": 1604872}]}
+{"name": "Endocrine_diseases", "id": 19895778, "predecessors": [{"name": "Endocrinology", "id": 694995}, {"name": "Contents", "id": 14105005}], "successors": [{"name": "Thyroid_disease", "id": 5253687}, {"name": "Endocrine-related_cutaneous_conditions", "id": 23221728}, {"name": "Diabetes", "id": 1604872}]}

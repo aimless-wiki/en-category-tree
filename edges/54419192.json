@@ -1,1 +1,1 @@
-{"name": "Lutheran_hymns", "id": 54419192, "predecessors": [{"name": "Lutheran_liturgy_and_worship", "id": 10646547}, {"name": "Christian_worship_and_liturgy", "id": 39524324}], "successors": [{"name": "German_Lutheran_hymnwriters", "id": 56965503}]}
+{"name": "Lutheran_hymns", "id": 54419192, "predecessors": [{"name": "Lutheran_liturgy_and_worship", "id": 10646547}, {"name": "Musicology", "id": 722408}], "successors": [{"name": "German_Lutheran_hymnwriters", "id": 56965503}]}

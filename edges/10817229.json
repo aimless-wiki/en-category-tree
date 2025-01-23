@@ -1,1 +1,1 @@
-{"name": "Child_murder_in_the_United_States", "id": 10817229, "predecessors": [{"name": "Child_welfare_in_the_United_States", "id": 44560340}, {"name": "Death", "id": 921954}, {"name": "Homicide", "id": 11692544}], "successors": []}
+{"name": "Child_murder_in_the_United_States", "id": 10817229, "predecessors": [{"name": "Child_welfare_in_the_United_States", "id": 44560340}, {"name": "Death", "id": 921954}, {"name": "Child_abuse", "id": 1418224}, {"name": "Childhood", "id": 1517600}], "successors": [{"name": "Filicides_in_the_United_States", "id": 62700775}]}

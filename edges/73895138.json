@@ -1,1 +1,1 @@
-{"name": "Troubled_teen_programs", "id": 73895138, "predecessors": [{"name": "Human_rights_abuses", "id": 716087}, {"name": "Child_welfare", "id": 16798447}], "successors": []}
+{"name": "Troubled_teen_programs", "id": 73895138, "predecessors": [{"name": "Child_abuse", "id": 1418224}, {"name": "Child_welfare", "id": 16798447}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Multiple_sclerosis", "id": 11100795, "predecessors": [{"name": "Central_nervous_system_disorders", "id": 32561484}, {"name": "Contents", "id": 14105005}], "successors": [{"name": "People_with_multiple_sclerosis", "id": 8414034}]}
+{"name": "Multiple_sclerosis", "id": 11100795, "predecessors": [{"name": "Autoimmune_diseases", "id": 846728}, {"name": "Central_nervous_system_disorders", "id": 32561484}, {"name": "Disability", "id": 932302}], "successors": [{"name": "People_with_multiple_sclerosis", "id": 8414034}]}

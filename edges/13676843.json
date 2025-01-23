@@ -1,1 +1,1 @@
-{"name": "Food_science_institutes", "id": 13676843, "predecessors": [{"name": "Food_science", "id": 974555}, {"name": "Academic_disciplines", "id": 693763}, {"name": "Culture", "id": 694861}], "successors": []}
+{"name": "Food_science_institutes", "id": 13676843, "predecessors": [{"name": "Food_science", "id": 974555}, {"name": "Culture", "id": 694861}, {"name": "Academic_disciplines", "id": 693763}], "successors": []}

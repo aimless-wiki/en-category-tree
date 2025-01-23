@@ -1,1 +1,1 @@
-{"name": "Japanese_male_stage_actors", "id": 40984927, "predecessors": [{"name": "Japanese_male_actors", "id": 40388674}, {"name": "Japanese_entertainers", "id": 3052557}], "successors": [{"name": "Japanese_male_musical_theatre_actors", "id": 41055871}]}
+{"name": "Japanese_male_stage_actors", "id": 40984927, "predecessors": [{"name": "Culture", "id": 694861}, {"name": "Japanese_male_actors", "id": 40388674}], "successors": [{"name": "Japanese_male_musical_theatre_actors", "id": 41055871}]}

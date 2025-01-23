@@ -1,1 +1,1 @@
-{"name": "Australian_mining_engineers", "id": 38594083, "predecessors": [{"name": "Australian_engineers", "id": 1123663}, {"name": "Mining_engineers", "id": 1702352}, {"name": "Mining", "id": 843521}], "successors": []}
+{"name": "Australian_mining_engineers", "id": 38594083, "predecessors": [{"name": "Australian_engineers", "id": 1123663}, {"name": "Occupations", "id": 787658}, {"name": "Academic_disciplines", "id": 693763}], "successors": []}

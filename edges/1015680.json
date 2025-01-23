@@ -1,1 +1,1 @@
-{"name": "Household_chemicals", "id": 1015680, "predecessors": [{"name": "Academic_disciplines", "id": 693763}, {"name": "Wikipedia_categorization", "id": 1036222}], "successors": [{"name": "Vinegar", "id": 24795429}, {"name": "Cosmetics_chemicals", "id": 28553073}]}
+{"name": "Household_chemicals", "id": 1015680, "predecessors": [{"name": "Social_sciences", "id": 695042}, {"name": "Wikipedia_categorization", "id": 1036222}], "successors": [{"name": "Vinegar", "id": 24795429}, {"name": "Cosmetics_chemicals", "id": 28553073}]}

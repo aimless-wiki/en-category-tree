@@ -1,1 +1,1 @@
-{"name": "Musical_scales", "id": 733005, "predecessors": [{"name": "Pitch_(music)", "id": 22266559}, {"name": "Classification_systems", "id": 3615452}, {"name": "Abstraction", "id": 902386}], "successors": [{"name": "Modes_(music)", "id": 731886}]}
+{"name": "Musical_scales", "id": 733005, "predecessors": [{"name": "Pitch_(music)", "id": 22266559}, {"name": "Classification_systems", "id": 3615452}, {"name": "Music_theory", "id": 736492}], "successors": [{"name": "Modes_(music)", "id": 731886}]}

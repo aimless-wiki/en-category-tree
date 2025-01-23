@@ -1,0 +1,1 @@
+{"name": "Detection_dogs", "id": 14681750, "predecessors": [{"name": "Detectors", "id": 2058157}, {"name": "Dogs", "id": 704389}], "successors": [{"name": "Scent_hounds", "id": 2464798}]}

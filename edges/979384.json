@@ -1,1 +1,1 @@
-{"name": "2001_deaths", "id": 979384, "predecessors": [{"name": "Death", "id": 921954}, {"name": "21st_century", "id": 884422}], "successors": [{"name": "2001_suicides", "id": 62292164}, {"name": "Mass_murder_in_2001", "id": 28406550}, {"name": "2001_murders_in_the_United_States", "id": 28406844}]}
+{"name": "2001_deaths", "id": 979384, "predecessors": [{"name": "21st_century", "id": 884422}, {"name": "Time", "id": 744728}], "successors": [{"name": "2001_suicides", "id": 62292164}]}

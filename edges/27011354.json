@@ -1,1 +1,1 @@
-{"name": "Eye_surgery", "id": 27011354, "predecessors": [{"name": "Surgical_procedures_and_techniques", "id": 3464652}, {"name": "Surgery", "id": 804789}, {"name": "Ophthalmology", "id": 765995}], "successors": []}
+{"name": "Eye_surgery", "id": 27011354, "predecessors": [{"name": "Surgical_procedures_and_techniques", "id": 3464652}, {"name": "Surgery", "id": 804789}, {"name": "Medical_procedures", "id": 22735454}], "successors": []}

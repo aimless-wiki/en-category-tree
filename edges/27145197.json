@@ -1,1 +1,1 @@
-{"name": "Diseases_of_liver", "id": 27145197, "predecessors": [{"name": "Hepatology", "id": 4948614}, {"name": "Digestive_system", "id": 703214}], "successors": [{"name": "Deaths_from_liver_disease", "id": 19627544}, {"name": "Deaths_from_hepatitis", "id": 8217524}]}
+{"name": "Diseases_of_liver", "id": 27145197, "predecessors": [{"name": "Hepatology", "id": 4948614}, {"name": "Abdomen", "id": 1703539}, {"name": "Contents", "id": 14105005}], "successors": [{"name": "Deaths_from_liver_disease", "id": 19627544}, {"name": "Deaths_from_hepatitis", "id": 8217524}]}

@@ -1,1 +1,1 @@
-{"name": "Wesleyan_University_people", "id": 8437821, "predecessors": [{"name": "Public_services", "id": 5678592}], "successors": []}
+{"name": "Wesleyan_University_people", "id": 8437821, "predecessors": [{"name": "Public_services", "id": 5678592}, {"name": "Wikipedia_categorization", "id": 1036222}], "successors": [{"name": "Wesleyan_University_alumni", "id": 5245613}, {"name": "Wesleyan_University_faculty", "id": 11704353}]}

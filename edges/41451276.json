@@ -1,1 +1,1 @@
-{"name": "Racing_car_classes", "id": 41451276, "predecessors": [{"name": "Classification_systems", "id": 3615452}], "successors": [{"name": "Motorsport_categories_in_Australia", "id": 23600066}, {"name": "Group_GT3", "id": 63941242}]}
+{"name": "Racing_car_classes", "id": 41451276, "predecessors": [{"name": "Racing_cars", "id": 1047165}, {"name": "Classification_systems", "id": 3615452}], "successors": [{"name": "Motorsport_categories_in_Australia", "id": 23600066}, {"name": "Group_GT3", "id": 63941242}]}

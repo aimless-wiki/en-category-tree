@@ -1,1 +1,1 @@
-{"name": "January", "id": 6252723, "predecessors": [{"name": "Months", "id": 948833}], "successors": []}
+{"name": "January", "id": 6252723, "predecessors": [{"name": "Months", "id": 948833}], "successors": [{"name": "January_observances", "id": 7088226}, {"name": "January_by_year", "id": 21382885}]}

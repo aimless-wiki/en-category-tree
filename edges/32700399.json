@@ -1,1 +1,1 @@
-{"name": "Sofia_Metro_stations", "id": 32700399, "predecessors": [{"name": "Towns_in_Bulgaria", "id": 37179567}, {"name": "Passenger_rail_transport", "id": 5356605}, {"name": "Economies_of_Europe_by_country", "id": 62161788}], "successors": []}
+{"name": "Sofia_Metro_stations", "id": 32700399, "predecessors": [{"name": "Public_transport", "id": 700497}, {"name": "Towns_in_Bulgaria", "id": 37179567}, {"name": "Passenger_rail_transport", "id": 5356605}], "successors": []}

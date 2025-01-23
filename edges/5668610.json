@@ -1,1 +1,1 @@
-{"name": "Algebraic_geometers", "id": 5668610, "predecessors": [{"name": "Algebraic_geometry", "id": 693994}], "successors": [{"name": "Arithmetic_geometers", "id": 62816519}]}
+{"name": "Algebraic_geometers", "id": 5668610, "predecessors": [{"name": "Algebraic_geometry", "id": 693994}, {"name": "Algebraists", "id": 5325746}, {"name": "Geometers", "id": 5328546}], "successors": [{"name": "Arithmetic_geometers", "id": 62816519}]}

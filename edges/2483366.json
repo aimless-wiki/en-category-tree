@@ -1,1 +1,1 @@
-{"name": "Wind_bands", "id": 2483366, "predecessors": [{"name": "Classical_and_art_music_traditions", "id": 29145309}], "successors": [{"name": "Brass_bands", "id": 1205258}, {"name": "Marching_bands", "id": 1270344}]}
+{"name": "Wind_bands", "id": 2483366, "predecessors": [{"name": "Music_genres", "id": 4826123}], "successors": [{"name": "Brass_bands", "id": 1205258}, {"name": "Marching_bands", "id": 1270344}]}

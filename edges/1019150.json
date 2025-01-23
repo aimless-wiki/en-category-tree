@@ -1,1 +1,1 @@
-{"name": "Machine_translation", "id": 1019150, "predecessors": [{"name": "Computational_linguistics", "id": 787876}, {"name": "Translation", "id": 918052}], "successors": []}
+{"name": "Machine_translation", "id": 1019150, "predecessors": [{"name": "Computational_linguistics", "id": 787876}, {"name": "Natural_language_processing", "id": 960021}, {"name": "Translation", "id": 918052}], "successors": []}

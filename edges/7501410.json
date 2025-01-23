@@ -1,1 +1,1 @@
-{"name": "Lattice_points", "id": 7501410, "predecessors": [{"name": "Discrete_geometry", "id": 694609}, {"name": "Euclidean_geometry", "id": 694421}], "successors": []}
+{"name": "Lattice_points", "id": 7501410, "predecessors": [{"name": "Discrete_geometry", "id": 694609}, {"name": "Euclidean_geometry", "id": 694421}, {"name": "Number_theory", "id": 693745}, {"name": "Group_theory", "id": 23087655}], "successors": []}

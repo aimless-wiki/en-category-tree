@@ -1,1 +1,1 @@
-{"name": "Geomagnetism", "id": 2462235, "predecessors": [{"name": "Geophysics", "id": 716913}, {"name": "Magnetism", "id": 982364}], "successors": []}
+{"name": "Geomagnetism", "id": 2462235, "predecessors": [{"name": "Geophysics", "id": 716913}, {"name": "Magnetism", "id": 982364}, {"name": "Structure_of_the_Earth", "id": 7917749}], "successors": []}

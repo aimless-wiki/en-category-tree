@@ -1,1 +1,1 @@
-{"name": "Scottish_male_television_actors", "id": 40388013, "predecessors": [{"name": "British_male_television_actors", "id": 40327085}], "successors": [{"name": "Scottish_male_soap_opera_actors", "id": 40388003}]}
+{"name": "Scottish_male_television_actors", "id": 40388013, "predecessors": [{"name": "British_male_television_actors", "id": 40327085}, {"name": "British_male_actors", "id": 38377100}], "successors": [{"name": "Scottish_male_soap_opera_actors", "id": 40388003}]}

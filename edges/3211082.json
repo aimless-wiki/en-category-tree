@@ -1,1 +1,1 @@
-{"name": "People_executed_for_treason", "id": 3211082, "predecessors": [{"name": "People_convicted_of_treason", "id": 16509969}, {"name": "Crime", "id": 1183180}, {"name": "Crimes", "id": 694944}], "successors": [{"name": "20th-century_executions_for_treason", "id": 21331996}]}
+{"name": "People_executed_for_treason", "id": 3211082, "predecessors": [{"name": "People_convicted_of_treason", "id": 16509969}, {"name": "Crime", "id": 1183180}], "successors": [{"name": "20th-century_executions_for_treason", "id": 21331996}]}

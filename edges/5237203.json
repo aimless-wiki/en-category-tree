@@ -1,1 +1,1 @@
-{"name": "Pyrazines", "id": 5237203, "predecessors": [{"name": "Aromatic_compounds", "id": 1369194}, {"name": "Nitrogen_heterocycles", "id": 3197412}], "successors": []}
+{"name": "Pyrazines", "id": 5237203, "predecessors": [{"name": "Aromatic_compounds", "id": 1369194}, {"name": "Nitrogen_heterocycles", "id": 3197412}, {"name": "Manufacturing", "id": 867519}], "successors": []}

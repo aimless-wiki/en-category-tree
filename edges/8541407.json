@@ -1,1 +1,1 @@
-{"name": "Yeasts", "id": 8541407, "predecessors": [{"name": "Mycology", "id": 1248840}, {"name": "Evolutionary_biology", "id": 714501}], "successors": [{"name": "Yeast_stubs", "id": 8589198}, {"name": "Saccharomycetes", "id": 18761700}]}
+{"name": "Yeasts", "id": 8541407, "predecessors": [{"name": "Evolutionary_biology", "id": 714501}, {"name": "Biological_classification", "id": 41221871}], "successors": [{"name": "Yeast_stubs", "id": 8589198}, {"name": "Saccharomycetes", "id": 18761700}]}

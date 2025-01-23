@@ -1,1 +1,1 @@
-{"name": "Ailments_of_unknown_cause", "id": 1438581, "predecessors": [{"name": "Branches_of_biology", "id": 37535091}, {"name": "Academic_disciplines", "id": 693763}, {"name": "Contents", "id": 14105005}], "successors": [{"name": "Alzheimer's_disease", "id": 4682667}]}
+{"name": "Ailments_of_unknown_cause", "id": 1438581, "predecessors": [{"name": "Humanities", "id": 1004110}, {"name": "Contents", "id": 14105005}, {"name": "Academic_disciplines", "id": 693763}], "successors": [{"name": "Autoimmune_diseases", "id": 846728}, {"name": "Alzheimer's_disease", "id": 4682667}]}

@@ -1,1 +1,1 @@
-{"name": "Star_polygons", "id": 63699675, "predecessors": [{"name": "Types_of_polygons", "id": 65749333}, {"name": "Stars", "id": 694492}], "successors": []}
+{"name": "Star_polygons", "id": 63699675, "predecessors": [{"name": "Stars", "id": 694492}, {"name": "Euclidean_plane_geometry", "id": 3189382}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Istanbul_metro_stations", "id": 41102179, "predecessors": [{"name": "Railway_stations_in_Istanbul_Province", "id": 34601747}, {"name": "Land_tenure", "id": 49153374}], "successors": []}
+{"name": "Istanbul_metro_stations", "id": 41102179, "predecessors": [{"name": "Railway_stations_in_Istanbul_Province", "id": 34601747}, {"name": "Public_transport", "id": 700497}], "successors": []}

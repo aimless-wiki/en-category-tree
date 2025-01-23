@@ -1,1 +1,1 @@
-{"name": "TRAX_(light_rail)_stations", "id": 18440430, "predecessors": [{"name": "Public_transport", "id": 700497}], "successors": []}
+{"name": "TRAX_(light_rail)_stations", "id": 18440430, "predecessors": [{"name": "Public_transport", "id": 700497}, {"name": "Administrative_divisions_by_country", "id": 37426256}], "successors": []}

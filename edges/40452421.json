@@ -1,1 +1,1 @@
-{"name": "Surreal_comedy", "id": 40452421, "predecessors": [{"name": "Comedy_genres", "id": 14988940}, {"name": "Surrealism", "id": 1016048}, {"name": "Comedy", "id": 696823}], "successors": [{"name": "Monty_Python", "id": 691158}]}
+{"name": "Surreal_comedy", "id": 40452421, "predecessors": [{"name": "Comedy_genres", "id": 14988940}, {"name": "Surrealism", "id": 1016048}, {"name": "Comedy", "id": 696823}], "successors": [{"name": "Monty_Python", "id": 691158}, {"name": "Surreal_comedy_films", "id": 72539140}]}

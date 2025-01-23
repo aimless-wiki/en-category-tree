@@ -1,1 +1,1 @@
-{"name": "Scottish_male_stage_actors", "id": 40399194, "predecessors": [{"name": "British_actors", "id": 718753}], "successors": []}
+{"name": "Scottish_male_stage_actors", "id": 40399194, "predecessors": [{"name": "British_male_stage_actors", "id": 40387488}, {"name": "British_male_actors", "id": 38377100}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Car_manufacturers_of_Germany", "id": 22285734, "predecessors": [{"name": "Automotive_industry", "id": 1338498}], "successors": [{"name": "Porsche", "id": 883789}, {"name": "Mercedes-Benz", "id": 918553}]}
+{"name": "Car_manufacturers_of_Germany", "id": 22285734, "predecessors": [{"name": "Automotive_industry", "id": 1338498}, {"name": "Land_tenure", "id": 49153374}], "successors": [{"name": "Porsche", "id": 883789}, {"name": "Mercedes-Benz", "id": 918553}]}

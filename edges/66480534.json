@@ -1,1 +1,1 @@
-{"name": "Goodwill_Games_gold_medalists", "id": 66480534, "predecessors": [{"name": "Multi-sport_events", "id": 944214}], "successors": [{"name": "Goodwill_Games_gold_medalists_in_athletics", "id": 66480532}]}
+{"name": "Goodwill_Games_gold_medalists", "id": 66480534, "predecessors": [{"name": "Gold", "id": 1717177}, {"name": "Multi-sport_events", "id": 944214}], "successors": [{"name": "Goodwill_Games_gold_medalists_in_athletics", "id": 66480532}]}

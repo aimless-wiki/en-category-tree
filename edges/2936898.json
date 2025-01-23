@@ -1,1 +1,1 @@
-{"name": "Electrophoresis", "id": 2936898, "predecessors": [{"name": "Laboratory_techniques", "id": 1305783}, {"name": "Molecular_biology", "id": 714665}, {"name": "Analytical_chemistry", "id": 695001}], "successors": []}
+{"name": "Electrophoresis", "id": 2936898, "predecessors": [{"name": "Laboratory_techniques", "id": 1305783}, {"name": "Molecular_biology", "id": 714665}, {"name": "Analytical_chemistry", "id": 695001}, {"name": "Biochemistry_methods", "id": 11602946}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Attacks_on_barracks", "id": 78638786, "predecessors": [{"name": "Government", "id": 697609}, {"name": "Human_behavior", "id": 2524202}], "successors": []}
+{"name": "Attacks_on_barracks", "id": 78638786, "predecessors": [{"name": "Military_life", "id": 1018928}, {"name": "Government", "id": 697609}, {"name": "Buildings_and_structures_by_type", "id": 6884364}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Murderer_duos", "id": 75713761, "predecessors": [{"name": "Duos", "id": 3815961}, {"name": "Crime", "id": 1183180}], "successors": [{"name": "Serial_killer_duos", "id": 75596874}]}
+{"name": "Murderer_duos", "id": 75713761, "predecessors": [{"name": "Crime", "id": 1183180}, {"name": "Legal_entities", "id": 1125732}], "successors": [{"name": "Serial_killer_duos", "id": 75596874}]}

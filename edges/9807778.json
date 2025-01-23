@@ -1,1 +1,1 @@
-{"name": "Pipeline_stubs", "id": 9807778, "predecessors": [{"name": "Petroleum_stubs", "id": 9810556}, {"name": "Freight_transport", "id": 710066}, {"name": "Wikipedia_maintenance", "id": 738040}], "successors": []}
+{"name": "Pipeline_stubs", "id": 9807778, "predecessors": [{"name": "Petroleum_stubs", "id": 9810556}, {"name": "Wikipedia_maintenance", "id": 738040}, {"name": "Engineering_disciplines", "id": 9930194}], "successors": []}

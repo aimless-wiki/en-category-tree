@@ -1,1 +1,1 @@
-{"name": "Lead(II)_compounds", "id": 60746990, "predecessors": [{"name": "Manufacturing", "id": 867519}], "successors": []}
+{"name": "Lead(II)_compounds", "id": 60746990, "predecessors": [{"name": "Chemical_compounds_by_element", "id": 1674961}, {"name": "Manufacturing", "id": 867519}], "successors": []}

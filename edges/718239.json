@@ -1,1 +1,1 @@
-{"name": "Anesthesia", "id": 718239, "predecessors": [{"name": "Pain", "id": 1061105}, {"name": "Surgery", "id": 804789}], "successors": []}
+{"name": "Anesthesia", "id": 718239, "predecessors": [{"name": "Pain", "id": 1061105}, {"name": "Surgery", "id": 804789}], "successors": [{"name": "Local_anesthetics", "id": 803812}, {"name": "General_anesthetics", "id": 23292615}]}

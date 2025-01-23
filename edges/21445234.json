@@ -1,1 +1,1 @@
-{"name": "Santiago_Metro_stations", "id": 21445234, "predecessors": [{"name": "Land_tenure", "id": 49153374}, {"name": "Wikipedia_categorization", "id": 1036222}], "successors": []}
+{"name": "Santiago_Metro_stations", "id": 21445234, "predecessors": [{"name": "Public_transport", "id": 700497}, {"name": "Land_tenure", "id": 49153374}], "successors": []}

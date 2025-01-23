@@ -1,1 +1,1 @@
-{"name": "Formerly_missing_people", "id": 47646881, "predecessors": [{"name": "Missing_people", "id": 28293078}], "successors": []}
+{"name": "Formerly_missing_people", "id": 47646881, "predecessors": [{"name": "Missing_people", "id": 28293078}], "successors": [{"name": "Formerly_missing_people_found_alive", "id": 78870932}, {"name": "Formerly_missing_people_found_dead", "id": 78870934}]}

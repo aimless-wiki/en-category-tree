@@ -1,1 +1,1 @@
-{"name": "French-language_books", "id": 41304338, "predecessors": [{"name": "Literature_by_language", "id": 2995394}, {"name": "French_language", "id": 761406}], "successors": []}
+{"name": "French-language_books", "id": 41304338, "predecessors": [{"name": "Literature_by_language", "id": 2995394}, {"name": "French_language", "id": 761406}], "successors": [{"name": "French-language_novels", "id": 15582688}, {"name": "French-language_non-fiction_books", "id": 78792672}]}

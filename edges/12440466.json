@@ -1,1 +1,1 @@
-{"name": "Family_therapists", "id": 12440466, "predecessors": [{"name": "Family", "id": 706788}, {"name": "Academic_disciplines", "id": 693763}, {"name": "Health_care_occupations", "id": 1006080}], "successors": []}
+{"name": "Family_therapists", "id": 12440466, "predecessors": [{"name": "Mental_health_professionals", "id": 10406353}, {"name": "Family", "id": 706788}, {"name": "Academic_disciplines", "id": 693763}], "successors": []}

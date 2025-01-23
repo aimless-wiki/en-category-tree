@@ -1,1 +1,1 @@
-{"name": "Criminal_defenses", "id": 1576540, "predecessors": [{"name": "Criminal_law", "id": 692799}, {"name": "Legal_doctrines_and_principles", "id": 27170295}, {"name": "Safety", "id": 902977}], "successors": [{"name": "Self-defense", "id": 10477191}, {"name": "False_confessions", "id": 42129998}]}
+{"name": "Criminal_defenses", "id": 1576540, "predecessors": [{"name": "Criminal_law", "id": 692799}, {"name": "Legal_doctrines_and_principles", "id": 27170295}], "successors": [{"name": "Self-defense", "id": 10477191}, {"name": "False_confessions", "id": 42129998}]}

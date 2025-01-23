@@ -1,1 +1,1 @@
-{"name": "Passenger_trains_in_Pakistan", "id": 42733050, "predecessors": [{"name": "Land_tenure", "id": 49153374}], "successors": [{"name": "Named_passenger_trains_of_Pakistan", "id": 15089122}]}
+{"name": "Passenger_trains_in_Pakistan", "id": 42733050, "predecessors": [{"name": "Public_transport", "id": 700497}], "successors": [{"name": "Named_passenger_trains_of_Pakistan", "id": 15089122}]}

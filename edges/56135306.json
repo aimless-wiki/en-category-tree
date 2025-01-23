@@ -1,1 +1,1 @@
-{"name": "2018_deaths", "id": 56135306, "predecessors": [{"name": "Death", "id": 921954}, {"name": "21st_century", "id": 884422}], "successors": [{"name": "2018_suicides", "id": 62145088}]}
+{"name": "2018_deaths", "id": 56135306, "predecessors": [{"name": "21st_century", "id": 884422}, {"name": "Time", "id": 744728}], "successors": [{"name": "2018_suicides", "id": 62145088}]}

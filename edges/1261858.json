@@ -1,1 +1,1 @@
-{"name": "NASCAR_teams", "id": 1261858, "predecessors": [{"name": "Time", "id": 744728}], "successors": [{"name": "NASCAR_team_owners", "id": 33868277}]}
+{"name": "NASCAR_teams", "id": 1261858, "predecessors": [{"name": "Segregation", "id": 40945094}], "successors": [{"name": "Defunct_NASCAR_teams", "id": 3572963}, {"name": "NASCAR_team_owners", "id": 33868277}]}

@@ -1,1 +1,1 @@
-{"name": "Japan_rail_station_number_templates", "id": 56262215, "predecessors": [{"name": "Japan_rail_transport_templates", "id": 17915652}, {"name": "Rail_transport_templates", "id": 4512739}], "successors": []}
+{"name": "Japan_rail_station_number_templates", "id": 56262215, "predecessors": [{"name": "Japan_rail_transport_templates", "id": 17915652}, {"name": "Rail_routemap_templates", "id": 10896927}], "successors": []}

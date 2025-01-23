@@ -1,1 +1,1 @@
-{"name": "Mountains_of_Tibet", "id": 706122, "predecessors": [{"name": "Himalayas", "id": 24958303}, {"name": "Geography", "id": 693800}], "successors": [{"name": "Mount_Everest", "id": 11390787}]}
+{"name": "Mountains_of_Tibet", "id": 706122, "predecessors": [{"name": "Himalayas", "id": 24958303}, {"name": "Earth_sciences", "id": 716903}, {"name": "Physical_geography", "id": 2153059}], "successors": [{"name": "Mount_Everest", "id": 11390787}]}

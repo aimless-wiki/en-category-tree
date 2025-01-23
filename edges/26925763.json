@@ -1,1 +1,1 @@
-{"name": "Loans", "id": 26925763, "predecessors": [{"name": "Credit", "id": 2171374}, {"name": "Debt", "id": 4117011}, {"name": "Banking", "id": 1245386}], "successors": [{"name": "Interest_rates", "id": 2021176}, {"name": "Mortgage", "id": 4370788}]}
+{"name": "Loans", "id": 26925763, "predecessors": [{"name": "Credit", "id": 2171374}, {"name": "Debt", "id": 4117011}, {"name": "Demand", "id": 1754810}, {"name": "Banking", "id": 1245386}], "successors": [{"name": "Interest_rates", "id": 2021176}, {"name": "Mortgage", "id": 4370788}]}

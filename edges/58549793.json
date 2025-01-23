@@ -1,1 +1,1 @@
-{"name": "Hyderabad_Metro_stations", "id": 58549793, "predecessors": [{"name": "Transport_in_Hyderabad,_India", "id": 3838843}, {"name": "Land_tenure", "id": 49153374}], "successors": []}
+{"name": "Hyderabad_Metro_stations", "id": 58549793, "predecessors": [{"name": "Transport_in_Hyderabad,_India", "id": 3838843}, {"name": "Public_transport", "id": 700497}], "successors": []}

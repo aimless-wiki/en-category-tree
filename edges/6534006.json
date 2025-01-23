@@ -1,1 +1,1 @@
-{"name": "Fiscal_policy", "id": 6534006, "predecessors": [{"name": "Public_policy", "id": 19025271}, {"name": "Government", "id": 697609}], "successors": [{"name": "Tax_credits", "id": 14691375}]}
+{"name": "Fiscal_policy", "id": 6534006, "predecessors": [{"name": "Public_policy", "id": 19025271}, {"name": "Government", "id": 697609}, {"name": "Contents", "id": 14105005}], "successors": [{"name": "Tax_credits", "id": 14691375}]}

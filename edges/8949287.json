@@ -1,1 +1,1 @@
-{"name": "Gambling_games", "id": 8949287, "predecessors": [{"name": "Addiction", "id": 870031}, {"name": "Entertainment", "id": 693016}], "successors": [{"name": "Dice_games", "id": 784347}]}
+{"name": "Gambling_games", "id": 8949287, "predecessors": [{"name": "Addiction", "id": 870031}, {"name": "Probability_theory", "id": 693985}], "successors": [{"name": "Dice_games", "id": 784347}]}

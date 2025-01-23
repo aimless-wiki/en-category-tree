@@ -1,1 +1,1 @@
-{"name": "Human_positions", "id": 34802160, "predecessors": [{"name": "Human_behavior", "id": 2524202}, {"name": "Contents", "id": 14105005}, {"name": "Ergonomics", "id": 1214637}], "successors": []}
+{"name": "Human_positions", "id": 34802160, "predecessors": [{"name": "Human_behavior", "id": 2524202}, {"name": "Contents", "id": 14105005}, {"name": "Ergonomics", "id": 1214637}], "successors": [{"name": "Gestures", "id": 1363132}]}
